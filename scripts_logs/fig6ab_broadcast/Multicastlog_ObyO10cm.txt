@@ -1,0 +1,2642 @@
+<2016-06-28 14:49:58,685> log level: INFO
+<2016-06-28 14:49:58,685> 
+
+  [1;44m  * [1;44m  * [1;44m  * [1;44m  * [1;44m  * [1;44m  *  [1;0m[1;31m████████████████████████████████████[1;0m
+  [1;44m  [1;44m  * [1;44m  * [1;44m  * [1;44m  * [1;44m  *    [1;0m████████████████████████████████████
+  [1;44m  * [1;44m  * [1;44m  * [1;44m  * [1;44m  * [1;44m  *  [1;0m[1;31m████████████████████████████████████[1;0m
+  [1;44m  [1;44m  * [1;44m  * [1;44m  * [1;44m  * [1;44m  *    [1;0m████████████████████████████████████
+  [1;44m  * [1;44m  * [1;44m  * [1;44m  * [1;44m  * [1;44m  *  [1;0m[1;31m████████████████████████████████████[1;0m
+  [1;44m  [1;44m  * [1;44m  * [1;44m  * [1;44m  * [1;44m  *    [1;0m████████████████████████████████████
+  [1;44m  * [1;44m  * [1;44m  * [1;44m  * [1;44m  * [1;44m  *  [1;0m[1;31m████████████████████████████████████[1;0m
+  [1;44m  [1;44m  * [1;44m  * [1;44m  * [1;44m  * [1;44m  *    [1;0m████████████████████████████████████
+  [1;44m  * [1;44m  * [1;44m  * [1;44m  * [1;44m  * [1;44m  *  [1;0m[1;31m████████████████████████████████████[1;0m
+  █████████████████████████████████████████████████████████████
+  [1;31m█████████████████████████████████████████████████████████████[1;0m
+  █████████████████████████████████████████████████████████████
+  [1;31m█████████████████████████████████████████████████████████████[1;0m
+  █████████████████████████████████████████████████████████████
+  [1;31m█████████████████████████████████████████████████████████████[1;0m
+  █████████████████████████████████████████████████████████████
+  [1;31m█████████████████████████████████████████████████████████████[1;0m
+  
+<2016-06-28 14:49:58,685> selected recommended Tari of 7140 for WISP5
+<2016-06-28 14:49:58,955> IOTXTreplace: Initializing
+<2016-06-28 14:49:59,260> connecting...
+<2016-06-28 14:49:59,260> will reset reader state on connect
+<2016-06-28 14:49:59,261> will start inventory on connect
+<2016-06-28 14:49:59,261> using antennas: (1,)
+<2016-06-28 14:49:59,261> connected to ('192.168.10.103', 5084)
+<2016-06-28 14:50:01,198> requested modulation: WISP5
+<2016-06-28 14:50:01,198> using reader mode: {'C': 0, 'MaxTari': 7140, 'M': 2, 'PIE': 1500, 'StepTari': 0, 'R': 1, 'FLM': 0, 'MinTari': 7140, 'ModeIdentifier': 0, 'BDR': 640000, 'Mod': 0}
+<2016-06-28 14:50:01,198> stopping politely
+<2016-06-28 14:50:01,208> reader finished inventory
+<2016-06-28 14:50:01,208> starting inventory
+<2016-06-28 14:50:01,227> IOTXTreplace: Connection established
+<2016-06-28 14:50:15,806> IOTXTreplace: Reprogramming data from "ihex/ccs1.hex" to wisps: 0300 and 0303 and 0248 and 0302
+<2016-06-28 14:50:15,879> 0300: *****************************************
+<2016-06-28 14:50:15,879> 0300: * Wisp to program:                 0300 *
+<2016-06-28 14:50:15,879> 0300: * Words to send:       2527 in  9 lines *
+<2016-06-28 14:50:15,880> 0300: *****************************************
+<2016-06-28 14:50:15,884> 0300: Wisp is now in state: WAITING
+<2016-06-28 14:50:15,945> 0300: * File to load:                    None *
+<2016-06-28 14:50:15,945> 0300: *****************************************
+<2016-06-28 14:50:16,008> 0303: *****************************************
+<2016-06-28 14:50:16,009> 0303: * Wisp to program:                 0303 *
+<2016-06-28 14:50:16,009> 0303: * Words to send:       2527 in  9 lines *
+<2016-06-28 14:50:16,009> 0303: *****************************************
+<2016-06-28 14:50:16,010> 0303: Wisp is now in state: WAITING
+<2016-06-28 14:50:16,065> 0303: * File to load:                    None *
+<2016-06-28 14:50:16,066> 0303: *****************************************
+<2016-06-28 14:50:16,144> 0248: *****************************************
+<2016-06-28 14:50:16,144> 0248: * Wisp to program:                 0248 *
+<2016-06-28 14:50:16,144> 0248: * Words to send:       2527 in  9 lines *
+<2016-06-28 14:50:16,145> 0248: *****************************************
+<2016-06-28 14:50:16,145> 0248: Wisp is now in state: WAITING
+<2016-06-28 14:50:16,200> 0248: * File to load:                    None *
+<2016-06-28 14:50:16,200> 0248: *****************************************
+<2016-06-28 14:50:16,279> 0302: *****************************************
+<2016-06-28 14:50:16,279> 0302: * Wisp to program:                 0302 *
+<2016-06-28 14:50:16,280> 0302: * Words to send:       2527 in  9 lines *
+<2016-06-28 14:50:16,280> 0302: *****************************************
+<2016-06-28 14:50:16,280> 0302: Wisp is now in state: WAITING
+<2016-06-28 14:50:16,333> 0302: * File to load:                    None *
+<2016-06-28 14:50:16,334> 0302: *****************************************
+<2016-06-28 14:50:16,334> 0248: Wisp was in state: WAITING and is going to the next state --- Time elapsed: 0.268 secs
+<2016-06-28 14:50:16,334> 0248: Wisp was in state: GOTOBIOS and is going to the next state --- Time elapsed: 0.268 secs
+<2016-06-28 14:50:16,334> 0248: Wisp is now in state: PROGRAMMING
+<2016-06-28 14:50:16,339> 0248: First reprogramming messages send --- Wisent time elapsed: 0.003 secs
+<2016-06-28 14:50:16,639> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:50:16,721> BAD OpSpecResult={'NumWordsWritten': 8, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 14:50:16,939> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:50:17,124> BAD OpSpecResult={'NumWordsWritten': 0, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 14:50:17,241> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:50:17,370> BAD OpSpecResult={'NumWordsWritten': 3, 'Result': 6, 'OpSpecID': 7}
+<2016-06-28 14:50:17,480> BAD OpSpecResult={'NumWordsWritten': 0, 'Result': 6, 'OpSpecID': 7}
+<2016-06-28 14:50:17,782> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:50:18,083> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:50:18,121> BAD OpSpecResult={'NumWordsWritten': 0, 'Result': 6, 'OpSpecID': 5}
+<2016-06-28 14:50:18,217> BAD OpSpecResult={'NumWordsWritten': 12, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 14:50:18,426> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:50:18,634> BAD OpSpecResult={'NumWordsWritten': 3, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 14:50:18,728> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:50:19,643> BAD OpSpecResult={'NumWordsWritten': 17, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 14:50:19,733> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:50:19,905> BAD OpSpecResult={'NumWordsWritten': 2, 'Result': 6, 'OpSpecID': 5}
+<2016-06-28 14:50:20,303> BAD OpSpecResult={'NumWordsWritten': 5, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 14:50:20,456> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:50:20,574> BAD OpSpecResult={'NumWordsWritten': 5, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 14:50:20,761> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:50:20,974> BAD OpSpecResult={'NumWordsWritten': 1, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 14:50:21,063> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:50:21,219> BAD OpSpecResult={'ReadDataWordCount': 0, 'ReadData': '', 'Result': 3, 'OpSpecID': 6}
+<2016-06-28 14:50:21,375> BAD OpSpecResult={'NumWordsWritten': 0, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 14:50:21,521> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:50:21,646> BAD OpSpecResult={'NumWordsWritten': 0, 'Result': 6, 'OpSpecID': 5}
+<2016-06-28 14:50:21,805> BAD OpSpecResult={'ReadDataWordCount': 0, 'ReadData': '', 'Result': 3, 'OpSpecID': 2}
+<2016-06-28 14:50:21,948> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:50:22,364> BAD OpSpecResult={'NumWordsWritten': 1, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 14:50:22,430> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:50:23,298> BAD OpSpecResult={'NumWordsWritten': 9, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 14:50:23,502> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:50:23,696> BAD OpSpecResult={'NumWordsWritten': 0, 'Result': 6, 'OpSpecID': 5}
+<2016-06-28 14:50:23,934> BAD OpSpecResult={'NumWordsWritten': 0, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 14:50:24,000> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:50:24,302> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:50:24,371> BAD OpSpecResult={'NumWordsWritten': 2, 'Result': 6, 'OpSpecID': 5}
+<2016-06-28 14:50:24,444> BAD OpSpecResult={'ReadDataWordCount': 0, 'ReadData': '', 'Result': 3, 'OpSpecID': 2}
+<2016-06-28 14:50:24,674> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:50:24,943> BAD OpSpecResult={'NumWordsWritten': 2, 'Result': 6, 'OpSpecID': 3}
+<2016-06-28 14:50:25,109> BAD OpSpecResult={'ReadDataWordCount': 0, 'ReadData': '', 'Result': 3, 'OpSpecID': 6}
+<2016-06-28 14:50:25,614> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:50:25,752> BAD OpSpecResult={'NumWordsWritten': 13, 'Result': 6, 'OpSpecID': 3}
+<2016-06-28 14:50:26,020> BAD OpSpecResult={'NumWordsWritten': 5, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 14:50:26,230> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:50:26,425> BAD OpSpecResult={'NumWordsWritten': 2, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 14:50:26,533> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:50:26,678> BAD OpSpecResult={'NumWordsWritten': 1, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 14:50:26,841> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:50:27,225> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:50:27,499> BAD OpSpecResult={'NumWordsWritten': 3, 'Result': 6, 'OpSpecID': 3}
+<2016-06-28 14:50:27,770> BAD OpSpecResult={'NumWordsWritten': 8, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 14:50:27,888> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:50:28,034> BAD OpSpecResult={'ReadDataWordCount': 0, 'ReadData': '', 'Result': 3, 'OpSpecID': 6}
+<2016-06-28 14:50:28,467> BAD OpSpecResult={'NumWordsWritten': 15, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 14:50:28,692> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:50:29,054> BAD OpSpecResult={'NumWordsWritten': 14, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 14:50:29,277> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:50:29,375> BAD OpSpecResult={'NumWordsWritten': 0, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 14:50:29,581> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:50:29,736> BAD OpSpecResult={'NumWordsWritten': 0, 'Result': 6, 'OpSpecID': 7}
+<2016-06-28 14:50:30,146> BAD OpSpecResult={'NumWordsWritten': 1, 'Result': 6, 'OpSpecID': 3}
+<2016-06-28 14:50:30,464> BAD OpSpecResult={'NumWordsWritten': 3, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 14:50:30,613> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:50:30,785> BAD OpSpecResult={'NumWordsWritten': 3, 'Result': 6, 'OpSpecID': 3}
+<2016-06-28 14:50:31,079> BAD OpSpecResult={'NumWordsWritten': 3, 'Result': 6, 'OpSpecID': 3}
+<2016-06-28 14:50:31,670> BAD OpSpecResult={'NumWordsWritten': 13, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 14:50:31,882> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:50:31,997> BAD OpSpecResult={'NumWordsWritten': 9, 'Result': 6, 'OpSpecID': 3}
+<2016-06-28 14:50:32,079> BAD OpSpecResult={'NumWordsWritten': 0, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 14:50:32,300> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:50:32,569> BAD OpSpecResult={'NumWordsWritten': 2, 'Result': 6, 'OpSpecID': 5}
+<2016-06-28 14:50:32,813> BAD OpSpecResult={'ReadDataWordCount': 0, 'ReadData': '', 'Result': 3, 'OpSpecID': 6}
+<2016-06-28 14:50:33,231> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:50:33,517> BAD OpSpecResult={'NumWordsWritten': 10, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 14:50:33,659> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:50:33,835> BAD OpSpecResult={'NumWordsWritten': 1, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 14:50:33,962> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:50:34,111> BAD OpSpecResult={'NumWordsWritten': 1, 'Result': 6, 'OpSpecID': 7}
+<2016-06-28 14:50:34,531> BAD OpSpecResult={'NumWordsWritten': 16, 'Result': 6, 'OpSpecID': 3}
+<2016-06-28 14:50:34,904> BAD OpSpecResult={'NumWordsWritten': 9, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 14:50:35,051> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:50:35,166> BAD OpSpecResult={'NumWordsWritten': 5, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 14:50:35,360> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:50:35,796> BAD OpSpecResult={'NumWordsWritten': 6, 'Result': 6, 'OpSpecID': 3}
+<2016-06-28 14:50:36,236> BAD OpSpecResult={'NumWordsWritten': 10, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 14:50:36,378> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:50:36,476> BAD OpSpecResult={'ReadDataWordCount': 0, 'ReadData': '', 'Result': 3, 'OpSpecID': 2}
+<2016-06-28 14:50:36,682> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:50:36,955> BAD OpSpecResult={'NumWordsWritten': 1, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 14:50:36,985> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:50:37,115> BAD OpSpecResult={'NumWordsWritten': 0, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 14:50:37,288> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:50:37,356> BAD OpSpecResult={'NumWordsWritten': 1, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 14:50:37,591> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:50:37,675> BAD OpSpecResult={'NumWordsWritten': 0, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 14:50:37,894> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:50:38,472> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:50:38,750> BAD OpSpecResult={'NumWordsWritten': 3, 'Result': 6, 'OpSpecID': 3}
+<2016-06-28 14:50:39,066> BAD OpSpecResult={'NumWordsWritten': 8, 'Result': 6, 'OpSpecID': 3}
+<2016-06-28 14:50:39,230> BAD OpSpecResult={'NumWordsWritten': 4, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 14:50:39,369> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:50:39,716> BAD OpSpecResult={'NumWordsWritten': 5, 'Result': 6, 'OpSpecID': 3}
+<2016-06-28 14:50:40,019> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:50:40,197> BAD OpSpecResult={'ReadDataWordCount': 0, 'ReadData': '', 'Result': 3, 'OpSpecID': 2}
+<2016-06-28 14:50:40,320> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:50:40,837> BAD OpSpecResult={'NumWordsWritten': 4, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 14:50:40,903> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:50:41,400> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:50:41,409> BAD OpSpecResult={'NumWordsWritten': 1, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 14:50:41,700> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:50:42,140> BAD OpSpecResult={'NumWordsWritten': 1, 'Result': 6, 'OpSpecID': 3}
+<2016-06-28 14:50:42,443> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:50:42,561> BAD OpSpecResult={'NumWordsWritten': 0, 'Result': 6, 'OpSpecID': 3}
+<2016-06-28 14:50:42,890> BAD OpSpecResult={'NumWordsWritten': 5, 'Result': 6, 'OpSpecID': 3}
+<2016-06-28 14:50:43,354> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:50:43,654> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:50:43,687> BAD OpSpecResult={'NumWordsWritten': 5, 'Result': 6, 'OpSpecID': 3}
+<2016-06-28 14:50:44,100> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:50:44,381> BAD OpSpecResult={'NumWordsWritten': 8, 'Result': 6, 'OpSpecID': 3}
+<2016-06-28 14:50:44,594> BAD OpSpecResult={'NumWordsWritten': 15, 'Result': 6, 'OpSpecID': 5}
+<2016-06-28 14:50:44,670> BAD OpSpecResult={'NumWordsWritten': 6, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 14:50:44,897> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:50:45,065> BAD OpSpecResult={'NumWordsWritten': 11, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 14:50:45,199> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:50:45,501> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:50:45,953> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:50:46,207> BAD OpSpecResult={'NumWordsWritten': 1, 'Result': 6, 'OpSpecID': 3}
+<2016-06-28 14:50:46,286> BAD OpSpecResult={'NumWordsWritten': 3, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 14:50:46,510> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:50:46,695> BAD OpSpecResult={'NumWordsWritten': 4, 'Result': 6, 'OpSpecID': 7}
+<2016-06-28 14:50:46,929> BAD OpSpecResult={'NumWordsWritten': 9, 'Result': 6, 'OpSpecID': 3}
+<2016-06-28 14:50:47,226> BAD OpSpecResult={'NumWordsWritten': 11, 'Result': 6, 'OpSpecID': 7}
+<2016-06-28 14:50:47,308> BAD OpSpecResult={'NumWordsWritten': 4, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 14:50:47,530> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:50:47,628> BAD OpSpecResult={'NumWordsWritten': 9, 'Result': 6, 'OpSpecID': 3}
+<2016-06-28 14:50:47,866> BAD OpSpecResult={'NumWordsWritten': 9, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 14:50:47,930> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:50:48,057> BAD OpSpecResult={'NumWordsWritten': 3, 'Result': 6, 'OpSpecID': 3}
+<2016-06-28 14:50:48,459> BAD OpSpecResult={'NumWordsWritten': 3, 'Result': 6, 'OpSpecID': 3}
+<2016-06-28 14:50:48,569> BAD OpSpecResult={'NumWordsWritten': 5, 'Result': 6, 'OpSpecID': 5}
+<2016-06-28 14:50:48,871> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:50:49,306> BAD OpSpecResult={'NumWordsWritten': 3, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 14:50:49,457> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:50:49,761> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:50:49,797> BAD OpSpecResult={'NumWordsWritten': 4, 'Result': 6, 'OpSpecID': 7}
+<2016-06-28 14:50:50,041> BAD OpSpecResult={'ReadDataWordCount': 0, 'ReadData': '', 'Result': 3, 'OpSpecID': 4}
+<2016-06-28 14:50:50,352> BAD OpSpecResult={'NumWordsWritten': 12, 'Result': 6, 'OpSpecID': 5}
+<2016-06-28 14:50:50,654> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:50:50,666> BAD OpSpecResult={'NumWordsWritten': 4, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 14:50:50,954> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:50:51,472> BAD OpSpecResult={'NumWordsWritten': 7, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 14:50:51,673> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:50:51,877> BAD OpSpecResult={'NumWordsWritten': 6, 'Result': 6, 'OpSpecID': 3}
+<2016-06-28 14:50:52,039> BAD OpSpecResult={'NumWordsWritten': 8, 'Result': 6, 'OpSpecID': 3}
+<2016-06-28 14:50:52,136> BAD OpSpecResult={'NumWordsWritten': 9, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 14:50:52,341> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:50:52,416> BAD OpSpecResult={'NumWordsWritten': 3, 'Result': 6, 'OpSpecID': 5}
+<2016-06-28 14:50:52,576> BAD OpSpecResult={'NumWordsWritten': 0, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 14:50:52,718> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:50:52,835> BAD OpSpecResult={'NumWordsWritten': 1, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 14:50:53,020> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:50:53,157> BAD OpSpecResult={'ReadDataWordCount': 0, 'ReadData': '', 'Result': 3, 'OpSpecID': 2}
+<2016-06-28 14:50:53,322> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:50:53,625> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:50:53,821> BAD OpSpecResult={'NumWordsWritten': 4, 'Result': 6, 'OpSpecID': 5}
+<2016-06-28 14:50:53,921> BAD OpSpecResult={'NumWordsWritten': 9, 'Result': 6, 'OpSpecID': 3}
+<2016-06-28 14:50:54,112> BAD OpSpecResult={'NumWordsWritten': 12, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 14:50:54,331> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:50:54,721> BAD OpSpecResult={'NumWordsWritten': 5, 'Result': 6, 'OpSpecID': 7}
+<2016-06-28 14:50:54,879> BAD OpSpecResult={'NumWordsWritten': 9, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 14:50:55,024> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:50:55,329> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:50:55,526> BAD OpSpecResult={'NumWordsWritten': 3, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 14:50:55,759> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:50:55,928> BAD OpSpecResult={'ReadDataWordCount': 0, 'ReadData': '', 'Result': 3, 'OpSpecID': 4}
+<2016-06-28 14:50:56,171> BAD OpSpecResult={'NumWordsWritten': 3, 'Result': 6, 'OpSpecID': 3}
+<2016-06-28 14:50:56,350> BAD OpSpecResult={'NumWordsWritten': 1, 'Result': 6, 'OpSpecID': 3}
+<2016-06-28 14:50:56,743> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:50:56,856> BAD OpSpecResult={'NumWordsWritten': 7, 'Result': 6, 'OpSpecID': 3}
+<2016-06-28 14:50:56,953> BAD OpSpecResult={'NumWordsWritten': 7, 'Result': 6, 'OpSpecID': 5}
+<2016-06-28 14:50:57,208> BAD OpSpecResult={'NumWordsWritten': 13, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 14:50:57,255> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:50:57,607> BAD OpSpecResult={'NumWordsWritten': 8, 'Result': 6, 'OpSpecID': 3}
+<2016-06-28 14:50:57,687> BAD OpSpecResult={'NumWordsWritten': 9, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 14:50:57,909> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:50:58,394> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:50:58,520> BAD OpSpecResult={'NumWordsWritten': 0, 'Result': 6, 'OpSpecID': 3}
+<2016-06-28 14:50:58,601> BAD OpSpecResult={'NumWordsWritten': 3, 'Result': 6, 'OpSpecID': 3}
+<2016-06-28 14:50:58,998> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:50:59,009> BAD OpSpecResult={'NumWordsWritten': 3, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 14:50:59,298> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:50:59,732> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:50:59,921> BAD OpSpecResult={'NumWordsWritten': 1, 'Result': 6, 'OpSpecID': 5}
+<2016-06-28 14:51:00,004> BAD OpSpecResult={'NumWordsWritten': 10, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 14:51:00,222> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:51:00,659> BAD OpSpecResult={'NumWordsWritten': 1, 'Result': 6, 'OpSpecID': 3}
+<2016-06-28 14:51:00,991> BAD OpSpecResult={'NumWordsWritten': 12, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 14:51:01,125> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:51:01,377> BAD OpSpecResult={'NumWordsWritten': 2, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 14:51:01,428> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:51:01,722> BAD OpSpecResult={'NumWordsWritten': 1, 'Result': 6, 'OpSpecID': 3}
+<2016-06-28 14:51:01,959> BAD OpSpecResult={'NumWordsWritten': 1, 'Result': 6, 'OpSpecID': 3}
+<2016-06-28 14:51:02,197> BAD OpSpecResult={'NumWordsWritten': 9, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 14:51:02,344> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:51:02,646> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:51:02,920> BAD OpSpecResult={'NumWordsWritten': 3, 'Result': 6, 'OpSpecID': 3}
+<2016-06-28 14:51:03,080> BAD OpSpecResult={'NumWordsWritten': 3, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 14:51:03,222> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:51:03,524> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:51:03,797> BAD OpSpecResult={'NumWordsWritten': 2, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 14:51:03,864> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:51:04,287> BAD OpSpecResult={'NumWordsWritten': 2, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 14:51:04,430> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:51:04,531> BAD OpSpecResult={'NumWordsWritten': 1, 'Result': 6, 'OpSpecID': 3}
+<2016-06-28 14:51:04,850> BAD OpSpecResult={'NumWordsWritten': 0, 'Result': 6, 'OpSpecID': 5}
+<2016-06-28 14:51:05,009> BAD OpSpecResult={'ReadDataWordCount': 0, 'ReadData': '', 'Result': 3, 'OpSpecID': 4}
+<2016-06-28 14:51:05,090> BAD OpSpecResult={'ReadDataWordCount': 0, 'ReadData': '', 'Result': 3, 'OpSpecID': 2}
+<2016-06-28 14:51:05,090> EPC did encode a good result
+<2016-06-28 14:51:05,174> BAD OpSpecResult={'ReadDataWordCount': 0, 'ReadData': '', 'Result': 3, 'OpSpecID': 6}
+<2016-06-28 14:51:05,566> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:51:05,884> BAD OpSpecResult={'NumWordsWritten': 18, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 14:51:06,091> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:51:06,221> BAD OpSpecResult={'NumWordsWritten': 8, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 14:51:06,393> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:51:06,715> BAD OpSpecResult={'NumWordsWritten': 2, 'Result': 6, 'OpSpecID': 5}
+<2016-06-28 14:51:06,950> BAD OpSpecResult={'NumWordsWritten': 8, 'Result': 6, 'OpSpecID': 3}
+<2016-06-28 14:51:07,219> BAD OpSpecResult={'NumWordsWritten': 3, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 14:51:07,362> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:51:07,620> BAD OpSpecResult={'NumWordsWritten': 5, 'Result': 6, 'OpSpecID': 3}
+<2016-06-28 14:51:08,083> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:51:08,178> BAD OpSpecResult={'NumWordsWritten': 3, 'Result': 6, 'OpSpecID': 3}
+<2016-06-28 14:51:08,278> BAD OpSpecResult={'NumWordsWritten': 8, 'Result': 6, 'OpSpecID': 3}
+<2016-06-28 14:51:08,743> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:51:09,043> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:51:09,081> BAD OpSpecResult={'NumWordsWritten': 6, 'Result': 6, 'OpSpecID': 3}
+<2016-06-28 14:51:09,265> BAD OpSpecResult={'NumWordsWritten': 13, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 14:51:09,480> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:51:09,609> BAD OpSpecResult={'NumWordsWritten': 6, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 14:51:09,782> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:51:09,927> BAD OpSpecResult={'NumWordsWritten': 1, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 14:51:10,084> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:51:10,791> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:51:11,112> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:51:11,292> BAD OpSpecResult={'NumWordsWritten': 10, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 14:51:11,412> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:51:12,090> BAD OpSpecResult={'NumWordsWritten': 21, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 14:51:12,244> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:51:12,344> BAD OpSpecResult={'NumWordsWritten': 4, 'Result': 6, 'OpSpecID': 3}
+<2016-06-28 14:51:12,502> BAD OpSpecResult={'NumWordsWritten': 0, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 14:51:12,646> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:51:12,941> BAD OpSpecResult={'NumWordsWritten': 3, 'Result': 6, 'OpSpecID': 3}
+<2016-06-28 14:51:13,330> BAD OpSpecResult={'NumWordsWritten': 8, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 14:51:13,478> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:51:13,570> BAD OpSpecResult={'NumWordsWritten': 0, 'Result': 6, 'OpSpecID': 3}
+<2016-06-28 14:51:13,728> BAD OpSpecResult={'NumWordsWritten': 0, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 14:51:13,872> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:51:14,209> BAD OpSpecResult={'NumWordsWritten': 0, 'Result': 6, 'OpSpecID': 3}
+<2016-06-28 14:51:14,591> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:51:14,979> BAD OpSpecResult={'NumWordsWritten': 8, 'Result': 6, 'OpSpecID': 3}
+<2016-06-28 14:51:15,282> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:51:15,322> BAD OpSpecResult={'NumWordsWritten': 8, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 14:51:15,582> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:51:15,719> BAD OpSpecResult={'NumWordsWritten': 5, 'Result': 6, 'OpSpecID': 3}
+<2016-06-28 14:51:16,248> BAD OpSpecResult={'NumWordsWritten': 15, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 14:51:16,370> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:51:16,731> BAD OpSpecResult={'NumWordsWritten': 3, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 14:51:16,874> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:51:17,175> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:51:17,460> BAD OpSpecResult={'NumWordsWritten': 3, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 14:51:17,513> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:51:18,011> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:51:18,204> BAD OpSpecResult={'NumWordsWritten': 8, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 14:51:18,335> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:51:18,759> BAD OpSpecResult={'NumWordsWritten': 7, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 14:51:18,902> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:51:19,382> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:51:19,402> BAD OpSpecResult={'NumWordsWritten': 3, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 14:51:19,683> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:51:20,260> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:51:20,359> BAD OpSpecResult={'ReadDataWordCount': 0, 'ReadData': '', 'Result': 3, 'OpSpecID': 2}
+<2016-06-28 14:51:20,579> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:51:20,880> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:51:21,650> 0248: wisent end of file reached.          --- Wisent time elapsed: 65.315 secs
+
+<2016-06-28 14:51:21,652> 0248: Wisp was in state: PROGRAMMING and is going to the next state --- Time elapsed: 65.586 secs
+<2016-06-28 14:51:21,652> 0248: Wisp is now in state: MEMCHECK
+<2016-06-28 14:51:22,053> 0248: memcheck finished
+<2016-06-28 14:51:22,053> 0248: 20 good and 0 bad memblocks
+<2016-06-28 14:51:22,056> 0248: Wisp was in state: MEMCHECK and is going to the next state --- Time elapsed: 65.990 secs
+<2016-06-28 14:51:22,056> 0248: Wisp is now in state: FINISH
+<2016-06-28 14:51:22,058> 0248: WrepWidget [WAITING 0.079, PROGRAMMING 0.268, MEMCHECK 65.586, FINISH 65.990]
+<2016-06-28 14:51:22,058> 0303: Wisp was in state: WAITING and is going to the next state --- Time elapsed: 66.113 secs
+<2016-06-28 14:51:22,058> 0303: Wisp was in state: GOTOBIOS and is going to the next state --- Time elapsed: 66.113 secs
+<2016-06-28 14:51:22,058> 0303: Wisp is now in state: PROGRAMMING
+<2016-06-28 14:51:22,061> 0303: First reprogramming messages send --- Wisent time elapsed: 0.002 secs
+<2016-06-28 14:51:22,061> 
+
+******************************* Next wisp *******************************
+
+<2016-06-28 14:51:22,583> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:51:22,883> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:51:23,183> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:51:23,603> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:51:23,978> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:51:24,278> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:51:24,960> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:51:25,421> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:51:25,764> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:51:26,190> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:51:26,570> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:51:27,299> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:51:27,599> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:51:28,196> 0303: wisent end of file reached.          --- Wisent time elapsed: 6.137 secs
+
+<2016-06-28 14:51:28,197> 0303: Wisp was in state: PROGRAMMING and is going to the next state --- Time elapsed: 72.252 secs
+<2016-06-28 14:51:28,198> 0303: Wisp is now in state: MEMCHECK
+<2016-06-28 14:51:28,753> 0303: memcheck finished
+<2016-06-28 14:51:28,754> 0303: 20 good and 0 bad memblocks
+<2016-06-28 14:51:28,756> 0303: Wisp was in state: MEMCHECK and is going to the next state --- Time elapsed: 72.811 secs
+<2016-06-28 14:51:28,756> 0303: Wisp is now in state: FINISH
+<2016-06-28 14:51:28,757> 0303: WrepWidget [WAITING 0.065, PROGRAMMING 66.114, MEMCHECK 72.253, FINISH 72.811]
+<2016-06-28 14:51:28,757> 0302: Wisp was in state: WAITING and is going to the next state --- Time elapsed: 72.556 secs
+<2016-06-28 14:51:28,757> 0302: Wisp was in state: GOTOBIOS and is going to the next state --- Time elapsed: 72.556 secs
+<2016-06-28 14:51:28,757> 0302: Wisp is now in state: PROGRAMMING
+<2016-06-28 14:51:28,760> 0302: First reprogramming messages send --- Wisent time elapsed: 0.002 secs
+<2016-06-28 14:51:28,760> 
+
+******************************* Next wisp *******************************
+
+<2016-06-28 14:51:29,060> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:51:29,360> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:51:29,684> BAD OpSpecResult={'NumWordsWritten': 19, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 14:51:29,880> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:51:30,183> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:51:30,397> BAD OpSpecResult={'NumWordsWritten': 29, 'Result': 6, 'OpSpecID': 2}
+<2016-06-28 14:51:30,551> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:51:30,799> BAD OpSpecResult={'NumWordsWritten': 12, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 14:51:30,854> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:51:31,244> BAD OpSpecResult={'NumWordsWritten': 13, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 14:51:31,282> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:51:31,787> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:51:31,936> BAD OpSpecResult={'NumWordsWritten': 6, 'Result': 6, 'OpSpecID': 5}
+<2016-06-28 14:51:32,325> BAD OpSpecResult={'NumWordsWritten': 15, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 14:51:32,474> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:51:33,027> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:51:33,327> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:51:33,627> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:51:34,011> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:51:34,270> BAD OpSpecResult={'NumWordsWritten': 17, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 14:51:34,311> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:51:34,613> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:51:34,913> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:51:35,073> BAD OpSpecResult={'NumWordsWritten': 6, 'Result': 6, 'OpSpecID': 5}
+<2016-06-28 14:51:35,376> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:51:35,395> BAD OpSpecResult={'NumWordsWritten': 10, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 14:51:35,676> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:51:35,889> BAD OpSpecResult={'NumWordsWritten': 3, 'Result': 6, 'OpSpecID': 5}
+<2016-06-28 14:51:36,386> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:51:36,687> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:51:37,226> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:51:37,487> BAD OpSpecResult={'NumWordsWritten': 14, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 14:51:37,526> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:51:37,830> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:51:38,241> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:51:38,541> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:51:38,575> BAD OpSpecResult={'NumWordsWritten': 15, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 14:51:38,841> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:51:39,146> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:51:39,447> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:51:39,487> BAD OpSpecResult={'NumWordsWritten': 0, 'Result': 6, 'OpSpecID': 7}
+<2016-06-28 14:51:39,650> BAD OpSpecResult={'NumWordsWritten': 6, 'Result': 6, 'OpSpecID': 7}
+<2016-06-28 14:51:40,184> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:51:40,485> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:51:40,785> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:51:41,085> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:51:41,104> BAD OpSpecResult={'NumWordsWritten': 10, 'Result': 6, 'OpSpecID': 5}
+<2016-06-28 14:51:41,470> BAD OpSpecResult={'NumWordsWritten': 15, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 14:51:41,615> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:51:41,872> BAD OpSpecResult={'NumWordsWritten': 2, 'Result': 6, 'OpSpecID': 3}
+<2016-06-28 14:51:42,174> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:51:42,272> BAD OpSpecResult={'NumWordsWritten': 8, 'Result': 6, 'OpSpecID': 3}
+<2016-06-28 14:51:42,607> BAD OpSpecResult={'NumWordsWritten': 5, 'Result': 6, 'OpSpecID': 3}
+<2016-06-28 14:51:42,842> BAD OpSpecResult={'NumWordsWritten': 11, 'Result': 6, 'OpSpecID': 3}
+<2016-06-28 14:51:43,341> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:51:43,641> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:51:43,941> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:51:44,371> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:51:44,577> BAD OpSpecResult={'NumWordsWritten': 23, 'Result': 6, 'OpSpecID': 5}
+<2016-06-28 14:51:44,880> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:51:45,181> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:51:45,482> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:51:46,064> BAD OpSpecResult={'NumWordsWritten': 13, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 14:51:46,136> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:51:46,258> BAD OpSpecResult={'NumWordsWritten': 8, 'Result': 6, 'OpSpecID': 7}
+<2016-06-28 14:51:46,560> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:51:46,861> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:51:47,161> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:51:47,251> BAD OpSpecResult={'NumWordsWritten': 8, 'Result': 6, 'OpSpecID': 7}
+<2016-06-28 14:51:47,556> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:51:47,857> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:51:48,157> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:51:48,457> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:51:48,758> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:51:49,103> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:51:49,403> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:51:49,520> BAD OpSpecResult={'NumWordsWritten': 0, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 14:51:49,746> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:51:50,238> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:51:50,495> BAD OpSpecResult={'NumWordsWritten': 6, 'Result': 6, 'OpSpecID': 3}
+<2016-06-28 14:51:50,733> BAD OpSpecResult={'NumWordsWritten': 14, 'Result': 6, 'OpSpecID': 3}
+<2016-06-28 14:51:50,953> BAD OpSpecResult={'NumWordsWritten': 8, 'Result': 6, 'OpSpecID': 7}
+<2016-06-28 14:51:51,256> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:51:51,816> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:51:52,149> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:51:52,168> BAD OpSpecResult={'NumWordsWritten': 15, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 14:51:52,450> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:51:52,754> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:51:53,055> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:51:53,121> BAD OpSpecResult={'NumWordsWritten': 0, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 14:51:53,355> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:51:53,832> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:51:54,132> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:51:54,707> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:51:55,007> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:51:55,307> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:51:55,608> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:51:56,172> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:51:56,958> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:51:57,259> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:51:57,620> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:51:57,871> BAD OpSpecResult={'NumWordsWritten': 12, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 14:51:58,018> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:51:58,320> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:51:58,620> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:51:59,418> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:51:59,516> 0302: wisent end of file reached.          --- Wisent time elapsed: 30.759 secs
+
+<2016-06-28 14:51:59,519> 0302: Wisp was in state: PROGRAMMING and is going to the next state --- Time elapsed: 103.319 secs
+<2016-06-28 14:51:59,520> 0302: Wisp is now in state: MEMCHECK
+<2016-06-28 14:52:00,231> BAD OpSpecResult={'NumWordsWritten': 0, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 14:52:01,195> 0302: memcheck finished
+<2016-06-28 14:52:01,195> 0302: 20 good and 0 bad memblocks
+<2016-06-28 14:52:01,196> 0302: Wisp was in state: MEMCHECK and is going to the next state --- Time elapsed: 104.995 secs
+<2016-06-28 14:52:01,196> 0302: Wisp is now in state: FINISH
+<2016-06-28 14:52:01,198> 0302: WrepWidget [WAITING 0.080, PROGRAMMING 72.557, MEMCHECK 103.320, FINISH 104.995]
+<2016-06-28 14:52:01,198> 0300: Wisp was in state: WAITING and is going to the next state --- Time elapsed: 105.372 secs
+<2016-06-28 14:52:01,198> 0300: Wisp was in state: GOTOBIOS and is going to the next state --- Time elapsed: 105.372 secs
+<2016-06-28 14:52:01,198> 0300: Wisp is now in state: PROGRAMMING
+<2016-06-28 14:52:01,203> 0300: First reprogramming messages send --- Wisent time elapsed: 0.004 secs
+<2016-06-28 14:52:01,203> 
+
+******************************* Next wisp *******************************
+
+<2016-06-28 14:52:03,269> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:52:04,219> BAD OpSpecResult={'NumWordsWritten': 20, 'Result': 6, 'OpSpecID': 3}
+<2016-06-28 14:52:04,307> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:52:04,864> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:52:04,974> BAD OpSpecResult={'NumWordsWritten': 5, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 14:52:05,201> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:52:05,292> BAD OpSpecResult={'NumWordsWritten': 6, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 14:52:05,505> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:52:06,945> 0300: wisent end of file reached.          --- Wisent time elapsed: 5.746 secs
+
+<2016-06-28 14:52:06,947> 0300: Wisp was in state: PROGRAMMING and is going to the next state --- Time elapsed: 111.120 secs
+<2016-06-28 14:52:06,947> 0300: Wisp is now in state: MEMCHECK
+<2016-06-28 14:52:07,274> 0300: memcheck finished
+<2016-06-28 14:52:07,274> 0300: 20 good and 0 bad memblocks
+<2016-06-28 14:52:07,275> 0300: Wisp was in state: MEMCHECK and is going to the next state --- Time elapsed: 111.449 secs
+<2016-06-28 14:52:07,275> 0300: Wisp is now in state: FINISH
+<2016-06-28 14:52:07,276> 0300: WrepWidget [WAITING 0.058, PROGRAMMING 105.372, MEMCHECK 111.121, FINISH 111.449]
+<2016-06-28 14:52:07,277> IOTXTreplace: 0300 0303 0248 0302: Wisp(s) is/are reprogrammed now
+<2016-06-28 14:52:07,277> IOTXTreplace: Reprogramming data from "ihex/ccs1.hex" to wisps: 0300 and 0303 and 0248 and 0302
+<2016-06-28 14:52:07,360> 0300: *****************************************
+<2016-06-28 14:52:07,360> 0300: * Wisp to program:                 0300 *
+<2016-06-28 14:52:07,360> 0300: * Words to send:       2527 in  9 lines *
+<2016-06-28 14:52:07,360> 0300: *****************************************
+<2016-06-28 14:52:07,363> 0300: Wisp is now in state: WAITING
+<2016-06-28 14:52:07,424> 0300: * File to load:                    None *
+<2016-06-28 14:52:07,425> 0300: *****************************************
+<2016-06-28 14:52:07,493> 0303: *****************************************
+<2016-06-28 14:52:07,493> 0303: * Wisp to program:                 0303 *
+<2016-06-28 14:52:07,494> 0303: * Words to send:       2527 in  9 lines *
+<2016-06-28 14:52:07,494> 0303: *****************************************
+<2016-06-28 14:52:07,494> 0303: Wisp is now in state: WAITING
+<2016-06-28 14:52:07,550> 0303: * File to load:                    None *
+<2016-06-28 14:52:07,550> 0303: *****************************************
+<2016-06-28 14:52:07,627> 0248: *****************************************
+<2016-06-28 14:52:07,628> 0248: * Wisp to program:                 0248 *
+<2016-06-28 14:52:07,628> 0248: * Words to send:       2527 in  9 lines *
+<2016-06-28 14:52:07,628> 0248: *****************************************
+<2016-06-28 14:52:07,628> 0248: Wisp is now in state: WAITING
+<2016-06-28 14:52:07,680> 0248: * File to load:                    None *
+<2016-06-28 14:52:07,681> 0248: *****************************************
+<2016-06-28 14:52:07,759> 0302: *****************************************
+<2016-06-28 14:52:07,760> 0302: * Wisp to program:                 0302 *
+<2016-06-28 14:52:07,760> 0302: * Words to send:       2527 in  9 lines *
+<2016-06-28 14:52:07,760> 0302: *****************************************
+<2016-06-28 14:52:07,761> 0302: Wisp is now in state: WAITING
+<2016-06-28 14:52:07,814> 0302: * File to load:                    None *
+<2016-06-28 14:52:07,814> 0302: *****************************************
+<2016-06-28 14:52:07,814> 0248: Wisp was in state: WAITING and is going to the next state --- Time elapsed: 0.264 secs
+<2016-06-28 14:52:07,814> 0248: Wisp was in state: GOTOBIOS and is going to the next state --- Time elapsed: 0.264 secs
+<2016-06-28 14:52:07,814> 0248: Wisp is now in state: PROGRAMMING
+<2016-06-28 14:52:07,819> 0248: First reprogramming messages send --- Wisent time elapsed: 0.004 secs
+<2016-06-28 14:52:08,011> BAD OpSpecResult={'NumWordsWritten': 6, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 14:52:08,119> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:52:08,252> BAD OpSpecResult={'NumWordsWritten': 4, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 14:52:08,422> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:52:08,535> BAD OpSpecResult={'NumWordsWritten': 1, 'Result': 6, 'OpSpecID': 7}
+<2016-06-28 14:52:08,837> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:52:08,959> BAD OpSpecResult={'NumWordsWritten': 5, 'Result': 6, 'OpSpecID': 3}
+<2016-06-28 14:52:09,042> BAD OpSpecResult={'NumWordsWritten': 6, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 14:52:09,261> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:52:09,547> BAD OpSpecResult={'NumWordsWritten': 5, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 14:52:09,765> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:52:10,279> BAD OpSpecResult={'NumWordsWritten': 8, 'Result': 6, 'OpSpecID': 7}
+<2016-06-28 14:52:10,357> BAD OpSpecResult={'NumWordsWritten': 2, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 14:52:10,581> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:52:10,883> BAD OpSpecResult={'NumWordsWritten': 11, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 14:52:11,088> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:52:11,390> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:52:11,527> BAD OpSpecResult={'NumWordsWritten': 2, 'Result': 6, 'OpSpecID': 7}
+<2016-06-28 14:52:11,633> BAD OpSpecResult={'NumWordsWritten': 9, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 14:52:11,829> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:52:11,976> BAD OpSpecResult={'NumWordsWritten': 2, 'Result': 6, 'OpSpecID': 5}
+<2016-06-28 14:52:12,092> BAD OpSpecResult={'NumWordsWritten': 4, 'Result': 6, 'OpSpecID': 7}
+<2016-06-28 14:52:12,312> BAD OpSpecResult={'NumWordsWritten': 8, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 14:52:12,511> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:52:12,632> BAD OpSpecResult={'NumWordsWritten': 2, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 14:52:12,814> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:52:13,594> BAD OpSpecResult={'NumWordsWritten': 4, 'Result': 6, 'OpSpecID': 3}
+<2016-06-28 14:52:13,896> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:52:14,073> BAD OpSpecResult={'NumWordsWritten': 3, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 14:52:14,196> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:52:14,501> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:52:14,876> BAD OpSpecResult={'NumWordsWritten': 0, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 14:52:15,019> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:52:15,114> BAD OpSpecResult={'ReadDataWordCount': 0, 'ReadData': '', 'Result': 3, 'OpSpecID': 2}
+<2016-06-28 14:52:15,321> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:52:15,623> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:52:16,006> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:52:16,593> BAD OpSpecResult={'NumWordsWritten': 9, 'Result': 6, 'OpSpecID': 3}
+<2016-06-28 14:52:16,664> BAD OpSpecResult={'NumWordsWritten': 5, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 14:52:16,895> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:52:17,243> BAD OpSpecResult={'NumWordsWritten': 0, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 14:52:17,318> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:52:17,710> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:52:18,010> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:52:18,075> BAD OpSpecResult={'NumWordsWritten': 2, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 14:52:18,311> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:52:18,394> BAD OpSpecResult={'NumWordsWritten': 0, 'Result': 6, 'OpSpecID': 3}
+<2016-06-28 14:52:18,474> BAD OpSpecResult={'NumWordsWritten': 0, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 14:52:18,696> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:52:18,896> BAD OpSpecResult={'NumWordsWritten': 1, 'Result': 6, 'OpSpecID': 3}
+<2016-06-28 14:52:19,013> BAD OpSpecResult={'NumWordsWritten': 1, 'Result': 6, 'OpSpecID': 7}
+<2016-06-28 14:52:19,233> BAD OpSpecResult={'NumWordsWritten': 7, 'Result': 6, 'OpSpecID': 7}
+<2016-06-28 14:52:19,383> BAD OpSpecResult={'NumWordsWritten': 1, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 14:52:19,536> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:52:19,886> BAD OpSpecResult={'NumWordsWritten': 6, 'Result': 6, 'OpSpecID': 5}
+<2016-06-28 14:52:20,443> BAD OpSpecResult={'NumWordsWritten': 7, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 14:52:20,591> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:52:20,773> BAD OpSpecResult={'NumWordsWritten': 9, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 14:52:20,893> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:52:21,015> BAD OpSpecResult={'NumWordsWritten': 1, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 14:52:21,195> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:52:21,333> BAD OpSpecResult={'NumWordsWritten': 2, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 14:52:21,497> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:52:21,744> BAD OpSpecResult={'ReadDataWordCount': 0, 'ReadData': '', 'Result': 3, 'OpSpecID': 4}
+<2016-06-28 14:52:22,146> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:52:22,166> BAD OpSpecResult={'NumWordsWritten': 2, 'Result': 6, 'OpSpecID': 3}
+<2016-06-28 14:52:22,426> BAD OpSpecResult={'NumWordsWritten': 6, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 14:52:22,575> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:52:22,692> BAD OpSpecResult={'NumWordsWritten': 3, 'Result': 6, 'OpSpecID': 7}
+<2016-06-28 14:52:22,865> BAD OpSpecResult={'NumWordsWritten': 3, 'Result': 6, 'OpSpecID': 3}
+<2016-06-28 14:52:22,951> BAD OpSpecResult={'NumWordsWritten': 5, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 14:52:23,169> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:52:23,751> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:52:24,051> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:52:24,352> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:52:24,565> BAD OpSpecResult={'ReadDataWordCount': 0, 'ReadData': '', 'Result': 3, 'OpSpecID': 2}
+<2016-06-28 14:52:24,728> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:52:24,884> BAD OpSpecResult={'NumWordsWritten': 0, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 14:52:25,033> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:52:25,127> BAD OpSpecResult={'ReadDataWordCount': 0, 'ReadData': '', 'Result': 3, 'OpSpecID': 4}
+<2016-06-28 14:52:25,707> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:52:26,225> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:52:26,755> BAD OpSpecResult={'NumWordsWritten': 10, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 14:52:26,958> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:52:27,164> BAD OpSpecResult={'NumWordsWritten': 8, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 14:52:27,261> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:52:27,486> BAD OpSpecResult={'NumWordsWritten': 9, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 14:52:27,567> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:52:27,761> BAD OpSpecResult={'NumWordsWritten': 5, 'Result': 6, 'OpSpecID': 3}
+<2016-06-28 14:52:27,846> BAD OpSpecResult={'NumWordsWritten': 2, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 14:52:28,063> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:52:28,365> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:52:28,497> BAD OpSpecResult={'NumWordsWritten': 2, 'Result': 6, 'OpSpecID': 5}
+<2016-06-28 14:52:28,800> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:52:28,978> BAD OpSpecResult={'NumWordsWritten': 1, 'Result': 6, 'OpSpecID': 3}
+<2016-06-28 14:52:29,193> BAD OpSpecResult={'NumWordsWritten': 6, 'Result': 6, 'OpSpecID': 7}
+<2016-06-28 14:52:29,531> BAD OpSpecResult={'NumWordsWritten': 5, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 14:52:29,677> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:52:29,930> BAD OpSpecResult={'NumWordsWritten': 5, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 14:52:29,980> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:52:30,098> BAD OpSpecResult={'ReadDataWordCount': 0, 'ReadData': '', 'Result': 3, 'OpSpecID': 8}
+<2016-06-28 14:52:30,485> BAD OpSpecResult={'NumWordsWritten': 9, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 14:52:30,631> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:52:30,810> BAD OpSpecResult={'NumWordsWritten': 2, 'Result': 6, 'OpSpecID': 5}
+<2016-06-28 14:52:31,114> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:52:31,236> BAD OpSpecResult={'NumWordsWritten': 2, 'Result': 6, 'OpSpecID': 3}
+<2016-06-28 14:52:31,339> BAD OpSpecResult={'ReadDataWordCount': 0, 'ReadData': '', 'Result': 3, 'OpSpecID': 8}
+<2016-06-28 14:52:31,586> BAD OpSpecResult={'NumWordsWritten': 3, 'Result': 6, 'OpSpecID': 3}
+<2016-06-28 14:52:31,821> BAD OpSpecResult={'NumWordsWritten': 7, 'Result': 6, 'OpSpecID': 5}
+<2016-06-28 14:52:32,125> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:52:32,238> BAD OpSpecResult={'NumWordsWritten': 15, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 14:52:32,459> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:52:32,578> BAD OpSpecResult={'NumWordsWritten': 7, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 14:52:32,761> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:52:32,831> BAD OpSpecResult={'NumWordsWritten': 0, 'Result': 6, 'OpSpecID': 3}
+<2016-06-28 14:52:33,472> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:52:33,570> BAD OpSpecResult={'NumWordsWritten': 8, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 14:52:33,772> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:52:34,046> BAD OpSpecResult={'ReadDataWordCount': 0, 'ReadData': '', 'Result': 3, 'OpSpecID': 2}
+<2016-06-28 14:52:34,191> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:52:34,287> BAD OpSpecResult={'NumWordsWritten': 0, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 14:52:34,493> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:52:34,684> BAD OpSpecResult={'NumWordsWritten': 2, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 14:52:34,795> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:52:35,208> BAD OpSpecResult={'NumWordsWritten': 3, 'Result': 6, 'OpSpecID': 3}
+<2016-06-28 14:52:35,696> BAD OpSpecResult={'NumWordsWritten': 3, 'Result': 6, 'OpSpecID': 3}
+<2016-06-28 14:52:36,040> BAD OpSpecResult={'NumWordsWritten': 2, 'Result': 6, 'OpSpecID': 3}
+<2016-06-28 14:52:36,210> BAD OpSpecResult={'NumWordsWritten': 15, 'Result': 6, 'OpSpecID': 3}
+<2016-06-28 14:52:36,366> BAD OpSpecResult={'NumWordsWritten': 10, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 14:52:36,513> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:52:36,607> BAD OpSpecResult={'NumWordsWritten': 2, 'Result': 6, 'OpSpecID': 3}
+<2016-06-28 14:52:36,772> BAD OpSpecResult={'ReadDataWordCount': 0, 'ReadData': '', 'Result': 3, 'OpSpecID': 2}
+<2016-06-28 14:52:36,910> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:52:37,004> BAD OpSpecResult={'NumWordsWritten': 2, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 14:52:37,212> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:52:37,326> BAD OpSpecResult={'NumWordsWritten': 1, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 14:52:37,327> EPC did encode a good result
+<2016-06-28 14:52:38,113> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:52:38,339> BAD OpSpecResult={'NumWordsWritten': 17, 'Result': 6, 'OpSpecID': 3}
+<2016-06-28 14:52:38,418> BAD OpSpecResult={'NumWordsWritten': 9, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 14:52:38,641> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:52:38,956> BAD OpSpecResult={'NumWordsWritten': 4, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 14:52:39,159> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:52:39,219> BAD OpSpecResult={'NumWordsWritten': 3, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 14:52:39,461> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:52:39,709> BAD OpSpecResult={'NumWordsWritten': 2, 'Result': 6, 'OpSpecID': 3}
+<2016-06-28 14:52:39,948> BAD OpSpecResult={'NumWordsWritten': 0, 'Result': 6, 'OpSpecID': 5}
+<2016-06-28 14:52:40,250> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:52:40,346> BAD OpSpecResult={'NumWordsWritten': 1, 'Result': 6, 'OpSpecID': 3}
+<2016-06-28 14:52:40,505> BAD OpSpecResult={'NumWordsWritten': 3, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 14:52:40,648> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:52:40,746> BAD OpSpecResult={'ReadDataWordCount': 0, 'ReadData': '', 'Result': 3, 'OpSpecID': 2}
+<2016-06-28 14:52:40,950> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:52:41,556> BAD OpSpecResult={'NumWordsWritten': 8, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 14:52:41,623> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:52:41,956> BAD OpSpecResult={'NumWordsWritten': 1, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 14:52:42,022> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:52:42,276> BAD OpSpecResult={'NumWordsWritten': 1, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 14:52:42,325> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:52:42,599> BAD OpSpecResult={'ReadDataWordCount': 0, 'ReadData': '', 'Result': 3, 'OpSpecID': 4}
+<2016-06-28 14:52:42,901> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:52:42,920> BAD OpSpecResult={'NumWordsWritten': 2, 'Result': 6, 'OpSpecID': 5}
+<2016-06-28 14:52:43,256> BAD OpSpecResult={'NumWordsWritten': 6, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 14:52:43,400> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:52:43,507> BAD OpSpecResult={'NumWordsWritten': 2, 'Result': 6, 'OpSpecID': 3}
+<2016-06-28 14:52:43,684> BAD OpSpecResult={'NumWordsWritten': 2, 'Result': 6, 'OpSpecID': 7}
+<2016-06-28 14:52:43,986> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:52:44,465> BAD OpSpecResult={'NumWordsWritten': 7, 'Result': 6, 'OpSpecID': 7}
+<2016-06-28 14:52:44,695> BAD OpSpecResult={'NumWordsWritten': 8, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 14:52:44,769> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:52:44,856> BAD OpSpecResult={'NumWordsWritten': 3, 'Result': 6, 'OpSpecID': 3}
+<2016-06-28 14:52:45,052> BAD OpSpecResult={'NumWordsWritten': 5, 'Result': 6, 'OpSpecID': 3}
+<2016-06-28 14:52:45,354> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:52:45,655> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:52:45,691> BAD OpSpecResult={'NumWordsWritten': 4, 'Result': 6, 'OpSpecID': 7}
+<2016-06-28 14:52:45,792> BAD OpSpecResult={'NumWordsWritten': 9, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 14:52:45,994> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:52:46,117> BAD OpSpecResult={'NumWordsWritten': 3, 'Result': 6, 'OpSpecID': 3}
+<2016-06-28 14:52:46,357> BAD OpSpecResult={'NumWordsWritten': 3, 'Result': 6, 'OpSpecID': 3}
+<2016-06-28 14:52:46,520> BAD OpSpecResult={'ReadDataWordCount': 0, 'ReadData': '', 'Result': 3, 'OpSpecID': 8}
+<2016-06-28 14:52:46,823> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:52:46,861> BAD OpSpecResult={'NumWordsWritten': 7, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 14:52:47,123> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:52:47,190> BAD OpSpecResult={'NumWordsWritten': 1, 'Result': 6, 'OpSpecID': 5}
+<2016-06-28 14:52:47,737> BAD OpSpecResult={'NumWordsWritten': 5, 'Result': 6, 'OpSpecID': 3}
+<2016-06-28 14:52:48,192> BAD OpSpecResult={'NumWordsWritten': 11, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 14:52:48,398> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:52:48,700> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:52:49,001> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:52:49,105> BAD OpSpecResult={'NumWordsWritten': 7, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 14:52:49,301> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:52:49,434> BAD OpSpecResult={'ReadDataWordCount': 0, 'ReadData': '', 'Result': 3, 'OpSpecID': 6}
+<2016-06-28 14:52:49,891> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:52:49,910> BAD OpSpecResult={'NumWordsWritten': 3, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 14:52:50,192> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:52:50,556> BAD OpSpecResult={'ReadDataWordCount': 0, 'ReadData': '', 'Result': 3, 'OpSpecID': 2}
+<2016-06-28 14:52:50,781> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:52:50,958> BAD OpSpecResult={'ReadDataWordCount': 0, 'ReadData': '', 'Result': 3, 'OpSpecID': 2}
+<2016-06-28 14:52:51,083> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:52:51,599> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:52:51,688> BAD OpSpecResult={'NumWordsWritten': 1, 'Result': 6, 'OpSpecID': 3}
+<2016-06-28 14:52:51,863> BAD OpSpecResult={'ReadDataWordCount': 0, 'ReadData': '', 'Result': 3, 'OpSpecID': 6}
+<2016-06-28 14:52:52,274> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:52:52,287> BAD OpSpecResult={'NumWordsWritten': 1, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 14:52:52,574> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:52:52,876> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:52:53,179> BAD OpSpecResult={'NumWordsWritten': 5, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 14:52:53,185> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:52:53,487> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:52:54,096> BAD OpSpecResult={'NumWordsWritten': 2, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 14:52:54,315> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:52:54,697> BAD OpSpecResult={'NumWordsWritten': 12, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 14:52:54,844> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:52:55,018> BAD OpSpecResult={'NumWordsWritten': 5, 'Result': 6, 'OpSpecID': 3}
+<2016-06-28 14:52:55,179> BAD OpSpecResult={'NumWordsWritten': 5, 'Result': 6, 'OpSpecID': 5}
+<2016-06-28 14:52:55,481> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:52:55,657> BAD OpSpecResult={'NumWordsWritten': 3, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 14:52:55,803> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:52:56,104> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:52:56,302> BAD OpSpecResult={'NumWordsWritten': 2, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 14:52:56,445> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:52:56,790> BAD OpSpecResult={'NumWordsWritten': 0, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 14:52:56,859> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:52:57,199> BAD OpSpecResult={'NumWordsWritten': 5, 'Result': 6, 'OpSpecID': 3}
+<2016-06-28 14:52:57,501> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:52:57,681> BAD OpSpecResult={'NumWordsWritten': 4, 'Result': 6, 'OpSpecID': 5}
+<2016-06-28 14:52:57,812> BAD OpSpecResult={'NumWordsWritten': 14, 'Result': 6, 'OpSpecID': 3}
+<2016-06-28 14:52:58,003> BAD OpSpecResult={'NumWordsWritten': 17, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 14:52:58,114> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:52:58,415> BAD OpSpecResult={'NumWordsWritten': 0, 'Result': 6, 'OpSpecID': 3}
+<2016-06-28 14:52:58,646> BAD OpSpecResult={'NumWordsWritten': 3, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 14:52:58,719> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:52:59,206> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:52:59,235> BAD OpSpecResult={'NumWordsWritten': 3, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 14:52:59,506> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:53:00,119> BAD OpSpecResult={'ReadDataWordCount': 0, 'ReadData': '', 'Result': 3, 'OpSpecID': 4}
+<2016-06-28 14:53:00,517> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:53:00,527> BAD OpSpecResult={'NumWordsWritten': 10, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 14:53:00,817> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:53:01,088> BAD OpSpecResult={'NumWordsWritten': 7, 'Result': 6, 'OpSpecID': 3}
+<2016-06-28 14:53:01,250> BAD OpSpecResult={'NumWordsWritten': 8, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 14:53:01,390> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:53:01,710> BAD OpSpecResult={'NumWordsWritten': 3, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 14:53:01,936> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:53:02,110> BAD OpSpecResult={'NumWordsWritten': 1, 'Result': 6, 'OpSpecID': 5}
+<2016-06-28 14:53:02,267> BAD OpSpecResult={'NumWordsWritten': 1, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 14:53:02,412> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:53:02,949> BAD OpSpecResult={'ReadDataWordCount': 0, 'ReadData': '', 'Result': 3, 'OpSpecID': 2}
+<2016-06-28 14:53:03,173> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:53:03,542> BAD OpSpecResult={'NumWordsWritten': 8, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 14:53:03,585> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:53:04,024> BAD OpSpecResult={'NumWordsWritten': 0, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 14:53:04,083> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:53:04,482> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:53:04,657> BAD OpSpecResult={'NumWordsWritten': 3, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 14:53:04,882> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:53:05,066> BAD OpSpecResult={'ReadDataWordCount': 0, 'ReadData': '', 'Result': 1, 'OpSpecID': 4}
+<2016-06-28 14:53:05,299> BAD OpSpecResult={'NumWordsWritten': 1, 'Result': 6, 'OpSpecID': 5}
+<2016-06-28 14:53:05,459> BAD OpSpecResult={'ReadDataWordCount': 0, 'ReadData': '', 'Result': 3, 'OpSpecID': 4}
+<2016-06-28 14:53:06,087> BAD OpSpecResult={'NumWordsWritten': 9, 'Result': 6, 'OpSpecID': 3}
+<2016-06-28 14:53:06,274> BAD OpSpecResult={'NumWordsWritten': 11, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 14:53:06,388> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:53:06,690> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:53:06,780> BAD OpSpecResult={'NumWordsWritten': 4, 'Result': 6, 'OpSpecID': 3}
+<2016-06-28 14:53:07,240> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:53:07,419> BAD OpSpecResult={'NumWordsWritten': 9, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 14:53:07,561> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:53:07,749> BAD OpSpecResult={'NumWordsWritten': 5, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 14:53:07,863> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:53:08,147> BAD OpSpecResult={'NumWordsWritten': 1, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 14:53:08,165> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:53:08,877> BAD OpSpecResult={'NumWordsWritten': 5, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 14:53:08,942> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:53:09,503> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:53:09,992> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:53:10,169> BAD OpSpecResult={'NumWordsWritten': 2, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 14:53:10,293> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:53:10,605> BAD OpSpecResult={'NumWordsWritten': 6, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 14:53:10,723> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:53:11,178> BAD OpSpecResult={'NumWordsWritten': 8, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 14:53:11,320> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:53:11,961> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:53:12,144> BAD OpSpecResult={'NumWordsWritten': 3, 'Result': 6, 'OpSpecID': 3}
+<2016-06-28 14:53:12,681> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:53:12,706> 0248: wisent end of file reached.          --- Wisent time elapsed: 64.891 secs
+
+<2016-06-28 14:53:12,709> 0248: Wisp was in state: PROGRAMMING and is going to the next state --- Time elapsed: 65.158 secs
+<2016-06-28 14:53:12,709> 0248: Wisp is now in state: MEMCHECK
+<2016-06-28 14:53:13,121> 0248: memcheck finished
+<2016-06-28 14:53:13,121> 0248: 20 good and 0 bad memblocks
+<2016-06-28 14:53:13,122> 0248: Wisp was in state: MEMCHECK and is going to the next state --- Time elapsed: 65.572 secs
+<2016-06-28 14:53:13,123> 0248: Wisp is now in state: FINISH
+<2016-06-28 14:53:13,123> 0248: WrepWidget [WAITING 0.078, PROGRAMMING 0.264, MEMCHECK 65.159, FINISH 65.572]
+<2016-06-28 14:53:13,123> 0303: Wisp was in state: WAITING and is going to the next state --- Time elapsed: 65.699 secs
+<2016-06-28 14:53:13,123> 0303: Wisp was in state: GOTOBIOS and is going to the next state --- Time elapsed: 65.699 secs
+<2016-06-28 14:53:13,124> 0303: Wisp is now in state: PROGRAMMING
+<2016-06-28 14:53:13,126> 0303: First reprogramming messages send --- Wisent time elapsed: 0.002 secs
+<2016-06-28 14:53:13,126> 
+
+******************************* Next wisp *******************************
+
+<2016-06-28 14:53:13,426> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:53:13,726> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:53:14,103> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:53:14,522> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:53:14,872> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:53:15,524> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:53:16,026> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:53:16,405> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:53:16,985> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:53:17,330> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:53:17,667> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:53:18,026> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:53:18,764> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:53:19,064> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:53:19,365> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:53:19,665> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:53:19,756> 0303: wisent end of file reached.          --- Wisent time elapsed: 6.632 secs
+
+<2016-06-28 14:53:19,757> 0303: Wisp was in state: PROGRAMMING and is going to the next state --- Time elapsed: 72.332 secs
+<2016-06-28 14:53:19,757> 0303: Wisp is now in state: MEMCHECK
+<2016-06-28 14:53:20,802> 0303: memcheck finished
+<2016-06-28 14:53:20,802> 0303: 20 good and 0 bad memblocks
+<2016-06-28 14:53:20,803> 0303: Wisp was in state: MEMCHECK and is going to the next state --- Time elapsed: 73.378 secs
+<2016-06-28 14:53:20,803> 0303: Wisp is now in state: FINISH
+<2016-06-28 14:53:20,804> 0303: WrepWidget [WAITING 0.070, PROGRAMMING 65.699, MEMCHECK 72.333, FINISH 73.379]
+<2016-06-28 14:53:20,805> 0302: Wisp was in state: WAITING and is going to the next state --- Time elapsed: 73.124 secs
+<2016-06-28 14:53:20,805> 0302: Wisp was in state: GOTOBIOS and is going to the next state --- Time elapsed: 73.124 secs
+<2016-06-28 14:53:20,805> 0302: Wisp is now in state: PROGRAMMING
+<2016-06-28 14:53:20,809> 0302: First reprogramming messages send --- Wisent time elapsed: 0.003 secs
+<2016-06-28 14:53:20,809> 
+
+******************************* Next wisp *******************************
+
+<2016-06-28 14:53:21,109> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:53:21,282> BAD OpSpecResult={'NumWordsWritten': 5, 'Result': 6, 'OpSpecID': 3}
+<2016-06-28 14:53:21,550> BAD OpSpecResult={'NumWordsWritten': 10, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 14:53:21,585> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:53:21,889> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:53:22,270> BAD OpSpecResult={'NumWordsWritten': 11, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 14:53:22,340> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:53:22,433> BAD OpSpecResult={'NumWordsWritten': 1, 'Result': 6, 'OpSpecID': 3}
+<2016-06-28 14:53:22,735> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:53:23,035> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:53:23,422> BAD OpSpecResult={'NumWordsWritten': 9, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 14:53:23,629> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:53:23,931> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:53:24,470> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:53:24,865> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:53:25,166> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:53:25,467> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:53:25,680> BAD OpSpecResult={'NumWordsWritten': 0, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 14:53:25,768> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:53:26,071> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:53:26,629> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:53:27,026> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:53:27,326> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:53:27,536> BAD OpSpecResult={'NumWordsWritten': 9, 'Result': 6, 'OpSpecID': 3}
+<2016-06-28 14:53:27,841> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:53:27,935> BAD OpSpecResult={'NumWordsWritten': 10, 'Result': 6, 'OpSpecID': 3}
+<2016-06-28 14:53:28,238> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:53:28,539> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:53:28,839> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:53:29,379> BAD OpSpecResult={'NumWordsWritten': 19, 'Result': 6, 'OpSpecID': 7}
+<2016-06-28 14:53:29,531> BAD OpSpecResult={'NumWordsWritten': 5, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 14:53:29,684> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:53:29,986> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:53:30,259> BAD OpSpecResult={'NumWordsWritten': 15, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 14:53:30,286> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:53:30,695> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:53:30,996> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:53:31,197> BAD OpSpecResult={'NumWordsWritten': 19, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 14:53:31,346> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:53:31,614> BAD OpSpecResult={'NumWordsWritten': 6, 'Result': 6, 'OpSpecID': 5}
+<2016-06-28 14:53:32,120> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:53:32,420> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:53:32,721> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:53:33,021> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:53:33,180> BAD OpSpecResult={'NumWordsWritten': 17, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 14:53:33,322> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:53:33,624> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:53:33,840> BAD OpSpecResult={'NumWordsWritten': 12, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 14:53:33,991> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:53:34,294> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:53:34,595> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:53:34,838> BAD OpSpecResult={'NumWordsWritten': 5, 'Result': 6, 'OpSpecID': 5}
+<2016-06-28 14:53:35,431> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:53:35,731> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:53:35,856> BAD OpSpecResult={'NumWordsWritten': 17, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 14:53:36,032> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:53:36,334> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:53:36,648> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:53:36,739> BAD OpSpecResult={'NumWordsWritten': 4, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 14:53:36,948> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:53:37,250> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:53:37,550> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:53:37,851> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:53:38,151> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:53:38,452> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:53:38,752> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:53:39,079> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:53:39,252> BAD OpSpecResult={'NumWordsWritten': 8, 'Result': 6, 'OpSpecID': 3}
+<2016-06-28 14:53:39,524> BAD OpSpecResult={'NumWordsWritten': 5, 'Result': 6, 'OpSpecID': 3}
+<2016-06-28 14:53:40,241> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:53:40,264> BAD OpSpecResult={'NumWordsWritten': 23, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 14:53:40,541> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:53:40,843> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:53:41,142> BAD OpSpecResult={'NumWordsWritten': 0, 'Result': 6, 'OpSpecID': 3}
+<2016-06-28 14:53:41,445> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:53:41,745> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:53:42,046> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:53:42,346> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:53:42,661> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:53:42,962> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:53:43,150> BAD OpSpecResult={'NumWordsWritten': 11, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 14:53:43,262> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:53:43,631> BAD OpSpecResult={'NumWordsWritten': 0, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 14:53:43,700> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:53:43,873> BAD OpSpecResult={'NumWordsWritten': 3, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 14:53:44,003> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:53:44,305> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:53:44,606> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:53:44,977> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:53:45,278> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:53:45,578> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:53:45,879> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:53:46,262> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:53:46,298> BAD OpSpecResult={'NumWordsWritten': 3, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 14:53:46,563> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:53:47,078> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:53:47,183> BAD OpSpecResult={'NumWordsWritten': 2, 'Result': 6, 'OpSpecID': 5}
+<2016-06-28 14:53:47,485> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:53:47,888> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:53:48,073> BAD OpSpecResult={'NumWordsWritten': 9, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 14:53:48,214> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:53:48,516> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:53:48,816> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:53:49,059> BAD OpSpecResult={'NumWordsWritten': 4, 'Result': 6, 'OpSpecID': 7}
+<2016-06-28 14:53:49,517> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:53:49,817> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:53:49,862> BAD OpSpecResult={'NumWordsWritten': 14, 'Result': 6, 'OpSpecID': 3}
+<2016-06-28 14:53:49,972> BAD OpSpecResult={'NumWordsWritten': 2, 'Result': 6, 'OpSpecID': 3}
+<2016-06-28 14:53:50,275> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:53:50,371> BAD OpSpecResult={'NumWordsWritten': 9, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 14:53:50,575> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:53:50,698> BAD OpSpecResult={'NumWordsWritten': 2, 'Result': 6, 'OpSpecID': 5}
+<2016-06-28 14:53:51,248> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:53:51,426> BAD OpSpecResult={'NumWordsWritten': 4, 'Result': 6, 'OpSpecID': 3}
+<2016-06-28 14:53:51,929> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:53:52,521> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:53:52,967> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:53:53,542> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:53:53,633> BAD OpSpecResult={'NumWordsWritten': 24, 'Result': 6, 'OpSpecID': 3}
+<2016-06-28 14:53:53,936> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:53:54,012> BAD OpSpecResult={'NumWordsWritten': 23, 'Result': 6, 'OpSpecID': 5}
+<2016-06-28 14:53:54,315> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:53:54,517> BAD OpSpecResult={'NumWordsWritten': 15, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 14:53:54,728> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:53:55,030> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:53:55,329> BAD OpSpecResult={'NumWordsWritten': 3, 'Result': 6, 'OpSpecID': 5}
+<2016-06-28 14:53:55,575> BAD OpSpecResult={'NumWordsWritten': 9, 'Result': 6, 'OpSpecID': 5}
+<2016-06-28 14:53:55,803> BAD OpSpecResult={'NumWordsWritten': 24, 'Result': 6, 'OpSpecID': 3}
+<2016-06-28 14:53:56,108> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:53:56,429> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:53:56,720> BAD OpSpecResult={'NumWordsWritten': 19, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 14:53:56,730> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:53:57,031> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:53:57,131> BAD OpSpecResult={'NumWordsWritten': 5, 'Result': 6, 'OpSpecID': 5}
+<2016-06-28 14:53:57,433> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:53:57,895> BAD OpSpecResult={'NumWordsWritten': 2, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 14:53:57,959> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:53:58,064> BAD OpSpecResult={'NumWordsWritten': 3, 'Result': 6, 'OpSpecID': 5}
+<2016-06-28 14:53:58,367> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:53:58,668> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:53:58,968> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:53:59,274> BAD OpSpecResult={'NumWordsWritten': 11, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 14:53:59,290> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:53:59,594> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:53:59,915> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:54:00,397> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:54:00,747> BAD OpSpecResult={'NumWordsWritten': 5, 'Result': 6, 'OpSpecID': 3}
+<2016-06-28 14:54:01,519> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:54:01,567> BAD OpSpecResult={'NumWordsWritten': 21, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 14:54:01,819> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:54:02,245> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:54:02,265> BAD OpSpecResult={'NumWordsWritten': 5, 'Result': 6, 'OpSpecID': 3}
+<2016-06-28 14:54:02,541> BAD OpSpecResult={'NumWordsWritten': 5, 'Result': 6, 'OpSpecID': 3}
+<2016-06-28 14:54:03,010> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:54:03,613> 0302: wisent end of file reached.          --- Wisent time elapsed: 42.807 secs
+
+<2016-06-28 14:54:03,614> 0302: Wisp was in state: PROGRAMMING and is going to the next state --- Time elapsed: 115.933 secs
+<2016-06-28 14:54:03,615> 0302: Wisp is now in state: MEMCHECK
+<2016-06-28 14:54:04,344> 0302: memcheck finished
+<2016-06-28 14:54:04,344> 0302: 20 good and 0 bad memblocks
+<2016-06-28 14:54:04,345> 0302: Wisp was in state: MEMCHECK and is going to the next state --- Time elapsed: 116.664 secs
+<2016-06-28 14:54:04,345> 0302: Wisp is now in state: FINISH
+<2016-06-28 14:54:04,346> 0302: WrepWidget [WAITING 0.080, PROGRAMMING 73.124, MEMCHECK 115.934, FINISH 116.664]
+<2016-06-28 14:54:04,346> 0300: Wisp was in state: WAITING and is going to the next state --- Time elapsed: 117.046 secs
+<2016-06-28 14:54:04,346> 0300: Wisp was in state: GOTOBIOS and is going to the next state --- Time elapsed: 117.046 secs
+<2016-06-28 14:54:04,346> 0300: Wisp is now in state: PROGRAMMING
+<2016-06-28 14:54:04,352> 0300: First reprogramming messages send --- Wisent time elapsed: 0.003 secs
+<2016-06-28 14:54:04,352> 
+
+******************************* Next wisp *******************************
+
+<2016-06-28 14:54:05,477> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:54:06,142> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:54:06,499> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:54:07,152> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:54:07,765> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:54:08,154> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:54:08,667> 0300: wisent end of file reached.          --- Wisent time elapsed: 4.318 secs
+
+<2016-06-28 14:54:08,668> 0300: Wisp was in state: PROGRAMMING and is going to the next state --- Time elapsed: 121.368 secs
+<2016-06-28 14:54:08,668> 0300: Wisp is now in state: MEMCHECK
+<2016-06-28 14:54:08,904> 0300: memcheck finished
+<2016-06-28 14:54:08,904> 0300: 20 good and 0 bad memblocks
+<2016-06-28 14:54:08,905> 0300: Wisp was in state: MEMCHECK and is going to the next state --- Time elapsed: 121.604 secs
+<2016-06-28 14:54:08,905> 0300: Wisp is now in state: FINISH
+<2016-06-28 14:54:08,906> 0300: WrepWidget [WAITING 0.063, PROGRAMMING 117.046, MEMCHECK 121.368, FINISH 121.605]
+<2016-06-28 14:54:08,906> IOTXTreplace: 0300 0303 0248 0302: Wisp(s) is/are reprogrammed now
+<2016-06-28 14:54:08,906> IOTXTreplace: Reprogramming data from "ihex/ccs1.hex" to wisps: 0300 and 0303 and 0248 and 0302
+<2016-06-28 14:54:08,989> 0300: *****************************************
+<2016-06-28 14:54:08,989> 0300: * Wisp to program:                 0300 *
+<2016-06-28 14:54:08,989> 0300: * Words to send:       2527 in  9 lines *
+<2016-06-28 14:54:08,989> 0300: *****************************************
+<2016-06-28 14:54:08,994> 0300: Wisp is now in state: WAITING
+<2016-06-28 14:54:09,057> 0300: * File to load:                    None *
+<2016-06-28 14:54:09,058> 0300: *****************************************
+<2016-06-28 14:54:09,131> 0303: *****************************************
+<2016-06-28 14:54:09,131> 0303: * Wisp to program:                 0303 *
+<2016-06-28 14:54:09,131> 0303: * Words to send:       2527 in  9 lines *
+<2016-06-28 14:54:09,132> 0303: *****************************************
+<2016-06-28 14:54:09,132> 0303: Wisp is now in state: WAITING
+<2016-06-28 14:54:09,194> 0303: * File to load:                    None *
+<2016-06-28 14:54:09,194> 0303: *****************************************
+<2016-06-28 14:54:09,267> 0248: *****************************************
+<2016-06-28 14:54:09,268> 0248: * Wisp to program:                 0248 *
+<2016-06-28 14:54:09,269> 0248: * Words to send:       2527 in  9 lines *
+<2016-06-28 14:54:09,269> 0248: *****************************************
+<2016-06-28 14:54:09,270> 0248: Wisp is now in state: WAITING
+<2016-06-28 14:54:09,312> 0248: * File to load:                    None *
+<2016-06-28 14:54:09,313> 0248: *****************************************
+<2016-06-28 14:54:09,381> 0302: *****************************************
+<2016-06-28 14:54:09,381> 0302: * Wisp to program:                 0302 *
+<2016-06-28 14:54:09,382> 0302: * Words to send:       2527 in  9 lines *
+<2016-06-28 14:54:09,382> 0302: *****************************************
+<2016-06-28 14:54:09,382> 0302: Wisp is now in state: WAITING
+<2016-06-28 14:54:09,441> 0302: * File to load:                    None *
+<2016-06-28 14:54:09,442> 0302: *****************************************
+<2016-06-28 14:54:09,442> 0248: Wisp was in state: WAITING and is going to the next state --- Time elapsed: 0.247 secs
+<2016-06-28 14:54:09,442> 0248: Wisp was in state: GOTOBIOS and is going to the next state --- Time elapsed: 0.247 secs
+<2016-06-28 14:54:09,442> 0248: Wisp is now in state: PROGRAMMING
+<2016-06-28 14:54:09,446> 0248: First reprogramming messages send --- Wisent time elapsed: 0.002 secs
+<2016-06-28 14:54:09,746> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:54:09,946> BAD OpSpecResult={'NumWordsWritten': 1, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 14:54:10,170> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:54:10,472> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:54:10,503> BAD OpSpecResult={'NumWordsWritten': 0, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 14:54:10,772> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:54:10,962> BAD OpSpecResult={'NumWordsWritten': 5, 'Result': 6, 'OpSpecID': 5}
+<2016-06-28 14:54:11,058> BAD OpSpecResult={'NumWordsWritten': 12, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 14:54:11,264> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:54:11,956> BAD OpSpecResult={'NumWordsWritten': 21, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 14:54:12,111> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:54:12,417> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:54:12,645> BAD OpSpecResult={'NumWordsWritten': 11, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 14:54:12,845> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:54:13,049> BAD OpSpecResult={'NumWordsWritten': 5, 'Result': 6, 'OpSpecID': 3}
+<2016-06-28 14:54:13,222> BAD OpSpecResult={'NumWordsWritten': 2, 'Result': 6, 'OpSpecID': 5}
+<2016-06-28 14:54:13,383> BAD OpSpecResult={'NumWordsWritten': 0, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 14:54:13,524> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:54:13,623> BAD OpSpecResult={'NumWordsWritten': 2, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 14:54:13,828> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:54:14,024> BAD OpSpecResult={'NumWordsWritten': 2, 'Result': 6, 'OpSpecID': 3}
+<2016-06-28 14:54:14,185> BAD OpSpecResult={'ReadDataWordCount': 0, 'ReadData': '', 'Result': 1, 'OpSpecID': 4}
+<2016-06-28 14:54:14,424> BAD OpSpecResult={'NumWordsWritten': 2, 'Result': 6, 'OpSpecID': 3}
+<2016-06-28 14:54:14,905> BAD OpSpecResult={'NumWordsWritten': 1, 'Result': 6, 'OpSpecID': 3}
+<2016-06-28 14:54:15,066> BAD OpSpecResult={'NumWordsWritten': 0, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 14:54:15,207> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:54:15,477> BAD OpSpecResult={'NumWordsWritten': 0, 'Result': 6, 'OpSpecID': 5}
+<2016-06-28 14:54:15,634> BAD OpSpecResult={'ReadDataWordCount': 0, 'ReadData': '', 'Result': 3, 'OpSpecID': 2}
+<2016-06-28 14:54:15,779> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:54:16,185> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:54:16,485> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:54:16,845> BAD OpSpecResult={'NumWordsWritten': 3, 'Result': 6, 'OpSpecID': 3}
+<2016-06-28 14:54:17,186> BAD OpSpecResult={'NumWordsWritten': 4, 'Result': 6, 'OpSpecID': 5}
+<2016-06-28 14:54:17,349> BAD OpSpecResult={'NumWordsWritten': 2, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 14:54:17,489> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:54:18,076> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:54:18,165> BAD OpSpecResult={'NumWordsWritten': 5, 'Result': 6, 'OpSpecID': 3}
+<2016-06-28 14:54:18,427> BAD OpSpecResult={'NumWordsWritten': 13, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 14:54:18,467> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:54:18,584> BAD OpSpecResult={'NumWordsWritten': 4, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 14:54:18,770> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:54:19,112> BAD OpSpecResult={'NumWordsWritten': 2, 'Result': 6, 'OpSpecID': 7}
+<2016-06-28 14:54:19,374> BAD OpSpecResult={'NumWordsWritten': 7, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 14:54:19,522> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:54:19,623> BAD OpSpecResult={'NumWordsWritten': 4, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 14:54:19,824> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:54:20,126> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:54:20,347> BAD OpSpecResult={'ReadDataWordCount': 0, 'ReadData': '', 'Result': 3, 'OpSpecID': 6}
+<2016-06-28 14:54:20,518> BAD OpSpecResult={'ReadDataWordCount': 0, 'ReadData': '', 'Result': 3, 'OpSpecID': 8}
+<2016-06-28 14:54:20,863> BAD OpSpecResult={'NumWordsWritten': 5, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 14:54:21,095> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:54:21,445> BAD OpSpecResult={'NumWordsWritten': 5, 'Result': 6, 'OpSpecID': 3}
+<2016-06-28 14:54:21,785> BAD OpSpecResult={'NumWordsWritten': 12, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 14:54:21,994> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:54:22,196> BAD OpSpecResult={'NumWordsWritten': 5, 'Result': 6, 'OpSpecID': 5}
+<2016-06-28 14:54:22,392> BAD OpSpecResult={'NumWordsWritten': 8, 'Result': 6, 'OpSpecID': 3}
+<2016-06-28 14:54:22,694> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:54:22,897> BAD OpSpecResult={'NumWordsWritten': 6, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 14:54:23,022> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:54:23,324> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:54:23,380> BAD OpSpecResult={'NumWordsWritten': 2, 'Result': 6, 'OpSpecID': 7}
+<2016-06-28 14:54:23,538> BAD OpSpecResult={'NumWordsWritten': 9, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 14:54:23,683> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:54:23,937> BAD OpSpecResult={'NumWordsWritten': 1, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 14:54:24,161> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:54:24,495> BAD OpSpecResult={'NumWordsWritten': 2, 'Result': 6, 'OpSpecID': 3}
+<2016-06-28 14:54:24,843> BAD OpSpecResult={'NumWordsWritten': 9, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 14:54:24,988> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:54:25,168> BAD OpSpecResult={'NumWordsWritten': 1, 'Result': 6, 'OpSpecID': 7}
+<2016-06-28 14:54:25,427> BAD OpSpecResult={'NumWordsWritten': 8, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 14:54:25,576> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:54:25,745> BAD OpSpecResult={'NumWordsWritten': 4, 'Result': 6, 'OpSpecID': 3}
+<2016-06-28 14:54:25,826> BAD OpSpecResult={'NumWordsWritten': 1, 'Result': 6, 'OpSpecID': 3}
+<2016-06-28 14:54:26,151> BAD OpSpecResult={'NumWordsWritten': 9, 'Result': 6, 'OpSpecID': 3}
+<2016-06-28 14:54:26,256> BAD OpSpecResult={'NumWordsWritten': 3, 'Result': 6, 'OpSpecID': 3}
+<2016-06-28 14:54:26,414> BAD OpSpecResult={'NumWordsWritten': 9, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 14:54:26,559> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:54:26,922> BAD OpSpecResult={'NumWordsWritten': 2, 'Result': 6, 'OpSpecID': 5}
+<2016-06-28 14:54:27,025> BAD OpSpecResult={'NumWordsWritten': 17, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 14:54:27,224> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:54:27,297> BAD OpSpecResult={'NumWordsWritten': 3, 'Result': 6, 'OpSpecID': 3}
+<2016-06-28 14:54:27,599> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:54:27,698> BAD OpSpecResult={'NumWordsWritten': 4, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 14:54:27,900> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:54:28,139> BAD OpSpecResult={'NumWordsWritten': 1, 'Result': 6, 'OpSpecID': 5}
+<2016-06-28 14:54:28,592> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:54:28,686> BAD OpSpecResult={'NumWordsWritten': 1, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 14:54:28,892> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:54:29,551> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:54:29,576> BAD OpSpecResult={'NumWordsWritten': 4, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 14:54:29,851> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:54:30,443> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:54:30,762> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:54:30,778> BAD OpSpecResult={'NumWordsWritten': 5, 'Result': 6, 'OpSpecID': 3}
+<2016-06-28 14:54:30,857> BAD OpSpecResult={'NumWordsWritten': 4, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 14:54:31,080> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:54:31,178> BAD OpSpecResult={'NumWordsWritten': 2, 'Result': 6, 'OpSpecID': 5}
+<2016-06-28 14:54:31,673> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:54:31,930> BAD OpSpecResult={'NumWordsWritten': 6, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 14:54:32,071> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:54:32,288> BAD OpSpecResult={'NumWordsWritten': 5, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 14:54:32,374> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:54:32,613> BAD OpSpecResult={'NumWordsWritten': 2, 'Result': 6, 'OpSpecID': 5}
+<2016-06-28 14:54:33,161> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:54:33,318> BAD OpSpecResult={'NumWordsWritten': 10, 'Result': 6, 'OpSpecID': 3}
+<2016-06-28 14:54:33,573> BAD OpSpecResult={'NumWordsWritten': 6, 'Result': 6, 'OpSpecID': 3}
+<2016-06-28 14:54:33,819> BAD OpSpecResult={'NumWordsWritten': 8, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 14:54:33,876> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:54:34,401> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:54:34,435> BAD OpSpecResult={'NumWordsWritten': 8, 'Result': 6, 'OpSpecID': 3}
+<2016-06-28 14:54:34,707> BAD OpSpecResult={'NumWordsWritten': 3, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 14:54:34,870> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:54:35,124> BAD OpSpecResult={'NumWordsWritten': 5, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 14:54:35,175> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:54:35,612> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:54:35,630> BAD OpSpecResult={'NumWordsWritten': 2, 'Result': 6, 'OpSpecID': 5}
+<2016-06-28 14:54:35,789> BAD OpSpecResult={'NumWordsWritten': 2, 'Result': 6, 'OpSpecID': 7}
+<2016-06-28 14:54:36,051> BAD OpSpecResult={'NumWordsWritten': 5, 'Result': 6, 'OpSpecID': 5}
+<2016-06-28 14:54:36,126> BAD OpSpecResult={'NumWordsWritten': 11, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 14:54:36,354> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:54:36,762> BAD OpSpecResult={'NumWordsWritten': 14, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 14:54:36,970> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:54:37,164> BAD OpSpecResult={'NumWordsWritten': 1, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 14:54:37,272> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:54:37,439> BAD OpSpecResult={'NumWordsWritten': 2, 'Result': 6, 'OpSpecID': 5}
+<2016-06-28 14:54:37,832> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:54:37,846> BAD OpSpecResult={'NumWordsWritten': 5, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 14:54:38,132> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:54:38,247> BAD OpSpecResult={'NumWordsWritten': 0, 'Result': 6, 'OpSpecID': 5}
+<2016-06-28 14:54:38,685> BAD OpSpecResult={'NumWordsWritten': 5, 'Result': 6, 'OpSpecID': 3}
+<2016-06-28 14:54:38,797> BAD OpSpecResult={'NumWordsWritten': 1, 'Result': 6, 'OpSpecID': 3}
+<2016-06-28 14:54:39,099> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:54:39,425> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:54:39,594> BAD OpSpecResult={'NumWordsWritten': 3, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 14:54:39,725> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:54:40,027> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:54:40,407> BAD OpSpecResult={'NumWordsWritten': 5, 'Result': 6, 'OpSpecID': 3}
+<2016-06-28 14:54:40,675> BAD OpSpecResult={'NumWordsWritten': 17, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 14:54:40,821> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:54:41,124> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:54:41,568> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:54:41,857> BAD OpSpecResult={'NumWordsWritten': 4, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 14:54:41,918> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:54:42,026> BAD OpSpecResult={'NumWordsWritten': 2, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 14:54:42,221> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:54:42,590> BAD OpSpecResult={'NumWordsWritten': 1, 'Result': 6, 'OpSpecID': 3}
+<2016-06-28 14:54:42,748> BAD OpSpecResult={'NumWordsWritten': 2, 'Result': 6, 'OpSpecID': 5}
+<2016-06-28 14:54:42,905> BAD OpSpecResult={'NumWordsWritten': 0, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 14:54:43,050> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:54:43,421> BAD OpSpecResult={'NumWordsWritten': 5, 'Result': 6, 'OpSpecID': 3}
+<2016-06-28 14:54:43,737> BAD OpSpecResult={'NumWordsWritten': 9, 'Result': 6, 'OpSpecID': 3}
+<2016-06-28 14:54:44,027> BAD OpSpecResult={'NumWordsWritten': 1, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 14:54:44,169> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:54:44,379> BAD OpSpecResult={'NumWordsWritten': 0, 'Result': 6, 'OpSpecID': 3}
+<2016-06-28 14:54:44,455> BAD OpSpecResult={'NumWordsWritten': 2, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 14:54:44,681> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:54:45,030> BAD OpSpecResult={'ReadDataWordCount': 0, 'ReadData': '', 'Result': 3, 'OpSpecID': 4}
+<2016-06-28 14:54:45,384> BAD OpSpecResult={'NumWordsWritten': 9, 'Result': 6, 'OpSpecID': 3}
+<2016-06-28 14:54:45,791> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:54:45,807> BAD OpSpecResult={'NumWordsWritten': 6, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 14:54:46,091> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:54:46,447> BAD OpSpecResult={'NumWordsWritten': 4, 'Result': 6, 'OpSpecID': 3}
+<2016-06-28 14:54:46,750> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:54:46,768> BAD OpSpecResult={'NumWordsWritten': 8, 'Result': 6, 'OpSpecID': 3}
+<2016-06-28 14:54:47,115> BAD OpSpecResult={'NumWordsWritten': 1, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 14:54:47,181> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:54:47,356> BAD OpSpecResult={'NumWordsWritten': 4, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 14:54:47,483> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:54:47,917> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:54:47,925> BAD OpSpecResult={'NumWordsWritten': 0, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 14:54:48,217> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:54:48,487> BAD OpSpecResult={'NumWordsWritten': 4, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 14:54:48,717> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:54:49,273> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:54:49,451> BAD OpSpecResult={'ReadDataWordCount': 0, 'ReadData': '', 'Result': 3, 'OpSpecID': 4}
+<2016-06-28 14:54:49,913> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:54:50,086> BAD OpSpecResult={'NumWordsWritten': 10, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 14:54:50,235> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:54:50,406> BAD OpSpecResult={'NumWordsWritten': 4, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 14:54:50,538> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:54:50,954> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:54:50,969> BAD OpSpecResult={'NumWordsWritten': 0, 'Result': 6, 'OpSpecID': 3}
+<2016-06-28 14:54:51,125> BAD OpSpecResult={'NumWordsWritten': 2, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 14:54:51,271> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:54:51,555> BAD OpSpecResult={'NumWordsWritten': 1, 'Result': 6, 'OpSpecID': 3}
+<2016-06-28 14:54:51,857> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:54:52,363> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:54:52,545> BAD OpSpecResult={'NumWordsWritten': 12, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 14:54:52,694> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:54:52,868> BAD OpSpecResult={'NumWordsWritten': 2, 'Result': 6, 'OpSpecID': 5}
+<2016-06-28 14:54:53,171> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:54:53,188> BAD OpSpecResult={'NumWordsWritten': 9, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 14:54:53,471> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:54:53,587> BAD OpSpecResult={'NumWordsWritten': 2, 'Result': 6, 'OpSpecID': 3}
+<2016-06-28 14:54:53,991> BAD OpSpecResult={'NumWordsWritten': 2, 'Result': 6, 'OpSpecID': 7}
+<2016-06-28 14:54:54,093> BAD OpSpecResult={'NumWordsWritten': 7, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 14:54:54,293> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:54:55,053> BAD OpSpecResult={'NumWordsWritten': 9, 'Result': 6, 'OpSpecID': 3}
+<2016-06-28 14:54:55,271> BAD OpSpecResult={'NumWordsWritten': 5, 'Result': 6, 'OpSpecID': 5}
+<2016-06-28 14:54:55,625> BAD OpSpecResult={'NumWordsWritten': 7, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 14:54:55,787> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:54:55,926> BAD OpSpecResult={'NumWordsWritten': 8, 'Result': 6, 'OpSpecID': 7}
+<2016-06-28 14:54:56,081> BAD OpSpecResult={'NumWordsWritten': 15, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 14:54:56,229> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:54:56,531> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:54:56,817> BAD OpSpecResult={'NumWordsWritten': 4, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 14:54:56,968> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:54:57,136> BAD OpSpecResult={'NumWordsWritten': 0, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 14:54:57,270> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:54:57,580> BAD OpSpecResult={'NumWordsWritten': 2, 'Result': 6, 'OpSpecID': 7}
+<2016-06-28 14:54:58,246> BAD OpSpecResult={'NumWordsWritten': 15, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 14:54:58,391> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:54:58,496> BAD OpSpecResult={'NumWordsWritten': 3, 'Result': 6, 'OpSpecID': 5}
+<2016-06-28 14:54:58,853> BAD OpSpecResult={'NumWordsWritten': 5, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 14:54:59,053> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:54:59,356> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:54:59,617> BAD OpSpecResult={'NumWordsWritten': 3, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 14:54:59,764> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:54:59,857> BAD OpSpecResult={'NumWordsWritten': 3, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 14:55:00,066> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:55:00,482> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:55:00,500> BAD OpSpecResult={'NumWordsWritten': 2, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 14:55:00,783> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:55:01,203> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:55:02,036> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:55:02,196> BAD OpSpecResult={'NumWordsWritten': 4, 'Result': 6, 'OpSpecID': 3}
+<2016-06-28 14:55:02,348> BAD OpSpecResult={'ReadDataWordCount': 0, 'ReadData': '', 'Result': 3, 'OpSpecID': 2}
+<2016-06-28 14:55:02,504> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:55:03,211> BAD OpSpecResult={'NumWordsWritten': 11, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 14:55:03,408> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:55:03,766> BAD OpSpecResult={'NumWordsWritten': 5, 'Result': 6, 'OpSpecID': 5}
+<2016-06-28 14:55:03,861> BAD OpSpecResult={'NumWordsWritten': 14, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 14:55:04,068> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:55:04,561> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:55:05,024> BAD OpSpecResult={'NumWordsWritten': 8, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 14:55:05,081> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:55:05,198> BAD OpSpecResult={'NumWordsWritten': 1, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 14:55:05,383> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:55:05,770> BAD OpSpecResult={'ReadDataWordCount': 0, 'ReadData': '', 'Result': 3, 'OpSpecID': 6}
+<2016-06-28 14:55:05,929> BAD OpSpecResult={'NumWordsWritten': 7, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 14:55:06,072> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:55:06,552> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:55:06,817> BAD OpSpecResult={'NumWordsWritten': 0, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 14:55:06,852> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:55:07,014> BAD OpSpecResult={'NumWordsWritten': 3, 'Result': 6, 'OpSpecID': 3}
+<2016-06-28 14:55:07,652> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:55:07,779> BAD OpSpecResult={'NumWordsWritten': 11, 'Result': 6, 'OpSpecID': 3}
+<2016-06-28 14:55:08,041> BAD OpSpecResult={'NumWordsWritten': 9, 'Result': 6, 'OpSpecID': 3}
+<2016-06-28 14:55:08,433> BAD OpSpecResult={'NumWordsWritten': 5, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 14:55:08,485> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:55:08,679> BAD OpSpecResult={'NumWordsWritten': 6, 'Result': 6, 'OpSpecID': 3}
+<2016-06-28 14:55:09,077> BAD OpSpecResult={'NumWordsWritten': 8, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 14:55:09,221> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:55:09,525> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:55:09,570> BAD OpSpecResult={'NumWordsWritten': 3, 'Result': 6, 'OpSpecID': 3}
+<2016-06-28 14:55:09,799> BAD OpSpecResult={'NumWordsWritten': 2, 'Result': 6, 'OpSpecID': 3}
+<2016-06-28 14:55:09,968> BAD OpSpecResult={'NumWordsWritten': 0, 'Result': 6, 'OpSpecID': 3}
+<2016-06-28 14:55:10,728> BAD OpSpecResult={'NumWordsWritten': 2, 'Result': 6, 'OpSpecID': 3}
+<2016-06-28 14:55:10,888> BAD OpSpecResult={'NumWordsWritten': 4, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 14:55:11,029> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:55:11,288> BAD OpSpecResult={'NumWordsWritten': 5, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 14:55:11,331> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:55:11,609> 0248: wisent end of file reached.          --- Wisent time elapsed: 62.166 secs
+
+<2016-06-28 14:55:11,611> 0248: Wisp was in state: PROGRAMMING and is going to the next state --- Time elapsed: 62.416 secs
+<2016-06-28 14:55:11,611> 0248: Wisp is now in state: MEMCHECK
+<2016-06-28 14:55:11,772> BAD OpSpecResult={'ReadDataWordCount': 0, 'ReadData': '', 'Result': 3, 'OpSpecID': 4}
+<2016-06-28 14:55:12,008> BAD OpSpecResult={'NumWordsWritten': 0, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 14:55:12,175> 0248: memcheck finished
+<2016-06-28 14:55:12,175> 0248: 20 good and 0 bad memblocks
+<2016-06-28 14:55:12,176> 0248: Wisp was in state: MEMCHECK and is going to the next state --- Time elapsed: 62.982 secs
+<2016-06-28 14:55:12,177> 0248: Wisp is now in state: FINISH
+<2016-06-28 14:55:12,192> 0248: WrepWidget [WAITING 0.075, PROGRAMMING 0.247, MEMCHECK 62.417, FINISH 62.982]
+<2016-06-28 14:55:12,192> 0303: Wisp was in state: WAITING and is going to the next state --- Time elapsed: 63.134 secs
+<2016-06-28 14:55:12,192> 0303: Wisp was in state: GOTOBIOS and is going to the next state --- Time elapsed: 63.135 secs
+<2016-06-28 14:55:12,193> 0303: Wisp is now in state: PROGRAMMING
+<2016-06-28 14:55:12,196> 0303: First reprogramming messages send --- Wisent time elapsed: 0.003 secs
+<2016-06-28 14:55:12,196> 
+
+******************************* Next wisp *******************************
+
+<2016-06-28 14:55:12,496> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:55:12,796> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:55:13,141> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:55:13,441> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:55:14,138> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:55:15,160> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:55:15,461> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:55:15,986> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:55:16,588> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:55:16,984> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:55:17,284> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:55:17,585> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:55:18,026> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:55:18,345> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:55:18,697> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:55:19,066> 0303: wisent end of file reached.          --- Wisent time elapsed: 6.872 secs
+
+<2016-06-28 14:55:19,067> 0303: Wisp was in state: PROGRAMMING and is going to the next state --- Time elapsed: 70.009 secs
+<2016-06-28 14:55:19,067> 0303: Wisp is now in state: MEMCHECK
+<2016-06-28 14:55:19,697> 0303: memcheck finished
+<2016-06-28 14:55:19,698> 0303: 20 good and 0 bad memblocks
+<2016-06-28 14:55:19,699> 0303: Wisp was in state: MEMCHECK and is going to the next state --- Time elapsed: 70.641 secs
+<2016-06-28 14:55:19,699> 0303: Wisp is now in state: FINISH
+<2016-06-28 14:55:19,700> 0303: WrepWidget [WAITING 0.075, PROGRAMMING 63.135, MEMCHECK 70.009, FINISH 70.641]
+<2016-06-28 14:55:19,700> 0302: Wisp was in state: WAITING and is going to the next state --- Time elapsed: 70.388 secs
+<2016-06-28 14:55:19,701> 0302: Wisp was in state: GOTOBIOS and is going to the next state --- Time elapsed: 70.388 secs
+<2016-06-28 14:55:19,701> 0302: Wisp is now in state: PROGRAMMING
+<2016-06-28 14:55:19,704> 0302: First reprogramming messages send --- Wisent time elapsed: 0.002 secs
+<2016-06-28 14:55:19,704> 
+
+******************************* Next wisp *******************************
+
+<2016-06-28 14:55:20,004> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:55:20,305> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:55:20,606> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:55:20,658> BAD OpSpecResult={'NumWordsWritten': 9, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 14:55:20,906> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:55:21,385> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:55:21,685> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:55:21,987> BAD OpSpecResult={'NumWordsWritten': 9, 'Result': 6, 'OpSpecID': 7}
+<2016-06-28 14:55:22,187> BAD OpSpecResult={'NumWordsWritten': 18, 'Result': 6, 'OpSpecID': 3}
+<2016-06-28 14:55:22,490> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:55:22,842> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:55:23,079> BAD OpSpecResult={'NumWordsWritten': 26, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 14:55:23,143> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:55:23,446> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:55:23,790> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:55:23,910> BAD OpSpecResult={'NumWordsWritten': 12, 'Result': 6, 'OpSpecID': 4}
+<2016-06-28 14:55:24,090> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:55:24,390> BAD OpSpecResult={'NumWordsWritten': 4, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 14:55:24,399> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:55:24,701> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:55:24,715> BAD OpSpecResult={'NumWordsWritten': 4, 'Result': 6, 'OpSpecID': 3}
+<2016-06-28 14:55:25,017> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:55:25,318> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:55:25,441> BAD OpSpecResult={'NumWordsWritten': 9, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 14:55:25,618> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:55:26,169> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:55:26,470> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:55:26,760> BAD OpSpecResult={'NumWordsWritten': 2, 'Result': 6, 'OpSpecID': 7}
+<2016-06-28 14:55:27,062> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:55:27,189> BAD OpSpecResult={'NumWordsWritten': 5, 'Result': 6, 'OpSpecID': 5}
+<2016-06-28 14:55:27,492> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:55:27,792> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:55:27,912> BAD OpSpecResult={'NumWordsWritten': 2, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 14:55:28,092> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:55:28,399> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:55:28,566> BAD OpSpecResult={'NumWordsWritten': 5, 'Result': 6, 'OpSpecID': 5}
+<2016-06-28 14:55:28,868> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:55:29,169> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:55:29,261> BAD OpSpecResult={'NumWordsWritten': 3, 'Result': 6, 'OpSpecID': 7}
+<2016-06-28 14:55:29,536> BAD OpSpecResult={'NumWordsWritten': 10, 'Result': 6, 'OpSpecID': 7}
+<2016-06-28 14:55:29,979> BAD OpSpecResult={'NumWordsWritten': 12, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 14:55:30,120> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:55:30,424> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:55:30,889> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:55:30,984> BAD OpSpecResult={'NumWordsWritten': 6, 'Result': 6, 'OpSpecID': 3}
+<2016-06-28 14:55:31,864> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:55:32,020> BAD OpSpecResult={'NumWordsWritten': 13, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 14:55:32,164> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:55:32,278> BAD OpSpecResult={'NumWordsWritten': 4, 'Result': 6, 'OpSpecID': 7}
+<2016-06-28 14:55:32,720> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:55:33,024> BAD OpSpecResult={'NumWordsWritten': 19, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 14:55:33,151> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:55:33,453> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:55:33,753> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:55:34,053> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:55:34,092> BAD OpSpecResult={'NumWordsWritten': 9, 'Result': 6, 'OpSpecID': 3}
+<2016-06-28 14:55:34,395> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:55:34,695> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:55:35,219> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:55:35,473> BAD OpSpecResult={'NumWordsWritten': 9, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 14:55:35,543> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:55:35,808> BAD OpSpecResult={'NumWordsWritten': 4, 'Result': 6, 'OpSpecID': 3}
+<2016-06-28 14:55:36,111> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:55:36,325> BAD OpSpecResult={'NumWordsWritten': 6, 'Result': 6, 'OpSpecID': 3}
+<2016-06-28 14:55:36,436> BAD OpSpecResult={'NumWordsWritten': 5, 'Result': 6, 'OpSpecID': 3}
+<2016-06-28 14:55:36,741> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:55:37,041> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:55:37,341> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:55:37,423> BAD OpSpecResult={'NumWordsWritten': 10, 'Result': 6, 'OpSpecID': 5}
+<2016-06-28 14:55:37,727> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:55:37,922> BAD OpSpecResult={'NumWordsWritten': 7, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 14:55:38,027> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:55:38,329> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:55:38,713> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:55:38,732> BAD OpSpecResult={'NumWordsWritten': 9, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 14:55:39,014> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:55:39,169> BAD OpSpecResult={'NumWordsWritten': 2, 'Result': 6, 'OpSpecID': 5}
+<2016-06-28 14:55:39,472> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:55:39,766> BAD OpSpecResult={'NumWordsWritten': 7, 'Result': 6, 'OpSpecID': 3}
+<2016-06-28 14:55:40,726> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:55:41,026> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:55:41,326> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:55:41,932> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:55:42,093> BAD OpSpecResult={'NumWordsWritten': 17, 'Result': 6, 'OpSpecID': 5}
+<2016-06-28 14:55:42,275> BAD OpSpecResult={'NumWordsWritten': 30, 'Result': 6, 'OpSpecID': 5}
+<2016-06-28 14:55:42,519> BAD OpSpecResult={'NumWordsWritten': 5, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 14:55:42,578> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:55:42,870> BAD OpSpecResult={'NumWordsWritten': 3, 'Result': 6, 'OpSpecID': 3}
+<2016-06-28 14:55:43,064> BAD OpSpecResult={'NumWordsWritten': 4, 'Result': 6, 'OpSpecID': 5}
+<2016-06-28 14:55:43,671> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:55:44,020> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:55:44,042> BAD OpSpecResult={'NumWordsWritten': 17, 'Result': 6, 'OpSpecID': 3}
+<2016-06-28 14:55:44,733> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:55:45,033> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:55:45,230> BAD OpSpecResult={'NumWordsWritten': 27, 'Result': 6, 'OpSpecID': 3}
+<2016-06-28 14:55:45,532> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:55:45,631> BAD OpSpecResult={'NumWordsWritten': 12, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 14:55:45,833> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:55:46,134> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:55:46,435> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:55:46,735> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:55:47,136> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:55:47,343> BAD OpSpecResult={'NumWordsWritten': 13, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 14:55:47,436> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:55:48,427> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:55:48,475> BAD OpSpecResult={'NumWordsWritten': 9, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 14:55:48,727> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:55:49,176> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:55:49,436> BAD OpSpecResult={'NumWordsWritten': 13, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 14:55:49,476> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:55:49,780> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:55:49,932> BAD OpSpecResult={'NumWordsWritten': 7, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 14:55:50,143> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:55:50,644> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:55:50,833> BAD OpSpecResult={'NumWordsWritten': 7, 'Result': 6, 'OpSpecID': 3}
+<2016-06-28 14:55:51,134> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:55:51,535> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:55:51,835> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:55:52,135> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:55:52,363> BAD OpSpecResult={'NumWordsWritten': 23, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 14:55:52,504> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:55:52,695> BAD OpSpecResult={'NumWordsWritten': 14, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 14:55:52,904> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:55:53,205> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:55:53,635> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:55:54,535> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:55:54,836> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:55:55,136> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:55:55,194> 0302: wisent end of file reached.          --- Wisent time elapsed: 35.493 secs
+
+<2016-06-28 14:55:55,195> 0302: Wisp was in state: PROGRAMMING and is going to the next state --- Time elapsed: 105.882 secs
+<2016-06-28 14:55:55,195> 0302: Wisp is now in state: MEMCHECK
+<2016-06-28 14:55:55,592> 0302: memcheck finished
+<2016-06-28 14:55:55,592> 0302: 20 good and 0 bad memblocks
+<2016-06-28 14:55:55,593> 0302: Wisp was in state: MEMCHECK and is going to the next state --- Time elapsed: 106.280 secs
+<2016-06-28 14:55:55,593> 0302: Wisp is now in state: FINISH
+<2016-06-28 14:55:55,598> 0302: WrepWidget [WAITING 0.070, PROGRAMMING 70.388, MEMCHECK 105.883, FINISH 106.280]
+<2016-06-28 14:55:55,598> 0300: Wisp was in state: WAITING and is going to the next state --- Time elapsed: 106.669 secs
+<2016-06-28 14:55:55,598> 0300: Wisp was in state: GOTOBIOS and is going to the next state --- Time elapsed: 106.669 secs
+<2016-06-28 14:55:55,598> 0300: Wisp is now in state: PROGRAMMING
+<2016-06-28 14:55:55,601> 0300: First reprogramming messages send --- Wisent time elapsed: 0.002 secs
+<2016-06-28 14:55:55,601> 
+
+******************************* Next wisp *******************************
+
+<2016-06-28 14:55:56,089> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:55:56,436> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:55:57,101> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:55:57,443> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:55:57,872> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:55:58,208> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:55:58,529> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:55:59,577> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:56:00,005> 0300: wisent end of file reached.          --- Wisent time elapsed: 4.406 secs
+
+<2016-06-28 14:56:00,007> 0300: Wisp was in state: PROGRAMMING and is going to the next state --- Time elapsed: 111.078 secs
+<2016-06-28 14:56:00,007> 0300: Wisp is now in state: MEMCHECK
+<2016-06-28 14:56:00,406> 0300: memcheck finished
+<2016-06-28 14:56:00,406> 0300: 20 good and 0 bad memblocks
+<2016-06-28 14:56:00,407> 0300: Wisp was in state: MEMCHECK and is going to the next state --- Time elapsed: 111.478 secs
+<2016-06-28 14:56:00,408> 0300: Wisp is now in state: FINISH
+<2016-06-28 14:56:00,409> 0300: WrepWidget [WAITING 0.065, PROGRAMMING 106.670, MEMCHECK 111.078, FINISH 111.479]
+<2016-06-28 14:56:00,409> IOTXTreplace: 0300 0303 0248 0302: Wisp(s) is/are reprogrammed now
+<2016-06-28 14:56:00,410> [1;31mIOTXT-WARNING: Select a wisp first![1;0m
+<2016-06-28 14:59:57,905> IOTXTreplace: Reprogramming data from "ihex/ccs1.hex" to wisps: 0300 and 0303 and 0248 and 0302
+<2016-06-28 14:59:57,978> 0300: *****************************************
+<2016-06-28 14:59:57,979> 0300: * Wisp to program:                 0300 *
+<2016-06-28 14:59:57,979> 0300: * Words to send:       2527 in  9 lines *
+<2016-06-28 14:59:57,979> 0300: *****************************************
+<2016-06-28 14:59:57,982> 0300: Wisp is now in state: WAITING
+<2016-06-28 14:59:58,038> 0300: * File to load:                    None *
+<2016-06-28 14:59:58,038> 0300: *****************************************
+<2016-06-28 14:59:58,109> 0303: *****************************************
+<2016-06-28 14:59:58,109> 0303: * Wisp to program:                 0303 *
+<2016-06-28 14:59:58,109> 0303: * Words to send:       2527 in  9 lines *
+<2016-06-28 14:59:58,109> 0303: *****************************************
+<2016-06-28 14:59:58,112> 0303: Wisp is now in state: WAITING
+<2016-06-28 14:59:58,184> 0303: * File to load:                    None *
+<2016-06-28 14:59:58,184> 0303: *****************************************
+<2016-06-28 14:59:58,255> 0248: *****************************************
+<2016-06-28 14:59:58,255> 0248: * Wisp to program:                 0248 *
+<2016-06-28 14:59:58,255> 0248: * Words to send:       2527 in  9 lines *
+<2016-06-28 14:59:58,255> 0248: *****************************************
+<2016-06-28 14:59:58,256> 0248: Wisp is now in state: WAITING
+<2016-06-28 14:59:58,334> 0248: * File to load:                    None *
+<2016-06-28 14:59:58,334> 0248: *****************************************
+<2016-06-28 14:59:58,411> 0302: *****************************************
+<2016-06-28 14:59:58,411> 0302: * Wisp to program:                 0302 *
+<2016-06-28 14:59:58,411> 0302: * Words to send:       2527 in  9 lines *
+<2016-06-28 14:59:58,411> 0302: *****************************************
+<2016-06-28 14:59:58,412> 0302: Wisp is now in state: WAITING
+<2016-06-28 14:59:58,453> 0302: * File to load:                    None *
+<2016-06-28 14:59:58,454> 0302: *****************************************
+<2016-06-28 14:59:58,454> 0248: Wisp was in state: WAITING and is going to the next state --- Time elapsed: 0.269 secs
+<2016-06-28 14:59:58,454> 0248: Wisp was in state: GOTOBIOS and is going to the next state --- Time elapsed: 0.270 secs
+<2016-06-28 14:59:58,454> 0248: Wisp is now in state: PROGRAMMING
+<2016-06-28 14:59:58,458> 0248: First reprogramming messages send --- Wisent time elapsed: 0.003 secs
+<2016-06-28 14:59:58,741> BAD OpSpecResult={'NumWordsWritten': 4, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 14:59:58,758> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:59:58,983> BAD OpSpecResult={'NumWordsWritten': 2, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 14:59:59,061> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:59:59,144> BAD OpSpecResult={'NumWordsWritten': 3, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 14:59:59,364> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 14:59:59,785> BAD OpSpecResult={'NumWordsWritten': 2, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 14:59:59,938> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:00:00,334> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:00:00,341> BAD OpSpecResult={'NumWordsWritten': 2, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 15:00:00,634> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:00:01,138> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:00:01,492> BAD OpSpecResult={'NumWordsWritten': 0, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 15:00:01,558> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:00:01,733> BAD OpSpecResult={'NumWordsWritten': 0, 'Result': 6, 'OpSpecID': 3}
+<2016-06-28 15:00:02,132> BAD OpSpecResult={'NumWordsWritten': 0, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 15:00:02,200> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:00:02,318> BAD OpSpecResult={'NumWordsWritten': 2, 'Result': 6, 'OpSpecID': 3}
+<2016-06-28 15:00:03,284> BAD OpSpecResult={'NumWordsWritten': 8, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 15:00:03,329> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:00:03,794> BAD OpSpecResult={'NumWordsWritten': 4, 'Result': 6, 'OpSpecID': 3}
+<2016-06-28 15:00:03,892> BAD OpSpecResult={'NumWordsWritten': 3, 'Result': 6, 'OpSpecID': 5}
+<2016-06-28 15:00:04,063> BAD OpSpecResult={'NumWordsWritten': 8, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 15:00:04,194> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:00:04,472> BAD OpSpecResult={'NumWordsWritten': 4, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 15:00:04,496> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:00:04,873> BAD OpSpecResult={'NumWordsWritten': 3, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 15:00:05,019> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:00:05,321> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:00:05,519> BAD OpSpecResult={'NumWordsWritten': 0, 'Result': 6, 'OpSpecID': 7}
+<2016-06-28 15:00:05,822> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:00:06,140> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:00:06,323> BAD OpSpecResult={'ReadDataWordCount': 0, 'ReadData': '', 'Result': 3, 'OpSpecID': 4}
+<2016-06-28 15:00:06,494> BAD OpSpecResult={'NumWordsWritten': 2, 'Result': 6, 'OpSpecID': 3}
+<2016-06-28 15:00:06,656> BAD OpSpecResult={'NumWordsWritten': 2, 'Result': 6, 'OpSpecID': 5}
+<2016-06-28 15:00:07,177> BAD OpSpecResult={'NumWordsWritten': 4, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 15:00:07,241> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:00:07,414> BAD OpSpecResult={'NumWordsWritten': 2, 'Result': 6, 'OpSpecID': 3}
+<2016-06-28 15:00:07,692> BAD OpSpecResult={'NumWordsWritten': 3, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 15:00:07,842> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:00:08,055> BAD OpSpecResult={'NumWordsWritten': 4, 'Result': 6, 'OpSpecID': 3}
+<2016-06-28 15:00:08,357> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:00:08,466> BAD OpSpecResult={'NumWordsWritten': 2, 'Result': 6, 'OpSpecID': 3}
+<2016-06-28 15:00:08,588> BAD OpSpecResult={'NumWordsWritten': 5, 'Result': 6, 'OpSpecID': 7}
+<2016-06-28 15:00:08,748> BAD OpSpecResult={'NumWordsWritten': 8, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 15:00:08,890> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:00:09,484> BAD OpSpecResult={'NumWordsWritten': 5, 'Result': 6, 'OpSpecID': 3}
+<2016-06-28 15:00:09,715> BAD OpSpecResult={'NumWordsWritten': 6, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 15:00:09,930> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:00:10,064> BAD OpSpecResult={'NumWordsWritten': 2, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 15:00:10,232> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:00:10,620> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:00:10,721> BAD OpSpecResult={'NumWordsWritten': 4, 'Result': 6, 'OpSpecID': 5}
+<2016-06-28 15:00:11,024> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:00:11,215> BAD OpSpecResult={'NumWordsWritten': 4, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 15:00:11,366> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:00:11,669> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:00:11,858> BAD OpSpecResult={'NumWordsWritten': 4, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 15:00:11,969> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:00:12,273> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:00:12,931> BAD OpSpecResult={'NumWordsWritten': 3, 'Result': 6, 'OpSpecID': 5}
+<2016-06-28 15:00:13,234> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:00:13,368> BAD OpSpecResult={'NumWordsWritten': 11, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 15:00:13,576> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:00:13,811> BAD OpSpecResult={'NumWordsWritten': 8, 'Result': 6, 'OpSpecID': 3}
+<2016-06-28 15:00:14,093> BAD OpSpecResult={'NumWordsWritten': 9, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 15:00:14,237> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:00:14,414> BAD OpSpecResult={'NumWordsWritten': 3, 'Result': 6, 'OpSpecID': 3}
+<2016-06-28 15:00:14,773> BAD OpSpecResult={'NumWordsWritten': 8, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 15:00:14,974> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:00:15,252> BAD OpSpecResult={'NumWordsWritten': 2, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 15:00:15,277> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:00:15,784> BAD OpSpecResult={'NumWordsWritten': 5, 'Result': 6, 'OpSpecID': 3}
+<2016-06-28 15:00:15,944> BAD OpSpecResult={'ReadDataWordCount': 0, 'ReadData': '', 'Result': 3, 'OpSpecID': 2}
+<2016-06-28 15:00:16,086> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:00:16,388> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:00:16,583> BAD OpSpecResult={'NumWordsWritten': 2, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 15:00:16,688> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:00:16,912> BAD OpSpecResult={'NumWordsWritten': 2, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 15:00:17,062> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:00:17,364> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:00:17,646> BAD OpSpecResult={'NumWordsWritten': 3, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 15:00:17,780> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:00:17,893> BAD OpSpecResult={'NumWordsWritten': 1, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 15:00:18,082> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:00:18,146> BAD OpSpecResult={'NumWordsWritten': 0, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 15:00:18,384> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:00:18,965> BAD OpSpecResult={'NumWordsWritten': 3, 'Result': 6, 'OpSpecID': 5}
+<2016-06-28 15:00:19,820> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:00:19,981> BAD OpSpecResult={'NumWordsWritten': 7, 'Result': 6, 'OpSpecID': 3}
+<2016-06-28 15:00:20,143> BAD OpSpecResult={'NumWordsWritten': 17, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 15:00:20,284> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:00:20,465> BAD OpSpecResult={'NumWordsWritten': 9, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 15:00:20,586> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:00:20,705> BAD OpSpecResult={'NumWordsWritten': 1, 'Result': 6, 'OpSpecID': 3}
+<2016-06-28 15:00:20,816> BAD OpSpecResult={'NumWordsWritten': 3, 'Result': 6, 'OpSpecID': 5}
+<2016-06-28 15:00:21,055> BAD OpSpecResult={'ReadDataWordCount': 0, 'ReadData': '', 'Result': 3, 'OpSpecID': 4}
+<2016-06-28 15:00:21,225> BAD OpSpecResult={'NumWordsWritten': 3, 'Result': 6, 'OpSpecID': 3}
+<2016-06-28 15:00:21,336> BAD OpSpecResult={'NumWordsWritten': 4, 'Result': 6, 'OpSpecID': 3}
+<2016-06-28 15:00:21,513> BAD OpSpecResult={'NumWordsWritten': 5, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 15:00:21,639> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:00:22,324> BAD OpSpecResult={'NumWordsWritten': 6, 'Result': 6, 'OpSpecID': 3}
+<2016-06-28 15:00:22,724> BAD OpSpecResult={'NumWordsWritten': 11, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 15:00:22,928> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:00:23,124> BAD OpSpecResult={'NumWordsWritten': 8, 'Result': 6, 'OpSpecID': 3}
+<2016-06-28 15:00:23,385> BAD OpSpecResult={'NumWordsWritten': 7, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 15:00:23,530> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:00:23,704> BAD OpSpecResult={'NumWordsWritten': 3, 'Result': 6, 'OpSpecID': 3}
+<2016-06-28 15:00:24,006> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:00:24,131> BAD OpSpecResult={'NumWordsWritten': 2, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 15:00:24,306> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:00:24,773> BAD OpSpecResult={'NumWordsWritten': 2, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 15:00:25,003> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:00:25,346> BAD OpSpecResult={'NumWordsWritten': 3, 'Result': 6, 'OpSpecID': 5}
+<2016-06-28 15:00:25,452> BAD OpSpecResult={'NumWordsWritten': 7, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 15:00:25,648> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:00:25,800> BAD OpSpecResult={'NumWordsWritten': 1, 'Result': 6, 'OpSpecID': 5}
+<2016-06-28 15:00:26,113> BAD OpSpecResult={'NumWordsWritten': 9, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 15:00:26,260> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:00:26,437> BAD OpSpecResult={'NumWordsWritten': 2, 'Result': 6, 'OpSpecID': 3}
+<2016-06-28 15:00:26,740> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:00:26,762> BAD OpSpecResult={'NumWordsWritten': 2, 'Result': 6, 'OpSpecID': 5}
+<2016-06-28 15:00:26,836> BAD OpSpecResult={'ReadDataWordCount': 0, 'ReadData': '', 'Result': 3, 'OpSpecID': 4}
+<2016-06-28 15:00:27,073> BAD OpSpecResult={'NumWordsWritten': 1, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 15:00:27,074> EPC did encode a good result
+<2016-06-28 15:00:27,316> BAD OpSpecResult={'NumWordsWritten': 5, 'Result': 6, 'OpSpecID': 3}
+<2016-06-28 15:00:27,707> BAD OpSpecResult={'NumWordsWritten': 7, 'Result': 6, 'OpSpecID': 7}
+<2016-06-28 15:00:27,885> BAD OpSpecResult={'NumWordsWritten': 8, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 15:00:28,011> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:00:28,446> BAD OpSpecResult={'NumWordsWritten': 0, 'Result': 6, 'OpSpecID': 3}
+<2016-06-28 15:00:28,615> BAD OpSpecResult={'NumWordsWritten': 4, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 15:00:28,748> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:00:29,106> BAD OpSpecResult={'NumWordsWritten': 8, 'Result': 6, 'OpSpecID': 3}
+<2016-06-28 15:00:29,530> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:00:29,755> BAD OpSpecResult={'NumWordsWritten': 10, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 15:00:29,954> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:00:30,076> BAD OpSpecResult={'NumWordsWritten': 6, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 15:00:30,257> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:00:30,425> BAD OpSpecResult={'NumWordsWritten': 3, 'Result': 6, 'OpSpecID': 5}
+<2016-06-28 15:00:30,533> BAD OpSpecResult={'NumWordsWritten': 5, 'Result': 6, 'OpSpecID': 5}
+<2016-06-28 15:00:30,823> BAD OpSpecResult={'NumWordsWritten': 10, 'Result': 6, 'OpSpecID': 7}
+<2016-06-28 15:00:31,126> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:00:31,280> BAD OpSpecResult={'NumWordsWritten': 19, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 15:00:31,498> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:00:31,610> BAD OpSpecResult={'NumWordsWritten': 6, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 15:00:31,802> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:00:32,095> BAD OpSpecResult={'NumWordsWritten': 9, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 15:00:32,105> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:00:32,496> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:00:32,767> BAD OpSpecResult={'NumWordsWritten': 3, 'Result': 6, 'OpSpecID': 3}
+<2016-06-28 15:00:33,070> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:00:33,086> BAD OpSpecResult={'NumWordsWritten': 4, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 15:00:33,370> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:00:33,505> BAD OpSpecResult={'NumWordsWritten': 1, 'Result': 6, 'OpSpecID': 5}
+<2016-06-28 15:00:33,666> BAD OpSpecResult={'NumWordsWritten': 0, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 15:00:33,807> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:00:34,109> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:00:34,318> BAD OpSpecResult={'NumWordsWritten': 1, 'Result': 6, 'OpSpecID': 3}
+<2016-06-28 15:00:34,884> BAD OpSpecResult={'ReadDataWordCount': 0, 'ReadData': '', 'Result': 3, 'OpSpecID': 2}
+<2016-06-28 15:00:34,951> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:00:35,253> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:00:35,286> BAD OpSpecResult={'ReadDataWordCount': 0, 'ReadData': '', 'Result': 3, 'OpSpecID': 2}
+<2016-06-28 15:00:35,554> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:00:35,605> BAD OpSpecResult={'NumWordsWritten': 1, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 15:00:35,607> EPC did encode a good result
+<2016-06-28 15:00:36,075> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:00:36,092> BAD OpSpecResult={'NumWordsWritten': 1, 'Result': 6, 'OpSpecID': 3}
+<2016-06-28 15:00:36,173> BAD OpSpecResult={'NumWordsWritten': 2, 'Result': 6, 'OpSpecID': 5}
+<2016-06-28 15:00:36,331> BAD OpSpecResult={'NumWordsWritten': 2, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 15:00:36,477> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:00:36,749> BAD OpSpecResult={'NumWordsWritten': 2, 'Result': 6, 'OpSpecID': 3}
+<2016-06-28 15:00:36,835> BAD OpSpecResult={'ReadDataWordCount': 0, 'ReadData': '', 'Result': 3, 'OpSpecID': 4}
+<2016-06-28 15:00:37,000> BAD OpSpecResult={'NumWordsWritten': 2, 'Result': 6, 'OpSpecID': 5}
+<2016-06-28 15:00:37,466> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:00:37,934> BAD OpSpecResult={'NumWordsWritten': 7, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 15:00:38,129> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:00:38,335> BAD OpSpecResult={'NumWordsWritten': 2, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 15:00:38,431> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:00:38,576> BAD OpSpecResult={'NumWordsWritten': 2, 'Result': 6, 'OpSpecID': 3}
+<2016-06-28 15:00:38,936> BAD OpSpecResult={'NumWordsWritten': 3, 'Result': 6, 'OpSpecID': 3}
+<2016-06-28 15:00:39,254> BAD OpSpecResult={'NumWordsWritten': 1, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 15:00:39,402> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:00:39,575> BAD OpSpecResult={'NumWordsWritten': 0, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 15:00:39,705> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:00:39,818> BAD OpSpecResult={'ReadDataWordCount': 0, 'ReadData': '', 'Result': 3, 'OpSpecID': 4}
+<2016-06-28 15:00:40,542> BAD OpSpecResult={'NumWordsWritten': 12, 'Result': 6, 'OpSpecID': 7}
+<2016-06-28 15:00:40,725> BAD OpSpecResult={'NumWordsWritten': 30, 'Result': 6, 'OpSpecID': 3}
+<2016-06-28 15:00:41,028> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:00:41,286> BAD OpSpecResult={'NumWordsWritten': 1, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 15:00:41,328> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:00:41,524> BAD OpSpecResult={'NumWordsWritten': 4, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 15:00:41,630> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:00:41,935> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:00:42,236> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:00:42,405> BAD OpSpecResult={'NumWordsWritten': 5, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 15:00:42,576> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:00:42,878> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:00:42,976> BAD OpSpecResult={'NumWordsWritten': 1, 'Result': 6, 'OpSpecID': 3}
+<2016-06-28 15:00:43,078> BAD OpSpecResult={'ReadDataWordCount': 0, 'ReadData': '', 'Result': 3, 'OpSpecID': 8}
+<2016-06-28 15:00:43,272> BAD OpSpecResult={'NumWordsWritten': 7, 'Result': 6, 'OpSpecID': 5}
+<2016-06-28 15:00:43,575> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:00:43,885> BAD OpSpecResult={'NumWordsWritten': 7, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 15:00:43,954> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:00:44,084> BAD OpSpecResult={'NumWordsWritten': 3, 'Result': 6, 'OpSpecID': 3}
+<2016-06-28 15:00:44,490> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:00:44,585> BAD OpSpecResult={'NumWordsWritten': 5, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 15:00:44,791> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:00:44,906> BAD OpSpecResult={'ReadDataWordCount': 0, 'ReadData': '', 'Result': 3, 'OpSpecID': 2}
+<2016-06-28 15:00:45,094> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:00:45,396> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:00:45,473> BAD OpSpecResult={'NumWordsWritten': 2, 'Result': 6, 'OpSpecID': 5}
+<2016-06-28 15:00:45,627> BAD OpSpecResult={'NumWordsWritten': 3, 'Result': 6, 'OpSpecID': 5}
+<2016-06-28 15:00:45,867> BAD OpSpecResult={'NumWordsWritten': 2, 'Result': 6, 'OpSpecID': 3}
+<2016-06-28 15:00:46,037> BAD OpSpecResult={'NumWordsWritten': 7, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 15:00:46,253> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:00:46,758> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:00:47,058> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:00:47,193> BAD OpSpecResult={'NumWordsWritten': 5, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 15:00:47,359> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:00:47,607> BAD OpSpecResult={'NumWordsWritten': 2, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 15:00:47,661> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:00:48,296> BAD OpSpecResult={'NumWordsWritten': 7, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 15:00:48,439> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:00:48,628> BAD OpSpecResult={'NumWordsWritten': 1, 'Result': 6, 'OpSpecID': 5}
+<2016-06-28 15:00:49,096> BAD OpSpecResult={'NumWordsWritten': 5, 'Result': 6, 'OpSpecID': 3}
+<2016-06-28 15:00:49,261> BAD OpSpecResult={'NumWordsWritten': 9, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 15:00:49,398> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:00:49,672> BAD OpSpecResult={'NumWordsWritten': 3, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 15:00:49,892> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:00:50,452> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:00:50,627> BAD OpSpecResult={'ReadDataWordCount': 0, 'ReadData': '', 'Result': 3, 'OpSpecID': 2}
+<2016-06-28 15:00:50,850> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:00:51,267> BAD OpSpecResult={'NumWordsWritten': 2, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 15:00:51,414> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:00:51,687> BAD OpSpecResult={'NumWordsWritten': 1, 'Result': 6, 'OpSpecID': 3}
+<2016-06-28 15:00:52,087> BAD OpSpecResult={'NumWordsWritten': 5, 'Result': 6, 'OpSpecID': 3}
+<2016-06-28 15:00:52,605> BAD OpSpecResult={'NumWordsWritten': 9, 'Result': 6, 'OpSpecID': 5}
+<2016-06-28 15:00:52,903> BAD OpSpecResult={'NumWordsWritten': 17, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 15:00:53,119> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:00:53,239> BAD OpSpecResult={'NumWordsWritten': 3, 'Result': 6, 'OpSpecID': 5}
+<2016-06-28 15:00:53,541> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:00:53,666> BAD OpSpecResult={'NumWordsWritten': 9, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 15:00:53,862> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:00:53,923> BAD OpSpecResult={'NumWordsWritten': 7, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 15:00:54,163> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:00:54,465> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:00:54,827> BAD OpSpecResult={'NumWordsWritten': 3, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 15:00:54,975> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:00:55,280> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:00:55,484> BAD OpSpecResult={'NumWordsWritten': 2, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 15:00:55,619> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:00:56,365> BAD OpSpecResult={'NumWordsWritten': 7, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 15:00:56,439> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:00:56,882> BAD OpSpecResult={'NumWordsWritten': 4, 'Result': 6, 'OpSpecID': 3}
+<2016-06-28 15:00:57,183> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:00:57,200> BAD OpSpecResult={'NumWordsWritten': 9, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 15:00:57,484> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:00:57,607> BAD OpSpecResult={'NumWordsWritten': 1, 'Result': 6, 'OpSpecID': 3}
+<2016-06-28 15:00:57,908> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:00:57,927> BAD OpSpecResult={'ReadDataWordCount': 0, 'ReadData': '', 'Result': 3, 'OpSpecID': 2}
+<2016-06-28 15:00:58,209> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:00:58,409> BAD OpSpecResult={'ReadDataWordCount': 0, 'ReadData': '', 'Result': 3, 'OpSpecID': 4}
+<2016-06-28 15:00:59,216> BAD OpSpecResult={'NumWordsWritten': 15, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 15:00:59,360> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:00:59,458> BAD OpSpecResult={'NumWordsWritten': 4, 'Result': 6, 'OpSpecID': 3}
+<2016-06-28 15:00:59,857> BAD OpSpecResult={'NumWordsWritten': 10, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 15:01:00,000> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:01:00,301> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:01:00,498> BAD OpSpecResult={'NumWordsWritten': 7, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 15:01:00,641> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:01:00,816> BAD OpSpecResult={'NumWordsWritten': 2, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 15:01:00,942> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:01:01,868> BAD OpSpecResult={'NumWordsWritten': 10, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 15:01:02,018> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:01:02,109> BAD OpSpecResult={'ReadDataWordCount': 0, 'ReadData': '', 'Result': 3, 'OpSpecID': 4}
+<2016-06-28 15:01:02,655> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:01:03,026> BAD OpSpecResult={'NumWordsWritten': 15, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 15:01:03,049> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:01:03,569> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:01:03,685> BAD OpSpecResult={'NumWordsWritten': 2, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 15:01:03,869> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:01:04,469> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:01:04,566> BAD OpSpecResult={'NumWordsWritten': 6, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 15:01:04,769> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:01:05,108> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:01:05,408> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:01:06,007> 0248: wisent end of file reached.          --- Wisent time elapsed: 67.552 secs
+
+<2016-06-28 15:01:06,009> 0248: Wisp was in state: PROGRAMMING and is going to the next state --- Time elapsed: 67.824 secs
+<2016-06-28 15:01:06,009> 0248: Wisp is now in state: MEMCHECK
+<2016-06-28 15:01:06,418> 0248: memcheck finished
+<2016-06-28 15:01:06,418> 0248: 20 good and 0 bad memblocks
+<2016-06-28 15:01:06,419> 0248: Wisp was in state: MEMCHECK and is going to the next state --- Time elapsed: 68.234 secs
+<2016-06-28 15:01:06,419> 0248: Wisp is now in state: FINISH
+<2016-06-28 15:01:06,427> 0248: WrepWidget [WAITING 0.072, PROGRAMMING 0.270, MEMCHECK 67.825, FINISH 68.234]
+<2016-06-28 15:01:06,428> 0303: Wisp was in state: WAITING and is going to the next state --- Time elapsed: 68.389 secs
+<2016-06-28 15:01:06,428> 0303: Wisp was in state: GOTOBIOS and is going to the next state --- Time elapsed: 68.389 secs
+<2016-06-28 15:01:06,428> 0303: Wisp is now in state: PROGRAMMING
+<2016-06-28 15:01:06,431> 0303: First reprogramming messages send --- Wisent time elapsed: 0.002 secs
+<2016-06-28 15:01:06,431> 
+
+******************************* Next wisp *******************************
+
+<2016-06-28 15:01:06,731> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:01:07,031> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:01:07,389> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:01:07,842> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:01:08,263> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:01:09,169> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:01:09,558> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:01:09,859> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:01:10,175> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:01:10,475> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:01:10,923> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:01:11,760> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:01:12,080> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:01:12,380> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:01:13,207> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:01:13,462> 0303: wisent end of file reached.          --- Wisent time elapsed: 7.034 secs
+
+<2016-06-28 15:01:13,464> 0303: Wisp was in state: PROGRAMMING and is going to the next state --- Time elapsed: 75.425 secs
+<2016-06-28 15:01:13,464> 0303: Wisp is now in state: MEMCHECK
+<2016-06-28 15:01:13,949> 0303: memcheck finished
+<2016-06-28 15:01:13,949> 0303: 20 good and 0 bad memblocks
+<2016-06-28 15:01:13,950> 0303: Wisp was in state: MEMCHECK and is going to the next state --- Time elapsed: 75.911 secs
+<2016-06-28 15:01:13,950> 0303: Wisp is now in state: FINISH
+<2016-06-28 15:01:13,950> 0303: WrepWidget [WAITING 0.074, PROGRAMMING 68.389, MEMCHECK 75.426, FINISH 75.911]
+<2016-06-28 15:01:13,951> 0302: Wisp was in state: WAITING and is going to the next state --- Time elapsed: 75.617 secs
+<2016-06-28 15:01:13,951> 0302: Wisp was in state: GOTOBIOS and is going to the next state --- Time elapsed: 75.617 secs
+<2016-06-28 15:01:13,951> 0302: Wisp is now in state: PROGRAMMING
+<2016-06-28 15:01:13,956> 0302: First reprogramming messages send --- Wisent time elapsed: 0.005 secs
+<2016-06-28 15:01:13,957> 
+
+******************************* Next wisp *******************************
+
+<2016-06-28 15:01:14,256> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:01:14,377> BAD OpSpecResult={'NumWordsWritten': 11, 'Result': 6, 'OpSpecID': 3}
+<2016-06-28 15:01:14,680> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:01:14,980> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:01:15,032> BAD OpSpecResult={'NumWordsWritten': 8, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 15:01:15,281> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:01:15,584> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:01:15,885> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:01:15,943> BAD OpSpecResult={'NumWordsWritten': 2, 'Result': 6, 'OpSpecID': 3}
+<2016-06-28 15:01:16,100> BAD OpSpecResult={'NumWordsWritten': 3, 'Result': 6, 'OpSpecID': 5}
+<2016-06-28 15:01:16,535> BAD OpSpecResult={'NumWordsWritten': 12, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 15:01:16,580> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:01:17,417> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:01:17,592> BAD OpSpecResult={'NumWordsWritten': 18, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 15:01:17,789> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:01:18,092> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:01:18,393> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:01:18,787> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:01:19,083> BAD OpSpecResult={'NumWordsWritten': 12, 'Result': 6, 'OpSpecID': 3}
+<2016-06-28 15:01:19,105> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:01:19,707> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:01:19,738> BAD OpSpecResult={'NumWordsWritten': 21, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 15:01:20,007> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:01:20,311> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:01:20,611> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:01:20,652> BAD OpSpecResult={'NumWordsWritten': 5, 'Result': 6, 'OpSpecID': 3}
+<2016-06-28 15:01:20,954> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:01:20,973> BAD OpSpecResult={'NumWordsWritten': 2, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 15:01:21,254> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:01:21,556> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:01:21,908> BAD OpSpecResult={'NumWordsWritten': 3, 'Result': 6, 'OpSpecID': 7}
+<2016-06-28 15:01:22,211> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:01:22,511> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:01:22,811> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:01:23,252> BAD OpSpecResult={'NumWordsWritten': 4, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 15:01:23,319> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:01:23,795> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:01:23,984> BAD OpSpecResult={'NumWordsWritten': 5, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 15:01:24,095> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:01:24,397> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:01:24,700> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:01:25,000> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:01:25,301> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:01:25,751> BAD OpSpecResult={'NumWordsWritten': 4, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 15:01:25,895> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:01:26,295> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:01:26,432> BAD OpSpecResult={'NumWordsWritten': 1, 'Result': 6, 'OpSpecID': 5}
+<2016-06-28 15:01:26,734> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:01:26,831> BAD OpSpecResult={'NumWordsWritten': 7, 'Result': 6, 'OpSpecID': 5}
+<2016-06-28 15:01:27,364> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:01:27,709> BAD OpSpecResult={'NumWordsWritten': 14, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 15:01:27,776> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:01:28,208> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:01:28,509> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:01:28,966> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:01:29,562> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:01:29,683> BAD OpSpecResult={'NumWordsWritten': 7, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 15:01:29,862> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:01:30,312> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:01:30,461> BAD OpSpecResult={'NumWordsWritten': 10, 'Result': 6, 'OpSpecID': 3}
+<2016-06-28 15:01:30,553> BAD OpSpecResult={'NumWordsWritten': 4, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 15:01:30,764> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:01:31,066> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:01:31,657> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:01:31,958> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:01:32,475> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:01:32,926> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:01:33,226> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:01:33,527> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:01:34,174> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:01:34,190> BAD OpSpecResult={'NumWordsWritten': 18, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 15:01:34,474> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:01:34,904> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:01:34,999> BAD OpSpecResult={'NumWordsWritten': 14, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 15:01:35,204> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:01:35,506> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:01:35,806> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:01:36,106> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:01:36,982> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:01:37,001> BAD OpSpecResult={'NumWordsWritten': 4, 'Result': 6, 'OpSpecID': 3}
+<2016-06-28 15:01:37,303> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:01:37,480> BAD OpSpecResult={'NumWordsWritten': 11, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 15:01:37,701> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:01:38,108> BAD OpSpecResult={'NumWordsWritten': 6, 'Result': 6, 'OpSpecID': 5}
+<2016-06-28 15:01:38,417> BAD OpSpecResult={'NumWordsWritten': 8, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 15:01:38,543> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:01:39,304> 0302: wisent end of file reached.          --- Wisent time elapsed: 25.353 secs
+
+<2016-06-28 15:01:39,306> 0302: Wisp was in state: PROGRAMMING and is going to the next state --- Time elapsed: 100.972 secs
+<2016-06-28 15:01:39,306> 0302: Wisp is now in state: MEMCHECK
+<2016-06-28 15:01:40,272> 0302: memcheck finished
+<2016-06-28 15:01:40,272> 0302: 20 good and 0 bad memblocks
+<2016-06-28 15:01:40,273> 0302: Wisp was in state: MEMCHECK and is going to the next state --- Time elapsed: 101.939 secs
+<2016-06-28 15:01:40,273> 0302: Wisp is now in state: FINISH
+<2016-06-28 15:01:40,279> 0302: WrepWidget [WAITING 0.078, PROGRAMMING 75.617, MEMCHECK 100.972, FINISH 101.940]
+<2016-06-28 15:01:40,279> 0300: Wisp was in state: WAITING and is going to the next state --- Time elapsed: 102.353 secs
+<2016-06-28 15:01:40,279> 0300: Wisp was in state: GOTOBIOS and is going to the next state --- Time elapsed: 102.353 secs
+<2016-06-28 15:01:40,279> 0300: Wisp is now in state: PROGRAMMING
+<2016-06-28 15:01:40,282> 0300: First reprogramming messages send --- Wisent time elapsed: 0.002 secs
+<2016-06-28 15:01:40,282> 
+
+******************************* Next wisp *******************************
+
+<2016-06-28 15:01:40,791> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:01:41,123> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:01:41,483> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:01:42,430> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:01:42,777> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:01:43,112> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:01:44,365> 0300: wisent end of file reached.          --- Wisent time elapsed: 4.085 secs
+
+<2016-06-28 15:01:44,366> 0300: Wisp was in state: PROGRAMMING and is going to the next state --- Time elapsed: 106.440 secs
+<2016-06-28 15:01:44,366> 0300: Wisp is now in state: MEMCHECK
+<2016-06-28 15:01:44,601> 0300: memcheck finished
+<2016-06-28 15:01:44,602> 0300: 20 good and 0 bad memblocks
+<2016-06-28 15:01:44,603> 0300: Wisp was in state: MEMCHECK and is going to the next state --- Time elapsed: 106.677 secs
+<2016-06-28 15:01:44,603> 0300: Wisp is now in state: FINISH
+<2016-06-28 15:01:44,604> 0300: WrepWidget [WAITING 0.056, PROGRAMMING 102.353, MEMCHECK 106.440, FINISH 106.677]
+<2016-06-28 15:01:44,604> IOTXTreplace: 0300 0303 0248 0302: Wisp(s) is/are reprogrammed now
+<2016-06-28 15:01:44,604> [1;31mIOTXT-WARNING: Select a wisp first![1;0m
+<2016-06-28 15:06:28,718> IOTXTreplace: Reprogramming data from "ihex/ccs1.hex" to wisps: 0300 and 0303 and 0248 and 0302
+<2016-06-28 15:06:28,823> 0300: *****************************************
+<2016-06-28 15:06:28,824> 0300: * Wisp to program:                 0300 *
+<2016-06-28 15:06:28,824> 0300: * Words to send:       2527 in  9 lines *
+<2016-06-28 15:06:28,824> 0300: *****************************************
+<2016-06-28 15:06:28,827> 0300: Wisp is now in state: WAITING
+<2016-06-28 15:06:28,879> 0300: * File to load:                    None *
+<2016-06-28 15:06:28,879> 0300: *****************************************
+<2016-06-28 15:06:28,946> 0303: *****************************************
+<2016-06-28 15:06:28,946> 0303: * Wisp to program:                 0303 *
+<2016-06-28 15:06:28,947> 0303: * Words to send:       2527 in  9 lines *
+<2016-06-28 15:06:28,947> 0303: *****************************************
+<2016-06-28 15:06:28,947> 0303: Wisp is now in state: WAITING
+<2016-06-28 15:06:28,997> 0303: * File to load:                    None *
+<2016-06-28 15:06:28,998> 0303: *****************************************
+<2016-06-28 15:06:29,076> 0248: *****************************************
+<2016-06-28 15:06:29,077> 0248: * Wisp to program:                 0248 *
+<2016-06-28 15:06:29,077> 0248: * Words to send:       2527 in  9 lines *
+<2016-06-28 15:06:29,077> 0248: *****************************************
+<2016-06-28 15:06:29,077> 0248: Wisp is now in state: WAITING
+<2016-06-28 15:06:29,130> 0248: * File to load:                    None *
+<2016-06-28 15:06:29,130> 0248: *****************************************
+<2016-06-28 15:06:29,217> 0302: *****************************************
+<2016-06-28 15:06:29,218> 0302: * Wisp to program:                 0302 *
+<2016-06-28 15:06:29,218> 0302: * Words to send:       2527 in  9 lines *
+<2016-06-28 15:06:29,218> 0302: *****************************************
+<2016-06-28 15:06:29,218> 0302: Wisp is now in state: WAITING
+<2016-06-28 15:06:29,280> 0302: * File to load:                    None *
+<2016-06-28 15:06:29,280> 0302: *****************************************
+<2016-06-28 15:06:29,280> 0248: Wisp was in state: WAITING and is going to the next state --- Time elapsed: 0.282 secs
+<2016-06-28 15:06:29,280> 0248: Wisp was in state: GOTOBIOS and is going to the next state --- Time elapsed: 0.282 secs
+<2016-06-28 15:06:29,280> 0248: Wisp is now in state: PROGRAMMING
+<2016-06-28 15:06:29,288> 0248: First reprogramming messages send --- Wisent time elapsed: 0.003 secs
+<2016-06-28 15:06:29,443> BAD OpSpecResult={'NumWordsWritten': 5, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 15:06:29,588> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:06:29,846> BAD OpSpecResult={'NumWordsWritten': 9, 'Result': 6, 'OpSpecID': 3}
+<2016-06-28 15:06:29,975> BAD OpSpecResult={'NumWordsWritten': 5, 'Result': 6, 'OpSpecID': 5}
+<2016-06-28 15:06:30,134> BAD OpSpecResult={'NumWordsWritten': 16, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 15:06:30,280> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:06:30,582> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:06:30,924> BAD OpSpecResult={'NumWordsWritten': 5, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 15:06:31,060> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:06:31,362> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:06:31,417> BAD OpSpecResult={'NumWordsWritten': 3, 'Result': 6, 'OpSpecID': 5}
+<2016-06-28 15:06:31,520> BAD OpSpecResult={'NumWordsWritten': 5, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 15:06:31,719> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:06:32,007> BAD OpSpecResult={'NumWordsWritten': 5, 'Result': 6, 'OpSpecID': 3}
+<2016-06-28 15:06:32,336> BAD OpSpecResult={'NumWordsWritten': 7, 'Result': 6, 'OpSpecID': 3}
+<2016-06-28 15:06:32,528> BAD OpSpecResult={'NumWordsWritten': 6, 'Result': 6, 'OpSpecID': 5}
+<2016-06-28 15:06:32,953> BAD OpSpecResult={'NumWordsWritten': 3, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 15:06:33,025> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:06:33,327> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:06:33,628> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:06:33,764> BAD OpSpecResult={'NumWordsWritten': 9, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 15:06:33,928> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:06:34,164> BAD OpSpecResult={'NumWordsWritten': 2, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 15:06:34,231> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:06:34,666> BAD OpSpecResult={'NumWordsWritten': 5, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 15:06:34,871> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:06:35,743> BAD OpSpecResult={'NumWordsWritten': 6, 'Result': 6, 'OpSpecID': 5}
+<2016-06-28 15:06:36,245> BAD OpSpecResult={'NumWordsWritten': 20, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 15:06:36,258> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:06:36,383> BAD OpSpecResult={'NumWordsWritten': 9, 'Result': 6, 'OpSpecID': 7}
+<2016-06-28 15:06:36,535> BAD OpSpecResult={'NumWordsWritten': 16, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 15:06:36,687> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:06:36,856> BAD OpSpecResult={'ReadDataWordCount': 0, 'ReadData': '', 'Result': 1, 'OpSpecID': 2}
+<2016-06-28 15:06:36,990> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:06:37,222> BAD OpSpecResult={'NumWordsWritten': 0, 'Result': 6, 'OpSpecID': 7}
+<2016-06-28 15:06:37,299> BAD OpSpecResult={'NumWordsWritten': 1, 'Result': 6, 'OpSpecID': 5}
+<2016-06-28 15:06:37,602> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:06:37,697> BAD OpSpecResult={'NumWordsWritten': 4, 'Result': 6, 'OpSpecID': 5}
+<2016-06-28 15:06:37,798> BAD OpSpecResult={'NumWordsWritten': 2, 'Result': 6, 'OpSpecID': 3}
+<2016-06-28 15:06:37,970> BAD OpSpecResult={'NumWordsWritten': 2, 'Result': 6, 'OpSpecID': 3}
+<2016-06-28 15:06:38,334> BAD OpSpecResult={'NumWordsWritten': 5, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 15:06:38,401> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:06:38,962> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:06:39,415> BAD OpSpecResult={'NumWordsWritten': 15, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 15:06:39,558> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:06:39,738> BAD OpSpecResult={'NumWordsWritten': 4, 'Result': 6, 'OpSpecID': 5}
+<2016-06-28 15:06:39,896> BAD OpSpecResult={'NumWordsWritten': 8, 'Result': 6, 'OpSpecID': 3}
+<2016-06-28 15:06:40,200> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:06:40,401> BAD OpSpecResult={'NumWordsWritten': 9, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 15:06:40,536> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:06:40,838> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:06:40,966> BAD OpSpecResult={'ReadDataWordCount': 0, 'ReadData': '', 'Result': 3, 'OpSpecID': 2}
+<2016-06-28 15:06:41,138> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:06:41,839> BAD OpSpecResult={'NumWordsWritten': 6, 'Result': 6, 'OpSpecID': 3}
+<2016-06-28 15:06:42,034> BAD OpSpecResult={'NumWordsWritten': 4, 'Result': 6, 'OpSpecID': 3}
+<2016-06-28 15:06:42,338> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:06:42,691> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:06:42,793> BAD OpSpecResult={'NumWordsWritten': 14, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 15:06:42,991> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:06:43,108> BAD OpSpecResult={'ReadDataWordCount': 0, 'ReadData': '', 'Result': 3, 'OpSpecID': 2}
+<2016-06-28 15:06:43,294> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:06:43,590> BAD OpSpecResult={'NumWordsWritten': 5, 'Result': 6, 'OpSpecID': 3}
+<2016-06-28 15:06:43,892> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:06:44,154> BAD OpSpecResult={'NumWordsWritten': 4, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 15:06:44,155> EPC did encode a good result
+<2016-06-28 15:06:44,397> BAD OpSpecResult={'NumWordsWritten': 0, 'Result': 6, 'OpSpecID': 3}
+<2016-06-28 15:06:44,736> BAD OpSpecResult={'NumWordsWritten': 8, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 15:06:44,805> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:06:44,908> BAD OpSpecResult={'NumWordsWritten': 2, 'Result': 6, 'OpSpecID': 3}
+<2016-06-28 15:06:45,157> BAD OpSpecResult={'NumWordsWritten': 0, 'Result': 6, 'OpSpecID': 5}
+<2016-06-28 15:06:45,420> BAD OpSpecResult={'NumWordsWritten': 5, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 15:06:45,459> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:06:45,580> BAD OpSpecResult={'NumWordsWritten': 3, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 15:06:45,764> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:06:46,138> BAD OpSpecResult={'NumWordsWritten': 3, 'Result': 6, 'OpSpecID': 5}
+<2016-06-28 15:06:46,440> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:06:46,625> BAD OpSpecResult={'NumWordsWritten': 3, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 15:06:46,763> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:06:46,877> BAD OpSpecResult={'NumWordsWritten': 3, 'Result': 6, 'OpSpecID': 3}
+<2016-06-28 15:06:47,041> BAD OpSpecResult={'NumWordsWritten': 3, 'Result': 6, 'OpSpecID': 7}
+<2016-06-28 15:06:47,208> BAD OpSpecResult={'NumWordsWritten': 3, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 15:06:47,344> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:06:47,879> BAD OpSpecResult={'NumWordsWritten': 7, 'Result': 6, 'OpSpecID': 7}
+<2016-06-28 15:06:48,060> BAD OpSpecResult={'ReadDataWordCount': 0, 'ReadData': '', 'Result': 3, 'OpSpecID': 8}
+<2016-06-28 15:06:48,136> BAD OpSpecResult={'NumWordsWritten': 8, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 15:06:48,362> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:06:48,535> BAD OpSpecResult={'NumWordsWritten': 4, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 15:06:48,665> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:06:48,778> BAD OpSpecResult={'NumWordsWritten': 3, 'Result': 6, 'OpSpecID': 5}
+<2016-06-28 15:06:49,081> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:06:49,381> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:06:49,661> BAD OpSpecResult={'ReadDataWordCount': 0, 'ReadData': '', 'Result': 3, 'OpSpecID': 2}
+<2016-06-28 15:06:49,682> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:06:49,983> BAD OpSpecResult={'NumWordsWritten': 0, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 15:06:50,128> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:06:50,865> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:06:51,170> BAD OpSpecResult={'NumWordsWritten': 8, 'Result': 6, 'OpSpecID': 5}
+<2016-06-28 15:06:51,472> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:06:51,772> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:06:51,956> BAD OpSpecResult={'NumWordsWritten': 10, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 15:06:52,103> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:06:52,405> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:06:52,518> BAD OpSpecResult={'NumWordsWritten': 5, 'Result': 6, 'OpSpecID': 5}
+<2016-06-28 15:06:52,820> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:06:52,969> BAD OpSpecResult={'NumWordsWritten': 11, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 15:06:53,166> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:06:53,366> BAD OpSpecResult={'NumWordsWritten': 7, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 15:06:53,469> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:06:53,607> BAD OpSpecResult={'NumWordsWritten': 1, 'Result': 6, 'OpSpecID': 3}
+<2016-06-28 15:06:54,007> BAD OpSpecResult={'NumWordsWritten': 7, 'Result': 6, 'OpSpecID': 3}
+<2016-06-28 15:06:54,395> BAD OpSpecResult={'NumWordsWritten': 5, 'Result': 6, 'OpSpecID': 3}
+<2016-06-28 15:06:54,580> BAD OpSpecResult={'NumWordsWritten': 8, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 15:06:54,697> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:06:54,815> BAD OpSpecResult={'NumWordsWritten': 4, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 15:06:55,000> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:06:55,699> BAD OpSpecResult={'NumWordsWritten': 2, 'Result': 6, 'OpSpecID': 3}
+<2016-06-28 15:06:55,940> BAD OpSpecResult={'NumWordsWritten': 5, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 15:06:56,006> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:06:56,099> BAD OpSpecResult={'NumWordsWritten': 2, 'Result': 6, 'OpSpecID': 3}
+<2016-06-28 15:06:56,258> BAD OpSpecResult={'NumWordsWritten': 2, 'Result': 6, 'OpSpecID': 5}
+<2016-06-28 15:06:56,441> BAD OpSpecResult={'NumWordsWritten': 3, 'Result': 6, 'OpSpecID': 5}
+<2016-06-28 15:06:56,553> BAD OpSpecResult={'NumWordsWritten': 5, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 15:06:56,743> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:06:57,504> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:06:57,619> BAD OpSpecResult={'NumWordsWritten': 7, 'Result': 6, 'OpSpecID': 3}
+<2016-06-28 15:06:58,041> BAD OpSpecResult={'NumWordsWritten': 11, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 15:06:58,247> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:06:58,449> BAD OpSpecResult={'ReadDataWordCount': 0, 'ReadData': '', 'Result': 3, 'OpSpecID': 2}
+<2016-06-28 15:06:58,550> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:06:58,852> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:06:58,876> BAD OpSpecResult={'NumWordsWritten': 0, 'Result': 6, 'OpSpecID': 3}
+<2016-06-28 15:06:59,040> BAD OpSpecResult={'NumWordsWritten': 0, 'Result': 6, 'OpSpecID': 7}
+<2016-06-28 15:06:59,202> BAD OpSpecResult={'NumWordsWritten': 1, 'Result': 6, 'OpSpecID': 3}
+<2016-06-28 15:06:59,558> BAD OpSpecResult={'NumWordsWritten': 6, 'Result': 6, 'OpSpecID': 3}
+<2016-06-28 15:06:59,660> BAD OpSpecResult={'NumWordsWritten': 7, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 15:06:59,861> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:07:00,545> BAD OpSpecResult={'NumWordsWritten': 9, 'Result': 6, 'OpSpecID': 3}
+<2016-06-28 15:07:00,749> BAD OpSpecResult={'NumWordsWritten': 4, 'Result': 6, 'OpSpecID': 3}
+<2016-06-28 15:07:01,086> BAD OpSpecResult={'NumWordsWritten': 5, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 15:07:01,234> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:07:01,406> BAD OpSpecResult={'NumWordsWritten': 9, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 15:07:01,538> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:07:01,737> BAD OpSpecResult={'NumWordsWritten': 4, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 15:07:01,965> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:07:02,078> BAD OpSpecResult={'NumWordsWritten': 2, 'Result': 6, 'OpSpecID': 3}
+<2016-06-28 15:07:02,239> BAD OpSpecResult={'ReadDataWordCount': 0, 'ReadData': '', 'Result': 3, 'OpSpecID': 6}
+<2016-06-28 15:07:02,624> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:07:02,717> BAD OpSpecResult={'NumWordsWritten': 4, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 15:07:02,925> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:07:03,344> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:07:03,764> BAD OpSpecResult={'NumWordsWritten': 6, 'Result': 6, 'OpSpecID': 3}
+<2016-06-28 15:07:04,246> BAD OpSpecResult={'NumWordsWritten': 5, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 15:07:04,329> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:07:04,524> BAD OpSpecResult={'NumWordsWritten': 6, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 15:07:04,734> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:07:05,032> BAD OpSpecResult={'NumWordsWritten': 1, 'Result': 6, 'OpSpecID': 3}
+<2016-06-28 15:07:05,297> BAD OpSpecResult={'NumWordsWritten': 2, 'Result': 6, 'OpSpecID': 3}
+<2016-06-28 15:07:05,764> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:07:05,779> BAD OpSpecResult={'ReadDataWordCount': 0, 'ReadData': '', 'Result': 1, 'OpSpecID': 2}
+<2016-06-28 15:07:06,064> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:07:06,367> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:07:06,418> BAD OpSpecResult={'NumWordsWritten': 3, 'Result': 6, 'OpSpecID': 3}
+<2016-06-28 15:07:06,929> BAD OpSpecResult={'NumWordsWritten': 8, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 15:07:07,064> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:07:07,195> BAD OpSpecResult={'NumWordsWritten': 2, 'Result': 6, 'OpSpecID': 3}
+<2016-06-28 15:07:07,370> BAD OpSpecResult={'NumWordsWritten': 3, 'Result': 6, 'OpSpecID': 5}
+<2016-06-28 15:07:07,688> BAD OpSpecResult={'NumWordsWritten': 7, 'Result': 6, 'OpSpecID': 3}
+<2016-06-28 15:07:07,848> BAD OpSpecResult={'NumWordsWritten': 9, 'Result': 6, 'OpSpecID': 3}
+<2016-06-28 15:07:08,150> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:07:08,407> BAD OpSpecResult={'NumWordsWritten': 2, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 15:07:08,475> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:07:08,648> BAD OpSpecResult={'NumWordsWritten': 0, 'Result': 6, 'OpSpecID': 3}
+<2016-06-28 15:07:08,808> BAD OpSpecResult={'NumWordsWritten': 2, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 15:07:08,950> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:07:09,290> BAD OpSpecResult={'NumWordsWritten': 3, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 15:07:09,435> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:07:09,737> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:07:09,931> BAD OpSpecResult={'NumWordsWritten': 2, 'Result': 6, 'OpSpecID': 5}
+<2016-06-28 15:07:10,199> BAD OpSpecResult={'NumWordsWritten': 3, 'Result': 6, 'OpSpecID': 3}
+<2016-06-28 15:07:10,286> BAD OpSpecResult={'NumWordsWritten': 3, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 15:07:10,286> EPC did encode a good result
+<2016-06-28 15:07:10,448> BAD OpSpecResult={'NumWordsWritten': 2, 'Result': 6, 'OpSpecID': 3}
+<2016-06-28 15:07:10,750> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:07:10,768> BAD OpSpecResult={'NumWordsWritten': 1, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 15:07:10,769> EPC did encode a good result
+<2016-06-28 15:07:11,011> BAD OpSpecResult={'NumWordsWritten': 0, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 15:07:11,070> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:07:11,372> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:07:11,414> BAD OpSpecResult={'ReadDataWordCount': 0, 'ReadData': '', 'Result': 1, 'OpSpecID': 2}
+<2016-06-28 15:07:11,673> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:07:11,980> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:07:12,051> BAD OpSpecResult={'ReadDataWordCount': 0, 'ReadData': '', 'Result': 3, 'OpSpecID': 8}
+<2016-06-28 15:07:12,738> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:07:12,748> BAD OpSpecResult={'NumWordsWritten': 5, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 15:07:13,038> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:07:13,148> BAD OpSpecResult={'NumWordsWritten': 0, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 15:07:13,340> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:07:13,828> BAD OpSpecResult={'NumWordsWritten': 6, 'Result': 6, 'OpSpecID': 3}
+<2016-06-28 15:07:13,989> BAD OpSpecResult={'NumWordsWritten': 5, 'Result': 6, 'OpSpecID': 5}
+<2016-06-28 15:07:14,292> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:07:14,597> BAD OpSpecResult={'NumWordsWritten': 1, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 15:07:14,667> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:07:14,918> BAD OpSpecResult={'NumWordsWritten': 2, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 15:07:14,970> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:07:15,079> BAD OpSpecResult={'NumWordsWritten': 1, 'Result': 6, 'OpSpecID': 5}
+<2016-06-28 15:07:15,382> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:07:15,560> BAD OpSpecResult={'NumWordsWritten': 6, 'Result': 6, 'OpSpecID': 5}
+<2016-06-28 15:07:15,790> BAD OpSpecResult={'NumWordsWritten': 6, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 15:07:15,990> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:07:16,108> BAD OpSpecResult={'NumWordsWritten': 7, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 15:07:16,292> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:07:16,679> BAD OpSpecResult={'ReadDataWordCount': 0, 'ReadData': '', 'Result': 1, 'OpSpecID': 2}
+<2016-06-28 15:07:16,748> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:07:17,091> BAD OpSpecResult={'NumWordsWritten': 3, 'Result': 6, 'OpSpecID': 3}
+<2016-06-28 15:07:17,275> BAD OpSpecResult={'NumWordsWritten': 2, 'Result': 6, 'OpSpecID': 3}
+<2016-06-28 15:07:17,478> BAD OpSpecResult={'NumWordsWritten': 4, 'Result': 6, 'OpSpecID': 3}
+<2016-06-28 15:07:17,958> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:07:17,973> BAD OpSpecResult={'NumWordsWritten': 5, 'Result': 6, 'OpSpecID': 3}
+<2016-06-28 15:07:18,072> BAD OpSpecResult={'NumWordsWritten': 2, 'Result': 6, 'OpSpecID': 3}
+<2016-06-28 15:07:18,182> BAD OpSpecResult={'NumWordsWritten': 9, 'Result': 6, 'OpSpecID': 3}
+<2016-06-28 15:07:18,463> BAD OpSpecResult={'NumWordsWritten': 13, 'Result': 6, 'OpSpecID': 5}
+<2016-06-28 15:07:18,766> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:07:18,778> BAD OpSpecResult={'NumWordsWritten': 6, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 15:07:19,066> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:07:19,579> BAD OpSpecResult={'NumWordsWritten': 11, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 15:07:19,781> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:07:19,991> BAD OpSpecResult={'NumWordsWritten': 2, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 15:07:20,084> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:07:20,389> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:07:20,689> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:07:20,709> BAD OpSpecResult={'NumWordsWritten': 0, 'Result': 6, 'OpSpecID': 3}
+<2016-06-28 15:07:20,790> BAD OpSpecResult={'NumWordsWritten': 1, 'Result': 6, 'OpSpecID': 5}
+<2016-06-28 15:07:21,027> BAD OpSpecResult={'NumWordsWritten': 0, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 15:07:21,093> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:07:21,190> BAD OpSpecResult={'NumWordsWritten': 1, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 15:07:21,395> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:07:21,749> BAD OpSpecResult={'NumWordsWritten': 3, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 15:07:21,895> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:07:22,607> BAD OpSpecResult={'NumWordsWritten': 11, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 15:07:22,809> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:07:23,009> BAD OpSpecResult={'NumWordsWritten': 1, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 15:07:23,111> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:07:23,330> BAD OpSpecResult={'NumWordsWritten': 2, 'Result': 6, 'OpSpecID': 5}
+<2016-06-28 15:07:23,649> BAD OpSpecResult={'ReadDataWordCount': 0, 'ReadData': '', 'Result': 3, 'OpSpecID': 2}
+<2016-06-28 15:07:23,793> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:07:24,096> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:07:24,517> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:07:24,842> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:07:25,172> BAD OpSpecResult={'NumWordsWritten': 4, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 15:07:25,234> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:07:25,345> BAD OpSpecResult={'NumWordsWritten': 5, 'Result': 6, 'OpSpecID': 3}
+<2016-06-28 15:07:25,671> BAD OpSpecResult={'NumWordsWritten': 2, 'Result': 6, 'OpSpecID': 3}
+<2016-06-28 15:07:25,753> BAD OpSpecResult={'NumWordsWritten': 6, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 15:07:25,973> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:07:26,461> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:07:26,639> BAD OpSpecResult={'ReadDataWordCount': 0, 'ReadData': '', 'Result': 3, 'OpSpecID': 2}
+<2016-06-28 15:07:26,859> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:07:26,969> BAD OpSpecResult={'NumWordsWritten': 3, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 15:07:27,160> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:07:27,691> BAD OpSpecResult={'NumWordsWritten': 3, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 15:07:27,914> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:07:28,172> BAD OpSpecResult={'ReadDataWordCount': 0, 'ReadData': '', 'Result': 3, 'OpSpecID': 2}
+<2016-06-28 15:07:28,216> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:07:28,988> BAD OpSpecResult={'NumWordsWritten': 16, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 15:07:29,132> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:07:29,433> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:07:29,731> BAD OpSpecResult={'NumWordsWritten': 7, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 15:07:29,853> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:07:30,154> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:07:30,314> BAD OpSpecResult={'NumWordsWritten': 3, 'Result': 6, 'OpSpecID': 3}
+<2016-06-28 15:07:31,014> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:07:31,111> BAD OpSpecResult={'NumWordsWritten': 5, 'Result': 6, 'OpSpecID': 3}
+<2016-06-28 15:07:31,287> BAD OpSpecResult={'NumWordsWritten': 2, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 15:07:31,412> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:07:31,721> BAD OpSpecResult={'NumWordsWritten': 3, 'Result': 6, 'OpSpecID': 3}
+<2016-06-28 15:07:32,196> BAD OpSpecResult={'ReadDataWordCount': 0, 'ReadData': '', 'Result': 3, 'OpSpecID': 2}
+<2016-06-28 15:07:32,261> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:07:32,517> BAD OpSpecResult={'NumWordsWritten': 0, 'Result': 6, 'OpSpecID': 3}
+<2016-06-28 15:07:32,831> BAD OpSpecResult={'NumWordsWritten': 3, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 15:07:32,978> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:07:33,337> BAD OpSpecResult={'NumWordsWritten': 3, 'Result': 6, 'OpSpecID': 3}
+<2016-06-28 15:07:33,445> BAD OpSpecResult={'NumWordsWritten': 2, 'Result': 6, 'OpSpecID': 3}
+<2016-06-28 15:07:33,825> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:07:34,542> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:07:35,045> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:07:35,061> 0248: wisent end of file reached.          --- Wisent time elapsed: 65.777 secs
+
+<2016-06-28 15:07:35,063> 0248: Wisp was in state: PROGRAMMING and is going to the next state --- Time elapsed: 66.065 secs
+<2016-06-28 15:07:35,063> 0248: Wisp is now in state: MEMCHECK
+<2016-06-28 15:07:35,460> 0248: memcheck finished
+<2016-06-28 15:07:35,460> 0248: 25 good and 1 bad memblocks
+<2016-06-28 15:07:35,461> 0248: Wisp was in state: MEMCHECK and is going to the next state --- Time elapsed: 66.463 secs
+<2016-06-28 15:07:35,510> 0248: *****************************************
+<2016-06-28 15:07:35,510> 0248: * Wisp to program:                 0248 *
+<2016-06-28 15:07:35,510> 0248: * Words to send:         16 in  1 lines *
+<2016-06-28 15:07:35,510> 0248: *****************************************
+<2016-06-28 15:07:35,511> 0248: * Reduced nr of words by memcheck: 2511 *
+<2016-06-28 15:07:35,511> 0248: *****************************************
+<2016-06-28 15:07:35,511> 0248: Wisp is now in state: PROGRAMMING
+<2016-06-28 15:07:35,544> 0248: First reprogramming messages send --- Wisent time elapsed: 0.001 secs
+<2016-06-28 15:07:35,704> BAD OpSpecResult={'NumWordsWritten': 1, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 15:07:35,844> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:07:36,103> BAD OpSpecResult={'NumWordsWritten': 7, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 15:07:36,241> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:07:36,351> BAD OpSpecResult={'NumWordsWritten': 4, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 15:07:36,541> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:07:37,160> 0248: wisent end of file reached.          --- Wisent time elapsed: 1.617 secs
+
+<2016-06-28 15:07:37,160> 0248: Wisp was in state: PROGRAMMING and is going to the next state --- Time elapsed: 68.162 secs
+<2016-06-28 15:07:37,160> 0248: Wisp is now in state: MEMCHECK
+<2016-06-28 15:07:37,325> 0248: memcheck finished
+<2016-06-28 15:07:37,325> 0248: 29 good and 0 bad memblocks
+<2016-06-28 15:07:37,325> 0248: Wisp was in state: MEMCHECK and is going to the next state --- Time elapsed: 68.327 secs
+<2016-06-28 15:07:37,325> 0248: Wisp is now in state: FINISH
+<2016-06-28 15:07:37,327> 0248: WrepWidget [WAITING 0.079, PROGRAMMING 0.282 66.513, MEMCHECK 66.065 68.163, FINISH 68.327]
+<2016-06-28 15:07:37,327> 0303: Wisp was in state: WAITING and is going to the next state --- Time elapsed: 68.448 secs
+<2016-06-28 15:07:37,328> 0303: Wisp was in state: GOTOBIOS and is going to the next state --- Time elapsed: 68.448 secs
+<2016-06-28 15:07:37,328> 0303: Wisp is now in state: PROGRAMMING
+<2016-06-28 15:07:37,352> 0303: First reprogramming messages send --- Wisent time elapsed: 0.024 secs
+<2016-06-28 15:07:37,353> 
+
+******************************* Next wisp *******************************
+
+<2016-06-28 15:07:37,938> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:07:38,288> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:07:38,626> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:07:38,926> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:07:39,226> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:07:39,782> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:07:40,394> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:07:40,724> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:07:41,093> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:07:41,501> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:07:41,907> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:07:42,252> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:07:42,732> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:07:43,068> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:07:43,426> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:07:43,524> 0303: wisent end of file reached.          --- Wisent time elapsed: 6.196 secs
+
+<2016-06-28 15:07:43,526> 0303: Wisp was in state: PROGRAMMING and is going to the next state --- Time elapsed: 74.646 secs
+<2016-06-28 15:07:43,526> 0303: Wisp is now in state: MEMCHECK
+<2016-06-28 15:07:44,002> 0303: memcheck finished
+<2016-06-28 15:07:44,002> 0303: 19 good and 1 bad memblocks
+<2016-06-28 15:07:44,003> 0303: Wisp was in state: MEMCHECK and is going to the next state --- Time elapsed: 75.124 secs
+<2016-06-28 15:07:44,047> 0303: *****************************************
+<2016-06-28 15:07:44,048> 0303: * Wisp to program:                 0303 *
+<2016-06-28 15:07:44,048> 0303: * Words to send:          4 in  1 lines *
+<2016-06-28 15:07:44,048> 0303: *****************************************
+<2016-06-28 15:07:44,048> 0303: * Reduced nr of words by memcheck: 2523 *
+<2016-06-28 15:07:44,048> 0303: *****************************************
+<2016-06-28 15:07:44,048> 0303: Wisp is now in state: PROGRAMMING
+<2016-06-28 15:07:44,067> 0303: First reprogramming messages send --- Wisent time elapsed: 0.001 secs
+<2016-06-28 15:07:44,368> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:07:44,668> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:07:44,961> 0303: wisent end of file reached.          --- Wisent time elapsed: 0.894 secs
+
+<2016-06-28 15:07:44,963> 0303: Wisp was in state: PROGRAMMING and is going to the next state --- Time elapsed: 76.083 secs
+<2016-06-28 15:07:44,963> 0303: Wisp is now in state: MEMCHECK
+<2016-06-28 15:07:45,282> 0303: memcheck finished
+<2016-06-28 15:07:45,282> 0303: 22 good and 0 bad memblocks
+<2016-06-28 15:07:45,282> 0303: Wisp was in state: MEMCHECK and is going to the next state --- Time elapsed: 76.403 secs
+<2016-06-28 15:07:45,283> 0303: Wisp is now in state: FINISH
+<2016-06-28 15:07:45,283> 0303: WrepWidget [WAITING 0.068, PROGRAMMING 68.448 75.169, MEMCHECK 74.646 76.084, FINISH 76.403]
+<2016-06-28 15:07:45,284> 0302: Wisp was in state: WAITING and is going to the next state --- Time elapsed: 76.153 secs
+<2016-06-28 15:07:45,284> 0302: Wisp was in state: GOTOBIOS and is going to the next state --- Time elapsed: 76.153 secs
+<2016-06-28 15:07:45,284> 0302: Wisp is now in state: PROGRAMMING
+<2016-06-28 15:07:45,286> 0302: First reprogramming messages send --- Wisent time elapsed: 0.002 secs
+<2016-06-28 15:07:45,287> 
+
+******************************* Next wisp *******************************
+
+<2016-06-28 15:07:45,815> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:07:46,141> BAD OpSpecResult={'NumWordsWritten': 7, 'Result': 6, 'OpSpecID': 3}
+<2016-06-28 15:07:46,225> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:07:46,528> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:07:46,828> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:07:47,114> BAD OpSpecResult={'NumWordsWritten': 1, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 15:07:47,128> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:07:47,430> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:07:47,440> BAD OpSpecResult={'NumWordsWritten': 8, 'Result': 6, 'OpSpecID': 3}
+<2016-06-28 15:07:47,850> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:07:48,166> BAD OpSpecResult={'NumWordsWritten': 8, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 15:07:48,231> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:07:48,533> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:07:48,833> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:07:49,134> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:07:49,289> BAD OpSpecResult={'NumWordsWritten': 14, 'Result': 6, 'OpSpecID': 5}
+<2016-06-28 15:07:49,450> BAD OpSpecResult={'NumWordsWritten': 29, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 15:07:49,592> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:07:49,894> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:07:50,017> BAD OpSpecResult={'NumWordsWritten': 2, 'Result': 6, 'OpSpecID': 5}
+<2016-06-28 15:07:50,319> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:07:50,619> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:07:50,884> BAD OpSpecResult={'NumWordsWritten': 21, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 15:07:51,066> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:07:51,368> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:07:51,669> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:07:51,692> BAD OpSpecResult={'NumWordsWritten': 0, 'Result': 6, 'OpSpecID': 5}
+<2016-06-28 15:07:51,996> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:07:52,296> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:07:52,597> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:07:52,936> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:07:53,236> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:07:53,536> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:07:53,933> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:07:54,234> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:07:54,535> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:07:54,835> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:07:54,880> BAD OpSpecResult={'NumWordsWritten': 12, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 15:07:55,135> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:07:55,438> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:07:55,738> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:07:55,937> BAD OpSpecResult={'NumWordsWritten': 17, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 15:07:56,038> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:07:56,452> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:07:56,752> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:07:57,052> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:07:57,412> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:07:57,712> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:07:58,012> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:07:58,317> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:07:58,473> BAD OpSpecResult={'NumWordsWritten': 20, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 15:07:58,617> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:07:58,919> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:07:59,220> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:07:59,481> BAD OpSpecResult={'NumWordsWritten': 6, 'Result': 6, 'OpSpecID': 3}
+<2016-06-28 15:08:00,130> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:08:00,297> BAD OpSpecResult={'NumWordsWritten': 22, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 15:08:00,430> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:08:00,848> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:08:00,910> BAD OpSpecResult={'NumWordsWritten': 16, 'Result': 6, 'OpSpecID': 7}
+<2016-06-28 15:08:01,214> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:08:01,303> BAD OpSpecResult={'NumWordsWritten': 12, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 15:08:01,514> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:08:01,820> BAD OpSpecResult={'NumWordsWritten': 3, 'Result': 6, 'OpSpecID': 3}
+<2016-06-28 15:08:02,084> BAD OpSpecResult={'NumWordsWritten': 6, 'Result': 6, 'OpSpecID': 3}
+<2016-06-28 15:08:02,387> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:08:02,436> BAD OpSpecResult={'NumWordsWritten': 9, 'Result': 6, 'OpSpecID': 5}
+<2016-06-28 15:08:02,935> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:08:03,146> BAD OpSpecResult={'NumWordsWritten': 10, 'Result': 6, 'OpSpecID': 3}
+<2016-06-28 15:08:03,311> BAD OpSpecResult={'NumWordsWritten': 23, 'Result': 6, 'OpSpecID': 3}
+<2016-06-28 15:08:03,615> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:08:04,064> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:08:04,890> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:08:05,071> BAD OpSpecResult={'NumWordsWritten': 1, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 15:08:05,191> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:08:05,491> BAD OpSpecResult={'NumWordsWritten': 0, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 15:08:05,636> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:08:05,938> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:08:06,439> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:08:06,891> BAD OpSpecResult={'NumWordsWritten': 17, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 15:08:07,042> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:08:07,346> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:08:07,646> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:08:07,946> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:08:08,246> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:08:08,642> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:08:08,942> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:08:09,242> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:08:09,543> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:08:10,000> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:08:10,300> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:08:10,770> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:08:11,071> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:08:11,438> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:08:11,982> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:08:12,283> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:08:12,583> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:08:13,319> BAD OpSpecResult={'NumWordsWritten': 8, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 15:08:13,379> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:08:13,706> BAD OpSpecResult={'NumWordsWritten': 5, 'Result': 6, 'OpSpecID': 3}
+<2016-06-28 15:08:14,142> BAD OpSpecResult={'NumWordsWritten': 2, 'Result': 6, 'OpSpecID': 3}
+<2016-06-28 15:08:14,445> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:08:14,816> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:08:15,241> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:08:15,537> 0302: wisent end of file reached.          --- Wisent time elapsed: 30.253 secs
+
+<2016-06-28 15:08:15,541> 0302: Wisp was in state: PROGRAMMING and is going to the next state --- Time elapsed: 106.411 secs
+<2016-06-28 15:08:15,541> 0302: Wisp is now in state: MEMCHECK
+<2016-06-28 15:08:16,437> BAD OpSpecResult={'NumWordsWritten': 0, 'Result': 6, 'OpSpecID': 7}
+<2016-06-28 15:08:16,683> 0302: memcheck finished
+<2016-06-28 15:08:16,684> 0302: 20 good and 0 bad memblocks
+<2016-06-28 15:08:16,685> 0302: Wisp was in state: MEMCHECK and is going to the next state --- Time elapsed: 107.555 secs
+<2016-06-28 15:08:16,686> 0302: Wisp is now in state: FINISH
+<2016-06-28 15:08:16,691> 0302: WrepWidget [WAITING 0.088, PROGRAMMING 76.153, MEMCHECK 106.411, FINISH 107.557]
+<2016-06-28 15:08:16,691> 0300: Wisp was in state: WAITING and is going to the next state --- Time elapsed: 107.929 secs
+<2016-06-28 15:08:16,691> 0300: Wisp was in state: GOTOBIOS and is going to the next state --- Time elapsed: 107.930 secs
+<2016-06-28 15:08:16,691> 0300: Wisp is now in state: PROGRAMMING
+<2016-06-28 15:08:16,694> 0300: First reprogramming messages send --- Wisent time elapsed: 0.002 secs
+<2016-06-28 15:08:16,694> 
+
+******************************* Next wisp *******************************
+
+<2016-06-28 15:08:16,763> BAD OpSpecResult={'NumWordsWritten': 4, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 15:08:16,994> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:08:17,698> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:08:18,327> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:08:19,617> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:08:20,283> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:08:21,231> [1;31mWISENT TIMEOUT[1;0m
+<2016-06-28 15:08:21,501> 0300: wisent end of file reached.          --- Wisent time elapsed: 4.810 secs
+
+<2016-06-28 15:08:21,503> 0300: Wisp was in state: PROGRAMMING and is going to the next state --- Time elapsed: 112.742 secs
+<2016-06-28 15:08:21,503> 0300: Wisp is now in state: MEMCHECK
+<2016-06-28 15:08:21,744> 0300: memcheck finished
+<2016-06-28 15:08:21,744> 0300: 20 good and 0 bad memblocks
+<2016-06-28 15:08:21,745> 0300: Wisp was in state: MEMCHECK and is going to the next state --- Time elapsed: 112.984 secs
+<2016-06-28 15:08:21,746> 0300: Wisp is now in state: FINISH
+<2016-06-28 15:08:21,747> 0300: WrepWidget [WAITING 0.066, PROGRAMMING 107.930, MEMCHECK 112.742, FINISH 112.985]
+<2016-06-28 15:08:21,747> IOTXTreplace: 0300 0303 0248 0302: Wisp(s) is/are reprogrammed now
+<2016-06-28 15:17:09,250> stopping politely
+<2016-06-28 15:17:09,251> will disconnect when stopped
+<2016-06-28 15:17:09,251> Wisp Control finished: Shutting down, time in seconds : 1628.02392197
+<2016-06-28 15:17:09,295> reader finished inventory
+<2016-06-28 15:17:09,296> disconnecting
+<2016-06-28 15:17:09,296> lost connection: Connection was closed cleanly.

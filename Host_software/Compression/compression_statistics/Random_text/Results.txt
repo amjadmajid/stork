@@ -1,0 +1,9 @@
+The original file is a text file from the internet. 
+It is converted to hex using Linux xxd utility. 
+The output of xxd is clean up with the included python script
+
+The original text file [http://norvig.com/big.txt]
+ 
+The original size of the hex file is 3.817.472 bytes. 
+The compressed hex’s size is 3.222.847 bytes. 
+The compression ratio is ((3.817.472 - 3.222.847) / 3.817.472 ) *  100 = 15.6 %

@@ -1,0 +1,49 @@
+CRFID_firmware/ > the firmware for the WISP5 (both 5.0 and 5.1)
+Host_software/  > the software for your pc, python based, executables are for Linux, but you could convert them to windows
+Paper_figures/  > sourcecode, mainly matlab, to generate the figures from the paper
+
+
+Steps to reproduce the experiments:
+
+1) get all the hardware: 
+	- number of WISP5.0/WISP5.1, 
+	- MSP-FET 430 for initialy programming the WISP5, 
+	- EPC C1G2 Impinj Reader R1000 with antenna (R420 might also work, dependend on the firmware), 
+ 	- host linux computer running code composer studio 6 (CCS6), python 2.6 and MATLAB R2016,
+	- router, to connect straightforward the reader with laptop (optional, to make your life easy)
+
+2) program WISPs with the boatloader program:
+	- open CCS6 workspace 'CRFID_firmware/STORKxxxx' (xxx = 'basis' for sequential/opportunistic programming 
+	  and no compression, else xxx = 'full')
+	- load 'CRFID_firmware/STORKxxxx/base' into WISPs
+
+3) play around with the WISP Control environment:
+	- navigate to the folder 'Host_software/bin' in a terminal
+	- Open wControl and change the IP address to your Impinj Reader IP
+	- make wControl an executable (chmod 777 wControl)
+	- execute wControl (./wControl)
+	- type "help me"(and Enter) in the line top right of the GUI, if you want to know how the GUI works
+	- in the block bottom right you will see bars on how good the connection is with your WISP (in terms of 
+	  handshakes per round; more handshakes is better)
+
+4) do the experiments:
+	- make sure to empty the log file before you do official experiments
+	- set all variables correct, set repeat to 4 if you want to do an experiment 5 times 
+	  be carefull: script changes the payload if you repeat more then 4 times
+	- important notes: 
+		* select appropriate wisp, first press first button (update wisp list)
+		* select file (the default is used for all experiments)
+		* select multicast mechanism (default is broadcast)
+		* optional: start executing/booting (option: "BIOS and BOOT")
+		* do decompression if you are sending compressed data! (otherwise you will 'brick' the CRFID)
+		* to do fair broadcasting tests: clear the memory inbetween tests
+		* to cancel any experiment, close the appropriate window
+		* matlab expects seperate files for each distance, because the software knows nothing about the test setup
+	- after doing the experiments, copy/rename the log file to some other place, where matlab can take over
+
+5) let matlab make the figures:
+	- open in matlab the file "Paper_figures/figXXX/figXXX.m"
+	- set the name of the logfile(s) in the file to your log files
+	- run the file
+
+

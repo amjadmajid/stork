@@ -1,0 +1,181 @@
+################################################################################
+# Automatically-generated file. Do not edit!
+################################################################################
+
+CG_TOOL_ROOT := /home/koos/ti/ccsv6/tools/compiler/ti-cgt-msp430_4.4.5
+
+GEN_OPTS__FLAG := 
+GEN_CMDS__FLAG := 
+
+ORDERED_OBJS += \
+"./wired/spi.obj" \
+"./wired/uart.obj" \
+"./rand/rand.obj" \
+"./nvm/fram.obj" \
+"./internals/NOPdefs.obj" \
+"./internals/wisp-init.obj" \
+"./Timing/timer.obj" \
+"./Sensors/accel.obj" \
+"./Sensors/adc.obj" \
+"./RFID/Clocking.obj" \
+"./RFID/RX_ISR.obj" \
+"./RFID/Timer0A0_ISR.obj" \
+"./RFID/Timer0A1_ISR.obj" \
+"./RFID/Timer1A0_ISR.obj" \
+"./RFID/TxFM0.obj" \
+"./RFID/WISP_doRFID.obj" \
+"./RFID/interface.obj" \
+"./RFID/rfid_BlockWriteHandle.obj" \
+"./RFID/rfid_Handles.obj" \
+"./RFID/rfid_ReadHandle.obj" \
+"./RFID/rfid_WriteHandle.obj" \
+"./Math/crc16_ccitt.obj" \
+$(GEN_CMDS__FLAG) \
+
+-include ../makefile.init
+
+RM := rm -rf
+RMDIR := rm -rf
+
+# All of the sources participating in the build are defined here
+-include sources.mk
+-include wired/subdir_vars.mk
+-include rand/subdir_vars.mk
+-include nvm/subdir_vars.mk
+-include internals/subdir_vars.mk
+-include Timing/subdir_vars.mk
+-include Sensors/subdir_vars.mk
+-include RFID/subdir_vars.mk
+-include Math/subdir_vars.mk
+-include wired/subdir_rules.mk
+-include rand/subdir_rules.mk
+-include nvm/subdir_rules.mk
+-include internals/subdir_rules.mk
+-include Timing/subdir_rules.mk
+-include Sensors/subdir_rules.mk
+-include RFID/subdir_rules.mk
+-include Math/subdir_rules.mk
+-include objects.mk
+
+ifneq ($(MAKECMDGOALS),clean)
+ifneq ($(strip $(S_DEPS)),)
+-include $(S_DEPS)
+endif
+ifneq ($(strip $(S_UPPER_DEPS)),)
+-include $(S_UPPER_DEPS)
+endif
+ifneq ($(strip $(S62_DEPS)),)
+-include $(S62_DEPS)
+endif
+ifneq ($(strip $(C64_DEPS)),)
+-include $(C64_DEPS)
+endif
+ifneq ($(strip $(ASM_DEPS)),)
+-include $(ASM_DEPS)
+endif
+ifneq ($(strip $(CC_DEPS)),)
+-include $(CC_DEPS)
+endif
+ifneq ($(strip $(S55_DEPS)),)
+-include $(S55_DEPS)
+endif
+ifneq ($(strip $(C67_DEPS)),)
+-include $(C67_DEPS)
+endif
+ifneq ($(strip $(CLA_DEPS)),)
+-include $(CLA_DEPS)
+endif
+ifneq ($(strip $(C??_DEPS)),)
+-include $(C??_DEPS)
+endif
+ifneq ($(strip $(CPP_DEPS)),)
+-include $(CPP_DEPS)
+endif
+ifneq ($(strip $(S??_DEPS)),)
+-include $(S??_DEPS)
+endif
+ifneq ($(strip $(C_DEPS)),)
+-include $(C_DEPS)
+endif
+ifneq ($(strip $(C62_DEPS)),)
+-include $(C62_DEPS)
+endif
+ifneq ($(strip $(CXX_DEPS)),)
+-include $(CXX_DEPS)
+endif
+ifneq ($(strip $(C++_DEPS)),)
+-include $(C++_DEPS)
+endif
+ifneq ($(strip $(ASM_UPPER_DEPS)),)
+-include $(ASM_UPPER_DEPS)
+endif
+ifneq ($(strip $(K_DEPS)),)
+-include $(K_DEPS)
+endif
+ifneq ($(strip $(C43_DEPS)),)
+-include $(C43_DEPS)
+endif
+ifneq ($(strip $(INO_DEPS)),)
+-include $(INO_DEPS)
+endif
+ifneq ($(strip $(S67_DEPS)),)
+-include $(S67_DEPS)
+endif
+ifneq ($(strip $(SA_DEPS)),)
+-include $(SA_DEPS)
+endif
+ifneq ($(strip $(S43_DEPS)),)
+-include $(S43_DEPS)
+endif
+ifneq ($(strip $(OPT_DEPS)),)
+-include $(OPT_DEPS)
+endif
+ifneq ($(strip $(PDE_DEPS)),)
+-include $(PDE_DEPS)
+endif
+ifneq ($(strip $(S64_DEPS)),)
+-include $(S64_DEPS)
+endif
+ifneq ($(strip $(C_UPPER_DEPS)),)
+-include $(C_UPPER_DEPS)
+endif
+ifneq ($(strip $(C55_DEPS)),)
+-include $(C55_DEPS)
+endif
+endif
+
+-include ../makefile.defs
+
+# Add inputs and outputs from these tool invocations to the build variables 
+LIB_OUTPUTS += \
+wisp-base.lib \
+
+LIB_OUTPUTS__QUOTED += \
+"wisp-base.lib" \
+
+
+# All Target
+all: wisp-base.lib
+
+# Tool invocations
+wisp-base.lib: $(OBJS)
+	@echo 'Building target: $@'
+	@echo 'Invoking: MSP430 Archiver'
+	"/home/koos/ti/ccsv6/tools/compiler/ti-cgt-msp430_4.4.5/bin/ar430" r "wisp-base.lib" $(ORDERED_OBJS)
+	@echo 'Finished building target: $@'
+	@echo ' '
+
+# Other Targets
+clean:
+	-$(RM) $(LIB_OUTPUTS__QUOTED)
+	-$(RM) "wired/spi.pp" "wired/uart.pp" "rand/rand.pp" "nvm/fram.pp" "internals/wisp-init.pp" "Timing/timer.pp" "Sensors/accel.pp" "Sensors/adc.pp" "RFID/interface.pp" 
+	-$(RM) "wired/spi.obj" "wired/uart.obj" "rand/rand.obj" "nvm/fram.obj" "internals/NOPdefs.obj" "internals/wisp-init.obj" "Timing/timer.obj" "Sensors/accel.obj" "Sensors/adc.obj" "RFID/Clocking.obj" "RFID/RX_ISR.obj" "RFID/Timer0A0_ISR.obj" "RFID/Timer0A1_ISR.obj" "RFID/Timer1A0_ISR.obj" "RFID/TxFM0.obj" "RFID/WISP_doRFID.obj" "RFID/interface.obj" "RFID/rfid_BlockWriteHandle.obj" "RFID/rfid_Handles.obj" "RFID/rfid_ReadHandle.obj" "RFID/rfid_WriteHandle.obj" "Math/crc16_ccitt.obj" 
+	-$(RM) "internals/NOPdefs.pp" "RFID/Clocking.pp" "RFID/RX_ISR.pp" "RFID/Timer0A0_ISR.pp" "RFID/Timer0A1_ISR.pp" "RFID/Timer1A0_ISR.pp" "RFID/TxFM0.pp" "RFID/WISP_doRFID.pp" "RFID/rfid_BlockWriteHandle.pp" "RFID/rfid_Handles.pp" "RFID/rfid_ReadHandle.pp" "RFID/rfid_WriteHandle.pp" "Math/crc16_ccitt.pp" 
+	-@echo 'Finished clean'
+	-@echo ' '
+
+.PHONY: all clean dependents
+.SECONDARY:
+
+-include ../makefile.targets
+

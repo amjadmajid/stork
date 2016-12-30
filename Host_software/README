@@ -1,0 +1,12 @@
+## Stork
+
+bin/ contains the executables, navigate in your terminal to this folder and execute the scripts, see also the readme of this folder
+ihex/ contains the ccs files that wisent uses to program a wisp wireless
+sllurp/ contains all the python files, see the readme of that folder
+compression/ contains all code to create a compressed data file, which the CRFID can decompress (after receiving it via Stork). See the readme of that folder
+
+don't ask about the setup.cfg and setup.py, see manual of sllurp for that
+
+MOST IMPORTANT file in these folders: "bin/wControl" which depends on "sllurp/WControl.py" when running "bin/wControl" you will enter the WISP control environment and you can read write to WISPs wireless and even reprogram, boot, do decompression, clear memory
+  
+

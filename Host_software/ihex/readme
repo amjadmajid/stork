@@ -1,0 +1,2 @@
+This folder contains different files:
+ - ccs_XX.hx  These files are selective re-boatloadable programs, with different leds settings. The only thing the programs do is turning a specific led on and checking if incoming messages are goto-boatloader messages.

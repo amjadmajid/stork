@@ -1,0 +1,876 @@
+<2016-05-26 14:56:17,470> log level: INFO
+<2016-05-26 14:56:17,471> 
+
+  [1;44m  * [1;44m  * [1;44m  * [1;44m  * [1;44m  * [1;44m  *  [1;0m[1;31m████████████████████████████████████[1;0m
+  [1;44m  [1;44m  * [1;44m  * [1;44m  * [1;44m  * [1;44m  *    [1;0m████████████████████████████████████
+  [1;44m  * [1;44m  * [1;44m  * [1;44m  * [1;44m  * [1;44m  *  [1;0m[1;31m████████████████████████████████████[1;0m
+  [1;44m  [1;44m  * [1;44m  * [1;44m  * [1;44m  * [1;44m  *    [1;0m████████████████████████████████████
+  [1;44m  * [1;44m  * [1;44m  * [1;44m  * [1;44m  * [1;44m  *  [1;0m[1;31m████████████████████████████████████[1;0m
+  [1;44m  [1;44m  * [1;44m  * [1;44m  * [1;44m  * [1;44m  *    [1;0m████████████████████████████████████
+  [1;44m  * [1;44m  * [1;44m  * [1;44m  * [1;44m  * [1;44m  *  [1;0m[1;31m████████████████████████████████████[1;0m
+  [1;44m  [1;44m  * [1;44m  * [1;44m  * [1;44m  * [1;44m  *    [1;0m████████████████████████████████████
+  [1;44m  * [1;44m  * [1;44m  * [1;44m  * [1;44m  * [1;44m  *  [1;0m[1;31m████████████████████████████████████[1;0m
+  █████████████████████████████████████████████████████████████
+  [1;31m█████████████████████████████████████████████████████████████[1;0m
+  █████████████████████████████████████████████████████████████
+  [1;31m█████████████████████████████████████████████████████████████[1;0m
+  █████████████████████████████████████████████████████████████
+  [1;31m█████████████████████████████████████████████████████████████[1;0m
+  █████████████████████████████████████████████████████████████
+  [1;31m█████████████████████████████████████████████████████████████[1;0m
+  
+<2016-05-26 14:56:17,472> selected recommended Tari of 7140 for WISP5
+<2016-05-26 14:56:18,046> IOTXTreplace: Initializing
+<2016-05-26 14:56:18,307> connecting...
+<2016-05-26 14:56:18,309> will reset reader state on connect
+<2016-05-26 14:56:18,309> will start inventory on connect
+<2016-05-26 14:56:18,309> using antennas: (1,)
+<2016-05-26 14:56:18,310> connected to ('192.168.10.103', 5084)
+<2016-05-26 14:56:20,234> requested modulation: WISP5
+<2016-05-26 14:56:20,235> using reader mode: {'C': 0, 'MaxTari': 7140, 'M': 2, 'PIE': 1500, 'StepTari': 0, 'R': 1, 'FLM': 0, 'MinTari': 7140, 'ModeIdentifier': 0, 'BDR': 640000, 'Mod': 0}
+<2016-05-26 14:56:20,235> stopping politely
+<2016-05-26 14:56:20,246> reader finished inventory
+<2016-05-26 14:56:20,246> starting inventory
+<2016-05-26 14:56:20,267> IOTXTreplace: Connection established
+<2016-05-26 14:56:42,972> IOTXTreplace: Sending data from "ihex/ccs3decom.hex" to wisps: 0302
+<2016-05-26 14:56:43,018> 0302: *****************************************
+<2016-05-26 14:56:43,018> 0302: * Wisp to program:                 0302 *
+<2016-05-26 14:56:43,018> 0302: * Words to send:       2277 in 10 lines *
+<2016-05-26 14:56:43,018> 0302: *****************************************
+<2016-05-26 14:56:43,021> 0302: First reprogramming messages send --- Wisent time elapsed: 0.003 secs
+<2016-05-26 14:56:50,073> !!Wisent aborted by YOU!!
+<2016-05-26 14:56:50,074> [1;31mIOTXT-WARNING: 0302: Send data canceled[1;0m
+<2016-05-26 14:56:57,170> IOTXTreplace: Sending data from "ihex/ccs3decom.hex" to wisps: 0305
+<2016-05-26 14:56:57,196> 0305: *****************************************
+<2016-05-26 14:56:57,196> 0305: * Wisp to program:                 0305 *
+<2016-05-26 14:56:57,197> 0305: * Words to send:       2277 in 10 lines *
+<2016-05-26 14:56:57,197> 0305: *****************************************
+<2016-05-26 14:56:57,201> 0305: First reprogramming messages send --- Wisent time elapsed: 0.005 secs
+<2016-05-26 14:57:01,280> 0305: wisent end of file reached.          --- Wisent time elapsed: 4.083 secs
+
+<2016-05-26 14:57:01,282> IOTXTreplace: 0305: Mem contains now your new data
+<2016-05-26 14:57:01,282> Log wisent: (BWperAS,payload)= (	4,	throttle), time = 	4.085, 20cm
+<2016-05-26 14:57:01,282> IOTXTreplace: sending decompressing command to wisps: 0305
+<2016-05-26 14:57:03,133> IOTXTreplace: 0305: Decompression is finished
+<2016-05-26 14:57:03,133> Log wisent decompression time 1.850, 20cm
+<2016-05-26 14:57:03,133> IOTXTreplace: Sending data from "ihex/ccs3decom.hex" to wisps: 0305
+<2016-05-26 14:57:03,166> 0305: *****************************************
+<2016-05-26 14:57:03,167> 0305: * Wisp to program:                 0305 *
+<2016-05-26 14:57:03,167> 0305: * Words to send:       2277 in 10 lines *
+<2016-05-26 14:57:03,167> 0305: *****************************************
+<2016-05-26 14:57:03,170> 0305: First reprogramming messages send --- Wisent time elapsed: 0.002 secs
+<2016-05-26 14:57:07,392> 0305: wisent end of file reached.          --- Wisent time elapsed: 4.225 secs
+
+<2016-05-26 14:57:07,394> IOTXTreplace: 0305: Mem contains now your new data
+<2016-05-26 14:57:07,394> Log wisent: (BWperAS,payload)= (	4,	throttle), time = 	4.226, 20cm
+<2016-05-26 14:57:07,394> IOTXTreplace: sending decompressing command to wisps: 0305
+<2016-05-26 14:57:09,355> IOTXTreplace: 0305: Decompression is finished
+<2016-05-26 14:57:09,356> Log wisent decompression time 1.961, 20cm
+<2016-05-26 14:57:09,357> IOTXTreplace: Sending data from "ihex/ccs3decom.hex" to wisps: 0305
+<2016-05-26 14:57:09,382> 0305: *****************************************
+<2016-05-26 14:57:09,383> 0305: * Wisp to program:                 0305 *
+<2016-05-26 14:57:09,383> 0305: * Words to send:       2277 in 10 lines *
+<2016-05-26 14:57:09,383> 0305: *****************************************
+<2016-05-26 14:57:09,386> 0305: First reprogramming messages send --- Wisent time elapsed: 0.002 secs
+<2016-05-26 14:57:13,436> 0305: wisent end of file reached.          --- Wisent time elapsed: 4.052 secs
+
+<2016-05-26 14:57:13,437> IOTXTreplace: 0305: Mem contains now your new data
+<2016-05-26 14:57:13,438> Log wisent: (BWperAS,payload)= (	4,	throttle), time = 	4.054, 20cm
+<2016-05-26 14:57:13,438> IOTXTreplace: sending decompressing command to wisps: 0305
+<2016-05-26 14:57:15,386> IOTXTreplace: 0305: Decompression is finished
+<2016-05-26 14:57:15,386> Log wisent decompression time 1.948, 20cm
+<2016-05-26 14:57:15,387> IOTXTreplace: Sending data from "ihex/ccs3decom.hex" to wisps: 0305
+<2016-05-26 14:57:15,420> 0305: *****************************************
+<2016-05-26 14:57:15,421> 0305: * Wisp to program:                 0305 *
+<2016-05-26 14:57:15,422> 0305: * Words to send:       2277 in 10 lines *
+<2016-05-26 14:57:15,422> 0305: *****************************************
+<2016-05-26 14:57:15,425> 0305: First reprogramming messages send --- Wisent time elapsed: 0.003 secs
+<2016-05-26 14:57:19,397> 0305: wisent end of file reached.          --- Wisent time elapsed: 3.975 secs
+
+<2016-05-26 14:57:19,399> IOTXTreplace: 0305: Mem contains now your new data
+<2016-05-26 14:57:19,399> Log wisent: (BWperAS,payload)= (	4,	throttle), time = 	3.977, 20cm
+<2016-05-26 14:57:19,399> IOTXTreplace: sending decompressing command to wisps: 0305
+<2016-05-26 14:57:21,325> IOTXTreplace: 0305: Decompression is finished
+<2016-05-26 14:57:21,325> Log wisent decompression time 1.926, 20cm
+<2016-05-26 14:57:21,325> IOTXTreplace: Sending data from "ihex/ccs3decom.hex" to wisps: 0305
+<2016-05-26 14:57:21,354> 0305: *****************************************
+<2016-05-26 14:57:21,354> 0305: * Wisp to program:                 0305 *
+<2016-05-26 14:57:21,354> 0305: * Words to send:       2277 in 10 lines *
+<2016-05-26 14:57:21,354> 0305: *****************************************
+<2016-05-26 14:57:21,356> 0305: First reprogramming messages send --- Wisent time elapsed: 0.002 secs
+<2016-05-26 14:57:25,379> 0305: wisent end of file reached.          --- Wisent time elapsed: 4.025 secs
+
+<2016-05-26 14:57:25,381> IOTXTreplace: 0305: Mem contains now your new data
+<2016-05-26 14:57:25,381> Log wisent: (BWperAS,payload)= (	4,	throttle), time = 	4.027, 20cm
+<2016-05-26 14:57:25,381> IOTXTreplace: sending decompressing command to wisps: 0305
+<2016-05-26 14:57:27,338> IOTXTreplace: 0305: Decompression is finished
+<2016-05-26 14:57:27,338> Log wisent decompression time 1.957, 20cm
+<2016-05-26 14:58:37,074> IOTXTreplace: Sending data from "ihex/ccs3decom.hex" to wisps: 0305
+<2016-05-26 14:58:37,115> 0305: *****************************************
+<2016-05-26 14:58:37,116> 0305: * Wisp to program:                 0305 *
+<2016-05-26 14:58:37,116> 0305: * Words to send:       2277 in 10 lines *
+<2016-05-26 14:58:37,116> 0305: *****************************************
+<2016-05-26 14:58:37,121> 0305: First reprogramming messages send --- Wisent time elapsed: 0.005 secs
+<2016-05-26 14:58:41,198> 0305: wisent end of file reached.          --- Wisent time elapsed: 4.082 secs
+
+<2016-05-26 14:58:41,199> IOTXTreplace: 0305: Mem contains now your new data
+<2016-05-26 14:58:41,199> Log wisent: (BWperAS,payload)= (	4,	throttle), time = 	4.083, 30cm
+<2016-05-26 14:58:41,199> IOTXTreplace: sending decompressing command to wisps: 0305
+<2016-05-26 14:58:43,372> IOTXTreplace: 0305: Decompression is finished
+<2016-05-26 14:58:43,372> Log wisent decompression time 2.173, 30cm
+<2016-05-26 14:58:43,372> IOTXTreplace: Sending data from "ihex/ccs3decom.hex" to wisps: 0305
+<2016-05-26 14:58:43,398> 0305: *****************************************
+<2016-05-26 14:58:43,399> 0305: * Wisp to program:                 0305 *
+<2016-05-26 14:58:43,399> 0305: * Words to send:       2277 in 10 lines *
+<2016-05-26 14:58:43,399> 0305: *****************************************
+<2016-05-26 14:58:43,402> 0305: First reprogramming messages send --- Wisent time elapsed: 0.003 secs
+<2016-05-26 14:58:47,424> 0305: wisent end of file reached.          --- Wisent time elapsed: 4.025 secs
+
+<2016-05-26 14:58:47,425> IOTXTreplace: 0305: Mem contains now your new data
+<2016-05-26 14:58:47,426> Log wisent: (BWperAS,payload)= (	4,	throttle), time = 	4.026, 30cm
+<2016-05-26 14:58:47,426> IOTXTreplace: sending decompressing command to wisps: 0305
+<2016-05-26 14:58:49,595> IOTXTreplace: 0305: Decompression is finished
+<2016-05-26 14:58:49,595> Log wisent decompression time 2.169, 30cm
+<2016-05-26 14:58:49,595> IOTXTreplace: Sending data from "ihex/ccs3decom.hex" to wisps: 0305
+<2016-05-26 14:58:49,635> 0305: *****************************************
+<2016-05-26 14:58:49,636> 0305: * Wisp to program:                 0305 *
+<2016-05-26 14:58:49,636> 0305: * Words to send:       2277 in 10 lines *
+<2016-05-26 14:58:49,636> 0305: *****************************************
+<2016-05-26 14:58:49,638> 0305: First reprogramming messages send --- Wisent time elapsed: 0.002 secs
+<2016-05-26 14:58:53,665> 0305: wisent end of file reached.          --- Wisent time elapsed: 4.029 secs
+
+<2016-05-26 14:58:53,666> IOTXTreplace: 0305: Mem contains now your new data
+<2016-05-26 14:58:53,667> Log wisent: (BWperAS,payload)= (	4,	throttle), time = 	4.030, 30cm
+<2016-05-26 14:58:53,667> IOTXTreplace: sending decompressing command to wisps: 0305
+<2016-05-26 14:58:55,832> IOTXTreplace: 0305: Decompression is finished
+<2016-05-26 14:58:55,833> Log wisent decompression time 2.165, 30cm
+<2016-05-26 14:58:55,833> IOTXTreplace: Sending data from "ihex/ccs3decom.hex" to wisps: 0305
+<2016-05-26 14:58:55,872> 0305: *****************************************
+<2016-05-26 14:58:55,872> 0305: * Wisp to program:                 0305 *
+<2016-05-26 14:58:55,872> 0305: * Words to send:       2277 in 10 lines *
+<2016-05-26 14:58:55,872> 0305: *****************************************
+<2016-05-26 14:58:55,875> 0305: First reprogramming messages send --- Wisent time elapsed: 0.002 secs
+<2016-05-26 14:58:59,925> 0305: wisent end of file reached.          --- Wisent time elapsed: 4.053 secs
+
+<2016-05-26 14:58:59,926> IOTXTreplace: 0305: Mem contains now your new data
+<2016-05-26 14:58:59,926> Log wisent: (BWperAS,payload)= (	4,	throttle), time = 	4.054, 30cm
+<2016-05-26 14:58:59,927> IOTXTreplace: sending decompressing command to wisps: 0305
+<2016-05-26 14:59:02,122> IOTXTreplace: 0305: Decompression is finished
+<2016-05-26 14:59:02,123> Log wisent decompression time 2.196, 30cm
+<2016-05-26 14:59:02,123> IOTXTreplace: Sending data from "ihex/ccs3decom.hex" to wisps: 0305
+<2016-05-26 14:59:02,149> 0305: *****************************************
+<2016-05-26 14:59:02,149> 0305: * Wisp to program:                 0305 *
+<2016-05-26 14:59:02,149> 0305: * Words to send:       2277 in 10 lines *
+<2016-05-26 14:59:02,149> 0305: *****************************************
+<2016-05-26 14:59:02,153> 0305: First reprogramming messages send --- Wisent time elapsed: 0.004 secs
+<2016-05-26 14:59:06,295> 0305: wisent end of file reached.          --- Wisent time elapsed: 4.146 secs
+
+<2016-05-26 14:59:06,296> IOTXTreplace: 0305: Mem contains now your new data
+<2016-05-26 14:59:06,296> Log wisent: (BWperAS,payload)= (	4,	throttle), time = 	4.147, 30cm
+<2016-05-26 14:59:06,296> IOTXTreplace: sending decompressing command to wisps: 0305
+<2016-05-26 14:59:08,505> IOTXTreplace: 0305: Decompression is finished
+<2016-05-26 14:59:08,505> Log wisent decompression time 2.209, 30cm
+<2016-05-26 14:59:36,270> IOTXTreplace: Sending data from "ihex/ccs3decom.hex" to wisps: 0305
+<2016-05-26 14:59:36,297> 0305: *****************************************
+<2016-05-26 14:59:36,297> 0305: * Wisp to program:                 0305 *
+<2016-05-26 14:59:36,297> 0305: * Words to send:       2277 in 10 lines *
+<2016-05-26 14:59:36,297> 0305: *****************************************
+<2016-05-26 14:59:36,302> 0305: First reprogramming messages send --- Wisent time elapsed: 0.004 secs
+<2016-05-26 14:59:43,656> EPC did encode a good result
+<2016-05-26 15:00:09,391> EPC did encode a good result
+<2016-05-26 15:00:50,792> 0305: wisent end of file reached.          --- Wisent time elapsed: 74.495 secs
+
+<2016-05-26 15:00:50,794> IOTXTreplace: 0305: Mem contains now your new data
+<2016-05-26 15:00:50,795> Log wisent: (BWperAS,payload)= (	4,	throttle), time = 	74.497, 40cm
+<2016-05-26 15:00:50,795> IOTXTreplace: sending decompressing command to wisps: 0305
+<2016-05-26 15:00:54,731> IOTXTreplace: 0305: Decompression is finished
+<2016-05-26 15:00:54,732> Log wisent decompression time 3.936, 40cm
+<2016-05-26 15:00:54,762> IOTXTreplace: Sending data from "ihex/ccs3decom.hex" to wisps: 0305
+<2016-05-26 15:00:54,865> 0305: *****************************************
+<2016-05-26 15:00:54,865> 0305: * Wisp to program:                 0305 *
+<2016-05-26 15:00:54,865> 0305: * Words to send:       2277 in 10 lines *
+<2016-05-26 15:00:54,866> 0305: *****************************************
+<2016-05-26 15:00:54,868> 0305: First reprogramming messages send --- Wisent time elapsed: 0.002 secs
+<2016-05-26 15:01:21,278> EPC did encode a good result
+<2016-05-26 15:01:32,623> EPC did encode a good result
+<2016-05-26 15:02:11,129> 0305: wisent end of file reached.          --- Wisent time elapsed: 76.263 secs
+
+<2016-05-26 15:02:11,132> IOTXTreplace: 0305: Mem contains now your new data
+<2016-05-26 15:02:11,132> Log wisent: (BWperAS,payload)= (	4,	throttle), time = 	76.266, 40cm
+<2016-05-26 15:02:11,133> IOTXTreplace: sending decompressing command to wisps: 0305
+<2016-05-26 15:02:15,088> IOTXTreplace: 0305: Decompression is finished
+<2016-05-26 15:02:15,088> Log wisent decompression time 3.955, 40cm
+<2016-05-26 15:02:15,088> IOTXTreplace: Sending data from "ihex/ccs3decom.hex" to wisps: 0305
+<2016-05-26 15:02:15,115> 0305: *****************************************
+<2016-05-26 15:02:15,115> 0305: * Wisp to program:                 0305 *
+<2016-05-26 15:02:15,115> 0305: * Words to send:       2277 in 10 lines *
+<2016-05-26 15:02:15,115> 0305: *****************************************
+<2016-05-26 15:02:15,118> 0305: First reprogramming messages send --- Wisent time elapsed: 0.003 secs
+<2016-05-26 15:02:17,757> EPC did encode a good result
+<2016-05-26 15:03:28,630> 0305: wisent end of file reached.          --- Wisent time elapsed: 73.514 secs
+
+<2016-05-26 15:03:28,633> IOTXTreplace: 0305: Mem contains now your new data
+<2016-05-26 15:03:28,633> Log wisent: (BWperAS,payload)= (	4,	throttle), time = 	73.517, 40cm
+<2016-05-26 15:03:28,634> IOTXTreplace: sending decompressing command to wisps: 0305
+<2016-05-26 15:03:32,563> IOTXTreplace: 0305: Decompression is finished
+<2016-05-26 15:03:32,564> Log wisent decompression time 3.929, 40cm
+<2016-05-26 15:03:32,564> IOTXTreplace: Sending data from "ihex/ccs3decom.hex" to wisps: 0305
+<2016-05-26 15:03:32,591> 0305: *****************************************
+<2016-05-26 15:03:32,592> 0305: * Wisp to program:                 0305 *
+<2016-05-26 15:03:32,592> 0305: * Words to send:       2277 in 10 lines *
+<2016-05-26 15:03:32,592> 0305: *****************************************
+<2016-05-26 15:03:32,596> 0305: First reprogramming messages send --- Wisent time elapsed: 0.004 secs
+<2016-05-26 15:04:03,026> EPC did encode a good result
+<2016-05-26 15:04:11,396> EPC did encode a good result
+<2016-05-26 15:04:46,640> 0305: wisent end of file reached.          --- Wisent time elapsed: 74.048 secs
+
+<2016-05-26 15:04:46,641> IOTXTreplace: 0305: Mem contains now your new data
+<2016-05-26 15:04:46,641> Log wisent: (BWperAS,payload)= (	4,	throttle), time = 	74.049, 40cm
+<2016-05-26 15:04:46,641> IOTXTreplace: sending decompressing command to wisps: 0305
+<2016-05-26 15:04:50,451> IOTXTreplace: 0305: Decompression is finished
+<2016-05-26 15:04:50,451> Log wisent decompression time 3.809, 40cm
+<2016-05-26 15:04:50,451> IOTXTreplace: Sending data from "ihex/ccs3decom.hex" to wisps: 0305
+<2016-05-26 15:04:50,477> 0305: *****************************************
+<2016-05-26 15:04:50,478> 0305: * Wisp to program:                 0305 *
+<2016-05-26 15:04:50,478> 0305: * Words to send:       2277 in 10 lines *
+<2016-05-26 15:04:50,478> 0305: *****************************************
+<2016-05-26 15:04:50,482> 0305: First reprogramming messages send --- Wisent time elapsed: 0.004 secs
+<2016-05-26 15:05:24,653> EPC did encode a good result
+<2016-05-26 15:05:33,073> EPC did encode a good result
+<2016-05-26 15:06:01,065> 0305: wisent end of file reached.          --- Wisent time elapsed: 70.587 secs
+
+<2016-05-26 15:06:01,067> IOTXTreplace: 0305: Mem contains now your new data
+<2016-05-26 15:06:01,067> Log wisent: (BWperAS,payload)= (	4,	throttle), time = 	70.589, 40cm
+<2016-05-26 15:06:01,067> IOTXTreplace: sending decompressing command to wisps: 0305
+<2016-05-26 15:06:05,006> IOTXTreplace: 0305: Decompression is finished
+<2016-05-26 15:06:05,006> Log wisent decompression time 3.938, 40cm
+<2016-05-26 15:07:25,170> IOTXTreplace: Sending data from "ihex/ccs3decom.hex" to wisps: 0305
+<2016-05-26 15:07:25,201> 0305: *****************************************
+<2016-05-26 15:07:25,201> 0305: * Wisp to program:                 0305 *
+<2016-05-26 15:07:25,201> 0305: * Words to send:       2277 in 10 lines *
+<2016-05-26 15:07:25,201> 0305: *****************************************
+<2016-05-26 15:07:25,203> 0305: First reprogramming messages send --- Wisent time elapsed: 0.002 secs
+<2016-05-26 15:07:59,872> EPC did encode a good result
+<2016-05-26 15:08:09,439> EPC did encode a good result
+<2016-05-26 15:08:11,891> EPC did encode a good result
+<2016-05-26 15:08:13,957> EPC did encode a good result
+<2016-05-26 15:08:14,893> EPC did encode a good result
+<2016-05-26 15:08:15,307> EPC did encode a good result
+<2016-05-26 15:08:27,848> EPC did encode a good result
+<2016-05-26 15:08:53,884> EPC did encode a good result
+<2016-05-26 15:08:56,789> EPC did encode a good result
+<2016-05-26 15:09:04,507> EPC did encode a good result
+<2016-05-26 15:09:26,764> EPC did encode a good result
+<2016-05-26 15:10:17,747> EPC did encode a good result
+<2016-05-26 15:10:27,457> EPC did encode a good result
+<2016-05-26 15:10:59,593> 0305: wisent end of file reached.          --- Wisent time elapsed: 214.391 secs
+
+<2016-05-26 15:10:59,594> IOTXTreplace: 0305: Mem contains now your new data
+<2016-05-26 15:10:59,594> Log wisent: (BWperAS,payload)= (	4,	throttle), time = 	214.393, 50cm
+<2016-05-26 15:10:59,594> IOTXTreplace: sending decompressing command to wisps: 0305
+<2016-05-26 15:11:06,562> IOTXTreplace: 0305: Decompression is finished
+<2016-05-26 15:11:06,562> Log wisent decompression time 6.967, 50cm
+<2016-05-26 15:11:06,562> IOTXTreplace: Sending data from "ihex/ccs3decom.hex" to wisps: 0305
+<2016-05-26 15:11:06,598> 0305: *****************************************
+<2016-05-26 15:11:06,598> 0305: * Wisp to program:                 0305 *
+<2016-05-26 15:11:06,598> 0305: * Words to send:       2277 in 10 lines *
+<2016-05-26 15:11:06,598> 0305: *****************************************
+<2016-05-26 15:11:06,602> 0305: First reprogramming messages send --- Wisent time elapsed: 0.003 secs
+<2016-05-26 15:11:51,389> EPC did encode a good result
+<2016-05-26 15:11:53,455> EPC did encode a good result
+<2016-05-26 15:11:57,894> EPC did encode a good result
+<2016-05-26 15:12:09,696> EPC did encode a good result
+<2016-05-26 15:12:11,442> EPC did encode a good result
+<2016-05-26 15:12:11,598> EPC did encode a good result
+<2016-05-26 15:12:13,691> EPC did encode a good result
+<2016-05-26 15:12:17,601> EPC did encode a good result
+<2016-05-26 15:12:18,344> EPC did encode a good result
+<2016-05-26 15:12:21,567> EPC did encode a good result
+<2016-05-26 15:12:42,390> EPC did encode a good result
+<2016-05-26 15:12:56,096> EPC did encode a good result
+<2016-05-26 15:12:57,607> EPC did encode a good result
+<2016-05-26 15:13:08,901> EPC did encode a good result
+<2016-05-26 15:13:25,122> EPC did encode a good result
+<2016-05-26 15:14:21,260> 0305: wisent end of file reached.          --- Wisent time elapsed: 194.661 secs
+
+<2016-05-26 15:14:21,261> IOTXTreplace: 0305: Mem contains now your new data
+<2016-05-26 15:14:21,261> Log wisent: (BWperAS,payload)= (	4,	throttle), time = 	194.662, 50cm
+<2016-05-26 15:14:21,261> IOTXTreplace: sending decompressing command to wisps: 0305
+<2016-05-26 15:14:28,270> IOTXTreplace: 0305: Decompression is finished
+<2016-05-26 15:14:28,270> Log wisent decompression time 7.008, 50cm
+<2016-05-26 15:14:28,270> IOTXTreplace: Sending data from "ihex/ccs3decom.hex" to wisps: 0305
+<2016-05-26 15:14:28,301> 0305: *****************************************
+<2016-05-26 15:14:28,301> 0305: * Wisp to program:                 0305 *
+<2016-05-26 15:14:28,301> 0305: * Words to send:       2277 in 10 lines *
+<2016-05-26 15:14:28,301> 0305: *****************************************
+<2016-05-26 15:14:28,303> 0305: First reprogramming messages send --- Wisent time elapsed: 0.002 secs
+<2016-05-26 15:14:50,830> EPC did encode a good result
+<2016-05-26 15:14:52,440> EPC did encode a good result
+<2016-05-26 15:14:55,209> EPC did encode a good result
+<2016-05-26 15:14:55,900> EPC did encode a good result
+<2016-05-26 15:15:24,822> EPC did encode a good result
+<2016-05-26 15:15:33,198> EPC did encode a good result
+<2016-05-26 15:15:48,663> EPC did encode a good result
+<2016-05-26 15:15:53,157> EPC did encode a good result
+<2016-05-26 15:15:55,534> EPC did encode a good result
+<2016-05-26 15:16:30,572> EPC did encode a good result
+<2016-05-26 15:16:36,637> EPC did encode a good result
+<2016-05-26 15:16:56,611> EPC did encode a good result
+<2016-05-26 15:17:00,096> EPC did encode a good result
+<2016-05-26 15:17:05,195> EPC did encode a good result
+<2016-05-26 15:17:37,166> EPC did encode a good result
+<2016-05-26 15:18:00,229> 0305: wisent end of file reached.          --- Wisent time elapsed: 211.928 secs
+
+<2016-05-26 15:18:00,231> IOTXTreplace: 0305: Mem contains now your new data
+<2016-05-26 15:18:00,231> Log wisent: (BWperAS,payload)= (	4,	throttle), time = 	211.930, 50cm
+<2016-05-26 15:18:00,232> IOTXTreplace: sending decompressing command to wisps: 0305
+<2016-05-26 15:18:07,376> IOTXTreplace: 0305: Decompression is finished
+<2016-05-26 15:18:07,376> Log wisent decompression time 7.144, 50cm
+<2016-05-26 15:18:07,377> IOTXTreplace: Sending data from "ihex/ccs3decom.hex" to wisps: 0305
+<2016-05-26 15:18:07,411> 0305: *****************************************
+<2016-05-26 15:18:07,412> 0305: * Wisp to program:                 0305 *
+<2016-05-26 15:18:07,412> 0305: * Words to send:       2277 in 10 lines *
+<2016-05-26 15:18:07,412> 0305: *****************************************
+<2016-05-26 15:18:07,414> 0305: First reprogramming messages send --- Wisent time elapsed: 0.002 secs
+<2016-05-26 15:18:09,731> EPC did encode a good result
+<2016-05-26 15:18:18,743> EPC did encode a good result
+<2016-05-26 15:18:24,469> EPC did encode a good result
+<2016-05-26 15:18:35,770> EPC did encode a good result
+<2016-05-26 15:18:38,925> EPC did encode a good result
+<2016-05-26 15:18:39,088> EPC did encode a good result
+<2016-05-26 15:18:44,835> EPC did encode a good result
+<2016-05-26 15:18:49,696> EPC did encode a good result
+<2016-05-26 15:18:50,696> EPC did encode a good result
+<2016-05-26 15:18:56,493> EPC did encode a good result
+<2016-05-26 15:18:58,288> EPC did encode a good result
+<2016-05-26 15:19:29,940> EPC did encode a good result
+<2016-05-26 15:19:30,029> EPC did encode a good result
+<2016-05-26 15:19:34,610> EPC did encode a good result
+<2016-05-26 15:19:43,162> EPC did encode a good result
+<2016-05-26 15:19:48,080> EPC did encode a good result
+<2016-05-26 15:20:16,233> EPC did encode a good result
+<2016-05-26 15:20:26,854> EPC did encode a good result
+<2016-05-26 15:20:31,570> EPC did encode a good result
+<2016-05-26 15:20:45,734> EPC did encode a good result
+<2016-05-26 15:20:49,585> EPC did encode a good result
+<2016-05-26 15:21:11,638> EPC did encode a good result
+<2016-05-26 15:21:15,490> EPC did encode a good result
+<2016-05-26 15:21:17,174> EPC did encode a good result
+<2016-05-26 15:21:43,221> EPC did encode a good result
+<2016-05-26 15:21:52,054> EPC did encode a good result
+<2016-05-26 15:21:52,790> EPC did encode a good result
+<2016-05-26 15:22:02,054> EPC did encode a good result
+<2016-05-26 15:22:08,192> EPC did encode a good result
+<2016-05-26 15:22:55,036> 0305: wisent end of file reached.          --- Wisent time elapsed: 287.625 secs
+
+<2016-05-26 15:22:55,038> IOTXTreplace: 0305: Mem contains now your new data
+<2016-05-26 15:22:55,038> Log wisent: (BWperAS,payload)= (	4,	throttle), time = 	287.626, 50cm
+<2016-05-26 15:22:55,039> IOTXTreplace: sending decompressing command to wisps: 0305
+<2016-05-26 15:23:03,301> IOTXTreplace: 0305: Decompression is finished
+<2016-05-26 15:23:03,301> Log wisent decompression time 8.261, 50cm
+<2016-05-26 15:23:03,302> IOTXTreplace: Sending data from "ihex/ccs3decom.hex" to wisps: 0305
+<2016-05-26 15:23:03,359> 0305: *****************************************
+<2016-05-26 15:23:03,359> 0305: * Wisp to program:                 0305 *
+<2016-05-26 15:23:03,359> 0305: * Words to send:       2277 in 10 lines *
+<2016-05-26 15:23:03,359> 0305: *****************************************
+<2016-05-26 15:23:03,364> 0305: First reprogramming messages send --- Wisent time elapsed: 0.004 secs
+<2016-05-26 15:23:12,529> EPC did encode a good result
+<2016-05-26 15:23:20,438> EPC did encode a good result
+<2016-05-26 15:23:27,665> EPC did encode a good result
+<2016-05-26 15:23:33,881> EPC did encode a good result
+<2016-05-26 15:23:33,972> EPC did encode a good result
+<2016-05-26 15:23:41,968> EPC did encode a good result
+<2016-05-26 15:23:44,279> EPC did encode a good result
+<2016-05-26 15:24:16,065> EPC did encode a good result
+<2016-05-26 15:24:23,643> EPC did encode a good result
+<2016-05-26 15:24:29,535> EPC did encode a good result
+<2016-05-26 15:24:29,693> EPC did encode a good result
+<2016-05-26 15:24:36,733> EPC did encode a good result
+<2016-05-26 15:24:52,615> EPC did encode a good result
+<2016-05-26 15:24:59,226> EPC did encode a good result
+<2016-05-26 15:25:02,366> EPC did encode a good result
+<2016-05-26 15:25:03,555> EPC did encode a good result
+<2016-05-26 15:25:12,528> EPC did encode a good result
+<2016-05-26 15:25:20,067> EPC did encode a good result
+<2016-05-26 15:25:21,227> EPC did encode a good result
+<2016-05-26 15:25:33,472> EPC did encode a good result
+<2016-05-26 15:25:34,202> EPC did encode a good result
+<2016-05-26 15:25:45,530> EPC did encode a good result
+<2016-05-26 15:25:50,879> EPC did encode a good result
+<2016-05-26 15:25:51,204> EPC did encode a good result
+<2016-05-26 15:25:56,423> EPC did encode a good result
+<2016-05-26 15:26:11,748> EPC did encode a good result
+<2016-05-26 15:26:19,857> EPC did encode a good result
+<2016-05-26 15:26:20,091> EPC did encode a good result
+<2016-05-26 15:26:30,326> EPC did encode a good result
+<2016-05-26 15:26:33,064> EPC did encode a good result
+<2016-05-26 15:26:34,633> EPC did encode a good result
+<2016-05-26 15:26:39,066> EPC did encode a good result
+<2016-05-26 15:26:54,338> EPC did encode a good result
+<2016-05-26 15:26:56,076> EPC did encode a good result
+<2016-05-26 15:26:59,318> EPC did encode a good result
+<2016-05-26 15:27:34,055> EPC did encode a good result
+<2016-05-26 15:27:37,568> EPC did encode a good result
+<2016-05-26 15:28:13,602> 0305: wisent end of file reached.          --- Wisent time elapsed: 310.242 secs
+
+<2016-05-26 15:28:13,603> IOTXTreplace: 0305: Mem contains now your new data
+<2016-05-26 15:28:13,603> Log wisent: (BWperAS,payload)= (	4,	throttle), time = 	310.243, 50cm
+<2016-05-26 15:28:13,604> IOTXTreplace: sending decompressing command to wisps: 0305
+<2016-05-26 15:28:21,613> IOTXTreplace: 0305: Decompression is finished
+<2016-05-26 15:28:21,613> Log wisent decompression time 8.009, 50cm
+<2016-05-26 15:43:56,568> IOTXTreplace: Sending data from "ihex/ccs3decom.hex" to wisps: 0305
+<2016-05-26 15:43:56,602> 0305: *****************************************
+<2016-05-26 15:43:56,602> 0305: * Wisp to program:                 0305 *
+<2016-05-26 15:43:56,602> 0305: * Words to send:       2277 in 10 lines *
+<2016-05-26 15:43:56,602> 0305: *****************************************
+<2016-05-26 15:43:56,607> 0305: First reprogramming messages send --- Wisent time elapsed: 0.005 secs
+<2016-05-26 15:44:13,350> EPC did encode a good result
+<2016-05-26 15:44:15,260> EPC did encode a good result
+<2016-05-26 15:44:15,341> EPC did encode a good result
+<2016-05-26 15:44:16,174> EPC did encode a good result
+<2016-05-26 15:44:16,604> EPC did encode a good result
+<2016-05-26 15:44:24,634> EPC did encode a good result
+<2016-05-26 15:44:26,939> EPC did encode a good result
+<2016-05-26 15:44:32,896> EPC did encode a good result
+<2016-05-26 15:44:33,144> EPC did encode a good result
+<2016-05-26 15:44:33,232> EPC did encode a good result
+<2016-05-26 15:44:39,023> EPC did encode a good result
+<2016-05-26 15:44:41,299> EPC did encode a good result
+<2016-05-26 15:44:44,881> EPC did encode a good result
+<2016-05-26 15:44:48,961> EPC did encode a good result
+<2016-05-26 15:44:57,366> EPC did encode a good result
+<2016-05-26 15:45:11,613> EPC did encode a good result
+<2016-05-26 15:45:16,122> EPC did encode a good result
+<2016-05-26 15:45:18,973> EPC did encode a good result
+<2016-05-26 15:45:23,555> EPC did encode a good result
+<2016-05-26 15:45:43,954> EPC did encode a good result
+<2016-05-26 15:45:44,904> EPC did encode a good result
+<2016-05-26 15:45:46,049> EPC did encode a good result
+<2016-05-26 15:45:46,134> EPC did encode a good result
+<2016-05-26 15:45:57,635> EPC did encode a good result
+<2016-05-26 15:45:59,329> EPC did encode a good result
+<2016-05-26 15:46:03,522> EPC did encode a good result
+<2016-05-26 15:46:03,757> EPC did encode a good result
+<2016-05-26 15:46:07,058> EPC did encode a good result
+<2016-05-26 15:46:13,568> EPC did encode a good result
+<2016-05-26 15:46:19,187> EPC did encode a good result
+<2016-05-26 15:46:22,838> EPC did encode a good result
+<2016-05-26 15:46:33,017> EPC did encode a good result
+<2016-05-26 15:46:33,420> EPC did encode a good result
+<2016-05-26 15:46:52,034> EPC did encode a good result
+<2016-05-26 15:46:52,431> EPC did encode a good result
+<2016-05-26 15:47:18,088> EPC did encode a good result
+<2016-05-26 15:47:19,424> EPC did encode a good result
+<2016-05-26 15:47:19,914> EPC did encode a good result
+<2016-05-26 15:47:22,934> EPC did encode a good result
+<2016-05-26 15:47:34,036> EPC did encode a good result
+<2016-05-26 15:47:37,282> EPC did encode a good result
+<2016-05-26 15:47:38,099> EPC did encode a good result
+<2016-05-26 15:47:45,670> EPC did encode a good result
+<2016-05-26 15:47:55,088> EPC did encode a good result
+<2016-05-26 15:47:58,743> EPC did encode a good result
+<2016-05-26 15:48:02,618> EPC did encode a good result
+<2016-05-26 15:48:09,205> EPC did encode a good result
+<2016-05-26 15:48:11,808> EPC did encode a good result
+<2016-05-26 15:48:14,036> EPC did encode a good result
+<2016-05-26 15:48:19,801> EPC did encode a good result
+<2016-05-26 15:48:21,178> EPC did encode a good result
+<2016-05-26 15:48:22,830> EPC did encode a good result
+<2016-05-26 15:48:25,478> EPC did encode a good result
+<2016-05-26 15:48:26,635> EPC did encode a good result
+<2016-05-26 15:48:30,271> EPC did encode a good result
+<2016-05-26 15:48:32,200> EPC did encode a good result
+<2016-05-26 15:48:36,053> EPC did encode a good result
+<2016-05-26 15:48:36,580> EPC did encode a good result
+<2016-05-26 15:48:38,900> EPC did encode a good result
+<2016-05-26 15:48:46,831> EPC did encode a good result
+<2016-05-26 15:48:51,989> EPC did encode a good result
+<2016-05-26 15:48:53,443> EPC did encode a good result
+<2016-05-26 15:48:53,839> EPC did encode a good result
+<2016-05-26 15:48:55,793> EPC did encode a good result
+<2016-05-26 15:49:00,261> EPC did encode a good result
+<2016-05-26 15:49:01,022> EPC did encode a good result
+<2016-05-26 15:49:13,736> EPC did encode a good result
+<2016-05-26 15:49:20,212> EPC did encode a good result
+<2016-05-26 15:49:27,788> EPC did encode a good result
+<2016-05-26 15:49:31,653> EPC did encode a good result
+<2016-05-26 15:49:31,653> 0305: wisent end of file reached.          --- Wisent time elapsed: 335.051 secs
+
+<2016-05-26 15:49:31,655> IOTXTreplace: 0305: Mem contains now your new data
+<2016-05-26 15:49:31,655> Log wisent: (BWperAS,payload)= (	4,	throttle), time = 	335.052, 60cm
+<2016-05-26 15:49:31,656> IOTXTreplace: sending decompressing command to wisps: 0305
+<2016-05-26 15:49:40,227> IOTXTreplace: 0305: Decompression is finished
+<2016-05-26 15:49:40,228> Log wisent decompression time 8.572, 60cm
+<2016-05-26 15:49:40,228> IOTXTreplace: Sending data from "ihex/ccs3decom.hex" to wisps: 0305
+<2016-05-26 15:49:40,263> 0305: *****************************************
+<2016-05-26 15:49:40,264> 0305: * Wisp to program:                 0305 *
+<2016-05-26 15:49:40,264> 0305: * Words to send:       2277 in 10 lines *
+<2016-05-26 15:49:40,264> 0305: *****************************************
+<2016-05-26 15:49:40,266> 0305: First reprogramming messages send --- Wisent time elapsed: 0.003 secs
+<2016-05-26 15:49:46,187> EPC did encode a good result
+<2016-05-26 15:49:50,516> EPC did encode a good result
+<2016-05-26 15:49:55,476> EPC did encode a good result
+<2016-05-26 15:50:00,549> EPC did encode a good result
+<2016-05-26 15:50:01,278> EPC did encode a good result
+<2016-05-26 15:50:02,182> EPC did encode a good result
+<2016-05-26 15:50:03,087> EPC did encode a good result
+<2016-05-26 15:50:03,498> EPC did encode a good result
+<2016-05-26 15:50:03,584> EPC did encode a good result
+<2016-05-26 15:50:09,042> EPC did encode a good result
+<2016-05-26 15:50:13,478> EPC did encode a good result
+<2016-05-26 15:50:31,511> EPC did encode a good result
+<2016-05-26 15:50:31,753> EPC did encode a good result
+<2016-05-26 15:50:32,406> EPC did encode a good result
+<2016-05-26 15:50:32,489> EPC did encode a good result
+<2016-05-26 15:50:39,218> EPC did encode a good result
+<2016-05-26 15:50:41,075> EPC did encode a good result
+<2016-05-26 15:50:42,961> EPC did encode a good result
+<2016-05-26 15:50:43,130> EPC did encode a good result
+<2016-05-26 15:50:48,033> EPC did encode a good result
+<2016-05-26 15:51:05,757> EPC did encode a good result
+<2016-05-26 15:51:06,172> EPC did encode a good result
+<2016-05-26 15:51:11,942> EPC did encode a good result
+<2016-05-26 15:51:18,001> EPC did encode a good result
+<2016-05-26 15:51:20,921> EPC did encode a good result
+<2016-05-26 15:51:28,859> EPC did encode a good result
+<2016-05-26 15:51:29,016> EPC did encode a good result
+<2016-05-26 15:51:35,885> EPC did encode a good result
+<2016-05-26 15:51:37,575> EPC did encode a good result
+<2016-05-26 15:51:48,905> EPC did encode a good result
+<2016-05-26 15:51:52,775> EPC did encode a good result
+<2016-05-26 15:51:54,423> EPC did encode a good result
+<2016-05-26 15:51:55,305> EPC did encode a good result
+<2016-05-26 15:51:59,547> EPC did encode a good result
+<2016-05-26 15:52:06,597> EPC did encode a good result
+<2016-05-26 15:52:15,675> EPC did encode a good result
+<2016-05-26 15:52:26,968> EPC did encode a good result
+<2016-05-26 15:52:30,927> EPC did encode a good result
+<2016-05-26 15:52:32,186> EPC did encode a good result
+<2016-05-26 15:52:42,149> EPC did encode a good result
+<2016-05-26 15:52:44,878> EPC did encode a good result
+<2016-05-26 15:52:46,623> EPC did encode a good result
+<2016-05-26 15:52:52,590> EPC did encode a good result
+<2016-05-26 15:52:57,609> EPC did encode a good result
+<2016-05-26 15:53:04,728> EPC did encode a good result
+<2016-05-26 15:53:07,433> EPC did encode a good result
+<2016-05-26 15:53:07,518> EPC did encode a good result
+<2016-05-26 15:53:20,371> EPC did encode a good result
+<2016-05-26 15:53:31,770> EPC did encode a good result
+<2016-05-26 15:53:45,935> EPC did encode a good result
+<2016-05-26 15:53:47,732> EPC did encode a good result
+<2016-05-26 15:53:50,564> EPC did encode a good result
+<2016-05-26 15:53:54,309> EPC did encode a good result
+<2016-05-26 15:54:03,390> EPC did encode a good result
+<2016-05-26 15:54:20,018> EPC did encode a good result
+<2016-05-26 15:54:21,569> EPC did encode a good result
+<2016-05-26 15:54:22,131> EPC did encode a good result
+<2016-05-26 15:54:32,304> EPC did encode a good result
+<2016-05-26 15:54:37,124> EPC did encode a good result
+<2016-05-26 15:54:37,929> EPC did encode a good result
+<2016-05-26 15:54:38,271> EPC did encode a good result
+<2016-05-26 15:54:42,278> EPC did encode a good result
+<2016-05-26 15:54:46,468> EPC did encode a good result
+<2016-05-26 15:54:46,788> EPC did encode a good result
+<2016-05-26 15:54:48,839> EPC did encode a good result
+<2016-05-26 15:54:55,420> EPC did encode a good result
+<2016-05-26 15:54:56,092> EPC did encode a good result
+<2016-05-26 15:54:57,471> EPC did encode a good result
+<2016-05-26 15:55:13,891> 0305: wisent end of file reached.          --- Wisent time elapsed: 333.627 secs
+
+<2016-05-26 15:55:13,893> IOTXTreplace: 0305: Mem contains now your new data
+<2016-05-26 15:55:13,893> Log wisent: (BWperAS,payload)= (	4,	throttle), time = 	333.629, 60cm
+<2016-05-26 15:55:13,894> IOTXTreplace: sending decompressing command to wisps: 0305
+<2016-05-26 15:55:21,576> IOTXTreplace: 0305: Decompression is finished
+<2016-05-26 15:55:21,576> Log wisent decompression time 7.681, 60cm
+<2016-05-26 15:55:21,576> IOTXTreplace: Sending data from "ihex/ccs3decom.hex" to wisps: 0305
+<2016-05-26 15:55:21,606> 0305: *****************************************
+<2016-05-26 15:55:21,606> 0305: * Wisp to program:                 0305 *
+<2016-05-26 15:55:21,606> 0305: * Words to send:       2277 in 10 lines *
+<2016-05-26 15:55:21,606> 0305: *****************************************
+<2016-05-26 15:55:21,610> 0305: First reprogramming messages send --- Wisent time elapsed: 0.004 secs
+<2016-05-26 15:55:25,670> EPC did encode a good result
+<2016-05-26 15:55:26,791> EPC did encode a good result
+<2016-05-26 15:55:28,885> EPC did encode a good result
+<2016-05-26 15:55:33,665> EPC did encode a good result
+<2016-05-26 15:55:33,826> EPC did encode a good result
+<2016-05-26 15:55:42,996> EPC did encode a good result
+<2016-05-26 15:55:58,454> EPC did encode a good result
+<2016-05-26 15:55:58,775> EPC did encode a good result
+<2016-05-26 15:56:02,071> EPC did encode a good result
+<2016-05-26 15:56:07,455> EPC did encode a good result
+<2016-05-26 15:56:37,481> EPC did encode a good result
+<2016-05-26 15:56:37,807> EPC did encode a good result
+<2016-05-26 15:56:39,285> EPC did encode a good result
+<2016-05-26 15:56:40,902> EPC did encode a good result
+<2016-05-26 15:56:59,499> EPC did encode a good result
+<2016-05-26 15:56:59,743> EPC did encode a good result
+<2016-05-26 15:57:00,242> EPC did encode a good result
+<2016-05-26 15:57:20,542> EPC did encode a good result
+<2016-05-26 15:57:29,090> EPC did encode a good result
+<2016-05-26 15:57:31,273> EPC did encode a good result
+<2016-05-26 15:57:33,422> EPC did encode a good result
+<2016-05-26 15:57:33,822> EPC did encode a good result
+<2016-05-26 15:57:34,742> EPC did encode a good result
+<2016-05-26 15:57:35,008> EPC did encode a good result
+<2016-05-26 15:57:44,751> EPC did encode a good result
+<2016-05-26 15:57:46,612> EPC did encode a good result
+<2016-05-26 15:57:52,174> EPC did encode a good result
+<2016-05-26 15:57:57,946> EPC did encode a good result
+<2016-05-26 15:58:02,313> EPC did encode a good result
+<2016-05-26 15:58:03,474> EPC did encode a good result
+<2016-05-26 15:58:04,077> EPC did encode a good result
+<2016-05-26 15:58:05,013> EPC did encode a good result
+<2016-05-26 15:58:09,827> EPC did encode a good result
+<2016-05-26 15:58:10,224> EPC did encode a good result
+<2016-05-26 15:58:28,356> EPC did encode a good result
+<2016-05-26 15:58:33,199> EPC did encode a good result
+<2016-05-26 15:58:38,845> EPC did encode a good result
+<2016-05-26 15:58:39,010> EPC did encode a good result
+<2016-05-26 15:58:44,469> EPC did encode a good result
+<2016-05-26 15:58:44,799> EPC did encode a good result
+<2016-05-26 15:58:50,478> EPC did encode a good result
+<2016-05-26 15:58:50,577> EPC did encode a good result
+<2016-05-26 15:58:52,781> EPC did encode a good result
+<2016-05-26 15:58:52,936> EPC did encode a good result
+<2016-05-26 15:58:55,482> EPC did encode a good result
+<2016-05-26 15:58:56,480> EPC did encode a good result
+<2016-05-26 15:58:58,211> EPC did encode a good result
+<2016-05-26 15:58:59,180> EPC did encode a good result
+<2016-05-26 15:59:02,753> EPC did encode a good result
+<2016-05-26 15:59:04,760> EPC did encode a good result
+<2016-05-26 15:59:14,771> EPC did encode a good result
+<2016-05-26 15:59:27,800> EPC did encode a good result
+<2016-05-26 15:59:30,999> EPC did encode a good result
+<2016-05-26 15:59:40,615> EPC did encode a good result
+<2016-05-26 15:59:42,902> EPC did encode a good result
+<2016-05-26 15:59:43,554> EPC did encode a good result
+<2016-05-26 15:59:45,454> EPC did encode a good result
+<2016-05-26 15:59:51,425> EPC did encode a good result
+<2016-05-26 15:59:55,513> EPC did encode a good result
+<2016-05-26 16:00:00,663> EPC did encode a good result
+<2016-05-26 16:00:09,587> EPC did encode a good result
+<2016-05-26 16:00:09,989> EPC did encode a good result
+<2016-05-26 16:00:13,158> EPC did encode a good result
+<2016-05-26 16:00:19,488> EPC did encode a good result
+<2016-05-26 16:00:23,134> EPC did encode a good result
+<2016-05-26 16:00:24,016> EPC did encode a good result
+<2016-05-26 16:00:24,100> EPC did encode a good result
+<2016-05-26 16:00:27,685> EPC did encode a good result
+<2016-05-26 16:00:53,741> EPC did encode a good result
+<2016-05-26 16:00:54,138> EPC did encode a good result
+<2016-05-26 16:01:00,962> EPC did encode a good result
+<2016-05-26 16:01:01,120> EPC did encode a good result
+<2016-05-26 16:01:08,900> 0305: wisent end of file reached.          --- Wisent time elapsed: 347.294 secs
+
+<2016-05-26 16:01:08,901> IOTXTreplace: 0305: Mem contains now your new data
+<2016-05-26 16:01:08,901> Log wisent: (BWperAS,payload)= (	4,	throttle), time = 	347.295, 60cm
+<2016-05-26 16:01:08,901> IOTXTreplace: sending decompressing command to wisps: 0305
+<2016-05-26 16:01:17,363> IOTXTreplace: 0305: Decompression is finished
+<2016-05-26 16:01:17,363> Log wisent decompression time 8.461, 60cm
+<2016-05-26 16:01:17,363> IOTXTreplace: Sending data from "ihex/ccs3decom.hex" to wisps: 0305
+<2016-05-26 16:01:17,397> 0305: *****************************************
+<2016-05-26 16:01:17,397> 0305: * Wisp to program:                 0305 *
+<2016-05-26 16:01:17,397> 0305: * Words to send:       2277 in 10 lines *
+<2016-05-26 16:01:17,397> 0305: *****************************************
+<2016-05-26 16:01:17,400> 0305: First reprogramming messages send --- Wisent time elapsed: 0.003 secs
+<2016-05-26 16:01:25,472> EPC did encode a good result
+<2016-05-26 16:01:25,980> EPC did encode a good result
+<2016-05-26 16:01:27,450> EPC did encode a good result
+<2016-05-26 16:01:28,089> EPC did encode a good result
+<2016-05-26 16:01:28,252> EPC did encode a good result
+<2016-05-26 16:01:29,791> EPC did encode a good result
+<2016-05-26 16:01:30,683> EPC did encode a good result
+<2016-05-26 16:01:31,422> EPC did encode a good result
+<2016-05-26 16:01:31,504> EPC did encode a good result
+<2016-05-26 16:01:38,483> EPC did encode a good result
+<2016-05-26 16:01:38,882> EPC did encode a good result
+<2016-05-26 16:01:38,968> EPC did encode a good result
+<2016-05-26 16:01:39,810> EPC did encode a good result
+<2016-05-26 16:01:41,372> EPC did encode a good result
+<2016-05-26 16:01:45,176> EPC did encode a good result
+<2016-05-26 16:01:48,753> EPC did encode a good result
+<2016-05-26 16:01:49,083> EPC did encode a good result
+<2016-05-26 16:01:51,379> EPC did encode a good result
+<2016-05-26 16:01:55,559> EPC did encode a good result
+<2016-05-26 16:02:13,601> EPC did encode a good result
+<2016-05-26 16:02:22,666> EPC did encode a good result
+<2016-05-26 16:02:23,867> EPC did encode a good result
+<2016-05-26 16:02:23,948> EPC did encode a good result
+<2016-05-26 16:02:25,709> EPC did encode a good result
+<2016-05-26 16:02:34,208> EPC did encode a good result
+<2016-05-26 16:02:37,627> EPC did encode a good result
+<2016-05-26 16:02:38,868> EPC did encode a good result
+<2016-05-26 16:02:44,462> EPC did encode a good result
+<2016-05-26 16:02:49,639> EPC did encode a good result
+<2016-05-26 16:02:53,342> EPC did encode a good result
+<2016-05-26 16:02:54,839> EPC did encode a good result
+<2016-05-26 16:02:54,937> EPC did encode a good result
+<2016-05-26 16:02:58,458> EPC did encode a good result
+<2016-05-26 16:02:58,940> EPC did encode a good result
+<2016-05-26 16:03:01,149> EPC did encode a good result
+<2016-05-26 16:03:19,433> EPC did encode a good result
+<2016-05-26 16:03:29,799> EPC did encode a good result
+<2016-05-26 16:03:32,709> EPC did encode a good result
+<2016-05-26 16:03:34,651> EPC did encode a good result
+<2016-05-26 16:03:35,158> EPC did encode a good result
+<2016-05-26 16:03:36,953> EPC did encode a good result
+<2016-05-26 16:03:40,324> EPC did encode a good result
+<2016-05-26 16:03:40,480> EPC did encode a good result
+<2016-05-26 16:03:42,189> EPC did encode a good result
+<2016-05-26 16:03:47,463> EPC did encode a good result
+<2016-05-26 16:03:47,860> EPC did encode a good result
+<2016-05-26 16:04:02,106> EPC did encode a good result
+<2016-05-26 16:04:06,263> EPC did encode a good result
+<2016-05-26 16:04:08,081> EPC did encode a good result
+<2016-05-26 16:04:10,772> EPC did encode a good result
+<2016-05-26 16:04:18,905> EPC did encode a good result
+<2016-05-26 16:04:20,560> EPC did encode a good result
+<2016-05-26 16:04:20,648> EPC did encode a good result
+<2016-05-26 16:04:22,832> EPC did encode a good result
+<2016-05-26 16:04:26,910> EPC did encode a good result
+<2016-05-26 16:04:31,143> EPC did encode a good result
+<2016-05-26 16:04:33,924> EPC did encode a good result
+<2016-05-26 16:04:34,169> EPC did encode a good result
+<2016-05-26 16:04:37,025> EPC did encode a good result
+<2016-05-26 16:04:38,249> EPC did encode a good result
+<2016-05-26 16:04:42,136> EPC did encode a good result
+<2016-05-26 16:04:59,377> EPC did encode a good result
+<2016-05-26 16:05:01,726> EPC did encode a good result
+<2016-05-26 16:05:09,852> EPC did encode a good result
+<2016-05-26 16:05:10,178> EPC did encode a good result
+<2016-05-26 16:05:10,267> EPC did encode a good result
+<2016-05-26 16:05:10,521> EPC did encode a good result
+<2016-05-26 16:05:14,640> EPC did encode a good result
+<2016-05-26 16:05:18,128> EPC did encode a good result
+<2016-05-26 16:05:19,002> EPC did encode a good result
+<2016-05-26 16:05:27,766> EPC did encode a good result
+<2016-05-26 16:05:31,425> EPC did encode a good result
+<2016-05-26 16:05:31,925> EPC did encode a good result
+<2016-05-26 16:05:35,823> EPC did encode a good result
+<2016-05-26 16:05:39,781> EPC did encode a good result
+<2016-05-26 16:05:40,444> EPC did encode a good result
+<2016-05-26 16:05:48,015> EPC did encode a good result
+<2016-05-26 16:05:54,391> EPC did encode a good result
+<2016-05-26 16:06:02,299> EPC did encode a good result
+<2016-05-26 16:06:02,966> EPC did encode a good result
+<2016-05-26 16:06:03,043> EPC did encode a good result
+<2016-05-26 16:06:03,464> EPC did encode a good result
+<2016-05-26 16:06:07,245> EPC did encode a good result
+<2016-05-26 16:06:08,953> EPC did encode a good result
+<2016-05-26 16:06:11,523> EPC did encode a good result
+<2016-05-26 16:06:13,903> EPC did encode a good result
+<2016-05-26 16:06:14,953> EPC did encode a good result
+<2016-05-26 16:06:22,435> EPC did encode a good result
+<2016-05-26 16:06:28,093> EPC did encode a good result
+<2016-05-26 16:06:31,115> EPC did encode a good result
+<2016-05-26 16:06:31,596> EPC did encode a good result
+<2016-05-26 16:06:33,758> 0305: wisent end of file reached.          --- Wisent time elapsed: 316.361 secs
+
+<2016-05-26 16:06:33,794> IOTXTreplace: 0305: Mem contains now your new data
+<2016-05-26 16:06:33,795> Log wisent: (BWperAS,payload)= (	4,	throttle), time = 	316.362, 60cm
+<2016-05-26 16:06:33,804> IOTXTreplace: sending decompressing command to wisps: 0305
+<2016-05-26 16:06:41,667> IOTXTreplace: 0305: Decompression is finished
+<2016-05-26 16:06:41,667> Log wisent decompression time 7.857, 60cm
+<2016-05-26 16:06:41,673> IOTXTreplace: Sending data from "ihex/ccs3decom.hex" to wisps: 0305
+<2016-05-26 16:06:42,102> 0305: *****************************************
+<2016-05-26 16:06:42,102> 0305: * Wisp to program:                 0305 *
+<2016-05-26 16:06:42,103> 0305: * Words to send:       2277 in 10 lines *
+<2016-05-26 16:06:42,103> 0305: *****************************************
+<2016-05-26 16:06:42,107> 0305: First reprogramming messages send --- Wisent time elapsed: 0.004 secs
+<2016-05-26 16:06:45,632> EPC did encode a good result
+<2016-05-26 16:06:45,717> EPC did encode a good result
+<2016-05-26 16:06:49,988> EPC did encode a good result
+<2016-05-26 16:06:54,116> EPC did encode a good result
+<2016-05-26 16:07:09,174> EPC did encode a good result
+<2016-05-26 16:07:10,221> EPC did encode a good result
+<2016-05-26 16:07:12,677> EPC did encode a good result
+<2016-05-26 16:07:17,388> EPC did encode a good result
+<2016-05-26 16:07:19,116> EPC did encode a good result
+<2016-05-26 16:07:19,199> EPC did encode a good result
+<2016-05-26 16:07:22,773> EPC did encode a good result
+<2016-05-26 16:07:23,831> EPC did encode a good result
+<2016-05-26 16:07:29,910> EPC did encode a good result
+<2016-05-26 16:07:30,492> EPC did encode a good result
+<2016-05-26 16:07:31,742> EPC did encode a good result
+<2016-05-26 16:07:35,322> EPC did encode a good result
+<2016-05-26 16:07:40,271> EPC did encode a good result
+<2016-05-26 16:07:48,403> EPC did encode a good result
+<2016-05-26 16:07:51,251> EPC did encode a good result
+<2016-05-26 16:08:00,667> EPC did encode a good result
+<2016-05-26 16:08:01,251> EPC did encode a good result
+<2016-05-26 16:08:06,675> EPC did encode a good result
+<2016-05-26 16:08:06,913> EPC did encode a good result
+<2016-05-26 16:08:10,458> EPC did encode a good result
+<2016-05-26 16:08:12,494> EPC did encode a good result
+<2016-05-26 16:08:21,125> EPC did encode a good result
+<2016-05-26 16:08:23,904> EPC did encode a good result
+<2016-05-26 16:08:24,874> EPC did encode a good result
+<2016-05-26 16:08:25,435> EPC did encode a good result
+<2016-05-26 16:08:27,156> EPC did encode a good result
+<2016-05-26 16:08:34,197> EPC did encode a good result
+<2016-05-26 16:08:41,887> EPC did encode a good result
+<2016-05-26 16:08:45,304> EPC did encode a good result
+<2016-05-26 16:08:46,855> EPC did encode a good result
+<2016-05-26 16:08:47,021> EPC did encode a good result
+<2016-05-26 16:08:47,895> EPC did encode a good result
+<2016-05-26 16:08:56,848> EPC did encode a good result
+<2016-05-26 16:09:02,297> EPC did encode a good result
+<2016-05-26 16:09:07,281> EPC did encode a good result
+<2016-05-26 16:09:07,448> EPC did encode a good result
+<2016-05-26 16:09:10,707> EPC did encode a good result
+<2016-05-26 16:09:12,362> EPC did encode a good result
+<2016-05-26 16:09:20,967> EPC did encode a good result
+<2016-05-26 16:09:22,125> EPC did encode a good result
+<2016-05-26 16:09:23,579> EPC did encode a good result
+<2016-05-26 16:09:31,622> EPC did encode a good result
+<2016-05-26 16:09:39,860> EPC did encode a good result
+<2016-05-26 16:09:40,106> EPC did encode a good result
+<2016-05-26 16:09:41,441> EPC did encode a good result
+<2016-05-26 16:09:42,172> EPC did encode a good result
+<2016-05-26 16:09:48,021> EPC did encode a good result
+<2016-05-26 16:09:49,002> EPC did encode a good result
+<2016-05-26 16:09:52,109> EPC did encode a good result
+<2016-05-26 16:10:00,786> EPC did encode a good result
+<2016-05-26 16:10:05,932> EPC did encode a good result
+<2016-05-26 16:10:06,018> EPC did encode a good result
+<2016-05-26 16:10:08,672> EPC did encode a good result
+<2016-05-26 16:10:08,834> EPC did encode a good result
+<2016-05-26 16:10:24,472> EPC did encode a good result
+<2016-05-26 16:10:27,053> EPC did encode a good result
+<2016-05-26 16:10:31,115> EPC did encode a good result
+<2016-05-26 16:10:34,514> EPC did encode a good result
+<2016-05-26 16:10:35,814> EPC did encode a good result
+<2016-05-26 16:10:39,976> EPC did encode a good result
+<2016-05-26 16:10:43,778> EPC did encode a good result
+<2016-05-26 16:10:43,867> EPC did encode a good result
+<2016-05-26 16:11:02,225> EPC did encode a good result
+<2016-05-26 16:11:10,766> EPC did encode a good result
+<2016-05-26 16:11:13,346> EPC did encode a good result
+<2016-05-26 16:11:15,689> EPC did encode a good result
+<2016-05-26 16:11:25,318> EPC did encode a good result
+<2016-05-26 16:11:30,928> EPC did encode a good result
+<2016-05-26 16:11:33,108> EPC did encode a good result
+<2016-05-26 16:11:33,273> EPC did encode a good result
+<2016-05-26 16:11:33,918> EPC did encode a good result
+<2016-05-26 16:11:45,561> EPC did encode a good result
+<2016-05-26 16:11:48,378> EPC did encode a good result
+<2016-05-26 16:12:00,287> EPC did encode a good result
+<2016-05-26 16:12:02,792> EPC did encode a good result
+<2016-05-26 16:12:05,952> EPC did encode a good result
+<2016-05-26 16:12:06,361> EPC did encode a good result
+<2016-05-26 16:12:07,120> EPC did encode a good result
+<2016-05-26 16:12:09,446> EPC did encode a good result
+<2016-05-26 16:12:16,711> EPC did encode a good result
+<2016-05-26 16:12:16,807> EPC did encode a good result
+<2016-05-26 16:12:17,711> EPC did encode a good result
+<2016-05-26 16:12:22,923> EPC did encode a good result
+<2016-05-26 16:12:30,963> EPC did encode a good result
+<2016-05-26 16:12:31,052> EPC did encode a good result
+<2016-05-26 16:12:32,396> 0305: wisent end of file reached.          --- Wisent time elapsed: 350.293 secs
+
+<2016-05-26 16:12:32,399> IOTXTreplace: 0305: Mem contains now your new data
+<2016-05-26 16:12:32,402> Log wisent: (BWperAS,payload)= (	4,	throttle), time = 	350.295, 60cm
+<2016-05-26 16:12:32,410> IOTXTreplace: sending decompressing command to wisps: 0305
+<2016-05-26 16:12:40,459> IOTXTreplace: 0305: Decompression is finished
+<2016-05-26 16:12:40,459> Log wisent decompression time 8.047, 60cm
+

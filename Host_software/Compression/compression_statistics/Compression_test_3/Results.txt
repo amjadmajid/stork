@@ -1,0 +1,6 @@
+Original text file ccs_eav304.hex
+Removing the addressing and the checksum bits
+The uncompressed hex file is dump.hex. Its size is 11409 bytes
+The compressed hex file is CompressedFile.hex. Its size is 10207 bytes
+The compression ratio is ((11409 - 10207) / 11409) * 100 = 10.5 %
+

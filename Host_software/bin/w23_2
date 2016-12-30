@@ -1,0 +1,8 @@
+#!/bin/sh
+
+# default Python interpreter is 'python' from your $PATH; set the $PYTHON
+# environment variable to override it
+: ${PYTHON:=python}
+export PYTHONPATH="$(dirname $0)/..:$PYTHONPATH"
+cd ..
+exec "$PYTHON" -m sllurp.WReprogram -n 10 -s 2 -P 4 -f ihex/ccs2.hex -w 0x0301 -M WISP5 -l w301_memchecklog.txt ${1+"$@"} 192.168.10.5

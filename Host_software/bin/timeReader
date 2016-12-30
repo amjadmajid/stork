@@ -1,0 +1,8 @@
+#!/bin/sh
+
+# default Python interpreter is 'python' from your $PATH; set the $PYTHON
+# environment variable to override it
+: ${PYTHON:=python}
+export PYTHONPATH="$(dirname $0)/..:$PYTHONPATH"
+
+exec "$PYTHON" -m sllurp.timeReader -n 100 -s 2 ${1+"$@"} -M WISP5 192.168.10.103

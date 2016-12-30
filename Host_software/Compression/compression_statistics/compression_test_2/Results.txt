@@ -1,0 +1,6 @@
+Original text file ccs2.hex
+Removing the addressing and the checksum bits
+The uncompressed hex file is dump.hex. Its size is 10300 bytes
+The compressed hex file is CompressedFile.hex. Its size is 9240 bytes
+The compression ratio is ((10300 - 9240) / 10300) * 100 = 10.3 %
+

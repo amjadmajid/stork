@@ -1,0 +1,7 @@
+import all the project folders from this folder into Code Composer Studio
+
+base/         > Stork downstream CRFID side and boatloader
+run-once/     > run this script once, to generate pseudo random numbers
+run-wireless/ > use this as a template if you want to reprogram the CRFID wireless, because you can not send regular code composer programs, since they would overwrite the Stork boatloader
+wisp-base/    > this is the folder with the core files of WISP5, all projects depend on this one
+

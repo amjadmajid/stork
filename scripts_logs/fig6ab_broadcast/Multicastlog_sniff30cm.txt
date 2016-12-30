@@ -1,0 +1,2086 @@
+<2016-06-28 17:02:44,892> log level: INFO
+<2016-06-28 17:02:44,892> 
+
+  [1;44m  * [1;44m  * [1;44m  * [1;44m  * [1;44m  * [1;44m  *  [1;0m[1;31m████████████████████████████████████[1;0m
+  [1;44m  [1;44m  * [1;44m  * [1;44m  * [1;44m  * [1;44m  *    [1;0m████████████████████████████████████
+  [1;44m  * [1;44m  * [1;44m  * [1;44m  * [1;44m  * [1;44m  *  [1;0m[1;31m████████████████████████████████████[1;0m
+  [1;44m  [1;44m  * [1;44m  * [1;44m  * [1;44m  * [1;44m  *    [1;0m████████████████████████████████████
+  [1;44m  * [1;44m  * [1;44m  * [1;44m  * [1;44m  * [1;44m  *  [1;0m[1;31m████████████████████████████████████[1;0m
+  [1;44m  [1;44m  * [1;44m  * [1;44m  * [1;44m  * [1;44m  *    [1;0m████████████████████████████████████
+  [1;44m  * [1;44m  * [1;44m  * [1;44m  * [1;44m  * [1;44m  *  [1;0m[1;31m████████████████████████████████████[1;0m
+  [1;44m  [1;44m  * [1;44m  * [1;44m  * [1;44m  * [1;44m  *    [1;0m████████████████████████████████████
+  [1;44m  * [1;44m  * [1;44m  * [1;44m  * [1;44m  * [1;44m  *  [1;0m[1;31m████████████████████████████████████[1;0m
+  █████████████████████████████████████████████████████████████
+  [1;31m█████████████████████████████████████████████████████████████[1;0m
+  █████████████████████████████████████████████████████████████
+  [1;31m█████████████████████████████████████████████████████████████[1;0m
+  █████████████████████████████████████████████████████████████
+  [1;31m█████████████████████████████████████████████████████████████[1;0m
+  █████████████████████████████████████████████████████████████
+  [1;31m█████████████████████████████████████████████████████████████[1;0m
+  
+<2016-06-28 17:02:44,892> selected recommended Tari of 7140 for WISP5
+<2016-06-28 17:02:45,123> IOTXTreplace: Initializing
+<2016-06-28 17:02:45,473> connecting...
+<2016-06-28 17:02:45,475> will reset reader state on connect
+<2016-06-28 17:02:45,475> will start inventory on connect
+<2016-06-28 17:02:45,475> using antennas: (1,)
+<2016-06-28 17:02:45,476> connected to ('192.168.10.103', 5084)
+<2016-06-28 17:02:47,389> requested modulation: WISP5
+<2016-06-28 17:02:47,389> using reader mode: {'C': 0, 'MaxTari': 7140, 'M': 2, 'PIE': 1500, 'StepTari': 0, 'R': 1, 'FLM': 0, 'MinTari': 7140, 'ModeIdentifier': 0, 'BDR': 640000, 'Mod': 0}
+<2016-06-28 17:02:47,390> stopping politely
+<2016-06-28 17:02:47,402> reader finished inventory
+<2016-06-28 17:02:47,403> starting inventory
+<2016-06-28 17:02:47,419> IOTXTreplace: Connection established
+<2016-06-28 17:03:38,117> [1;31mIOTXT-WARNING: NOOO!! You don't want to delete the random numbers of multiple wisps at the same time!
+If you do, they will talk like coffee-chickens[1;0m
+<2016-06-28 17:03:46,117> IOTXTreplace: Clearing memory from 6400to 8400 to wisps: 0303 and 0300 and 0248 and 0302
+<2016-06-28 17:03:46,117> **************************************************
+<2016-06-28 17:03:46,118> ** ** ** Delete wispmem from 6400 to 8400 ** ** **
+<2016-06-28 17:03:46,118> **************************************************
+<2016-06-28 17:03:46,120> **************************************************
+<2016-06-28 17:03:46,120> ** ** ** Delete wispmem from 6400 to 8400 ** ** **
+<2016-06-28 17:03:46,120> **************************************************
+<2016-06-28 17:03:46,122> **************************************************
+<2016-06-28 17:03:46,122> ** ** ** Delete wispmem from 6400 to 8400 ** ** **
+<2016-06-28 17:03:46,122> **************************************************
+<2016-06-28 17:03:46,124> **************************************************
+<2016-06-28 17:03:46,124> ** ** ** Delete wispmem from 6400 to 8400 ** ** **
+<2016-06-28 17:03:46,124> **************************************************
+<2016-06-28 17:03:47,962> IOTXTreplace: 0300: Mem is cleared now
+<2016-06-28 17:03:48,122> IOTXTreplace: 0248: Mem is cleared now
+<2016-06-28 17:03:48,697> BAD OpSpecResult={'NumWordsWritten': 0, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 17:03:49,109> IOTXTreplace: 0302: Mem is cleared now
+<2016-06-28 17:03:50,392> IOTXTreplace: 0303: Mem is cleared now
+<2016-06-28 17:06:32,417> IOTXTreplace: Sending data from "ihex/ccs1.hex" to wisps: 0303 and 0300 and 0248 and 0302
+<2016-06-28 17:06:32,476> 0303: *****************************************
+<2016-06-28 17:06:32,477> 0303: * Wisp to program:                 0303 *
+<2016-06-28 17:06:32,477> 0303: * Words to send:       2527 in  9 lines *
+<2016-06-28 17:06:32,477> 0303: *****************************************
+<2016-06-28 17:06:32,483> 0303: First reprogramming messages send --- Wisent time elapsed: 0.005 secs
+<2016-06-28 17:06:32,516> 0300: *****************************************
+<2016-06-28 17:06:32,516> 0300: * Wisp to program:                 0300 *
+<2016-06-28 17:06:32,517> 0300: * Words to send:       2527 in  9 lines *
+<2016-06-28 17:06:32,517> 0300: *****************************************
+<2016-06-28 17:06:32,519> 0300: First reprogramming messages send --- Wisent time elapsed: 0.002 secs
+<2016-06-28 17:06:32,551> 0248: *****************************************
+<2016-06-28 17:06:32,551> 0248: * Wisp to program:                 0248 *
+<2016-06-28 17:06:32,551> 0248: * Words to send:       2527 in  9 lines *
+<2016-06-28 17:06:32,551> 0248: *****************************************
+<2016-06-28 17:06:32,553> 0248: First reprogramming messages send --- Wisent time elapsed: 0.002 secs
+<2016-06-28 17:06:32,583> 0302: *****************************************
+<2016-06-28 17:06:32,583> 0302: * Wisp to program:                 0302 *
+<2016-06-28 17:06:32,583> 0302: * Words to send:       2527 in  9 lines *
+<2016-06-28 17:06:32,583> 0302: *****************************************
+<2016-06-28 17:06:32,585> 0302: First reprogramming messages send --- Wisent time elapsed: 0.002 secs
+<2016-06-28 17:06:32,793> [1;31mWISENT TIMEOUT[1;0m wisp died
+<2016-06-28 17:06:32,819> [1;31mWISENT TIMEOUT[1;0m wisp died
+<2016-06-28 17:06:32,854> [1;31mWISENT TIMEOUT[1;0m wisp died
+<2016-06-28 17:06:32,885> [1;31mWISENT TIMEOUT[1;0m wisp died
+<2016-06-28 17:06:33,096> [1;31mWISENT TIMEOUT[1;0m wisp died
+<2016-06-28 17:06:33,156> [1;31mWISENT TIMEOUT[1;0m wisp died
+<2016-06-28 17:06:33,175> BAD OpSpecResult={'NumWordsWritten': 5, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 17:06:33,191> [1;31mWISENT TIMEOUT[1;0m wisp died
+<2016-06-28 17:06:33,398> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2016-06-28 17:06:33,458> [1;31mWISENT TIMEOUT[1;0m wisp died
+<2016-06-28 17:06:33,493> [1;31mWISENT TIMEOUT[1;0m wisp died
+<2016-06-28 17:06:33,560> BAD OpSpecResult={'NumWordsWritten': 3, 'Result': 6, 'OpSpecID': 3}
+<2016-06-28 17:06:33,698> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2016-06-28 17:06:33,797> [1;31mWISENT TIMEOUT[1;0m wisp died
+<2016-06-28 17:06:33,876> [1;31mWISENT TIMEOUT[1;0m wisp died
+<2016-06-28 17:06:33,952> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2016-06-28 17:06:34,000> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2016-06-28 17:06:34,105> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2016-06-28 17:06:34,227> [1;31mWISENT TIMEOUT[1;0m wisp died
+<2016-06-28 17:06:34,300> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2016-06-28 17:06:34,405> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2016-06-28 17:06:34,544> BAD OpSpecResult={'NumWordsWritten': 14, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 17:06:34,552> [1;31mWISENT TIMEOUT[1;0m wisp died
+<2016-06-28 17:06:34,601> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2016-06-28 17:06:34,799> [1;31mWISENT TIMEOUT[1;0m wisp died
+<2016-06-28 17:06:34,965> [1;31mWISENT TIMEOUT[1;0m wisp died
+<2016-06-28 17:06:34,990> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2016-06-28 17:06:35,015> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2016-06-28 17:06:35,268> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2016-06-28 17:06:35,290> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2016-06-28 17:06:35,316> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2016-06-28 17:06:35,590> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2016-06-28 17:06:35,616> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2016-06-28 17:06:35,780> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2016-06-28 17:06:35,891> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2016-06-28 17:06:35,925> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2016-06-28 17:06:36,163> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2016-06-28 17:06:36,221> [1;31mWISENT TIMEOUT[1;0m wisp died
+<2016-06-28 17:06:36,340> [1;31mWISENT TIMEOUT[1;0m wisp died
+<2016-06-28 17:06:36,355> [1;31mWISENT TIMEOUT[1;0m wisp died
+<2016-06-28 17:06:36,523> [1;31mWISENT TIMEOUT[1;0m wisp died
+<2016-06-28 17:06:36,649> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2016-06-28 17:06:36,658> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2016-06-28 17:06:36,826> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2016-06-28 17:06:36,878> BAD OpSpecResult={'ReadDataWordCount': 0, 'ReadData': '', 'Result': 3, 'OpSpecID': 6}
+<2016-06-28 17:06:36,951> BAD OpSpecResult={'NumWordsWritten': 0, 'Result': 6, 'OpSpecID': 7}
+<2016-06-28 17:06:36,959> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2016-06-28 17:06:36,960> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2016-06-28 17:06:37,140> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2016-06-28 17:06:37,265> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2016-06-28 17:06:37,265> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2016-06-28 17:06:37,339> BAD OpSpecResult={'NumWordsWritten': 8, 'Result': 6, 'OpSpecID': 5}
+<2016-06-28 17:06:37,468> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2016-06-28 17:06:37,565> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2016-06-28 17:06:37,565> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2016-06-28 17:06:37,641> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2016-06-28 17:06:37,865> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2016-06-28 17:06:37,942> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2016-06-28 17:06:38,089> BAD OpSpecResult={'NumWordsWritten': 4, 'Result': 6, 'OpSpecID': 3}
+<2016-06-28 17:06:38,102> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2016-06-28 17:06:38,392> [1;31mWISENT TIMEOUT[1;0m wisp died
+<2016-06-28 17:06:38,402> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2016-06-28 17:06:38,608> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2016-06-28 17:06:38,694> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2016-06-28 17:06:38,721> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2016-06-28 17:06:38,905> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2016-06-28 17:06:39,018> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2016-06-28 17:06:39,101> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2016-06-28 17:06:39,126> BAD OpSpecResult={'NumWordsWritten': 7, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 17:06:39,263> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2016-06-28 17:06:39,319> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2016-06-28 17:06:39,401> [1;31mWISENT TIMEOUT[1;0m wisp died
+<2016-06-28 17:06:39,596> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2016-06-28 17:06:39,619> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2016-06-28 17:06:39,703> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2016-06-28 17:06:39,794> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2016-06-28 17:06:39,919> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2016-06-28 17:06:40,072> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2016-06-28 17:06:40,222> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2016-06-28 17:06:40,259> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2016-06-28 17:06:40,487> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2016-06-28 17:06:40,522> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2016-06-28 17:06:40,559> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2016-06-28 17:06:40,669> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2016-06-28 17:06:40,823> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2016-06-28 17:06:40,953> BAD OpSpecResult={'NumWordsWritten': 30, 'Result': 6, 'OpSpecID': 2}
+<2016-06-28 17:06:40,967> [1;31mWISENT TIMEOUT[1;0m wisp died
+<2016-06-28 17:06:41,013> 0300: wisent end of file reached.          --- Wisent time elapsed: 8.497 secs
+
+<2016-06-28 17:06:41,017> IOTXTreplace: 0300: Mem contains now your new data
+<2016-06-28 17:06:41,018> Log wisent: (BWperAS,payload)= (	4,	throttle), time = 	8.500, 
+<2016-06-28 17:06:41,124> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2016-06-28 17:06:41,180> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2016-06-28 17:06:41,297> BAD OpSpecResult={'NumWordsWritten': 27, 'Result': 6, 'OpSpecID': 5}
+<2016-06-28 17:06:41,424> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2016-06-28 17:06:41,466> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2016-06-28 17:06:41,604> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2016-06-28 17:06:41,626> BAD OpSpecResult={'NumWordsWritten': 3, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 17:06:41,724> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2016-06-28 17:06:41,883> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2016-06-28 17:06:41,904> [1;31mWISENT TIMEOUT[1;0m wisp died
+<2016-06-28 17:06:42,183> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2016-06-28 17:06:42,207> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2016-06-28 17:06:42,281> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2016-06-28 17:06:42,508> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2016-06-28 17:06:42,581> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2016-06-28 17:06:42,808> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2016-06-28 17:06:42,839> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2016-06-28 17:06:42,882> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2016-06-28 17:06:43,057> BAD OpSpecResult={'NumWordsWritten': 28, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 17:06:43,108> [1;31mWISENT TIMEOUT[1;0m wisp died
+<2016-06-28 17:06:43,186> BAD OpSpecResult={'NumWordsWritten': 4, 'Result': 6, 'OpSpecID': 5}
+<2016-06-28 17:06:43,195> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2016-06-28 17:06:43,295> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2016-06-28 17:06:43,489> [1;31mWISENT TIMEOUT[1;0m wisp died
+<2016-06-28 17:06:43,495> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2016-06-28 17:06:43,791> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2016-06-28 17:06:43,796> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2016-06-28 17:06:43,853> BAD OpSpecResult={'NumWordsWritten': 0, 'Result': 6, 'OpSpecID': 5}
+<2016-06-28 17:06:44,052> BAD OpSpecResult={'NumWordsWritten': 15, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 17:06:44,059> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2016-06-28 17:06:44,096> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2016-06-28 17:06:44,280> [1;31mWISENT TIMEOUT[1;0m wisp died
+<2016-06-28 17:06:44,359> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2016-06-28 17:06:44,396> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2016-06-28 17:06:44,582> [1;31mWISENT TIMEOUT[1;0m wisp died
+<2016-06-28 17:06:44,660> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2016-06-28 17:06:44,701> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2016-06-28 17:06:44,767> BAD OpSpecResult={'NumWordsWritten': 2, 'Result': 6, 'OpSpecID': 5}
+<2016-06-28 17:06:44,986> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2016-06-28 17:06:45,001> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2016-06-28 17:06:45,069> [1;31mWISENT TIMEOUT[1;0m wisp died
+<2016-06-28 17:06:45,090> BAD OpSpecResult={'NumWordsWritten': 3, 'Result': 6, 'OpSpecID': 3}
+<2016-06-28 17:06:45,187> BAD OpSpecResult={'ReadDataWordCount': 0, 'ReadData': '', 'Result': 3, 'OpSpecID': 8}
+<2016-06-28 17:06:45,287> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2016-06-28 17:06:45,324> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2016-06-28 17:06:45,490> [1;31mWISENT TIMEOUT[1;0m wisp died
+<2016-06-28 17:06:45,516> EPC did encode a good result
+<2016-06-28 17:06:45,624> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2016-06-28 17:06:45,683> BAD OpSpecResult={'NumWordsWritten': 1, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 17:06:45,737> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2016-06-28 17:06:45,909> [1;31mWISENT TIMEOUT[1;0m wisp died
+<2016-06-28 17:06:45,924> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2016-06-28 17:06:46,225> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2016-06-28 17:06:46,304> BAD OpSpecResult={'NumWordsWritten': 4, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 17:06:46,429> [1;31mWISENT TIMEOUT[1;0m wisp died
+<2016-06-28 17:06:46,529> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2016-06-28 17:06:46,565> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2016-06-28 17:06:46,599> BAD OpSpecResult={'NumWordsWritten': 3, 'Result': 6, 'OpSpecID': 5}
+<2016-06-28 17:06:46,829> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2016-06-28 17:06:46,902> [1;31mWISENT TIMEOUT[1;0m wisp died
+<2016-06-28 17:06:47,130> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2016-06-28 17:06:47,168> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2016-06-28 17:06:47,204> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2016-06-28 17:06:47,250> 0302: wisent end of file reached.          --- Wisent time elapsed: 14.667 secs
+
+<2016-06-28 17:06:47,251> IOTXTreplace: 0302: Mem contains now your new data
+<2016-06-28 17:06:47,251> Log wisent: (BWperAS,payload)= (	4,	throttle), time = 	14.668, 
+<2016-06-28 17:06:47,383> BAD OpSpecResult={'NumWordsWritten': 23, 'Result': 6, 'OpSpecID': 2}
+<2016-06-28 17:06:47,458> [1;31mWISENT TIMEOUT[1;0m wisp died
+<2016-06-28 17:06:47,504> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2016-06-28 17:06:47,761> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2016-06-28 17:06:48,095> [1;31mWISENT TIMEOUT[1;0m wisp died
+<2016-06-28 17:06:48,325> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2016-06-28 17:06:48,626> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2016-06-28 17:06:48,644> [1;31mWISENT TIMEOUT[1;0m wisp died
+<2016-06-28 17:06:48,998> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2016-06-28 17:06:49,148> BAD OpSpecResult={'NumWordsWritten': 7, 'Result': 6, 'OpSpecID': 5}
+<2016-06-28 17:06:49,298> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2016-06-28 17:06:49,321> BAD OpSpecResult={'NumWordsWritten': 13, 'Result': 6, 'OpSpecID': 3}
+<2016-06-28 17:06:49,403> BAD OpSpecResult={'NumWordsWritten': 12, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 17:06:49,598> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2016-06-28 17:06:49,623> [1;31mWISENT TIMEOUT[1;0m wisp died
+<2016-06-28 17:06:49,926> [1;31mWISENT TIMEOUT[1;0m wisp died
+<2016-06-28 17:06:50,163> [1;31mWISENT TIMEOUT[1;0m wisp died
+<2016-06-28 17:06:50,225> BAD OpSpecResult={'NumWordsWritten': 17, 'Result': 6, 'OpSpecID': 2}
+<2016-06-28 17:06:50,380> BAD OpSpecResult={'NumWordsWritten': 16, 'Result': 6, 'OpSpecID': 5}
+<2016-06-28 17:06:50,400> [1;31mWISENT TIMEOUT[1;0m wisp died
+<2016-06-28 17:06:50,451> BAD OpSpecResult={'NumWordsWritten': 5, 'Result': 6, 'OpSpecID': 7}
+<2016-06-28 17:06:50,682> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2016-06-28 17:06:50,702> [1;31mWISENT TIMEOUT[1;0m wisp died
+<2016-06-28 17:06:50,855> BAD OpSpecResult={'NumWordsWritten': 1, 'Result': 6, 'OpSpecID': 5}
+<2016-06-28 17:06:50,983> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2016-06-28 17:06:51,240> [1;31mWISENT TIMEOUT[1;0m wisp died
+<2016-06-28 17:06:51,286> BAD OpSpecResult={'NumWordsWritten': 3, 'Result': 6, 'OpSpecID': 5}
+<2016-06-28 17:06:51,499> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2016-06-28 17:06:51,800> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2016-06-28 17:06:51,973> BAD OpSpecResult={'NumWordsWritten': 2, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 17:06:52,020> [1;31mWISENT TIMEOUT[1;0m wisp died
+<2016-06-28 17:06:52,186> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2016-06-28 17:06:52,322> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2016-06-28 17:06:52,557> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2016-06-28 17:06:52,589> BAD OpSpecResult={'NumWordsWritten': 3, 'Result': 6, 'OpSpecID': 5}
+<2016-06-28 17:06:52,858> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2016-06-28 17:06:52,896> BAD OpSpecResult={'NumWordsWritten': 6, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 17:06:53,040> [1;31mWISENT TIMEOUT[1;0m wisp died
+<2016-06-28 17:06:53,158> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2016-06-28 17:06:53,342> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2016-06-28 17:06:53,458> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2016-06-28 17:06:53,759> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2016-06-28 17:06:53,773> BAD OpSpecResult={'NumWordsWritten': 7, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 17:06:53,906> [1;31mWISENT TIMEOUT[1;0m wisp died
+<2016-06-28 17:06:54,059> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2016-06-28 17:06:54,310> [1;31mWISENT TIMEOUT[1;0m wisp died
+<2016-06-28 17:06:54,335> BAD OpSpecResult={'NumWordsWritten': 28, 'Result': 6, 'OpSpecID': 5}
+<2016-06-28 17:06:54,696> BAD OpSpecResult={'NumWordsWritten': 2, 'Result': 6, 'OpSpecID': 5}
+<2016-06-28 17:06:54,839> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2016-06-28 17:06:55,139> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2016-06-28 17:06:55,225> BAD OpSpecResult={'NumWordsWritten': 4, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 17:06:55,294> [1;31mWISENT TIMEOUT[1;0m wisp died
+<2016-06-28 17:06:55,439> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2016-06-28 17:06:55,462> BAD OpSpecResult={'NumWordsWritten': 3, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 17:06:55,597> [1;31mWISENT TIMEOUT[1;0m wisp died
+<2016-06-28 17:06:55,726> BAD OpSpecResult={'ReadDataWordCount': 0, 'ReadData': '', 'Result': 3, 'OpSpecID': 4}
+<2016-06-28 17:06:55,740> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2016-06-28 17:06:56,040> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2016-06-28 17:06:56,109> [1;31mWISENT TIMEOUT[1;0m wisp died
+<2016-06-28 17:06:56,340> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2016-06-28 17:06:56,412> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2016-06-28 17:06:56,660> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2016-06-28 17:06:57,054> BAD OpSpecResult={'NumWordsWritten': 7, 'Result': 6, 'OpSpecID': 3}
+<2016-06-28 17:06:57,117> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2016-06-28 17:06:57,312> BAD OpSpecResult={'NumWordsWritten': 7, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 17:06:57,357> [1;31mWISENT TIMEOUT[1;0m wisp died
+<2016-06-28 17:06:57,432> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2016-06-28 17:06:57,495> BAD OpSpecResult={'NumWordsWritten': 3, 'Result': 6, 'OpSpecID': 3}
+<2016-06-28 17:06:57,575> BAD OpSpecResult={'ReadDataWordCount': 0, 'ReadData': '', 'Result': 3, 'OpSpecID': 4}
+<2016-06-28 17:06:57,732> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2016-06-28 17:06:57,749> BAD OpSpecResult={'NumWordsWritten': 9, 'Result': 6, 'OpSpecID': 3}
+<2016-06-28 17:06:57,907> BAD OpSpecResult={'NumWordsWritten': 4, 'Result': 6, 'OpSpecID': 7}
+<2016-06-28 17:06:58,033> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2016-06-28 17:06:58,163> BAD OpSpecResult={'NumWordsWritten': 10, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 17:06:58,209> [1;31mWISENT TIMEOUT[1;0m wisp died
+<2016-06-28 17:06:58,333> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2016-06-28 17:06:58,633> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2016-06-28 17:06:58,652> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2016-06-28 17:06:58,675> BAD OpSpecResult={'NumWordsWritten': 7, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 17:06:58,952> [1;31mWISENT TIMEOUT[1;0m wisp died
+<2016-06-28 17:06:59,128> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2016-06-28 17:06:59,225> BAD OpSpecResult={'NumWordsWritten': 0, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 17:06:59,254> [1;31mWISENT TIMEOUT[1;0m wisp died
+<2016-06-28 17:06:59,373> BAD OpSpecResult={'NumWordsWritten': 23, 'Result': 6, 'OpSpecID': 3}
+<2016-06-28 17:06:59,556> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2016-06-28 17:06:59,675> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2016-06-28 17:06:59,880> BAD OpSpecResult={'NumWordsWritten': 20, 'Result': 6, 'OpSpecID': 3}
+<2016-06-28 17:06:59,981> BAD OpSpecResult={'ReadDataWordCount': 0, 'ReadData': '', 'Result': 3, 'OpSpecID': 6}
+<2016-06-28 17:07:00,182> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2016-06-28 17:07:00,266> BAD OpSpecResult={'NumWordsWritten': 15, 'Result': 6, 'OpSpecID': 7}
+<2016-06-28 17:07:00,569> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2016-06-28 17:07:00,606> BAD OpSpecResult={'NumWordsWritten': 9, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 17:07:00,869> [1;31mWISENT TIMEOUT[1;0m wisp died
+<2016-06-28 17:07:01,043> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2016-06-28 17:07:01,098> BAD OpSpecResult={'NumWordsWritten': 16, 'Result': 6, 'OpSpecID': 7}
+<2016-06-28 17:07:01,120> !!Wisent aborted by YOU!!
+<2016-06-28 17:07:01,120> [1;31mIOTXT-WARNING: 0248: Send data canceled[1;0m
+<2016-06-28 17:07:01,607> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2016-06-28 17:07:02,119> !!Wisent aborted by YOU!!
+<2016-06-28 17:07:02,120> [1;31mIOTXT-WARNING: 0303: Send data canceled[1;0m
+<2016-06-28 17:07:06,317> IOTXTreplace: Clearing memory from 6400to 8400 to wisps: 0303 and 0300 and 0248 and 0302
+<2016-06-28 17:07:06,317> **************************************************
+<2016-06-28 17:07:06,317> ** ** ** Delete wispmem from 6400 to 8400 ** ** **
+<2016-06-28 17:07:06,318> **************************************************
+<2016-06-28 17:07:06,319> **************************************************
+<2016-06-28 17:07:06,320> ** ** ** Delete wispmem from 6400 to 8400 ** ** **
+<2016-06-28 17:07:06,320> **************************************************
+<2016-06-28 17:07:06,321> **************************************************
+<2016-06-28 17:07:06,322> ** ** ** Delete wispmem from 6400 to 8400 ** ** **
+<2016-06-28 17:07:06,322> **************************************************
+<2016-06-28 17:07:06,323> **************************************************
+<2016-06-28 17:07:06,324> ** ** ** Delete wispmem from 6400 to 8400 ** ** **
+<2016-06-28 17:07:06,324> **************************************************
+<2016-06-28 17:07:07,328> BAD OpSpecResult={'ReadDataWordCount': 0, 'ReadData': '', 'Result': 1, 'OpSpecID': 27}
+<2016-06-28 17:07:07,417> BAD OpSpecResult={'ReadDataWordCount': 0, 'ReadData': '', 'Result': 3, 'OpSpecID': 28}
+<2016-06-28 17:07:07,589> BAD OpSpecResult={'ReadDataWordCount': 0, 'ReadData': '', 'Result': 1, 'OpSpecID': 31}
+<2016-06-28 17:07:07,686> IOTXTreplace: 0300: Mem is cleared now
+<2016-06-28 17:07:08,021> IOTXTreplace: 0248: Mem is cleared now
+<2016-06-28 17:07:08,506> IOTXTreplace: 0302: Mem is cleared now
+<2016-06-28 17:07:10,519> IOTXTreplace: 0303: Mem is cleared now
+<2016-06-28 17:09:49,018> IOTXTreplace: Reprogramming data from "ihex/ccs1.hex" to wisps: 0303 and 0300 and 0248 and 0302
+<2016-06-28 17:09:49,093> 0303: *****************************************
+<2016-06-28 17:09:49,093> 0303: * Wisp to program:                 0303 *
+<2016-06-28 17:09:49,093> 0303: * Words to send:       2527 in  9 lines *
+<2016-06-28 17:09:49,093> 0303: *****************************************
+<2016-06-28 17:09:49,096> 0303: Wisp is now in state: WAITING
+<2016-06-28 17:09:49,171> 0303: * File to load:                    None *
+<2016-06-28 17:09:49,171> 0303: * I WILL BE SNIFFED                 *
+<2016-06-28 17:09:49,171> 0303: *****************************************
+<2016-06-28 17:09:49,236> 0300: *****************************************
+<2016-06-28 17:09:49,236> 0300: * Wisp to program:                 0300 *
+<2016-06-28 17:09:49,237> 0300: * Words to send:       2527 in  9 lines *
+<2016-06-28 17:09:49,237> 0300: *****************************************
+<2016-06-28 17:09:49,238> 0300: Wisp is now in state: WAITING
+<2016-06-28 17:09:49,321> 0300: * File to load:                    None *
+<2016-06-28 17:09:49,321> 0300: * I AM A SNIFFER                    *
+<2016-06-28 17:09:49,321> 0300: *****************************************
+<2016-06-28 17:09:49,403> 0248: *****************************************
+<2016-06-28 17:09:49,404> 0248: * Wisp to program:                 0248 *
+<2016-06-28 17:09:49,404> 0248: * Words to send:       2527 in  9 lines *
+<2016-06-28 17:09:49,404> 0248: *****************************************
+<2016-06-28 17:09:49,404> 0248: Wisp is now in state: WAITING
+<2016-06-28 17:09:49,472> 0248: * File to load:                    None *
+<2016-06-28 17:09:49,472> 0248: * I AM A SNIFFER                    *
+<2016-06-28 17:09:49,472> 0248: *****************************************
+<2016-06-28 17:09:49,544> 0302: *****************************************
+<2016-06-28 17:09:49,545> 0302: * Wisp to program:                 0302 *
+<2016-06-28 17:09:49,545> 0302: * Words to send:       2527 in  9 lines *
+<2016-06-28 17:09:49,545> 0302: *****************************************
+<2016-06-28 17:09:49,548> 0302: Wisp is now in state: WAITING
+<2016-06-28 17:09:49,622> 0302: * File to load:                    None *
+<2016-06-28 17:09:49,622> 0302: * I AM A SNIFFER                    *
+<2016-06-28 17:09:49,623> 0302: *****************************************
+<2016-06-28 17:09:49,623> 0248: Wisp was in state: WAITING and is going to the next state --- Time elapsed: 0.301 secs
+<2016-06-28 17:09:49,623> 0248: Wisp was in state: GOTOBIOS and is going to the next state --- Time elapsed: 0.301 secs
+<2016-06-28 17:09:49,623> 0248: Wisp is now in state: GOTOSNIF
+<2016-06-28 17:09:49,625> 0303: Wisp was in state: WAITING and is going to the next state --- Time elapsed: 0.586 secs
+<2016-06-28 17:09:49,625> 0303: Wisp was in state: GOTOBIOS and is going to the next state --- Time elapsed: 0.586 secs
+<2016-06-28 17:09:49,626> 0303: Wisp is now in state: WAIT4SNIFFERS
+<2016-06-28 17:09:49,627> Waiting for wisp: 0248
+<2016-06-28 17:09:49,627> 0302: Wisp was in state: WAITING and is going to the next state --- Time elapsed: 0.154 secs
+<2016-06-28 17:09:49,627> 0302: Wisp was in state: GOTOBIOS and is going to the next state --- Time elapsed: 0.155 secs
+<2016-06-28 17:09:49,627> 0302: Wisp is now in state: GOTOSNIF
+<2016-06-28 17:09:49,629> 0300: Wisp was in state: WAITING and is going to the next state --- Time elapsed: 0.458 secs
+<2016-06-28 17:09:49,629> 0300: Wisp was in state: GOTOBIOS and is going to the next state --- Time elapsed: 0.458 secs
+<2016-06-28 17:09:49,629> 0300: Wisp is now in state: GOTOSNIF
+<2016-06-28 17:09:49,823> BAD OpSpecResult={'NumWordsWritten': 0, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 17:09:49,831> BAD OpSpecResult={'NumWordsWritten': 0, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 17:09:49,981> BAD OpSpecResult={'NumWordsWritten': 0, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 17:09:49,987> BAD OpSpecResult={'NumWordsWritten': 0, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 17:09:49,992> BAD OpSpecResult={'NumWordsWritten': 0, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 17:09:50,056> BAD OpSpecResult={'NumWordsWritten': 0, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 17:09:50,063> BAD OpSpecResult={'NumWordsWritten': 0, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 17:09:50,249> 0300: Wisp was in state: GOTOSNIF and is going to the next state --- Time elapsed: 1.077 secs
+<2016-06-28 17:09:50,249> 0300: Wisp is now in state: SNIFFING
+<2016-06-28 17:09:50,250> Waiting for wisp: 0248
+<2016-06-28 17:09:50,312> 0248: Wisp was in state: GOTOSNIF and is going to the next state --- Time elapsed: 0.990 secs
+<2016-06-28 17:09:50,312> 0248: Wisp is now in state: SNIFFING
+<2016-06-28 17:09:50,313> Waiting for wisp: 0302
+<2016-06-28 17:09:50,392> BAD OpSpecResult={'NumWordsWritten': 0, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 17:09:50,399> BAD OpSpecResult={'NumWordsWritten': 0, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 17:09:50,549> 0302: Wisp was in state: GOTOSNIF and is going to the next state --- Time elapsed: 1.077 secs
+<2016-06-28 17:09:50,549> 0302: Wisp is now in state: SNIFFING
+<2016-06-28 17:09:50,550> 0303: Wisp was in state: WAIT4SNIFFERS and is going to the next state --- Time elapsed: 1.510 secs
+<2016-06-28 17:09:50,550> 0303: Wisp is now in state: PROGRAMMING
+<2016-06-28 17:09:50,554> 0303: First reprogramming messages send --- Wisent time elapsed: 0.004 secs
+<2016-06-28 17:09:50,854> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2016-06-28 17:09:51,114> BAD OpSpecResult={'NumWordsWritten': 0, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 17:09:51,155> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2016-06-28 17:09:51,372> BAD OpSpecResult={'NumWordsWritten': 0, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 17:09:51,381> BAD OpSpecResult={'NumWordsWritten': 0, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 17:09:51,468> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2016-06-28 17:09:51,990> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2016-06-28 17:09:52,482> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2016-06-28 17:09:52,894> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2016-06-28 17:09:53,231> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2016-06-28 17:09:53,990> BAD OpSpecResult={'NumWordsWritten': 31, 'Result': 6, 'OpSpecID': 2}
+<2016-06-28 17:09:54,009> [1;31mWISENT TIMEOUT[1;0m wisp died
+<2016-06-28 17:09:54,316> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2016-06-28 17:09:54,757> BAD OpSpecResult={'NumWordsWritten': 14, 'Result': 6, 'OpSpecID': 2}
+<2016-06-28 17:09:54,805> [1;31mWISENT TIMEOUT[1;0m wisp died
+<2016-06-28 17:09:55,392> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2016-06-28 17:09:55,692> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2016-06-28 17:09:56,224> [1;31mWISENT TIMEOUT[1;0m wisp died
+<2016-06-28 17:09:56,527> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2016-06-28 17:09:57,220> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2016-06-28 17:09:57,580> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2016-06-28 17:09:57,881> BAD OpSpecResult={'NumWordsWritten': 30, 'Result': 6, 'OpSpecID': 7}
+<2016-06-28 17:09:58,184> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2016-06-28 17:09:58,484> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2016-06-28 17:09:58,785> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2016-06-28 17:09:58,806> BAD OpSpecResult={'NumWordsWritten': 16, 'Result': 6, 'OpSpecID': 3}
+<2016-06-28 17:09:59,283> BAD OpSpecResult={'NumWordsWritten': 18, 'Result': 6, 'OpSpecID': 7}
+<2016-06-28 17:09:59,787> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2016-06-28 17:10:00,087> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2016-06-28 17:10:00,387> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2016-06-28 17:10:00,687> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2016-06-28 17:10:01,141> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2016-06-28 17:10:01,650> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2016-06-28 17:10:01,950> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2016-06-28 17:10:02,250> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2016-06-28 17:10:02,270> BAD OpSpecResult={'NumWordsWritten': 17, 'Result': 6, 'OpSpecID': 3}
+<2016-06-28 17:10:02,575> [1;31mWISENT TIMEOUT[1;0m wisp died
+<2016-06-28 17:10:02,921> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2016-06-28 17:10:03,222> [1;31mWISENT TIMEOUT[1;0m wisp died
+<2016-06-28 17:10:03,720> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2016-06-28 17:10:04,362> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2016-06-28 17:10:04,381> 0303: wisent end of file reached.          --- Wisent time elapsed: 13.830 secs
+
+<2016-06-28 17:10:04,383> 0303: Wisp was in state: PROGRAMMING and is going to the next state --- Time elapsed: 15.343 secs
+<2016-06-28 17:10:04,383> 0303: Wisp is now in state: MEMCHECK
+<2016-06-28 17:10:05,040> 0303: memcheck finished
+<2016-06-28 17:10:05,040> 0303: 20 good and 0 bad memblocks
+<2016-06-28 17:10:05,040> 0303: Wisp was in state: MEMCHECK and is going to the next state --- Time elapsed: 16.001 secs
+<2016-06-28 17:10:05,041> 0303: Wisp is now in state: FINISH
+<2016-06-28 17:10:05,041> 0303: WrepWidget [WAITING 0.057, WAIT4SNIFFERS 0.586, PROGRAMMING 1.511, MEMCHECK 15.343, FINISH 16.001]
+<2016-06-28 17:10:05,042> 
+
+******************************* Next wisp (sniffer) *******************************
+
+<2016-06-28 17:10:05,042> 0248: Wisp was in state: SNIFFING and is going to the next state --- Time elapsed: 15.720 secs
+<2016-06-28 17:10:05,042> 0248: Wisp is now in state: STOPSNIFFING
+<2016-06-28 17:10:05,119> BAD OpSpecResult={'NumWordsWritten': 0, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 17:10:05,360> 0248: Wisp was in state: STOPSNIFFING and is going to the next state --- Time elapsed: 16.038 secs
+<2016-06-28 17:10:05,360> 0248: Wisp is now in state: MEMCHECK
+<2016-06-28 17:10:05,843> BAD OpSpecResult={'ReadDataWordCount': 0, 'ReadData': '', 'Result': 3, 'OpSpecID': 8}
+<2016-06-28 17:10:06,719> 0248: memcheck finished
+<2016-06-28 17:10:06,719> 0248: 55 good and 37 bad memblocks
+<2016-06-28 17:10:06,722> 0248: Wisp was in state: MEMCHECK and is going to the next state --- Time elapsed: 17.400 secs
+<2016-06-28 17:10:06,774> 0248: *****************************************
+<2016-06-28 17:10:06,775> 0248: * Wisp to program:                 0248 *
+<2016-06-28 17:10:06,775> 0248: * Words to send:        640 in 13 lines *
+<2016-06-28 17:10:06,775> 0248: *****************************************
+<2016-06-28 17:10:06,775> 0248: * Reduced nr of words by memcheck: 1887 *
+<2016-06-28 17:10:06,775> 0248: *****************************************
+<2016-06-28 17:10:06,775> 0248: Wisp is now in state: PROGRAMMING
+<2016-06-28 17:10:06,807> 0248: First reprogramming messages send --- Wisent time elapsed: 0.004 secs
+<2016-06-28 17:10:07,342> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2016-06-28 17:10:07,381> BAD OpSpecResult={'NumWordsWritten': 25, 'Result': 6, 'OpSpecID': 4}
+<2016-06-28 17:10:07,642> [1;31mWISENT TIMEOUT[1;0m wisp died
+<2016-06-28 17:10:07,771> BAD OpSpecResult={'NumWordsWritten': 3, 'Result': 6, 'OpSpecID': 3}
+<2016-06-28 17:10:07,849> BAD OpSpecResult={'NumWordsWritten': 5, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 17:10:08,075> [1;31mWISENT TIMEOUT[1;0m wisp died
+<2016-06-28 17:10:08,511> BAD OpSpecResult={'NumWordsWritten': 15, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 17:10:08,557> [1;31mWISENT TIMEOUT[1;0m wisp died
+<2016-06-28 17:10:08,668> BAD OpSpecResult={'NumWordsWritten': 4, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 17:10:08,859> [1;31mWISENT TIMEOUT[1;0m wisp died
+<2016-06-28 17:10:09,435> BAD OpSpecResult={'NumWordsWritten': 3, 'Result': 6, 'OpSpecID': 3}
+<2016-06-28 17:10:09,671> BAD OpSpecResult={'NumWordsWritten': 2, 'Result': 6, 'OpSpecID': 5}
+<2016-06-28 17:10:10,403> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2016-06-28 17:10:10,554> BAD OpSpecResult={'NumWordsWritten': 13, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 17:10:10,763> [1;31mWISENT TIMEOUT[1;0m wisp died
+<2016-06-28 17:10:10,879> BAD OpSpecResult={'NumWordsWritten': 19, 'Result': 6, 'OpSpecID': 3}
+<2016-06-28 17:10:10,960> BAD OpSpecResult={'NumWordsWritten': 12, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 17:10:11,182> [1;31mWISENT TIMEOUT[1;0m wisp died
+<2016-06-28 17:10:11,485> [1;31mWISENT TIMEOUT[1;0m wisp died
+<2016-06-28 17:10:11,624> BAD OpSpecResult={'NumWordsWritten': 2, 'Result': 6, 'OpSpecID': 7}
+<2016-06-28 17:10:11,859> BAD OpSpecResult={'NumWordsWritten': 1, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 17:10:12,086> [1;31mWISENT TIMEOUT[1;0m wisp died
+<2016-06-28 17:10:12,204> BAD OpSpecResult={'ReadDataWordCount': 0, 'ReadData': '', 'Result': 3, 'OpSpecID': 6}
+<2016-06-28 17:10:12,519> BAD OpSpecResult={'NumWordsWritten': 7, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 17:10:12,666> [1;31mWISENT TIMEOUT[1;0m wisp died
+<2016-06-28 17:10:12,969> [1;31mWISENT TIMEOUT[1;0m wisp died
+<2016-06-28 17:10:13,597> BAD OpSpecResult={'NumWordsWritten': 5, 'Result': 6, 'OpSpecID': 7}
+<2016-06-28 17:10:13,930> BAD OpSpecResult={'NumWordsWritten': 6, 'Result': 6, 'OpSpecID': 3}
+<2016-06-28 17:10:14,100> 0248: wisent end of file reached.          --- Wisent time elapsed: 7.297 secs
+
+<2016-06-28 17:10:14,101> 0248: Wisp was in state: PROGRAMMING and is going to the next state --- Time elapsed: 24.779 secs
+<2016-06-28 17:10:14,101> 0248: Wisp is now in state: MEMCHECK
+<2016-06-28 17:10:14,671> 0248: memcheck finished
+<2016-06-28 17:10:14,671> 0248: 99 good and 0 bad memblocks
+<2016-06-28 17:10:14,674> 0248: Wisp was in state: MEMCHECK and is going to the next state --- Time elapsed: 25.353 secs
+<2016-06-28 17:10:14,675> 0248: Wisp is now in state: FINISH
+<2016-06-28 17:10:14,677> 0248: WrepWidget [WAITING 0.083, GOTOSNIF 0.302, SNIFFING 0.990, STOPSNIFFING 15.720, MEMCHECK 16.038, PROGRAMMING 17.454, MEMCHECK 24.780, FINISH 25.353]
+<2016-06-28 17:10:14,677> 
+
+******************************* Next wisp (sniffer) *******************************
+
+<2016-06-28 17:10:14,678> 0302: Wisp was in state: SNIFFING and is going to the next state --- Time elapsed: 25.205 secs
+<2016-06-28 17:10:14,678> 0302: Wisp is now in state: STOPSNIFFING
+<2016-06-28 17:10:14,832> BAD OpSpecResult={'NumWordsWritten': 0, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 17:10:14,884> 0302: Wisp was in state: STOPSNIFFING and is going to the next state --- Time elapsed: 25.412 secs
+<2016-06-28 17:10:14,884> 0302: Wisp is now in state: MEMCHECK
+<2016-06-28 17:10:15,810> 0302: memcheck finished
+<2016-06-28 17:10:15,810> 0302: 20 good and 0 bad memblocks
+<2016-06-28 17:10:15,811> 0302: Wisp was in state: MEMCHECK and is going to the next state --- Time elapsed: 26.339 secs
+<2016-06-28 17:10:15,812> 0302: Wisp is now in state: FINISH
+<2016-06-28 17:10:15,812> 0302: WrepWidget [WAITING 0.076, GOTOSNIF 0.155, SNIFFING 1.077, STOPSNIFFING 25.205, MEMCHECK 25.412, PROGRAMMING, MEMCHECK, FINISH 26.339]
+<2016-06-28 17:10:15,812> 
+
+******************************* Next wisp (sniffer) *******************************
+
+<2016-06-28 17:10:15,813> 0300: Wisp was in state: SNIFFING and is going to the next state --- Time elapsed: 26.641 secs
+<2016-06-28 17:10:15,813> 0300: Wisp is now in state: STOPSNIFFING
+<2016-06-28 17:10:16,146> BAD OpSpecResult={'NumWordsWritten': 0, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 17:10:16,154> BAD OpSpecResult={'NumWordsWritten': 0, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 17:10:16,159> BAD OpSpecResult={'NumWordsWritten': 0, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 17:10:16,386> 0300: Wisp was in state: STOPSNIFFING and is going to the next state --- Time elapsed: 27.215 secs
+<2016-06-28 17:10:16,387> 0300: Wisp is now in state: MEMCHECK
+<2016-06-28 17:10:16,437> BAD OpSpecResult={'NumWordsWritten': 0, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 17:10:16,635> 0300: memcheck finished
+<2016-06-28 17:10:16,635> 0300: 20 good and 0 bad memblocks
+<2016-06-28 17:10:16,636> 0300: Wisp was in state: MEMCHECK and is going to the next state --- Time elapsed: 27.464 secs
+<2016-06-28 17:10:16,636> 0300: Wisp is now in state: FINISH
+<2016-06-28 17:10:16,637> 0300: WrepWidget [WAITING 0.066, GOTOSNIF 0.458, SNIFFING 1.078, STOPSNIFFING 26.641, MEMCHECK 27.215, PROGRAMMING, MEMCHECK, FINISH 27.465]
+<2016-06-28 17:10:16,637> IOTXTreplace: 0303 0300 0248 0302: Wisp(s) is/are reprogrammed now
+<2016-06-28 17:10:22,817> IOTXTreplace: Clearing memory from 6400to 8400 to wisps: 0303 and 0300 and 0248 and 0302
+<2016-06-28 17:10:22,817> **************************************************
+<2016-06-28 17:10:22,817> ** ** ** Delete wispmem from 6400 to 8400 ** ** **
+<2016-06-28 17:10:22,817> **************************************************
+<2016-06-28 17:10:22,819> **************************************************
+<2016-06-28 17:10:22,819> ** ** ** Delete wispmem from 6400 to 8400 ** ** **
+<2016-06-28 17:10:22,819> **************************************************
+<2016-06-28 17:10:22,824> **************************************************
+<2016-06-28 17:10:22,824> ** ** ** Delete wispmem from 6400 to 8400 ** ** **
+<2016-06-28 17:10:22,825> **************************************************
+<2016-06-28 17:10:22,832> **************************************************
+<2016-06-28 17:10:22,833> ** ** ** Delete wispmem from 6400 to 8400 ** ** **
+<2016-06-28 17:10:22,833> **************************************************
+<2016-06-28 17:10:24,457> IOTXTreplace: 0300: Mem is cleared now
+<2016-06-28 17:10:24,637> BAD OpSpecResult={'ReadDataWordCount': 0, 'ReadData': '', 'Result': 3, 'OpSpecID': 36}
+<2016-06-28 17:10:24,973> IOTXTreplace: 0303: Mem is cleared now
+<2016-06-28 17:10:25,087> IOTXTreplace: 0248: Mem is cleared now
+<2016-06-28 17:10:25,406> IOTXTreplace: 0302: Mem is cleared now
+<2016-06-28 17:10:29,617> IOTXTreplace: Reprogramming data from "ihex/ccs1.hex" to wisps: 0303 and 0300 and 0248 and 0302
+<2016-06-28 17:10:29,692> 0303: *****************************************
+<2016-06-28 17:10:29,692> 0303: * Wisp to program:                 0303 *
+<2016-06-28 17:10:29,692> 0303: * Words to send:       2527 in  9 lines *
+<2016-06-28 17:10:29,692> 0303: *****************************************
+<2016-06-28 17:10:29,696> 0303: Wisp is now in state: WAITING
+<2016-06-28 17:10:29,769> 0303: * File to load:                    None *
+<2016-06-28 17:10:29,770> 0303: * I WILL BE SNIFFED                 *
+<2016-06-28 17:10:29,770> 0303: *****************************************
+<2016-06-28 17:10:29,834> 0300: *****************************************
+<2016-06-28 17:10:29,835> 0300: * Wisp to program:                 0300 *
+<2016-06-28 17:10:29,835> 0300: * Words to send:       2527 in  9 lines *
+<2016-06-28 17:10:29,835> 0300: *****************************************
+<2016-06-28 17:10:29,836> 0300: Wisp is now in state: WAITING
+<2016-06-28 17:10:29,906> 0300: * File to load:                    None *
+<2016-06-28 17:10:29,906> 0300: * I AM A SNIFFER                    *
+<2016-06-28 17:10:29,907> 0300: *****************************************
+<2016-06-28 17:10:29,982> 0248: *****************************************
+<2016-06-28 17:10:29,982> 0248: * Wisp to program:                 0248 *
+<2016-06-28 17:10:29,982> 0248: * Words to send:       2527 in  9 lines *
+<2016-06-28 17:10:29,982> 0248: *****************************************
+<2016-06-28 17:10:29,983> 0248: Wisp is now in state: WAITING
+<2016-06-28 17:10:30,058> 0248: * File to load:                    None *
+<2016-06-28 17:10:30,058> 0248: * I AM A SNIFFER                    *
+<2016-06-28 17:10:30,058> 0248: *****************************************
+<2016-06-28 17:10:30,144> 0302: *****************************************
+<2016-06-28 17:10:30,144> 0302: * Wisp to program:                 0302 *
+<2016-06-28 17:10:30,145> 0302: * Words to send:       2527 in  9 lines *
+<2016-06-28 17:10:30,145> 0302: *****************************************
+<2016-06-28 17:10:30,147> 0302: Wisp is now in state: WAITING
+<2016-06-28 17:10:30,220> 0302: * File to load:                    None *
+<2016-06-28 17:10:30,220> 0302: * I AM A SNIFFER                    *
+<2016-06-28 17:10:30,220> 0302: *****************************************
+<2016-06-28 17:10:30,220> 0248: Wisp was in state: WAITING and is going to the next state --- Time elapsed: 0.313 secs
+<2016-06-28 17:10:30,220> 0248: Wisp was in state: GOTOBIOS and is going to the next state --- Time elapsed: 0.313 secs
+<2016-06-28 17:10:30,220> 0248: Wisp is now in state: GOTOSNIF
+<2016-06-28 17:10:30,222> 0303: Wisp was in state: WAITING and is going to the next state --- Time elapsed: 0.583 secs
+<2016-06-28 17:10:30,222> 0303: Wisp was in state: GOTOBIOS and is going to the next state --- Time elapsed: 0.584 secs
+<2016-06-28 17:10:30,222> 0303: Wisp is now in state: WAIT4SNIFFERS
+<2016-06-28 17:10:30,223> Waiting for wisp: 0248
+<2016-06-28 17:10:30,223> 0302: Wisp was in state: WAITING and is going to the next state --- Time elapsed: 0.164 secs
+<2016-06-28 17:10:30,223> 0302: Wisp was in state: GOTOBIOS and is going to the next state --- Time elapsed: 0.164 secs
+<2016-06-28 17:10:30,223> 0302: Wisp is now in state: GOTOSNIF
+<2016-06-28 17:10:30,224> 0300: Wisp was in state: WAITING and is going to the next state --- Time elapsed: 0.455 secs
+<2016-06-28 17:10:30,225> 0300: Wisp was in state: GOTOBIOS and is going to the next state --- Time elapsed: 0.455 secs
+<2016-06-28 17:10:30,225> 0300: Wisp is now in state: GOTOSNIF
+<2016-06-28 17:10:30,363> 0302: Wisp was in state: GOTOSNIF and is going to the next state --- Time elapsed: 0.304 secs
+<2016-06-28 17:10:30,364> 0302: Wisp is now in state: SNIFFING
+<2016-06-28 17:10:30,365> Waiting for wisp: 0248
+<2016-06-28 17:10:30,428> BAD OpSpecResult={'NumWordsWritten': 0, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 17:10:30,521> 0300: Wisp was in state: GOTOSNIF and is going to the next state --- Time elapsed: 0.752 secs
+<2016-06-28 17:10:30,522> 0300: Wisp is now in state: SNIFFING
+<2016-06-28 17:10:30,522> Waiting for wisp: 0248
+<2016-06-28 17:10:30,606> BAD OpSpecResult={'NumWordsWritten': 0, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 17:10:30,614> BAD OpSpecResult={'NumWordsWritten': 0, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 17:10:30,621> BAD OpSpecResult={'NumWordsWritten': 0, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 17:10:30,657> BAD OpSpecResult={'NumWordsWritten': 0, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 17:10:30,684> BAD OpSpecResult={'NumWordsWritten': 0, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 17:10:30,764> 0248: Wisp was in state: GOTOSNIF and is going to the next state --- Time elapsed: 0.857 secs
+<2016-06-28 17:10:30,764> 0248: Wisp is now in state: SNIFFING
+<2016-06-28 17:10:30,765> 0303: Wisp was in state: WAIT4SNIFFERS and is going to the next state --- Time elapsed: 1.127 secs
+<2016-06-28 17:10:30,765> 0303: Wisp is now in state: PROGRAMMING
+<2016-06-28 17:10:30,768> 0303: First reprogramming messages send --- Wisent time elapsed: 0.002 secs
+<2016-06-28 17:10:30,923> BAD OpSpecResult={'NumWordsWritten': 0, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 17:10:30,931> BAD OpSpecResult={'NumWordsWritten': 0, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 17:10:31,068> [1;31mWISENT TIMEOUT[1;0m wisp died
+<2016-06-28 17:10:31,372> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2016-06-28 17:10:31,851> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2016-06-28 17:10:32,152> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2016-06-28 17:10:32,382> BAD OpSpecResult={'NumWordsWritten': 20, 'Result': 6, 'OpSpecID': 3}
+<2016-06-28 17:10:32,905> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2016-06-28 17:10:33,216> BAD OpSpecResult={'NumWordsWritten': 23, 'Result': 6, 'OpSpecID': 2}
+<2016-06-28 17:10:33,296> [1;31mWISENT TIMEOUT[1;0m wisp died
+<2016-06-28 17:10:33,430> BAD OpSpecResult={'NumWordsWritten': 23, 'Result': 6, 'OpSpecID': 3}
+<2016-06-28 17:10:33,732> [1;31mWISENT TIMEOUT[1;0m wisp died
+<2016-06-28 17:10:34,247> BAD OpSpecResult={'NumWordsWritten': 16, 'Result': 6, 'OpSpecID': 5}
+<2016-06-28 17:10:34,550> [1;31mWISENT TIMEOUT[1;0m wisp died
+<2016-06-28 17:10:34,852> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2016-06-28 17:10:35,152> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2016-06-28 17:10:35,840> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2016-06-28 17:10:36,141> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2016-06-28 17:10:36,283> BAD OpSpecResult={'NumWordsWritten': 22, 'Result': 6, 'OpSpecID': 3}
+<2016-06-28 17:10:36,586> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2016-06-28 17:10:36,886> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2016-06-28 17:10:37,353> BAD OpSpecResult={'NumWordsWritten': 21, 'Result': 6, 'OpSpecID': 2}
+<2016-06-28 17:10:37,362> [1;31mWISENT TIMEOUT[1;0m wisp died
+<2016-06-28 17:10:37,780> BAD OpSpecResult={'NumWordsWritten': 21, 'Result': 6, 'OpSpecID': 5}
+<2016-06-28 17:10:38,082> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2016-06-28 17:10:38,383> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2016-06-28 17:10:38,876> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2016-06-28 17:10:39,177> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2016-06-28 17:10:39,757> BAD OpSpecResult={'NumWordsWritten': 23, 'Result': 6, 'OpSpecID': 3}
+<2016-06-28 17:10:40,341> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2016-06-28 17:10:40,419> BAD OpSpecResult={'NumWordsWritten': 22, 'Result': 6, 'OpSpecID': 3}
+<2016-06-28 17:10:40,721> [1;31mWISENT TIMEOUT[1;0m wisp died
+<2016-06-28 17:10:41,024> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2016-06-28 17:10:41,325> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2016-06-28 17:10:41,769> [1;31mWISENT TIMEOUT[1;0m wisp died
+<2016-06-28 17:10:42,071> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2016-06-28 17:10:42,371> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2016-06-28 17:10:42,671> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2016-06-28 17:10:42,971> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2016-06-28 17:10:43,368> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2016-06-28 17:10:43,855> BAD OpSpecResult={'NumWordsWritten': 12, 'Result': 6, 'OpSpecID': 5}
+<2016-06-28 17:10:44,159> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2016-06-28 17:10:44,459> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2016-06-28 17:10:44,759> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2016-06-28 17:10:45,029> BAD OpSpecResult={'NumWordsWritten': 21, 'Result': 6, 'OpSpecID': 3}
+<2016-06-28 17:10:45,549> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2016-06-28 17:10:45,788> BAD OpSpecResult={'NumWordsWritten': 16, 'Result': 6, 'OpSpecID': 3}
+<2016-06-28 17:10:46,040> BAD OpSpecResult={'NumWordsWritten': 26, 'Result': 6, 'OpSpecID': 3}
+<2016-06-28 17:10:46,343> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2016-06-28 17:10:46,804> BAD OpSpecResult={'NumWordsWritten': 20, 'Result': 6, 'OpSpecID': 3}
+<2016-06-28 17:10:47,651> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2016-06-28 17:10:48,095> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2016-06-28 17:10:48,395> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2016-06-28 17:10:48,691> BAD OpSpecResult={'NumWordsWritten': 18, 'Result': 6, 'OpSpecID': 5}
+<2016-06-28 17:10:48,917> BAD OpSpecResult={'NumWordsWritten': 18, 'Result': 6, 'OpSpecID': 3}
+<2016-06-28 17:10:49,218> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2016-06-28 17:10:49,519> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2016-06-28 17:10:49,573> BAD OpSpecResult={'NumWordsWritten': 14, 'Result': 6, 'OpSpecID': 3}
+<2016-06-28 17:10:49,875> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2016-06-28 17:10:50,175> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2016-06-28 17:10:50,476> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2016-06-28 17:10:50,609> BAD OpSpecResult={'NumWordsWritten': 19, 'Result': 6, 'OpSpecID': 3}
+<2016-06-28 17:10:51,213> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2016-06-28 17:10:51,631> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2016-06-28 17:10:51,932> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2016-06-28 17:10:52,204> 0303: wisent end of file reached.          --- Wisent time elapsed: 21.438 secs
+
+<2016-06-28 17:10:52,205> 0303: Wisp was in state: PROGRAMMING and is going to the next state --- Time elapsed: 22.567 secs
+<2016-06-28 17:10:52,206> 0303: Wisp is now in state: MEMCHECK
+<2016-06-28 17:10:54,055> 0303: memcheck finished
+<2016-06-28 17:10:54,055> 0303: 20 good and 0 bad memblocks
+<2016-06-28 17:10:54,056> 0303: Wisp was in state: MEMCHECK and is going to the next state --- Time elapsed: 24.418 secs
+<2016-06-28 17:10:54,056> 0303: Wisp is now in state: FINISH
+<2016-06-28 17:10:54,060> 0303: WrepWidget [WAITING 0.058, WAIT4SNIFFERS 0.584, PROGRAMMING 1.127, MEMCHECK 22.568, FINISH 24.418]
+<2016-06-28 17:10:54,061> 
+
+******************************* Next wisp (sniffer) *******************************
+
+<2016-06-28 17:10:54,062> 0248: Wisp was in state: SNIFFING and is going to the next state --- Time elapsed: 24.155 secs
+<2016-06-28 17:10:54,062> 0248: Wisp is now in state: STOPSNIFFING
+<2016-06-28 17:10:54,134> 0248: Wisp was in state: STOPSNIFFING and is going to the next state --- Time elapsed: 24.227 secs
+<2016-06-28 17:10:54,134> 0248: Wisp is now in state: MEMCHECK
+<2016-06-28 17:10:55,833> 0248: memcheck finished
+<2016-06-28 17:10:55,833> 0248: 57 good and 77 bad memblocks
+<2016-06-28 17:10:55,837> 0248: Wisp was in state: MEMCHECK and is going to the next state --- Time elapsed: 25.930 secs
+<2016-06-28 17:10:55,893> 0248: *****************************************
+<2016-06-28 17:10:55,893> 0248: * Wisp to program:                 0248 *
+<2016-06-28 17:10:55,893> 0248: * Words to send:       1288 in 22 lines *
+<2016-06-28 17:10:55,894> 0248: *****************************************
+<2016-06-28 17:10:55,894> 0248: * Reduced nr of words by memcheck: 1239 *
+<2016-06-28 17:10:55,894> 0248: *****************************************
+<2016-06-28 17:10:55,894> 0248: Wisp is now in state: PROGRAMMING
+<2016-06-28 17:10:55,951> 0248: First reprogramming messages send --- Wisent time elapsed: 0.003 secs
+<2016-06-28 17:10:56,247> BAD OpSpecResult={'NumWordsWritten': 25, 'Result': 6, 'OpSpecID': 3}
+<2016-06-28 17:10:56,812> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2016-06-28 17:10:57,104> BAD OpSpecResult={'NumWordsWritten': 15, 'Result': 6, 'OpSpecID': 2}
+<2016-06-28 17:10:57,156> [1;31mWISENT TIMEOUT[1;0m wisp died
+<2016-06-28 17:10:57,439> BAD OpSpecResult={'NumWordsWritten': 24, 'Result': 6, 'OpSpecID': 3}
+<2016-06-28 17:10:58,106> BAD OpSpecResult={'NumWordsWritten': 19, 'Result': 6, 'OpSpecID': 3}
+<2016-06-28 17:10:58,188> EPC did encode a good result
+<2016-06-28 17:10:58,497> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2016-06-28 17:10:58,850> BAD OpSpecResult={'NumWordsWritten': 12, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 17:10:59,059> [1;31mWISENT TIMEOUT[1;0m wisp died
+<2016-06-28 17:10:59,173> BAD OpSpecResult={'NumWordsWritten': 12, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 17:10:59,363> [1;31mWISENT TIMEOUT[1;0m wisp died
+<2016-06-28 17:10:59,523> BAD OpSpecResult={'NumWordsWritten': 12, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 17:10:59,750> [1;31mWISENT TIMEOUT[1;0m wisp died
+<2016-06-28 17:10:59,949> BAD OpSpecResult={'NumWordsWritten': 4, 'Result': 6, 'OpSpecID': 5}
+<2016-06-28 17:11:00,023> BAD OpSpecResult={'ReadDataWordCount': 0, 'ReadData': '', 'Result': 3, 'OpSpecID': 2}
+<2016-06-28 17:11:00,252> [1;31mWISENT TIMEOUT[1;0m wisp died
+<2016-06-28 17:11:00,426> BAD OpSpecResult={'NumWordsWritten': 1, 'Result': 6, 'OpSpecID': 5}
+<2016-06-28 17:11:00,729> [1;31mWISENT TIMEOUT[1;0m wisp died
+<2016-06-28 17:11:01,140> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2016-06-28 17:11:01,344> BAD OpSpecResult={'NumWordsWritten': 3, 'Result': 6, 'OpSpecID': 7}
+<2016-06-28 17:11:01,625> BAD OpSpecResult={'ReadDataWordCount': 0, 'ReadData': '', 'Result': 3, 'OpSpecID': 8}
+<2016-06-28 17:11:01,808> BAD OpSpecResult={'NumWordsWritten': 2, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 17:11:01,927> [1;31mWISENT TIMEOUT[1;0m wisp died
+<2016-06-28 17:11:02,067> BAD OpSpecResult={'NumWordsWritten': 1, 'Result': 6, 'OpSpecID': 5}
+<2016-06-28 17:11:02,305> BAD OpSpecResult={'ReadDataWordCount': 0, 'ReadData': '', 'Result': 3, 'OpSpecID': 2}
+<2016-06-28 17:11:02,315> EPC did encode a good result
+<2016-06-28 17:11:02,485> BAD OpSpecResult={'NumWordsWritten': 12, 'Result': 6, 'OpSpecID': 5}
+<2016-06-28 17:11:02,788> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2016-06-28 17:11:02,803> BAD OpSpecResult={'NumWordsWritten': 14, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 17:11:03,089> [1;31mWISENT TIMEOUT[1;0m wisp died
+<2016-06-28 17:11:03,203> BAD OpSpecResult={'NumWordsWritten': 9, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 17:11:03,392> [1;31mWISENT TIMEOUT[1;0m wisp died
+<2016-06-28 17:11:03,608> BAD OpSpecResult={'NumWordsWritten': 3, 'Result': 6, 'OpSpecID': 5}
+<2016-06-28 17:11:04,330> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2016-06-28 17:11:04,348> BAD OpSpecResult={'NumWordsWritten': 1, 'Result': 6, 'OpSpecID': 3}
+<2016-06-28 17:11:04,504> BAD OpSpecResult={'ReadDataWordCount': 0, 'ReadData': '', 'Result': 3, 'OpSpecID': 2}
+<2016-06-28 17:11:04,651> [1;31mWISENT TIMEOUT[1;0m wisp died
+<2016-06-28 17:11:04,825> BAD OpSpecResult={'NumWordsWritten': 2, 'Result': 6, 'OpSpecID': 3}
+<2016-06-28 17:11:05,223> BAD OpSpecResult={'NumWordsWritten': 8, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 17:11:05,295> [1;31mWISENT TIMEOUT[1;0m wisp died
+<2016-06-28 17:11:05,733> BAD OpSpecResult={'NumWordsWritten': 3, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 17:11:05,871> [1;31mWISENT TIMEOUT[1;0m wisp died
+<2016-06-28 17:11:06,464> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2016-06-28 17:11:06,633> BAD OpSpecResult={'NumWordsWritten': 6, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 17:11:06,764> [1;31mWISENT TIMEOUT[1;0m wisp died
+<2016-06-28 17:11:07,067> [1;31mWISENT TIMEOUT[1;0m wisp died
+<2016-06-28 17:11:07,373> BAD OpSpecResult={'ReadDataWordCount': 0, 'ReadData': '', 'Result': 3, 'OpSpecID': 6}
+<2016-06-28 17:11:07,975> BAD OpSpecResult={'NumWordsWritten': 15, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 17:11:08,024> [1;31mWISENT TIMEOUT[1;0m wisp died
+<2016-06-28 17:11:08,165> BAD OpSpecResult={'NumWordsWritten': 2, 'Result': 6, 'OpSpecID': 5}
+<2016-06-28 17:11:08,332> BAD OpSpecResult={'NumWordsWritten': 0, 'Result': 6, 'OpSpecID': 5}
+<2016-06-28 17:11:08,579> BAD OpSpecResult={'NumWordsWritten': 6, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 17:11:08,634> [1;31mWISENT TIMEOUT[1;0m wisp died
+<2016-06-28 17:11:08,830> BAD OpSpecResult={'NumWordsWritten': 5, 'Result': 6, 'OpSpecID': 3}
+<2016-06-28 17:11:09,181> BAD OpSpecResult={'NumWordsWritten': 7, 'Result': 6, 'OpSpecID': 3}
+<2016-06-28 17:11:09,640> [1;31mWISENT TIMEOUT[1;0m wisp died
+<2016-06-28 17:11:09,648> BAD OpSpecResult={'NumWordsWritten': 14, 'Result': 6, 'OpSpecID': 3}
+<2016-06-28 17:11:09,950> [1;31mWISENT TIMEOUT[1;0m wisp died
+<2016-06-28 17:11:10,480> BAD OpSpecResult={'NumWordsWritten': 2, 'Result': 6, 'OpSpecID': 5}
+<2016-06-28 17:11:10,861> BAD OpSpecResult={'NumWordsWritten': 13, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 17:11:10,888> [1;31mWISENT TIMEOUT[1;0m wisp died
+<2016-06-28 17:11:11,104> BAD OpSpecResult={'NumWordsWritten': 7, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 17:11:11,328> [1;31mWISENT TIMEOUT[1;0m wisp died
+<2016-06-28 17:11:11,508> BAD OpSpecResult={'NumWordsWritten': 3, 'Result': 6, 'OpSpecID': 5}
+<2016-06-28 17:11:11,774> BAD OpSpecResult={'NumWordsWritten': 9, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 17:11:11,900> [1;31mWISENT TIMEOUT[1;0m wisp died
+<2016-06-28 17:11:12,193> BAD OpSpecResult={'NumWordsWritten': 9, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 17:11:12,407> [1;31mWISENT TIMEOUT[1;0m wisp died
+<2016-06-28 17:11:12,596> BAD OpSpecResult={'NumWordsWritten': 3, 'Result': 6, 'OpSpecID': 3}
+<2016-06-28 17:11:13,068> [1;31mWISENT TIMEOUT[1;0m wisp died
+<2016-06-28 17:11:13,100> BAD OpSpecResult={'NumWordsWritten': 6, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 17:11:13,782> BAD OpSpecResult={'NumWordsWritten': 15, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 17:11:13,894> [1;31mWISENT TIMEOUT[1;0m wisp died
+<2016-06-28 17:11:13,965> BAD OpSpecResult={'NumWordsWritten': 8, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 17:11:14,195> [1;31mWISENT TIMEOUT[1;0m wisp died
+<2016-06-28 17:11:14,766> [1;31mWISENT TIMEOUT[1;0m wisp died
+<2016-06-28 17:11:14,865> BAD OpSpecResult={'NumWordsWritten': 3, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 17:11:14,869> EPC did encode a good result
+<2016-06-28 17:11:14,944> BAD OpSpecResult={'NumWordsWritten': 9, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 17:11:15,172> [1;31mWISENT TIMEOUT[1;0m wisp died
+<2016-06-28 17:11:15,916> 0248: wisent end of file reached.          --- Wisent time elapsed: 19.968 secs
+
+<2016-06-28 17:11:15,917> 0248: Wisp was in state: PROGRAMMING and is going to the next state --- Time elapsed: 46.011 secs
+<2016-06-28 17:11:15,917> 0248: Wisp is now in state: MEMCHECK
+<2016-06-28 17:11:16,880> BAD OpSpecResult={'ReadDataWordCount': 0, 'ReadData': '', 'Result': 3, 'OpSpecID': 8}
+<2016-06-28 17:11:17,119> 0248: memcheck finished
+<2016-06-28 17:11:17,119> 0248: 123 good and 9 bad memblocks
+<2016-06-28 17:11:17,120> 0248: Wisp was in state: MEMCHECK and is going to the next state --- Time elapsed: 47.214 secs
+<2016-06-28 17:11:17,152> 0248: *****************************************
+<2016-06-28 17:11:17,152> 0248: * Wisp to program:                 0248 *
+<2016-06-28 17:11:17,152> 0248: * Words to send:        128 in  4 lines *
+<2016-06-28 17:11:17,153> 0248: *****************************************
+<2016-06-28 17:11:17,153> 0248: * Reduced nr of words by memcheck: 1160 *
+<2016-06-28 17:11:17,153> 0248: *****************************************
+<2016-06-28 17:11:17,153> 0248: Wisp is now in state: PROGRAMMING
+<2016-06-28 17:11:17,179> 0248: First reprogramming messages send --- Wisent time elapsed: 0.004 secs
+<2016-06-28 17:11:17,543> BAD OpSpecResult={'NumWordsWritten': 3, 'Result': 6, 'OpSpecID': 5}
+<2016-06-28 17:11:17,620> 0248: wisent end of file reached.          --- Wisent time elapsed: 0.445 secs
+
+<2016-06-28 17:11:17,620> 0248: Wisp was in state: PROGRAMMING and is going to the next state --- Time elapsed: 47.714 secs
+<2016-06-28 17:11:17,621> 0248: Wisp is now in state: MEMCHECK
+<2016-06-28 17:11:17,780> 0248: memcheck finished
+<2016-06-28 17:11:17,780> 0248: 139 good and 0 bad memblocks
+<2016-06-28 17:11:17,781> 0248: Wisp was in state: MEMCHECK and is going to the next state --- Time elapsed: 47.874 secs
+<2016-06-28 17:11:17,781> 0248: Wisp is now in state: FINISH
+<2016-06-28 17:11:17,792> 0248: WrepWidget [WAITING 0.076, GOTOSNIF 0.314, SNIFFING 0.858, STOPSNIFFING 24.155, MEMCHECK 24.228, PROGRAMMING 25.987 47.246, MEMCHECK 46.011 47.714, FINISH 47.874]
+<2016-06-28 17:11:17,793> 
+
+******************************* Next wisp (sniffer) *******************************
+
+<2016-06-28 17:11:17,793> 0302: Wisp was in state: SNIFFING and is going to the next state --- Time elapsed: 47.734 secs
+<2016-06-28 17:11:17,793> 0302: Wisp is now in state: STOPSNIFFING
+<2016-06-28 17:11:18,416> 0302: Wisp was in state: STOPSNIFFING and is going to the next state --- Time elapsed: 48.357 secs
+<2016-06-28 17:11:18,416> 0302: Wisp is now in state: MEMCHECK
+<2016-06-28 17:11:18,487> BAD OpSpecResult={'NumWordsWritten': 0, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 17:11:19,136> 0302: memcheck finished
+<2016-06-28 17:11:19,136> 0302: 25 good and 1 bad memblocks
+<2016-06-28 17:11:19,137> 0302: Wisp was in state: MEMCHECK and is going to the next state --- Time elapsed: 49.079 secs
+<2016-06-28 17:11:19,179> 0302: *****************************************
+<2016-06-28 17:11:19,179> 0302: * Wisp to program:                 0302 *
+<2016-06-28 17:11:19,180> 0302: * Words to send:         16 in  1 lines *
+<2016-06-28 17:11:19,180> 0302: *****************************************
+<2016-06-28 17:11:19,180> 0302: * Reduced nr of words by memcheck: 2511 *
+<2016-06-28 17:11:19,180> 0302: *****************************************
+<2016-06-28 17:11:19,180> 0302: Wisp is now in state: PROGRAMMING
+<2016-06-28 17:11:19,223> 0302: First reprogramming messages send --- Wisent time elapsed: 0.001 secs
+<2016-06-28 17:11:19,463> 0302: wisent end of file reached.          --- Wisent time elapsed: 0.240 secs
+
+<2016-06-28 17:11:19,463> 0302: Wisp was in state: PROGRAMMING and is going to the next state --- Time elapsed: 49.405 secs
+<2016-06-28 17:11:19,464> 0302: Wisp is now in state: MEMCHECK
+<2016-06-28 17:11:19,946> 0302: memcheck finished
+<2016-06-28 17:11:19,946> 0302: 29 good and 0 bad memblocks
+<2016-06-28 17:11:19,946> 0302: Wisp was in state: MEMCHECK and is going to the next state --- Time elapsed: 49.888 secs
+<2016-06-28 17:11:19,946> 0302: Wisp is now in state: FINISH
+<2016-06-28 17:11:19,947> 0302: WrepWidget [WAITING 0.089, GOTOSNIF 0.165, SNIFFING 0.306, STOPSNIFFING 47.734, MEMCHECK 48.358, PROGRAMMING 49.121, MEMCHECK 49.406, FINISH 49.888]
+<2016-06-28 17:11:19,947> 
+
+******************************* Next wisp (sniffer) *******************************
+
+<2016-06-28 17:11:19,947> 0300: Wisp was in state: SNIFFING and is going to the next state --- Time elapsed: 50.178 secs
+<2016-06-28 17:11:19,947> 0300: Wisp is now in state: STOPSNIFFING
+<2016-06-28 17:11:20,109> BAD OpSpecResult={'NumWordsWritten': 0, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 17:11:20,113> BAD OpSpecResult={'NumWordsWritten': 0, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 17:11:20,118> BAD OpSpecResult={'NumWordsWritten': 0, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 17:11:20,278> BAD OpSpecResult={'NumWordsWritten': 0, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 17:11:20,283> BAD OpSpecResult={'NumWordsWritten': 0, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 17:11:20,288> BAD OpSpecResult={'NumWordsWritten': 0, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 17:11:20,355> BAD OpSpecResult={'NumWordsWritten': 0, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 17:11:20,362> 0300: Wisp was in state: STOPSNIFFING and is going to the next state --- Time elapsed: 50.592 secs
+<2016-06-28 17:11:20,362> 0300: Wisp is now in state: MEMCHECK
+<2016-06-28 17:11:20,608> BAD OpSpecResult={'NumWordsWritten': 0, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 17:11:21,092> 0300: memcheck finished
+<2016-06-28 17:11:21,092> 0300: 20 good and 0 bad memblocks
+<2016-06-28 17:11:21,093> 0300: Wisp was in state: MEMCHECK and is going to the next state --- Time elapsed: 51.323 secs
+<2016-06-28 17:11:21,093> 0300: Wisp is now in state: FINISH
+<2016-06-28 17:11:21,094> 0300: WrepWidget [WAITING 0.066, GOTOSNIF 0.455, SNIFFING 0.752, STOPSNIFFING 50.178, MEMCHECK 50.592, PROGRAMMING, MEMCHECK, FINISH 51.324]
+<2016-06-28 17:11:21,094> IOTXTreplace: 0303 0300 0248 0302: Wisp(s) is/are reprogrammed now
+<2016-06-28 17:11:47,717> IOTXTreplace: Clearing memory from 6400to 8400 to wisps: 0303 and 0300 and 0248 and 0302
+<2016-06-28 17:11:47,717> **************************************************
+<2016-06-28 17:11:47,717> ** ** ** Delete wispmem from 6400 to 8400 ** ** **
+<2016-06-28 17:11:47,718> **************************************************
+<2016-06-28 17:11:47,720> **************************************************
+<2016-06-28 17:11:47,720> ** ** ** Delete wispmem from 6400 to 8400 ** ** **
+<2016-06-28 17:11:47,720> **************************************************
+<2016-06-28 17:11:47,723> **************************************************
+<2016-06-28 17:11:47,723> ** ** ** Delete wispmem from 6400 to 8400 ** ** **
+<2016-06-28 17:11:47,723> **************************************************
+<2016-06-28 17:11:47,725> **************************************************
+<2016-06-28 17:11:47,725> ** ** ** Delete wispmem from 6400 to 8400 ** ** **
+<2016-06-28 17:11:47,725> **************************************************
+<2016-06-28 17:11:48,671> BAD OpSpecResult={'ReadDataWordCount': 0, 'ReadData': '', 'Result': 3, 'OpSpecID': 32}
+<2016-06-28 17:11:49,188> IOTXTreplace: 0248: Mem is cleared now
+<2016-06-28 17:11:49,911> IOTXTreplace: 0300: Mem is cleared now
+<2016-06-28 17:11:51,523> IOTXTreplace: 0302: Mem is cleared now
+<2016-06-28 17:11:51,850> IOTXTreplace: 0303: Mem is cleared now
+<2016-06-28 17:11:56,017> IOTXTreplace: Reprogramming data from "ihex/ccs1.hex" to wisps: 0303 and 0300 and 0248 and 0302
+<2016-06-28 17:11:56,094> 0303: *****************************************
+<2016-06-28 17:11:56,094> 0303: * Wisp to program:                 0303 *
+<2016-06-28 17:11:56,094> 0303: * Words to send:       2527 in  9 lines *
+<2016-06-28 17:11:56,094> 0303: *****************************************
+<2016-06-28 17:11:56,097> 0303: Wisp is now in state: WAITING
+<2016-06-28 17:11:56,166> 0303: * File to load:                    None *
+<2016-06-28 17:11:56,166> 0303: * I WILL BE SNIFFED                 *
+<2016-06-28 17:11:56,166> 0303: *****************************************
+<2016-06-28 17:11:56,233> 0300: *****************************************
+<2016-06-28 17:11:56,234> 0300: * Wisp to program:                 0300 *
+<2016-06-28 17:11:56,234> 0300: * Words to send:       2527 in  9 lines *
+<2016-06-28 17:11:56,234> 0300: *****************************************
+<2016-06-28 17:11:56,236> 0300: Wisp is now in state: WAITING
+<2016-06-28 17:11:56,314> 0300: * File to load:                    None *
+<2016-06-28 17:11:56,314> 0300: * I AM A SNIFFER                    *
+<2016-06-28 17:11:56,314> 0300: *****************************************
+<2016-06-28 17:11:56,389> 0248: *****************************************
+<2016-06-28 17:11:56,390> 0248: * Wisp to program:                 0248 *
+<2016-06-28 17:11:56,390> 0248: * Words to send:       2527 in  9 lines *
+<2016-06-28 17:11:56,390> 0248: *****************************************
+<2016-06-28 17:11:56,390> 0248: Wisp is now in state: WAITING
+<2016-06-28 17:11:56,467> 0248: * File to load:                    None *
+<2016-06-28 17:11:56,467> 0248: * I AM A SNIFFER                    *
+<2016-06-28 17:11:56,467> 0248: *****************************************
+<2016-06-28 17:11:56,559> 0302: *****************************************
+<2016-06-28 17:11:56,560> 0302: * Wisp to program:                 0302 *
+<2016-06-28 17:11:56,560> 0302: * Words to send:       2527 in  9 lines *
+<2016-06-28 17:11:56,560> 0302: *****************************************
+<2016-06-28 17:11:56,561> 0302: Wisp is now in state: WAITING
+<2016-06-28 17:11:56,647> 0302: * File to load:                    None *
+<2016-06-28 17:11:56,647> 0302: * I AM A SNIFFER                    *
+<2016-06-28 17:11:56,647> 0302: *****************************************
+<2016-06-28 17:11:56,648> 0248: Wisp was in state: WAITING and is going to the next state --- Time elapsed: 0.333 secs
+<2016-06-28 17:11:56,648> 0248: Wisp was in state: GOTOBIOS and is going to the next state --- Time elapsed: 0.333 secs
+<2016-06-28 17:11:56,648> 0248: Wisp is now in state: GOTOSNIF
+<2016-06-28 17:11:56,652> 0303: Wisp was in state: WAITING and is going to the next state --- Time elapsed: 0.613 secs
+<2016-06-28 17:11:56,652> 0303: Wisp was in state: GOTOBIOS and is going to the next state --- Time elapsed: 0.613 secs
+<2016-06-28 17:11:56,652> 0303: Wisp is now in state: WAIT4SNIFFERS
+<2016-06-28 17:11:56,653> Waiting for wisp: 0248
+<2016-06-28 17:11:56,653> 0302: Wisp was in state: WAITING and is going to the next state --- Time elapsed: 0.185 secs
+<2016-06-28 17:11:56,653> 0302: Wisp was in state: GOTOBIOS and is going to the next state --- Time elapsed: 0.186 secs
+<2016-06-28 17:11:56,653> 0302: Wisp is now in state: GOTOSNIF
+<2016-06-28 17:11:56,654> 0300: Wisp was in state: WAITING and is going to the next state --- Time elapsed: 0.488 secs
+<2016-06-28 17:11:56,655> 0300: Wisp was in state: GOTOBIOS and is going to the next state --- Time elapsed: 0.488 secs
+<2016-06-28 17:11:56,655> 0300: Wisp is now in state: GOTOSNIF
+<2016-06-28 17:11:56,858> 0302: Wisp was in state: GOTOSNIF and is going to the next state --- Time elapsed: 0.391 secs
+<2016-06-28 17:11:56,859> 0302: Wisp is now in state: SNIFFING
+<2016-06-28 17:11:56,859> Waiting for wisp: 0248
+<2016-06-28 17:11:56,906> 0248: Wisp was in state: GOTOSNIF and is going to the next state --- Time elapsed: 0.592 secs
+<2016-06-28 17:11:56,906> 0248: Wisp is now in state: SNIFFING
+<2016-06-28 17:11:56,907> Waiting for wisp: 0300
+<2016-06-28 17:11:56,989> BAD OpSpecResult={'NumWordsWritten': 0, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 17:11:57,087> 0300: Wisp was in state: GOTOSNIF and is going to the next state --- Time elapsed: 0.920 secs
+<2016-06-28 17:11:57,087> 0300: Wisp is now in state: SNIFFING
+<2016-06-28 17:11:57,088> 0303: Wisp was in state: WAIT4SNIFFERS and is going to the next state --- Time elapsed: 1.049 secs
+<2016-06-28 17:11:57,088> 0303: Wisp is now in state: PROGRAMMING
+<2016-06-28 17:11:57,091> 0303: First reprogramming messages send --- Wisent time elapsed: 0.002 secs
+<2016-06-28 17:11:57,122> BAD OpSpecResult={'NumWordsWritten': 0, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 17:11:57,391> [1;31mWISENT TIMEOUT[1;0m wisp died
+<2016-06-28 17:11:57,491> BAD OpSpecResult={'NumWordsWritten': 0, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 17:11:57,497> BAD OpSpecResult={'NumWordsWritten': 0, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 17:11:57,501> BAD OpSpecResult={'NumWordsWritten': 0, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 17:11:57,585> BAD OpSpecResult={'NumWordsWritten': 0, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 17:11:57,693> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2016-06-28 17:11:57,993> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2016-06-28 17:11:58,294> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2016-06-28 17:11:58,594> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2016-06-28 17:11:59,091> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2016-06-28 17:11:59,538> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2016-06-28 17:11:59,948> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2016-06-28 17:12:00,249> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2016-06-28 17:12:00,550> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2016-06-28 17:12:01,156> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2016-06-28 17:12:01,456> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2016-06-28 17:12:01,898> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2016-06-28 17:12:02,198> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2016-06-28 17:12:02,499> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2016-06-28 17:12:02,562> BAD OpSpecResult={'NumWordsWritten': 24, 'Result': 6, 'OpSpecID': 2}
+<2016-06-28 17:12:02,799> [1;31mWISENT TIMEOUT[1;0m wisp died
+<2016-06-28 17:12:03,101> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2016-06-28 17:12:03,402> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2016-06-28 17:12:03,702> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2016-06-28 17:12:04,023> BAD OpSpecResult={'NumWordsWritten': 13, 'Result': 6, 'OpSpecID': 3}
+<2016-06-28 17:12:04,077> [1;31mWISENT TIMEOUT[1;0m wisp died
+<2016-06-28 17:12:04,379> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2016-06-28 17:12:04,426> BAD OpSpecResult={'NumWordsWritten': 15, 'Result': 6, 'OpSpecID': 3}
+<2016-06-28 17:12:04,729> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2016-06-28 17:12:05,029> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2016-06-28 17:12:05,640> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2016-06-28 17:12:05,940> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2016-06-28 17:12:06,241> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2016-06-28 17:12:06,523> BAD OpSpecResult={'NumWordsWritten': 24, 'Result': 6, 'OpSpecID': 3}
+<2016-06-28 17:12:06,829> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2016-06-28 17:12:07,170> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2016-06-28 17:12:07,470> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2016-06-28 17:12:07,911> BAD OpSpecResult={'NumWordsWritten': 10, 'Result': 6, 'OpSpecID': 5}
+<2016-06-28 17:12:08,213> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2016-06-28 17:12:08,514> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2016-06-28 17:12:08,814> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2016-06-28 17:12:09,832> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2016-06-28 17:12:10,170> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2016-06-28 17:12:10,470> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2016-06-28 17:12:10,566> BAD OpSpecResult={'NumWordsWritten': 10, 'Result': 6, 'OpSpecID': 5}
+<2016-06-28 17:12:10,870> [1;31mWISENT TIMEOUT[1;0m wisp died
+<2016-06-28 17:12:11,172> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2016-06-28 17:12:11,472> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2016-06-28 17:12:11,921> [1;31mWISENT TIMEOUT[1;0m wisp died
+<2016-06-28 17:12:12,365> [1;31mWISENT TIMEOUT[1;0m wisp died
+<2016-06-28 17:12:12,668> [1;31mWISENT TIMEOUT[1;0m wisp died
+<2016-06-28 17:12:13,289> [1;31mWISENT TIMEOUT[1;0m wisp died
+<2016-06-28 17:12:13,590> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2016-06-28 17:12:13,891> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2016-06-28 17:12:14,487> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2016-06-28 17:12:15,167> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2016-06-28 17:12:15,594> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2016-06-28 17:12:15,895> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2016-06-28 17:12:16,383> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2016-06-28 17:12:16,683> [1;31mWISENT TIMEOUT[1;0m wisp died
+<2016-06-28 17:12:17,376> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2016-06-28 17:12:17,676> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2016-06-28 17:12:18,030> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2016-06-28 17:12:18,330> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2016-06-28 17:12:18,630> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2016-06-28 17:12:19,002> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2016-06-28 17:12:19,217> BAD OpSpecResult={'NumWordsWritten': 27, 'Result': 6, 'OpSpecID': 3}
+<2016-06-28 17:12:19,519> [1;31mWISENT TIMEOUT[1;0m wisp died
+<2016-06-28 17:12:19,821> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2016-06-28 17:12:20,121> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2016-06-28 17:12:21,041> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2016-06-28 17:12:21,342> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2016-06-28 17:12:21,714> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2016-06-28 17:12:22,014> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2016-06-28 17:12:22,602> [1;31mWISENT TIMEOUT[1;0m wisp died
+<2016-06-28 17:12:22,871> 0303: wisent end of file reached.          --- Wisent time elapsed: 25.783 secs
+
+<2016-06-28 17:12:22,873> 0303: Wisp was in state: PROGRAMMING and is going to the next state --- Time elapsed: 26.834 secs
+<2016-06-28 17:12:22,873> 0303: Wisp is now in state: MEMCHECK
+<2016-06-28 17:12:24,162> 0303: memcheck finished
+<2016-06-28 17:12:24,162> 0303: 20 good and 0 bad memblocks
+<2016-06-28 17:12:24,163> 0303: Wisp was in state: MEMCHECK and is going to the next state --- Time elapsed: 28.124 secs
+<2016-06-28 17:12:24,163> 0303: Wisp is now in state: FINISH
+<2016-06-28 17:12:24,164> 0303: WrepWidget [WAITING 0.059, WAIT4SNIFFERS 0.613, PROGRAMMING 1.050, MEMCHECK 26.835, FINISH 28.124]
+<2016-06-28 17:12:24,164> 
+
+******************************* Next wisp (sniffer) *******************************
+
+<2016-06-28 17:12:24,164> 0248: Wisp was in state: SNIFFING and is going to the next state --- Time elapsed: 27.849 secs
+<2016-06-28 17:12:24,164> 0248: Wisp is now in state: STOPSNIFFING
+<2016-06-28 17:12:24,342> BAD OpSpecResult={'NumWordsWritten': 0, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 17:12:24,502> BAD OpSpecResult={'NumWordsWritten': 0, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 17:12:24,574> 0248: Wisp was in state: STOPSNIFFING and is going to the next state --- Time elapsed: 28.260 secs
+<2016-06-28 17:12:24,574> 0248: Wisp is now in state: MEMCHECK
+<2016-06-28 17:12:24,750> BAD OpSpecResult={'NumWordsWritten': 0, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 17:12:25,555> BAD OpSpecResult={'NumWordsWritten': 0, 'Result': 6, 'OpSpecID': 7}
+<2016-06-28 17:12:26,623> 0248: memcheck finished
+<2016-06-28 17:12:26,624> 0248: 61 good and 34 bad memblocks
+<2016-06-28 17:12:26,627> 0248: Wisp was in state: MEMCHECK and is going to the next state --- Time elapsed: 30.313 secs
+<2016-06-28 17:12:26,680> 0248: *****************************************
+<2016-06-28 17:12:26,681> 0248: * Wisp to program:                 0248 *
+<2016-06-28 17:12:26,681> 0248: * Words to send:        656 in 12 lines *
+<2016-06-28 17:12:26,681> 0248: *****************************************
+<2016-06-28 17:12:26,681> 0248: * Reduced nr of words by memcheck: 1871 *
+<2016-06-28 17:12:26,681> 0248: *****************************************
+<2016-06-28 17:12:26,681> 0248: Wisp is now in state: PROGRAMMING
+<2016-06-28 17:12:26,711> 0248: First reprogramming messages send --- Wisent time elapsed: 0.004 secs
+<2016-06-28 17:12:27,011> [1;31mWISENT TIMEOUT[1;0m wisp died
+<2016-06-28 17:12:27,138> BAD OpSpecResult={'NumWordsWritten': 5, 'Result': 6, 'OpSpecID': 3}
+<2016-06-28 17:12:27,228> BAD OpSpecResult={'NumWordsWritten': 4, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 17:12:27,441> [1;31mWISENT TIMEOUT[1;0m wisp died
+<2016-06-28 17:12:27,862> BAD OpSpecResult={'NumWordsWritten': 3, 'Result': 6, 'OpSpecID': 3}
+<2016-06-28 17:12:28,113> BAD OpSpecResult={'NumWordsWritten': 5, 'Result': 6, 'OpSpecID': 5}
+<2016-06-28 17:12:28,416> [1;31mWISENT TIMEOUT[1;0m wisp died
+<2016-06-28 17:12:28,426> BAD OpSpecResult={'NumWordsWritten': 8, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 17:12:28,790> BAD OpSpecResult={'NumWordsWritten': 7, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 17:12:28,927> [1;31mWISENT TIMEOUT[1;0m wisp died
+<2016-06-28 17:12:29,043> BAD OpSpecResult={'NumWordsWritten': 0, 'Result': 6, 'OpSpecID': 5}
+<2016-06-28 17:12:29,135> BAD OpSpecResult={'NumWordsWritten': 4, 'Result': 6, 'OpSpecID': 5}
+<2016-06-28 17:12:29,492> BAD OpSpecResult={'NumWordsWritten': 4, 'Result': 6, 'OpSpecID': 3}
+<2016-06-28 17:12:29,922> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2016-06-28 17:12:30,070> BAD OpSpecResult={'NumWordsWritten': 5, 'Result': 6, 'OpSpecID': 2}
+<2016-06-28 17:12:30,154> EPC did encode a good result
+<2016-06-28 17:12:30,457> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2016-06-28 17:12:30,673> BAD OpSpecResult={'NumWordsWritten': 12, 'Result': 6, 'OpSpecID': 5}
+<2016-06-28 17:12:30,752> EPC did encode a good result
+<2016-06-28 17:12:30,914> BAD OpSpecResult={'NumWordsWritten': 9, 'Result': 6, 'OpSpecID': 2}
+<2016-06-28 17:12:31,054> [1;31mWISENT TIMEOUT[1;0m wisp died
+<2016-06-28 17:12:31,076> EPC did encode a good result
+<2016-06-28 17:12:31,314> BAD OpSpecResult={'NumWordsWritten': 8, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 17:12:31,378> [1;31mWISENT TIMEOUT[1;0m wisp died
+<2016-06-28 17:12:31,554> BAD OpSpecResult={'NumWordsWritten': 7, 'Result': 6, 'OpSpecID': 3}
+<2016-06-28 17:12:31,669> BAD OpSpecResult={'NumWordsWritten': 8, 'Result': 6, 'OpSpecID': 7}
+<2016-06-28 17:12:31,823> BAD OpSpecResult={'NumWordsWritten': 0, 'Result': 6, 'OpSpecID': 3}
+<2016-06-28 17:12:31,926> BAD OpSpecResult={'NumWordsWritten': 7, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 17:12:32,125> [1;31mWISENT TIMEOUT[1;0m wisp died
+<2016-06-28 17:12:32,324> BAD OpSpecResult={'NumWordsWritten': 4, 'Result': 6, 'OpSpecID': 5}
+<2016-06-28 17:12:32,658> BAD OpSpecResult={'NumWordsWritten': 7, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 17:12:32,877> [1;31mWISENT TIMEOUT[1;0m wisp died
+<2016-06-28 17:12:33,169> BAD OpSpecResult={'NumWordsWritten': 9, 'Result': 6, 'OpSpecID': 3}
+<2016-06-28 17:12:33,331> BAD OpSpecResult={'NumWordsWritten': 10, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 17:12:33,471> [1;31mWISENT TIMEOUT[1;0m wisp died
+<2016-06-28 17:12:34,074> BAD OpSpecResult={'NumWordsWritten': 5, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 17:12:34,291> [1;31mWISENT TIMEOUT[1;0m wisp died
+<2016-06-28 17:12:34,402> BAD OpSpecResult={'NumWordsWritten': 9, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 17:12:34,592> [1;31mWISENT TIMEOUT[1;0m wisp died
+<2016-06-28 17:12:34,962> BAD OpSpecResult={'NumWordsWritten': 2, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 17:12:35,183> [1;31mWISENT TIMEOUT[1;0m wisp died
+<2016-06-28 17:12:35,672> [1;31mWISENT TIMEOUT[1;0m wisp died
+<2016-06-28 17:12:36,171> BAD OpSpecResult={'NumWordsWritten': 5, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 17:12:36,320> [1;31mWISENT TIMEOUT[1;0m wisp died
+<2016-06-28 17:12:36,733> BAD OpSpecResult={'NumWordsWritten': 12, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 17:12:36,882> [1;31mWISENT TIMEOUT[1;0m wisp died
+<2016-06-28 17:12:37,264> BAD OpSpecResult={'NumWordsWritten': 15, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 17:12:37,447> [1;31mWISENT TIMEOUT[1;0m wisp died
+<2016-06-28 17:12:37,855> BAD OpSpecResult={'NumWordsWritten': 16, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 17:12:38,047> [1;31mWISENT TIMEOUT[1;0m wisp died
+<2016-06-28 17:12:38,348> [1;31mWISENT TIMEOUT[1;0m wisp died
+<2016-06-28 17:12:38,725> [1;31mWISENT TIMEOUT[1;0m wisp died
+<2016-06-28 17:12:39,026> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2016-06-28 17:12:39,862> 0248: wisent end of file reached.          --- Wisent time elapsed: 13.154 secs
+
+<2016-06-28 17:12:39,863> 0248: Wisp was in state: PROGRAMMING and is going to the next state --- Time elapsed: 43.549 secs
+<2016-06-28 17:12:39,864> 0248: Wisp is now in state: MEMCHECK
+<2016-06-28 17:12:40,527> 0248: memcheck finished
+<2016-06-28 17:12:40,527> 0248: 101 good and 0 bad memblocks
+<2016-06-28 17:12:40,528> 0248: Wisp was in state: MEMCHECK and is going to the next state --- Time elapsed: 44.214 secs
+<2016-06-28 17:12:40,529> 0248: Wisp is now in state: FINISH
+<2016-06-28 17:12:40,534> 0248: WrepWidget [WAITING 0.076, GOTOSNIF 0.334, SNIFFING 0.592, STOPSNIFFING 27.850, MEMCHECK 28.260, PROGRAMMING 30.367, MEMCHECK 43.549, FINISH 44.214]
+<2016-06-28 17:12:40,534> 
+
+******************************* Next wisp (sniffer) *******************************
+
+<2016-06-28 17:12:40,534> 0302: Wisp was in state: SNIFFING and is going to the next state --- Time elapsed: 44.067 secs
+<2016-06-28 17:12:40,534> 0302: Wisp is now in state: STOPSNIFFING
+<2016-06-28 17:12:40,683> 0302: Wisp was in state: STOPSNIFFING and is going to the next state --- Time elapsed: 44.216 secs
+<2016-06-28 17:12:40,683> 0302: Wisp is now in state: MEMCHECK
+<2016-06-28 17:12:40,769> BAD OpSpecResult={'NumWordsWritten': 0, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 17:12:40,774> BAD OpSpecResult={'NumWordsWritten': 0, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 17:12:42,135> 0302: memcheck finished
+<2016-06-28 17:12:42,135> 0302: 20 good and 0 bad memblocks
+<2016-06-28 17:12:42,136> 0302: Wisp was in state: MEMCHECK and is going to the next state --- Time elapsed: 45.668 secs
+<2016-06-28 17:12:42,136> 0302: Wisp is now in state: FINISH
+<2016-06-28 17:12:42,137> 0302: WrepWidget [WAITING 0.094, GOTOSNIF 0.186, SNIFFING 0.391, STOPSNIFFING 44.067, MEMCHECK 44.216, PROGRAMMING, MEMCHECK, FINISH 45.669]
+<2016-06-28 17:12:42,137> 
+
+******************************* Next wisp (sniffer) *******************************
+
+<2016-06-28 17:12:42,137> 0300: Wisp was in state: SNIFFING and is going to the next state --- Time elapsed: 45.971 secs
+<2016-06-28 17:12:42,137> 0300: Wisp is now in state: STOPSNIFFING
+<2016-06-28 17:12:42,230> BAD OpSpecResult={'NumWordsWritten': 0, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 17:12:42,234> BAD OpSpecResult={'NumWordsWritten': 0, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 17:12:42,314> BAD OpSpecResult={'NumWordsWritten': 0, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 17:12:42,554> 0300: Wisp was in state: STOPSNIFFING and is going to the next state --- Time elapsed: 46.387 secs
+<2016-06-28 17:12:42,554> 0300: Wisp is now in state: MEMCHECK
+<2016-06-28 17:12:42,874> 0300: memcheck finished
+<2016-06-28 17:12:42,875> 0300: 20 good and 0 bad memblocks
+<2016-06-28 17:12:42,876> 0300: Wisp was in state: MEMCHECK and is going to the next state --- Time elapsed: 46.709 secs
+<2016-06-28 17:12:42,876> 0300: Wisp is now in state: FINISH
+<2016-06-28 17:12:42,877> 0300: WrepWidget [WAITING 0.070, GOTOSNIF 0.488, SNIFFING 0.921, STOPSNIFFING 45.971, MEMCHECK 46.387, PROGRAMMING, MEMCHECK, FINISH 46.709]
+<2016-06-28 17:12:42,877> IOTXTreplace: 0303 0300 0248 0302: Wisp(s) is/are reprogrammed now
+<2016-06-28 17:13:15,517> IOTXTreplace: Clearing memory from 6400to 8400 to wisps: 0303 and 0300 and 0248 and 0302
+<2016-06-28 17:13:15,517> **************************************************
+<2016-06-28 17:13:15,517> ** ** ** Delete wispmem from 6400 to 8400 ** ** **
+<2016-06-28 17:13:15,517> **************************************************
+<2016-06-28 17:13:15,519> **************************************************
+<2016-06-28 17:13:15,519> ** ** ** Delete wispmem from 6400 to 8400 ** ** **
+<2016-06-28 17:13:15,519> **************************************************
+<2016-06-28 17:13:15,521> **************************************************
+<2016-06-28 17:13:15,521> ** ** ** Delete wispmem from 6400 to 8400 ** ** **
+<2016-06-28 17:13:15,521> **************************************************
+<2016-06-28 17:13:15,523> **************************************************
+<2016-06-28 17:13:15,523> ** ** ** Delete wispmem from 6400 to 8400 ** ** **
+<2016-06-28 17:13:15,523> **************************************************
+<2016-06-28 17:13:15,837> BAD OpSpecResult={'NumWordsWritten': 1, 'Result': 6, 'OpSpecID': 3}
+<2016-06-28 17:13:16,817> IOTXTreplace: 0300: Mem is cleared now
+<2016-06-28 17:13:16,900> BAD OpSpecResult={'ReadDataWordCount': 0, 'ReadData': '', 'Result': 3, 'OpSpecID': 33}
+<2016-06-28 17:13:17,465> IOTXTreplace: 0248: Mem is cleared now
+<2016-06-28 17:13:17,803> IOTXTreplace: 0302: Mem is cleared now
+<2016-06-28 17:13:19,549> IOTXTreplace: 0303: Mem is cleared now
+<2016-06-28 17:13:23,717> IOTXTreplace: Reprogramming data from "ihex/ccs1.hex" to wisps: 0303 and 0300 and 0248 and 0302
+<2016-06-28 17:13:23,792> 0303: *****************************************
+<2016-06-28 17:13:23,792> 0303: * Wisp to program:                 0303 *
+<2016-06-28 17:13:23,793> 0303: * Words to send:       2527 in  9 lines *
+<2016-06-28 17:13:23,793> 0303: *****************************************
+<2016-06-28 17:13:23,796> 0303: Wisp is now in state: WAITING
+<2016-06-28 17:13:23,874> 0303: * File to load:                    None *
+<2016-06-28 17:13:23,875> 0303: * I WILL BE SNIFFED                 *
+<2016-06-28 17:13:23,875> 0303: *****************************************
+<2016-06-28 17:13:23,941> 0300: *****************************************
+<2016-06-28 17:13:23,941> 0300: * Wisp to program:                 0300 *
+<2016-06-28 17:13:23,941> 0300: * Words to send:       2527 in  9 lines *
+<2016-06-28 17:13:23,942> 0300: *****************************************
+<2016-06-28 17:13:23,943> 0300: Wisp is now in state: WAITING
+<2016-06-28 17:13:24,009> 0300: * File to load:                    None *
+<2016-06-28 17:13:24,009> 0300: * I AM A SNIFFER                    *
+<2016-06-28 17:13:24,010> 0300: *****************************************
+<2016-06-28 17:13:24,094> 0248: *****************************************
+<2016-06-28 17:13:24,094> 0248: * Wisp to program:                 0248 *
+<2016-06-28 17:13:24,094> 0248: * Words to send:       2527 in  9 lines *
+<2016-06-28 17:13:24,094> 0248: *****************************************
+<2016-06-28 17:13:24,095> 0248: Wisp is now in state: WAITING
+<2016-06-28 17:13:24,176> 0248: * File to load:                    None *
+<2016-06-28 17:13:24,176> 0248: * I AM A SNIFFER                    *
+<2016-06-28 17:13:24,176> 0248: *****************************************
+<2016-06-28 17:13:24,255> 0302: *****************************************
+<2016-06-28 17:13:24,255> 0302: * Wisp to program:                 0302 *
+<2016-06-28 17:13:24,255> 0302: * Words to send:       2527 in  9 lines *
+<2016-06-28 17:13:24,255> 0302: *****************************************
+<2016-06-28 17:13:24,257> 0302: Wisp is now in state: WAITING
+<2016-06-28 17:13:24,341> 0302: * File to load:                    None *
+<2016-06-28 17:13:24,341> 0302: * I AM A SNIFFER                    *
+<2016-06-28 17:13:24,341> 0302: *****************************************
+<2016-06-28 17:13:24,341> 0248: Wisp was in state: WAITING and is going to the next state --- Time elapsed: 0.332 secs
+<2016-06-28 17:13:24,342> 0248: Wisp was in state: GOTOBIOS and is going to the next state --- Time elapsed: 0.332 secs
+<2016-06-28 17:13:24,342> 0248: Wisp is now in state: GOTOSNIF
+<2016-06-28 17:13:24,344> 0303: Wisp was in state: WAITING and is going to the next state --- Time elapsed: 0.605 secs
+<2016-06-28 17:13:24,344> 0303: Wisp was in state: GOTOBIOS and is going to the next state --- Time elapsed: 0.606 secs
+<2016-06-28 17:13:24,344> 0303: Wisp is now in state: WAIT4SNIFFERS
+<2016-06-28 17:13:24,345> Waiting for wisp: 0248
+<2016-06-28 17:13:24,346> 0302: Wisp was in state: WAITING and is going to the next state --- Time elapsed: 0.169 secs
+<2016-06-28 17:13:24,347> 0302: Wisp was in state: GOTOBIOS and is going to the next state --- Time elapsed: 0.170 secs
+<2016-06-28 17:13:24,347> 0302: Wisp is now in state: GOTOSNIF
+<2016-06-28 17:13:24,348> 0300: Wisp was in state: WAITING and is going to the next state --- Time elapsed: 0.474 secs
+<2016-06-28 17:13:24,349> 0300: Wisp was in state: GOTOBIOS and is going to the next state --- Time elapsed: 0.474 secs
+<2016-06-28 17:13:24,349> 0300: Wisp is now in state: GOTOSNIF
+<2016-06-28 17:13:24,566> 0300: Wisp was in state: GOTOSNIF and is going to the next state --- Time elapsed: 0.691 secs
+<2016-06-28 17:13:24,566> 0300: Wisp is now in state: SNIFFING
+<2016-06-28 17:13:24,567> Waiting for wisp: 0248
+<2016-06-28 17:13:24,571> BAD OpSpecResult={'NumWordsWritten': 0, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 17:13:24,777> BAD OpSpecResult={'NumWordsWritten': 0, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 17:13:25,013> BAD OpSpecResult={'NumWordsWritten': 0, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 17:13:25,021> BAD OpSpecResult={'NumWordsWritten': 0, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 17:13:25,158> 0248: Wisp was in state: GOTOSNIF and is going to the next state --- Time elapsed: 1.148 secs
+<2016-06-28 17:13:25,158> 0248: Wisp is now in state: SNIFFING
+<2016-06-28 17:13:25,159> Waiting for wisp: 0302
+<2016-06-28 17:13:25,212> BAD OpSpecResult={'NumWordsWritten': 0, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 17:13:25,261> BAD OpSpecResult={'NumWordsWritten': 0, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 17:13:25,269> BAD OpSpecResult={'NumWordsWritten': 0, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 17:13:25,343> 0302: Wisp was in state: GOTOSNIF and is going to the next state --- Time elapsed: 1.166 secs
+<2016-06-28 17:13:25,343> 0302: Wisp is now in state: SNIFFING
+<2016-06-28 17:13:25,344> 0303: Wisp was in state: WAIT4SNIFFERS and is going to the next state --- Time elapsed: 1.605 secs
+<2016-06-28 17:13:25,344> 0303: Wisp is now in state: PROGRAMMING
+<2016-06-28 17:13:25,349> 0303: First reprogramming messages send --- Wisent time elapsed: 0.005 secs
+<2016-06-28 17:13:25,572> BAD OpSpecResult={'NumWordsWritten': 0, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 17:13:25,576> BAD OpSpecResult={'NumWordsWritten': 0, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 17:13:25,580> BAD OpSpecResult={'NumWordsWritten': 0, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 17:13:25,649> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2016-06-28 17:13:25,741> BAD OpSpecResult={'NumWordsWritten': 0, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 17:13:25,748> BAD OpSpecResult={'NumWordsWritten': 29, 'Result': 6, 'OpSpecID': 5}
+<2016-06-28 17:13:26,052> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2016-06-28 17:13:26,392> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2016-06-28 17:13:26,752> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2016-06-28 17:13:27,000> BAD OpSpecResult={'NumWordsWritten': 18, 'Result': 6, 'OpSpecID': 2}
+<2016-06-28 17:13:27,052> [1;31mWISENT TIMEOUT[1;0m wisp died
+<2016-06-28 17:13:27,355> [1;31mWISENT TIMEOUT[1;0m wisp died
+<2016-06-28 17:13:27,916> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2016-06-28 17:13:28,216> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2016-06-28 17:13:28,630> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2016-06-28 17:13:29,004> BAD OpSpecResult={'NumWordsWritten': 15, 'Result': 6, 'OpSpecID': 4}
+<2016-06-28 17:13:29,116> [1;31mWISENT TIMEOUT[1;0m wisp died
+<2016-06-28 17:13:29,626> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2016-06-28 17:13:29,932> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2016-06-28 17:13:30,778> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2016-06-28 17:13:30,978> BAD OpSpecResult={'NumWordsWritten': 24, 'Result': 6, 'OpSpecID': 3}
+<2016-06-28 17:13:31,281> [1;31mWISENT TIMEOUT[1;0m wisp died
+<2016-06-28 17:13:31,292> BAD OpSpecResult={'NumWordsWritten': 24, 'Result': 6, 'OpSpecID': 5}
+<2016-06-28 17:13:31,688> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2016-06-28 17:13:31,982> BAD OpSpecResult={'NumWordsWritten': 17, 'Result': 6, 'OpSpecID': 3}
+<2016-06-28 17:13:32,412> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2016-06-28 17:13:32,997> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2016-06-28 17:13:33,622> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2016-06-28 17:13:33,922> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2016-06-28 17:13:34,333> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2016-06-28 17:13:34,633> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2016-06-28 17:13:34,813> BAD OpSpecResult={'NumWordsWritten': 13, 'Result': 6, 'OpSpecID': 5}
+<2016-06-28 17:13:35,116> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2016-06-28 17:13:35,416> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2016-06-28 17:13:35,593> BAD OpSpecResult={'NumWordsWritten': 28, 'Result': 6, 'OpSpecID': 3}
+<2016-06-28 17:13:35,895> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2016-06-28 17:13:36,195> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2016-06-28 17:13:36,496> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2016-06-28 17:13:37,292> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2016-06-28 17:13:37,748> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2016-06-28 17:13:38,050> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2016-06-28 17:13:38,350> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2016-06-28 17:13:38,594> BAD OpSpecResult={'NumWordsWritten': 6, 'Result': 6, 'OpSpecID': 3}
+<2016-06-28 17:13:38,896> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2016-06-28 17:13:39,196> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2016-06-28 17:13:39,497> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2016-06-28 17:13:39,797> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2016-06-28 17:13:39,843> BAD OpSpecResult={'NumWordsWritten': 20, 'Result': 6, 'OpSpecID': 3}
+<2016-06-28 17:13:40,295> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2016-06-28 17:13:40,693> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2016-06-28 17:13:40,872> BAD OpSpecResult={'NumWordsWritten': 21, 'Result': 6, 'OpSpecID': 3}
+<2016-06-28 17:13:41,560> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2016-06-28 17:13:41,860> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2016-06-28 17:13:42,161> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2016-06-28 17:13:42,461> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2016-06-28 17:13:42,851> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2016-06-28 17:13:43,151> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2016-06-28 17:13:43,491> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2016-06-28 17:13:43,792> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2016-06-28 17:13:44,092> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2016-06-28 17:13:44,160> 0303: wisent end of file reached.          --- Wisent time elapsed: 18.816 secs
+
+<2016-06-28 17:13:44,162> 0303: Wisp was in state: PROGRAMMING and is going to the next state --- Time elapsed: 20.423 secs
+<2016-06-28 17:13:44,162> 0303: Wisp is now in state: MEMCHECK
+<2016-06-28 17:13:45,040> 0303: memcheck finished
+<2016-06-28 17:13:45,041> 0303: 20 good and 0 bad memblocks
+<2016-06-28 17:13:45,042> 0303: Wisp was in state: MEMCHECK and is going to the next state --- Time elapsed: 21.303 secs
+<2016-06-28 17:13:45,042> 0303: Wisp is now in state: FINISH
+<2016-06-28 17:13:45,043> 0303: WrepWidget [WAITING 0.057, WAIT4SNIFFERS 0.606, PROGRAMMING 1.606, MEMCHECK 20.424, FINISH 21.304]
+<2016-06-28 17:13:45,043> 
+
+******************************* Next wisp (sniffer) *******************************
+
+<2016-06-28 17:13:45,043> 0248: Wisp was in state: SNIFFING and is going to the next state --- Time elapsed: 21.034 secs
+<2016-06-28 17:13:45,044> 0248: Wisp is now in state: STOPSNIFFING
+<2016-06-28 17:13:45,202> 0248: Wisp was in state: STOPSNIFFING and is going to the next state --- Time elapsed: 21.193 secs
+<2016-06-28 17:13:45,203> 0248: Wisp is now in state: MEMCHECK
+<2016-06-28 17:13:45,691> BAD OpSpecResult={'NumWordsWritten': 1, 'Result': 6, 'OpSpecID': 7}
+<2016-06-28 17:13:45,858> BAD OpSpecResult={'ReadDataWordCount': 0, 'ReadData': '', 'Result': 3, 'OpSpecID': 6}
+<2016-06-28 17:13:46,860> BAD OpSpecResult={'NumWordsWritten': 1, 'Result': 6, 'OpSpecID': 5}
+<2016-06-28 17:13:47,020> 0248: memcheck finished
+<2016-06-28 17:13:47,020> 0248: 62 good and 66 bad memblocks
+<2016-06-28 17:13:47,025> 0248: Wisp was in state: MEMCHECK and is going to the next state --- Time elapsed: 23.015 secs
+<2016-06-28 17:13:47,073> 0248: *****************************************
+<2016-06-28 17:13:47,073> 0248: * Wisp to program:                 0248 *
+<2016-06-28 17:13:47,073> 0248: * Words to send:       1248 in 21 lines *
+<2016-06-28 17:13:47,073> 0248: *****************************************
+<2016-06-28 17:13:47,073> 0248: * Reduced nr of words by memcheck: 1279 *
+<2016-06-28 17:13:47,074> 0248: *****************************************
+<2016-06-28 17:13:47,074> 0248: Wisp is now in state: PROGRAMMING
+<2016-06-28 17:13:47,100> 0248: First reprogramming messages send --- Wisent time elapsed: 0.002 secs
+<2016-06-28 17:13:47,507> BAD OpSpecResult={'NumWordsWritten': 3, 'Result': 6, 'OpSpecID': 2}
+<2016-06-28 17:13:47,514> EPC did encode a good result
+<2016-06-28 17:13:47,587> BAD OpSpecResult={'NumWordsWritten': 7, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 17:13:47,817> [1;31mWISENT TIMEOUT[1;0m wisp died
+<2016-06-28 17:13:47,954> BAD OpSpecResult={'NumWordsWritten': 5, 'Result': 6, 'OpSpecID': 3}
+<2016-06-28 17:13:48,127> BAD OpSpecResult={'NumWordsWritten': 12, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 17:13:48,257> [1;31mWISENT TIMEOUT[1;0m wisp died
+<2016-06-28 17:13:48,374> BAD OpSpecResult={'NumWordsWritten': 8, 'Result': 6, 'OpSpecID': 7}
+<2016-06-28 17:13:48,449> BAD OpSpecResult={'NumWordsWritten': 3, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 17:13:48,677> [1;31mWISENT TIMEOUT[1;0m wisp died
+<2016-06-28 17:13:48,789> BAD OpSpecResult={'NumWordsWritten': 1, 'Result': 6, 'OpSpecID': 3}
+<2016-06-28 17:13:49,118> BAD OpSpecResult={'NumWordsWritten': 6, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 17:13:49,258> [1;31mWISENT TIMEOUT[1;0m wisp died
+<2016-06-28 17:13:49,905> BAD OpSpecResult={'NumWordsWritten': 12, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 17:13:50,043> [1;31mWISENT TIMEOUT[1;0m wisp died
+<2016-06-28 17:13:50,309> BAD OpSpecResult={'NumWordsWritten': 3, 'Result': 6, 'OpSpecID': 3}
+<2016-06-28 17:13:50,611> [1;31mWISENT TIMEOUT[1;0m wisp died
+<2016-06-28 17:13:51,072> BAD OpSpecResult={'NumWordsWritten': 3, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 17:13:51,295> [1;31mWISENT TIMEOUT[1;0m wisp died
+<2016-06-28 17:13:51,558> BAD OpSpecResult={'NumWordsWritten': 2, 'Result': 6, 'OpSpecID': 5}
+<2016-06-28 17:13:51,721> BAD OpSpecResult={'NumWordsWritten': 3, 'Result': 6, 'OpSpecID': 5}
+<2016-06-28 17:13:51,834> BAD OpSpecResult={'NumWordsWritten': 5, 'Result': 6, 'OpSpecID': 3}
+<2016-06-28 17:13:52,109> BAD OpSpecResult={'NumWordsWritten': 5, 'Result': 6, 'OpSpecID': 3}
+<2016-06-28 17:13:52,255> BAD OpSpecResult={'NumWordsWritten': 15, 'Result': 6, 'OpSpecID': 5}
+<2016-06-28 17:13:52,558> [1;31mWISENT TIMEOUT[1;0m wisp died
+<2016-06-28 17:13:52,569> BAD OpSpecResult={'ReadDataWordCount': 0, 'ReadData': '', 'Result': 3, 'OpSpecID': 2}
+<2016-06-28 17:13:52,887> BAD OpSpecResult={'NumWordsWritten': 1, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 17:13:53,041> [1;31mWISENT TIMEOUT[1;0m wisp died
+<2016-06-28 17:13:53,435> [1;31mWISENT TIMEOUT[1;0m wisp died
+<2016-06-28 17:13:53,466> BAD OpSpecResult={'NumWordsWritten': 9, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 17:13:53,746> BAD OpSpecResult={'NumWordsWritten': 3, 'Result': 6, 'OpSpecID': 5}
+<2016-06-28 17:13:54,217> BAD OpSpecResult={'NumWordsWritten': 1, 'Result': 6, 'OpSpecID': 3}
+<2016-06-28 17:13:54,406> BAD OpSpecResult={'NumWordsWritten': 3, 'Result': 6, 'OpSpecID': 3}
+<2016-06-28 17:13:54,570> BAD OpSpecResult={'NumWordsWritten': 2, 'Result': 6, 'OpSpecID': 3}
+<2016-06-28 17:13:54,666> BAD OpSpecResult={'NumWordsWritten': 8, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 17:13:54,876> [1;31mWISENT TIMEOUT[1;0m wisp died
+<2016-06-28 17:13:55,150> BAD OpSpecResult={'NumWordsWritten': 13, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 17:13:55,295> [1;31mWISENT TIMEOUT[1;0m wisp died
+<2016-06-28 17:13:55,409> BAD OpSpecResult={'NumWordsWritten': 2, 'Result': 6, 'OpSpecID': 3}
+<2016-06-28 17:13:55,713> [1;31mWISENT TIMEOUT[1;0m wisp died
+<2016-06-28 17:13:56,072> BAD OpSpecResult={'NumWordsWritten': 3, 'Result': 6, 'OpSpecID': 7}
+<2016-06-28 17:13:56,231> BAD OpSpecResult={'NumWordsWritten': 5, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 17:13:56,375> [1;31mWISENT TIMEOUT[1;0m wisp died
+<2016-06-28 17:13:56,571> BAD OpSpecResult={'NumWordsWritten': 2, 'Result': 6, 'OpSpecID': 7}
+<2016-06-28 17:13:56,735> BAD OpSpecResult={'NumWordsWritten': 3, 'Result': 6, 'OpSpecID': 7}
+<2016-06-28 17:13:57,123> BAD OpSpecResult={'NumWordsWritten': 16, 'Result': 6, 'OpSpecID': 5}
+<2016-06-28 17:13:57,358> BAD OpSpecResult={'NumWordsWritten': 2, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 17:13:57,425> [1;31mWISENT TIMEOUT[1;0m wisp died
+<2016-06-28 17:13:57,519> BAD OpSpecResult={'NumWordsWritten': 6, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 17:13:57,727> [1;31mWISENT TIMEOUT[1;0m wisp died
+<2016-06-28 17:13:58,161> BAD OpSpecResult={'NumWordsWritten': 1, 'Result': 6, 'OpSpecID': 3}
+<2016-06-28 17:13:58,322> BAD OpSpecResult={'ReadDataWordCount': 0, 'ReadData': '', 'Result': 3, 'OpSpecID': 6}
+<2016-06-28 17:13:59,142> BAD OpSpecResult={'NumWordsWritten': 9, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 17:13:59,354> [1;31mWISENT TIMEOUT[1;0m wisp died
+<2016-06-28 17:13:59,781> [1;31mWISENT TIMEOUT[1;0m wisp died
+<2016-06-28 17:14:00,442> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2016-06-28 17:14:00,463> BAD OpSpecResult={'NumWordsWritten': 17, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 17:14:00,743> [1;31mWISENT TIMEOUT[1;0m wisp died
+<2016-06-28 17:14:00,993> BAD OpSpecResult={'NumWordsWritten': 9, 'Result': 6, 'OpSpecID': 3}
+<2016-06-28 17:14:01,163> BAD OpSpecResult={'NumWordsWritten': 11, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 17:14:01,383> [1;31mWISENT TIMEOUT[1;0m wisp died
+<2016-06-28 17:14:01,480> BAD OpSpecResult={'NumWordsWritten': 3, 'Result': 6, 'OpSpecID': 3}
+<2016-06-28 17:14:01,946> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2016-06-28 17:14:02,384> BAD OpSpecResult={'NumWordsWritten': 12, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 17:14:02,501> [1;31mWISENT TIMEOUT[1;0m wisp died
+<2016-06-28 17:14:02,629> BAD OpSpecResult={'NumWordsWritten': 3, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 17:14:02,802> [1;31mWISENT TIMEOUT[1;0m wisp died
+<2016-06-28 17:14:03,588> BAD OpSpecResult={'NumWordsWritten': 14, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 17:14:03,730> [1;31mWISENT TIMEOUT[1;0m wisp died
+<2016-06-28 17:14:03,855> BAD OpSpecResult={'NumWordsWritten': 4, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 17:14:04,031> [1;31mWISENT TIMEOUT[1;0m wisp died
+<2016-06-28 17:14:04,561> [1;31mWISENT TIMEOUT[1;0m wisp died
+<2016-06-28 17:14:04,567> BAD OpSpecResult={'NumWordsWritten': 3, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 17:14:05,440> [1;31mWISENT TIMEOUT[1;0m wisp died
+<2016-06-28 17:14:05,790> BAD OpSpecResult={'NumWordsWritten': 9, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 17:14:05,930> [1;31mWISENT TIMEOUT[1;0m wisp died
+<2016-06-28 17:14:06,119> BAD OpSpecResult={'NumWordsWritten': 4, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 17:14:06,232> [1;31mWISENT TIMEOUT[1;0m wisp died
+<2016-06-28 17:14:06,938> BAD OpSpecResult={'NumWordsWritten': 10, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 17:14:07,158> [1;31mWISENT TIMEOUT[1;0m wisp died
+<2016-06-28 17:14:07,259> BAD OpSpecResult={'NumWordsWritten': 8, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 17:14:07,459> [1;31mWISENT TIMEOUT[1;0m wisp died
+<2016-06-28 17:14:08,242> BAD OpSpecResult={'NumWordsWritten': 23, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 17:14:08,384> [1;31mWISENT TIMEOUT[1;0m wisp died
+<2016-06-28 17:14:08,800> BAD OpSpecResult={'NumWordsWritten': 17, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 17:14:08,945> [1;31mWISENT TIMEOUT[1;0m wisp died
+<2016-06-28 17:14:09,438> BAD OpSpecResult={'NumWordsWritten': 11, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 17:14:09,587> [1;31mWISENT TIMEOUT[1;0m wisp died
+<2016-06-28 17:14:09,931> BAD OpSpecResult={'NumWordsWritten': 8, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 17:14:10,072> [1;31mWISENT TIMEOUT[1;0m wisp died
+<2016-06-28 17:14:10,373> [1;31mWISENT TIMEOUT[1;0m wisp died
+<2016-06-28 17:14:11,274> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2016-06-28 17:14:11,290> BAD OpSpecResult={'NumWordsWritten': 2, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 17:14:11,574> [1;31mWISENT TIMEOUT[1;0m wisp died
+<2016-06-28 17:14:12,072> [1;31mWISENT TIMEOUT[1;0m wisp died
+<2016-06-28 17:14:12,251> 0248: wisent end of file reached.          --- Wisent time elapsed: 25.153 secs
+
+<2016-06-28 17:14:12,252> 0248: Wisp was in state: PROGRAMMING and is going to the next state --- Time elapsed: 48.242 secs
+<2016-06-28 17:14:12,252> 0248: Wisp is now in state: MEMCHECK
+<2016-06-28 17:14:12,503> BAD OpSpecResult={'NumWordsWritten': 0, 'Result': 6, 'OpSpecID': 5}
+<2016-06-28 17:14:12,842> BAD OpSpecResult={'ReadDataWordCount': 0, 'ReadData': '', 'Result': 3, 'OpSpecID': 8}
+<2016-06-28 17:14:12,911> BAD OpSpecResult={'ReadDataWordCount': 0, 'ReadData': '', 'Result': 3, 'OpSpecID': 2}
+<2016-06-28 17:14:14,053> 0248: memcheck finished
+<2016-06-28 17:14:14,053> 0248: 135 good and 0 bad memblocks
+<2016-06-28 17:14:14,056> 0248: Wisp was in state: MEMCHECK and is going to the next state --- Time elapsed: 50.046 secs
+<2016-06-28 17:14:14,056> 0248: Wisp is now in state: FINISH
+<2016-06-28 17:14:14,063> 0248: WrepWidget [WAITING 0.086, GOTOSNIF 0.332, SNIFFING 1.148, STOPSNIFFING 21.034, MEMCHECK 21.194, PROGRAMMING 23.064, MEMCHECK 48.242, FINISH 50.046]
+<2016-06-28 17:14:14,063> 
+
+******************************* Next wisp (sniffer) *******************************
+
+<2016-06-28 17:14:14,064> 0302: Wisp was in state: SNIFFING and is going to the next state --- Time elapsed: 49.887 secs
+<2016-06-28 17:14:14,064> 0302: Wisp is now in state: STOPSNIFFING
+<2016-06-28 17:14:14,453> 0302: Wisp was in state: STOPSNIFFING and is going to the next state --- Time elapsed: 50.276 secs
+<2016-06-28 17:14:14,453> 0302: Wisp is now in state: MEMCHECK
+<2016-06-28 17:14:16,610> 0302: memcheck finished
+<2016-06-28 17:14:16,610> 0302: 20 good and 0 bad memblocks
+<2016-06-28 17:14:16,611> 0302: Wisp was in state: MEMCHECK and is going to the next state --- Time elapsed: 52.435 secs
+<2016-06-28 17:14:16,612> 0302: Wisp is now in state: FINISH
+<2016-06-28 17:14:16,612> 0302: WrepWidget [WAITING 0.081, GOTOSNIF 0.171, SNIFFING 1.167, STOPSNIFFING 49.888, MEMCHECK 50.277, PROGRAMMING, MEMCHECK, FINISH 52.436]
+<2016-06-28 17:14:16,613> 
+
+******************************* Next wisp (sniffer) *******************************
+
+<2016-06-28 17:14:16,613> 0300: Wisp was in state: SNIFFING and is going to the next state --- Time elapsed: 52.738 secs
+<2016-06-28 17:14:16,613> 0300: Wisp is now in state: STOPSNIFFING
+<2016-06-28 17:14:16,773> 0300: Wisp was in state: STOPSNIFFING and is going to the next state --- Time elapsed: 52.898 secs
+<2016-06-28 17:14:16,773> 0300: Wisp is now in state: MEMCHECK
+<2016-06-28 17:14:17,252> 0300: memcheck finished
+<2016-06-28 17:14:17,253> 0300: 20 good and 0 bad memblocks
+<2016-06-28 17:14:17,256> 0300: Wisp was in state: MEMCHECK and is going to the next state --- Time elapsed: 53.381 secs
+<2016-06-28 17:14:17,256> 0300: Wisp is now in state: FINISH
+<2016-06-28 17:14:17,257> 0300: WrepWidget [WAITING 0.068, GOTOSNIF 0.474, SNIFFING 0.691, STOPSNIFFING 52.738, MEMCHECK 52.899, PROGRAMMING, MEMCHECK, FINISH 53.381]
+<2016-06-28 17:14:17,257> IOTXTreplace: 0303 0300 0248 0302: Wisp(s) is/are reprogrammed now
+<2016-06-28 17:14:25,117> IOTXTreplace: Clearing memory from 6400to 8400 to wisps: 0303 and 0300 and 0248 and 0302
+<2016-06-28 17:14:25,117> **************************************************
+<2016-06-28 17:14:25,117> ** ** ** Delete wispmem from 6400 to 8400 ** ** **
+<2016-06-28 17:14:25,117> **************************************************
+<2016-06-28 17:14:25,119> **************************************************
+<2016-06-28 17:14:25,119> ** ** ** Delete wispmem from 6400 to 8400 ** ** **
+<2016-06-28 17:14:25,119> **************************************************
+<2016-06-28 17:14:25,121> **************************************************
+<2016-06-28 17:14:25,121> ** ** ** Delete wispmem from 6400 to 8400 ** ** **
+<2016-06-28 17:14:25,121> **************************************************
+<2016-06-28 17:14:25,123> **************************************************
+<2016-06-28 17:14:25,123> ** ** ** Delete wispmem from 6400 to 8400 ** ** **
+<2016-06-28 17:14:25,123> **************************************************
+<2016-06-28 17:14:26,555> IOTXTreplace: 0300: Mem is cleared now
+<2016-06-28 17:14:26,873> BAD OpSpecResult={'NumWordsWritten': 0, 'Result': 6, 'OpSpecID': 5}
+<2016-06-28 17:14:27,604> IOTXTreplace: 0248: Mem is cleared now
+<2016-06-28 17:14:29,143> IOTXTreplace: 0302: Mem is cleared now
+<2016-06-28 17:14:31,385> IOTXTreplace: 0303: Mem is cleared now
+<2016-06-28 17:14:34,530> IOTXTreplace: Reprogramming data from "ihex/ccs1.hex" to wisps: 0303 and 0300 and 0248 and 0302
+<2016-06-28 17:14:34,623> 0303: *****************************************
+<2016-06-28 17:14:34,623> 0303: * Wisp to program:                 0303 *
+<2016-06-28 17:14:34,623> 0303: * Words to send:       2527 in  9 lines *
+<2016-06-28 17:14:34,624> 0303: *****************************************
+<2016-06-28 17:14:34,627> 0303: Wisp is now in state: WAITING
+<2016-06-28 17:14:34,704> 0303: * File to load:                    None *
+<2016-06-28 17:14:34,705> 0303: * I WILL BE SNIFFED                 *
+<2016-06-28 17:14:34,705> 0303: *****************************************
+<2016-06-28 17:14:34,773> 0300: *****************************************
+<2016-06-28 17:14:34,774> 0300: * Wisp to program:                 0300 *
+<2016-06-28 17:14:34,774> 0300: * Words to send:       2527 in  9 lines *
+<2016-06-28 17:14:34,774> 0300: *****************************************
+<2016-06-28 17:14:34,777> 0300: Wisp is now in state: WAITING
+<2016-06-28 17:14:34,844> 0300: * File to load:                    None *
+<2016-06-28 17:14:34,844> 0300: * I AM A SNIFFER                    *
+<2016-06-28 17:14:34,844> 0300: *****************************************
+<2016-06-28 17:14:34,930> 0248: *****************************************
+<2016-06-28 17:14:34,931> 0248: * Wisp to program:                 0248 *
+<2016-06-28 17:14:34,931> 0248: * Words to send:       2527 in  9 lines *
+<2016-06-28 17:14:34,931> 0248: *****************************************
+<2016-06-28 17:14:34,931> 0248: Wisp is now in state: WAITING
+<2016-06-28 17:14:34,999> 0248: * File to load:                    None *
+<2016-06-28 17:14:34,999> 0248: * I AM A SNIFFER                    *
+<2016-06-28 17:14:34,999> 0248: *****************************************
+<2016-06-28 17:14:35,079> 0302: *****************************************
+<2016-06-28 17:14:35,079> 0302: * Wisp to program:                 0302 *
+<2016-06-28 17:14:35,079> 0302: * Words to send:       2527 in  9 lines *
+<2016-06-28 17:14:35,079> 0302: *****************************************
+<2016-06-28 17:14:35,080> 0302: Wisp is now in state: WAITING
+<2016-06-28 17:14:35,164> 0302: * File to load:                    None *
+<2016-06-28 17:14:35,164> 0302: * I AM A SNIFFER                    *
+<2016-06-28 17:14:35,164> 0302: *****************************************
+<2016-06-28 17:14:35,165> 0248: Wisp was in state: WAITING and is going to the next state --- Time elapsed: 0.320 secs
+<2016-06-28 17:14:35,165> 0248: Wisp was in state: GOTOBIOS and is going to the next state --- Time elapsed: 0.320 secs
+<2016-06-28 17:14:35,165> 0248: Wisp is now in state: GOTOSNIF
+<2016-06-28 17:14:35,206> 0303: Wisp was in state: WAITING and is going to the next state --- Time elapsed: 0.636 secs
+<2016-06-28 17:14:35,206> 0303: Wisp was in state: GOTOBIOS and is going to the next state --- Time elapsed: 0.636 secs
+<2016-06-28 17:14:35,207> 0303: Wisp is now in state: WAIT4SNIFFERS
+<2016-06-28 17:14:35,207> Waiting for wisp: 0248
+<2016-06-28 17:14:35,208> 0302: Wisp was in state: WAITING and is going to the next state --- Time elapsed: 0.208 secs
+<2016-06-28 17:14:35,208> 0302: Wisp was in state: GOTOBIOS and is going to the next state --- Time elapsed: 0.208 secs
+<2016-06-28 17:14:35,208> 0302: Wisp is now in state: GOTOSNIF
+<2016-06-28 17:14:35,209> 0300: Wisp was in state: WAITING and is going to the next state --- Time elapsed: 0.505 secs
+<2016-06-28 17:14:35,210> 0300: Wisp was in state: GOTOBIOS and is going to the next state --- Time elapsed: 0.505 secs
+<2016-06-28 17:14:35,210> 0300: Wisp is now in state: GOTOSNIF
+<2016-06-28 17:14:35,393> 0302: Wisp was in state: GOTOSNIF and is going to the next state --- Time elapsed: 0.394 secs
+<2016-06-28 17:14:35,393> 0302: Wisp is now in state: SNIFFING
+<2016-06-28 17:14:35,395> Waiting for wisp: 0248
+<2016-06-28 17:14:35,402> 0248: Wisp was in state: GOTOSNIF and is going to the next state --- Time elapsed: 0.557 secs
+<2016-06-28 17:14:35,403> 0248: Wisp is now in state: SNIFFING
+<2016-06-28 17:14:35,404> Waiting for wisp: 0300
+<2016-06-28 17:14:35,551> BAD OpSpecResult={'NumWordsWritten': 0, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 17:14:35,644> 0300: Wisp was in state: GOTOSNIF and is going to the next state --- Time elapsed: 0.939 secs
+<2016-06-28 17:14:35,644> 0300: Wisp is now in state: SNIFFING
+<2016-06-28 17:14:35,646> 0303: Wisp was in state: WAIT4SNIFFERS and is going to the next state --- Time elapsed: 1.076 secs
+<2016-06-28 17:14:35,647> 0303: Wisp is now in state: PROGRAMMING
+<2016-06-28 17:14:35,651> 0303: First reprogramming messages send --- Wisent time elapsed: 0.002 secs
+<2016-06-28 17:14:35,674> BAD OpSpecResult={'NumWordsWritten': 0, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 17:14:35,803> BAD OpSpecResult={'NumWordsWritten': 0, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 17:14:35,951> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2016-06-28 17:14:36,252> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2016-06-28 17:14:36,552> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2016-06-28 17:14:36,813> BAD OpSpecResult={'NumWordsWritten': 30, 'Result': 6, 'OpSpecID': 3}
+<2016-06-28 17:14:36,935> [1;31mWISENT TIMEOUT[1;0m wisp died
+<2016-06-28 17:14:37,239> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2016-06-28 17:14:37,369> BAD OpSpecResult={'NumWordsWritten': 25, 'Result': 6, 'OpSpecID': 3}
+<2016-06-28 17:14:37,671> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2016-06-28 17:14:37,689> BAD OpSpecResult={'NumWordsWritten': 15, 'Result': 6, 'OpSpecID': 3}
+<2016-06-28 17:14:37,991> [1;31mWISENT TIMEOUT[1;0m wisp died
+<2016-06-28 17:14:38,295> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2016-06-28 17:14:38,595> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2016-06-28 17:14:39,058> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2016-06-28 17:14:39,218> BAD OpSpecResult={'NumWordsWritten': 26, 'Result': 6, 'OpSpecID': 3}
+<2016-06-28 17:14:39,522> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2016-06-28 17:14:39,640> BAD OpSpecResult={'NumWordsWritten': 14, 'Result': 6, 'OpSpecID': 3}
+<2016-06-28 17:14:40,132> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2016-06-28 17:14:40,476> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2016-06-28 17:14:40,890> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2016-06-28 17:14:41,191> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2016-06-28 17:14:41,515> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2016-06-28 17:14:41,816> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2016-06-28 17:14:42,116> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2016-06-28 17:14:42,604> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2016-06-28 17:14:43,094> [1;31mWISENT TIMEOUT[1;0m wisp died
+<2016-06-28 17:14:43,501> BAD OpSpecResult={'NumWordsWritten': 19, 'Result': 6, 'OpSpecID': 7}
+<2016-06-28 17:14:43,589> [1;31mWISENT TIMEOUT[1;0m wisp died
+<2016-06-28 17:14:43,892> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2016-06-28 17:14:44,204> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2016-06-28 17:14:44,794> [1;31mWISENT TIMEOUT[1;0m wisp died
+<2016-06-28 17:14:45,097> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2016-06-28 17:14:45,848> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2016-06-28 17:14:46,148> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2016-06-28 17:14:46,215> BAD OpSpecResult={'NumWordsWritten': 24, 'Result': 6, 'OpSpecID': 3}
+<2016-06-28 17:14:46,352> BAD OpSpecResult={'NumWordsWritten': 26, 'Result': 6, 'OpSpecID': 3}
+<2016-06-28 17:14:46,655> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2016-06-28 17:14:46,771> BAD OpSpecResult={'NumWordsWritten': 31, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 17:14:46,955> [1;31mWISENT TIMEOUT[1;0m wisp died
+<2016-06-28 17:14:47,257> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2016-06-28 17:14:47,684> BAD OpSpecResult={'NumWordsWritten': 11, 'Result': 6, 'OpSpecID': 7}
+<2016-06-28 17:14:48,274> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2016-06-28 17:14:48,574> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2016-06-28 17:14:48,955> [1;31mWISENT TIMEOUT[1;0m wisp died
+<2016-06-28 17:14:49,257> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2016-06-28 17:14:49,558> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2016-06-28 17:14:49,858> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2016-06-28 17:14:50,159> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2016-06-28 17:14:50,529> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2016-06-28 17:14:50,951> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2016-06-28 17:14:51,251> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2016-06-28 17:14:51,552> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2016-06-28 17:14:51,911> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2016-06-28 17:14:52,743> 0303: wisent end of file reached.          --- Wisent time elapsed: 17.094 secs
+
+<2016-06-28 17:14:52,744> 0303: Wisp was in state: PROGRAMMING and is going to the next state --- Time elapsed: 18.174 secs
+<2016-06-28 17:14:52,745> 0303: Wisp is now in state: MEMCHECK
+<2016-06-28 17:14:54,034> 0303: memcheck finished
+<2016-06-28 17:14:54,034> 0303: 20 good and 0 bad memblocks
+<2016-06-28 17:14:54,035> 0303: Wisp was in state: MEMCHECK and is going to the next state --- Time elapsed: 19.465 secs
+<2016-06-28 17:14:54,035> 0303: Wisp is now in state: FINISH
+<2016-06-28 17:14:54,036> 0303: WrepWidget [WAITING 0.057, WAIT4SNIFFERS 0.637, PROGRAMMING 1.077, MEMCHECK 18.175, FINISH 19.465]
+<2016-06-28 17:14:54,036> 
+
+******************************* Next wisp (sniffer) *******************************
+
+<2016-06-28 17:14:54,036> 0248: Wisp was in state: SNIFFING and is going to the next state --- Time elapsed: 19.192 secs
+<2016-06-28 17:14:54,036> 0248: Wisp is now in state: STOPSNIFFING
+<2016-06-28 17:14:54,118> 0248: Wisp was in state: STOPSNIFFING and is going to the next state --- Time elapsed: 19.274 secs
+<2016-06-28 17:14:54,118> 0248: Wisp is now in state: MEMCHECK
+<2016-06-28 17:14:54,354> BAD OpSpecResult={'NumWordsWritten': 1, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 17:14:54,679> BAD OpSpecResult={'NumWordsWritten': 1, 'Result': 6, 'OpSpecID': 5}
+<2016-06-28 17:14:55,251> BAD OpSpecResult={'NumWordsWritten': 0, 'Result': 6, 'OpSpecID': 5}
+<2016-06-28 17:14:57,454> 0248: memcheck finished
+<2016-06-28 17:14:57,454> 0248: 66 good and 56 bad memblocks
+<2016-06-28 17:14:57,457> 0248: Wisp was in state: MEMCHECK and is going to the next state --- Time elapsed: 22.613 secs
+<2016-06-28 17:14:57,510> 0248: *****************************************
+<2016-06-28 17:14:57,510> 0248: * Wisp to program:                 0248 *
+<2016-06-28 17:14:57,510> 0248: * Words to send:        992 in 18 lines *
+<2016-06-28 17:14:57,510> 0248: *****************************************
+<2016-06-28 17:14:57,511> 0248: * Reduced nr of words by memcheck: 1535 *
+<2016-06-28 17:14:57,511> 0248: *****************************************
+<2016-06-28 17:14:57,511> 0248: Wisp is now in state: PROGRAMMING
+<2016-06-28 17:14:57,544> 0248: First reprogramming messages send --- Wisent time elapsed: 0.003 secs
+<2016-06-28 17:14:57,793> BAD OpSpecResult={'NumWordsWritten': 29, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 17:14:57,844> [1;31mWISENT TIMEOUT[1;0m wisp died
+<2016-06-28 17:14:58,146> [1;31mWISENT TIMEOUT[1;0m wisp died
+<2016-06-28 17:14:58,448> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2016-06-28 17:14:58,613> BAD OpSpecResult={'NumWordsWritten': 5, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 17:14:58,760> [1;31mWISENT TIMEOUT[1;0m wisp died
+<2016-06-28 17:14:58,856> BAD OpSpecResult={'NumWordsWritten': 0, 'Result': 6, 'OpSpecID': 5}
+<2016-06-28 17:14:59,137> BAD OpSpecResult={'NumWordsWritten': 2, 'Result': 6, 'OpSpecID': 7}
+<2016-06-28 17:14:59,444> BAD OpSpecResult={'NumWordsWritten': 13, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 17:14:59,644> [1;31mWISENT TIMEOUT[1;0m wisp died
+<2016-06-28 17:14:59,785> BAD OpSpecResult={'NumWordsWritten': 3, 'Result': 6, 'OpSpecID': 5}
+<2016-06-28 17:14:59,943> BAD OpSpecResult={'NumWordsWritten': 4, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 17:15:00,087> [1;31mWISENT TIMEOUT[1;0m wisp died
+<2016-06-28 17:15:00,366> BAD OpSpecResult={'NumWordsWritten': 4, 'Result': 6, 'OpSpecID': 5}
+<2016-06-28 17:15:00,524> BAD OpSpecResult={'NumWordsWritten': 6, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 17:15:00,668> [1;31mWISENT TIMEOUT[1;0m wisp died
+<2016-06-28 17:15:00,771> BAD OpSpecResult={'NumWordsWritten': 2, 'Result': 6, 'OpSpecID': 5}
+<2016-06-28 17:15:01,230> [1;31mWISENT TIMEOUT[1;0m wisp died
+<2016-06-28 17:15:01,271> BAD OpSpecResult={'NumWordsWritten': 3, 'Result': 6, 'OpSpecID': 3}
+<2016-06-28 17:15:01,437> BAD OpSpecResult={'NumWordsWritten': 2, 'Result': 6, 'OpSpecID': 7}
+<2016-06-28 17:15:01,593> BAD OpSpecResult={'NumWordsWritten': 1, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 17:15:01,739> [1;31mWISENT TIMEOUT[1;0m wisp died
+<2016-06-28 17:15:02,829> BAD OpSpecResult={'NumWordsWritten': 16, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 17:15:02,963> [1;31mWISENT TIMEOUT[1;0m wisp died
+<2016-06-28 17:15:03,063> BAD OpSpecResult={'NumWordsWritten': 3, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 17:15:03,266> [1;31mWISENT TIMEOUT[1;0m wisp died
+<2016-06-28 17:15:03,391> BAD OpSpecResult={'NumWordsWritten': 1, 'Result': 6, 'OpSpecID': 5}
+<2016-06-28 17:15:03,694> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2016-06-28 17:15:03,705> BAD OpSpecResult={'ReadDataWordCount': 0, 'ReadData': '', 'Result': 3, 'OpSpecID': 2}
+<2016-06-28 17:15:03,713> EPC did encode a good result
+<2016-06-28 17:15:04,015> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2016-06-28 17:15:04,687> BAD OpSpecResult={'NumWordsWritten': 16, 'Result': 6, 'OpSpecID': 5}
+<2016-06-28 17:15:04,991> [1;31mWISENT TIMEOUT[1;0m wisp died
+<2016-06-28 17:15:05,025> BAD OpSpecResult={'NumWordsWritten': 8, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 17:15:05,294> [1;31mWISENT TIMEOUT[1;0m wisp died
+<2016-06-28 17:15:05,665> BAD OpSpecResult={'NumWordsWritten': 13, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 17:15:05,703> [1;31mWISENT TIMEOUT[1;0m wisp died
+<2016-06-28 17:15:06,005> BAD OpSpecResult={'NumWordsWritten': 0, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 17:15:06,007> [1;31mWISENT TIMEOUT[1;0m wisp died
+<2016-06-28 17:15:06,102> BAD OpSpecResult={'ReadDataWordCount': 0, 'ReadData': '', 'Result': 3, 'OpSpecID': 6}
+<2016-06-28 17:15:06,404> [1;31mWISENT TIMEOUT[1;0m wisp died
+<2016-06-28 17:15:06,671> BAD OpSpecResult={'NumWordsWritten': 2, 'Result': 6, 'OpSpecID': 7}
+<2016-06-28 17:15:06,907> BAD OpSpecResult={'NumWordsWritten': 4, 'Result': 6, 'OpSpecID': 5}
+<2016-06-28 17:15:07,064> BAD OpSpecResult={'NumWordsWritten': 5, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 17:15:07,209> [1;31mWISENT TIMEOUT[1;0m wisp died
+<2016-06-28 17:15:07,943> BAD OpSpecResult={'NumWordsWritten': 11, 'Result': 6, 'OpSpecID': 5}
+<2016-06-28 17:15:08,027> BAD OpSpecResult={'NumWordsWritten': 6, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 17:15:08,246> [1;31mWISENT TIMEOUT[1;0m wisp died
+<2016-06-28 17:15:08,344> BAD OpSpecResult={'NumWordsWritten': 9, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 17:15:08,549> [1;31mWISENT TIMEOUT[1;0m wisp died
+<2016-06-28 17:15:08,675> BAD OpSpecResult={'NumWordsWritten': 3, 'Result': 6, 'OpSpecID': 7}
+<2016-06-28 17:15:08,789> BAD OpSpecResult={'NumWordsWritten': 3, 'Result': 6, 'OpSpecID': 5}
+<2016-06-28 17:15:08,912> BAD OpSpecResult={'NumWordsWritten': 9, 'Result': 6, 'OpSpecID': 7}
+<2016-06-28 17:15:09,013> BAD OpSpecResult={'NumWordsWritten': 10, 'Result': 6, 'OpSpecID': 3}
+<2016-06-28 17:15:09,115> BAD OpSpecResult={'NumWordsWritten': 10, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 17:15:09,317> [1;31mWISENT TIMEOUT[1;0m wisp died
+<2016-06-28 17:15:09,867> BAD OpSpecResult={'NumWordsWritten': 15, 'Result': 6, 'OpSpecID': 5}
+<2016-06-28 17:15:10,100> BAD OpSpecResult={'NumWordsWritten': 11, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 17:15:10,171> [1;31mWISENT TIMEOUT[1;0m wisp died
+<2016-06-28 17:15:10,942> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2016-06-28 17:15:11,226> BAD OpSpecResult={'NumWordsWritten': 13, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 17:15:11,341> [1;31mWISENT TIMEOUT[1;0m wisp died
+<2016-06-28 17:15:11,544> BAD OpSpecResult={'NumWordsWritten': 9, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 17:15:11,642> [1;31mWISENT TIMEOUT[1;0m wisp died
+<2016-06-28 17:15:11,952> BAD OpSpecResult={'NumWordsWritten': 3, 'Result': 6, 'OpSpecID': 3}
+<2016-06-28 17:15:12,294> BAD OpSpecResult={'NumWordsWritten': 6, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 17:15:12,354> [1;31mWISENT TIMEOUT[1;0m wisp died
+<2016-06-28 17:15:12,785> BAD OpSpecResult={'NumWordsWritten': 5, 'Result': 6, 'OpSpecID': 3}
+<2016-06-28 17:15:13,045> BAD OpSpecResult={'NumWordsWritten': 25, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 17:15:13,246> [1;31mWISENT TIMEOUT[1;0m wisp died
+<2016-06-28 17:15:13,547> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2016-06-28 17:15:13,704> BAD OpSpecResult={'NumWordsWritten': 14, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 17:15:13,906> [1;31mWISENT TIMEOUT[1;0m wisp died
+<2016-06-28 17:15:14,219> BAD OpSpecResult={'NumWordsWritten': 5, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 17:15:14,416> [1;31mWISENT TIMEOUT[1;0m wisp died
+<2016-06-28 17:15:15,008> [1;31mWISENT TIMEOUT[1;0m wisp died
+<2016-06-28 17:15:15,300> BAD OpSpecResult={'NumWordsWritten': 16, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 17:15:15,496> [1;31mWISENT TIMEOUT[1;0m wisp died
+<2016-06-28 17:15:15,701> BAD OpSpecResult={'NumWordsWritten': 7, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 17:15:15,917> [1;31mWISENT TIMEOUT[1;0m wisp died
+<2016-06-28 17:15:16,409> [1;31mWISENT TIMEOUT[1;0m wisp died
+<2016-06-28 17:15:16,888> [1;31mWISENT TIMEOUT[1;0m wisp died
+<2016-06-28 17:15:17,150> BAD OpSpecResult={'NumWordsWritten': 4, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 17:15:17,366> [1;31mWISENT TIMEOUT[1;0m wisp died
+<2016-06-28 17:15:17,482> BAD OpSpecResult={'ReadDataWordCount': 0, 'ReadData': '', 'Result': 3, 'OpSpecID': 2}
+<2016-06-28 17:15:17,667> [1;31mWISENT TIMEOUT[1;0m wisp died
+<2016-06-28 17:15:18,577> [1;31mWISENT TIMEOUT[1;0m wisp died
+<2016-06-28 17:15:18,675> BAD OpSpecResult={'NumWordsWritten': 3, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 17:15:18,683> EPC did encode a good result
+<2016-06-28 17:15:19,075> 0248: wisent end of file reached.          --- Wisent time elapsed: 21.534 secs
+
+<2016-06-28 17:15:19,077> 0248: Wisp was in state: PROGRAMMING and is going to the next state --- Time elapsed: 44.232 secs
+<2016-06-28 17:15:19,077> 0248: Wisp is now in state: MEMCHECK
+<2016-06-28 17:15:19,882> BAD OpSpecResult={'ReadDataWordCount': 0, 'ReadData': '', 'Result': 3, 'OpSpecID': 8}
+<2016-06-28 17:15:20,868> 0248: memcheck finished
+<2016-06-28 17:15:20,868> 0248: 130 good and 0 bad memblocks
+<2016-06-28 17:15:20,869> 0248: Wisp was in state: MEMCHECK and is going to the next state --- Time elapsed: 46.024 secs
+<2016-06-28 17:15:20,869> 0248: Wisp is now in state: FINISH
+<2016-06-28 17:15:20,879> 0248: WrepWidget [WAITING 0.087, GOTOSNIF 0.320, SNIFFING 0.559, STOPSNIFFING 19.192, MEMCHECK 19.274, PROGRAMMING 22.666, MEMCHECK 44.232, FINISH 46.025]
+<2016-06-28 17:15:20,879> 
+
+******************************* Next wisp (sniffer) *******************************
+
+<2016-06-28 17:15:20,879> 0302: Wisp was in state: SNIFFING and is going to the next state --- Time elapsed: 45.880 secs
+<2016-06-28 17:15:20,879> 0302: Wisp is now in state: STOPSNIFFING
+<2016-06-28 17:15:21,025> BAD OpSpecResult={'NumWordsWritten': 0, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 17:15:21,206> 0302: Wisp was in state: STOPSNIFFING and is going to the next state --- Time elapsed: 46.206 secs
+<2016-06-28 17:15:21,206> 0302: Wisp is now in state: MEMCHECK
+<2016-06-28 17:15:21,265> BAD OpSpecResult={'NumWordsWritten': 0, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 17:15:22,174> 0302: memcheck finished
+<2016-06-28 17:15:22,175> 0302: 30 good and 2 bad memblocks
+<2016-06-28 17:15:22,178> 0302: Wisp was in state: MEMCHECK and is going to the next state --- Time elapsed: 47.178 secs
+<2016-06-28 17:15:22,219> 0302: *****************************************
+<2016-06-28 17:15:22,219> 0302: * Wisp to program:                 0302 *
+<2016-06-28 17:15:22,219> 0302: * Words to send:         32 in  2 lines *
+<2016-06-28 17:15:22,219> 0302: *****************************************
+<2016-06-28 17:15:22,219> 0302: * Reduced nr of words by memcheck: 2495 *
+<2016-06-28 17:15:22,219> 0302: *****************************************
+<2016-06-28 17:15:22,219> 0302: Wisp is now in state: PROGRAMMING
+<2016-06-28 17:15:22,249> 0302: First reprogramming messages send --- Wisent time elapsed: 0.003 secs
+<2016-06-28 17:15:22,412> 0302: wisent end of file reached.          --- Wisent time elapsed: 0.166 secs
+
+<2016-06-28 17:15:22,413> 0302: Wisp was in state: PROGRAMMING and is going to the next state --- Time elapsed: 47.414 secs
+<2016-06-28 17:15:22,413> 0302: Wisp is now in state: MEMCHECK
+<2016-06-28 17:15:22,890> 0302: memcheck finished
+<2016-06-28 17:15:22,890> 0302: 38 good and 0 bad memblocks
+<2016-06-28 17:15:22,891> 0302: Wisp was in state: MEMCHECK and is going to the next state --- Time elapsed: 47.891 secs
+<2016-06-28 17:15:22,891> 0302: Wisp is now in state: FINISH
+<2016-06-28 17:15:22,892> 0302: WrepWidget [WAITING 0.081, GOTOSNIF 0.209, SNIFFING 0.394, STOPSNIFFING 45.880, MEMCHECK 46.206, PROGRAMMING 47.220, MEMCHECK 47.414, FINISH 47.892]
+<2016-06-28 17:15:22,892> 
+
+******************************* Next wisp (sniffer) *******************************
+
+<2016-06-28 17:15:22,892> 0300: Wisp was in state: SNIFFING and is going to the next state --- Time elapsed: 48.187 secs
+<2016-06-28 17:15:22,892> 0300: Wisp is now in state: STOPSNIFFING
+<2016-06-28 17:15:23,128> 0300: Wisp was in state: STOPSNIFFING and is going to the next state --- Time elapsed: 48.423 secs
+<2016-06-28 17:15:23,128> 0300: Wisp is now in state: MEMCHECK
+<2016-06-28 17:15:23,767> 0300: memcheck finished
+<2016-06-28 17:15:23,767> 0300: 20 good and 0 bad memblocks
+<2016-06-28 17:15:23,768> 0300: Wisp was in state: MEMCHECK and is going to the next state --- Time elapsed: 49.063 secs
+<2016-06-28 17:15:23,768> 0300: Wisp is now in state: FINISH
+<2016-06-28 17:15:23,769> 0300: WrepWidget [WAITING 0.072, GOTOSNIF 0.505, SNIFFING 0.940, STOPSNIFFING 48.188, MEMCHECK 48.424, PROGRAMMING, MEMCHECK, FINISH 49.064]
+<2016-06-28 17:15:23,769> IOTXTreplace: 0303 0300 0248 0302: Wisp(s) is/are reprogrammed now
+<2016-06-28 17:15:41,617> IOTXTreplace: Clearing memory from 6400to 8400 to wisps: 0303 and 0300 and 0248 and 0302
+<2016-06-28 17:15:41,617> **************************************************
+<2016-06-28 17:15:41,617> ** ** ** Delete wispmem from 6400 to 8400 ** ** **
+<2016-06-28 17:15:41,617> **************************************************
+<2016-06-28 17:15:41,619> **************************************************
+<2016-06-28 17:15:41,619> ** ** ** Delete wispmem from 6400 to 8400 ** ** **
+<2016-06-28 17:15:41,619> **************************************************
+<2016-06-28 17:15:41,621> **************************************************
+<2016-06-28 17:15:41,621> ** ** ** Delete wispmem from 6400 to 8400 ** ** **
+<2016-06-28 17:15:41,621> **************************************************
+<2016-06-28 17:15:41,623> **************************************************
+<2016-06-28 17:15:41,623> ** ** ** Delete wispmem from 6400 to 8400 ** ** **
+<2016-06-28 17:15:41,623> **************************************************
+<2016-06-28 17:15:42,954> IOTXTreplace: 0300: Mem is cleared now
+<2016-06-28 17:15:42,991> IOTXTreplace: 0248: Mem is cleared now
+<2016-06-28 17:15:44,841> IOTXTreplace: 0302: Mem is cleared now
+<2016-06-28 17:15:45,552> IOTXTreplace: 0303: Mem is cleared now
+<2016-06-28 17:15:49,517> IOTXTreplace: Reprogramming data from "ihex/ccs1.hex" to wisps: 0303 and 0300 and 0248 and 0302
+<2016-06-28 17:15:49,594> 0303: *****************************************
+<2016-06-28 17:15:49,594> 0303: * Wisp to program:                 0303 *
+<2016-06-28 17:15:49,594> 0303: * Words to send:       2527 in  9 lines *
+<2016-06-28 17:15:49,594> 0303: *****************************************
+<2016-06-28 17:15:49,597> 0303: Wisp is now in state: WAITING
+<2016-06-28 17:15:49,673> 0303: * File to load:                    None *
+<2016-06-28 17:15:49,673> 0303: * I WILL BE SNIFFED                 *
+<2016-06-28 17:15:49,673> 0303: *****************************************
+<2016-06-28 17:15:49,744> 0300: *****************************************
+<2016-06-28 17:15:49,744> 0300: * Wisp to program:                 0300 *
+<2016-06-28 17:15:49,745> 0300: * Words to send:       2527 in  9 lines *
+<2016-06-28 17:15:49,745> 0300: *****************************************
+<2016-06-28 17:15:49,745> 0300: Wisp is now in state: WAITING
+<2016-06-28 17:15:49,843> 0300: * File to load:                    None *
+<2016-06-28 17:15:49,843> 0300: * I AM A SNIFFER                    *
+<2016-06-28 17:15:49,843> 0300: *****************************************
+<2016-06-28 17:15:49,912> 0248: *****************************************
+<2016-06-28 17:15:49,912> 0248: * Wisp to program:                 0248 *
+<2016-06-28 17:15:49,912> 0248: * Words to send:       2527 in  9 lines *
+<2016-06-28 17:15:49,912> 0248: *****************************************
+<2016-06-28 17:15:49,913> 0248: Wisp is now in state: WAITING
+<2016-06-28 17:15:49,988> 0248: * File to load:                    None *
+<2016-06-28 17:15:49,988> 0248: * I AM A SNIFFER                    *
+<2016-06-28 17:15:49,988> 0248: *****************************************
+<2016-06-28 17:15:50,070> 0302: *****************************************
+<2016-06-28 17:15:50,071> 0302: * Wisp to program:                 0302 *
+<2016-06-28 17:15:50,071> 0302: * Words to send:       2527 in  9 lines *
+<2016-06-28 17:15:50,071> 0302: *****************************************
+<2016-06-28 17:15:50,072> 0302: Wisp is now in state: WAITING
+<2016-06-28 17:15:50,152> 0302: * File to load:                    None *
+<2016-06-28 17:15:50,152> 0302: * I AM A SNIFFER                    *
+<2016-06-28 17:15:50,152> 0302: *****************************************
+<2016-06-28 17:15:50,153> 0248: Wisp was in state: WAITING and is going to the next state --- Time elapsed: 0.309 secs
+<2016-06-28 17:15:50,153> 0248: Wisp was in state: GOTOBIOS and is going to the next state --- Time elapsed: 0.309 secs
+<2016-06-28 17:15:50,153> 0248: Wisp is now in state: GOTOSNIF
+<2016-06-28 17:15:50,155> 0303: Wisp was in state: WAITING and is going to the next state --- Time elapsed: 0.615 secs
+<2016-06-28 17:15:50,155> 0303: Wisp was in state: GOTOBIOS and is going to the next state --- Time elapsed: 0.615 secs
+<2016-06-28 17:15:50,155> 0303: Wisp is now in state: WAIT4SNIFFERS
+<2016-06-28 17:15:50,156> Waiting for wisp: 0248
+<2016-06-28 17:15:50,156> 0302: Wisp was in state: WAITING and is going to the next state --- Time elapsed: 0.168 secs
+<2016-06-28 17:15:50,156> 0302: Wisp was in state: GOTOBIOS and is going to the next state --- Time elapsed: 0.168 secs
+<2016-06-28 17:15:50,156> 0302: Wisp is now in state: GOTOSNIF
+<2016-06-28 17:15:50,157> 0300: Wisp was in state: WAITING and is going to the next state --- Time elapsed: 0.484 secs
+<2016-06-28 17:15:50,157> 0300: Wisp was in state: GOTOBIOS and is going to the next state --- Time elapsed: 0.484 secs
+<2016-06-28 17:15:50,157> 0300: Wisp is now in state: GOTOSNIF
+<2016-06-28 17:15:50,429> BAD OpSpecResult={'NumWordsWritten': 0, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 17:15:50,509> 0248: Wisp was in state: GOTOSNIF and is going to the next state --- Time elapsed: 0.666 secs
+<2016-06-28 17:15:50,510> 0248: Wisp is now in state: SNIFFING
+<2016-06-28 17:15:50,510> Waiting for wisp: 0302
+<2016-06-28 17:15:50,541> BAD OpSpecResult={'NumWordsWritten': 0, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 17:15:50,570> 0302: Wisp was in state: GOTOSNIF and is going to the next state --- Time elapsed: 0.582 secs
+<2016-06-28 17:15:50,571> 0302: Wisp is now in state: SNIFFING
+<2016-06-28 17:15:50,573> Waiting for wisp: 0300
+<2016-06-28 17:15:50,848> BAD OpSpecResult={'NumWordsWritten': 0, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 17:15:51,108> BAD OpSpecResult={'NumWordsWritten': 0, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 17:15:51,114> BAD OpSpecResult={'NumWordsWritten': 0, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 17:15:51,119> BAD OpSpecResult={'NumWordsWritten': 0, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 17:15:51,171> 0300: Wisp was in state: GOTOSNIF and is going to the next state --- Time elapsed: 1.498 secs
+<2016-06-28 17:15:51,171> 0300: Wisp is now in state: SNIFFING
+<2016-06-28 17:15:51,172> 0303: Wisp was in state: WAIT4SNIFFERS and is going to the next state --- Time elapsed: 1.632 secs
+<2016-06-28 17:15:51,172> 0303: Wisp is now in state: PROGRAMMING
+<2016-06-28 17:15:51,177> 0303: First reprogramming messages send --- Wisent time elapsed: 0.004 secs
+<2016-06-28 17:15:51,489> BAD OpSpecResult={'NumWordsWritten': 0, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 17:15:51,494> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2016-06-28 17:15:51,795> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2016-06-28 17:15:52,112> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2016-06-28 17:15:52,350> BAD OpSpecResult={'NumWordsWritten': 31, 'Result': 6, 'OpSpecID': 3}
+<2016-06-28 17:15:52,653> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2016-06-28 17:15:52,694> BAD OpSpecResult={'NumWordsWritten': 19, 'Result': 6, 'OpSpecID': 3}
+<2016-06-28 17:15:52,997> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2016-06-28 17:15:53,297> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2016-06-28 17:15:53,778> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2016-06-28 17:15:54,079> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2016-06-28 17:15:54,379> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2016-06-28 17:15:54,679> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2016-06-28 17:15:55,092> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2016-06-28 17:15:55,392> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2016-06-28 17:15:55,860> [1;31mWISENT TIMEOUT[1;0m wisp died
+<2016-06-28 17:15:56,369> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2016-06-28 17:15:56,559> BAD OpSpecResult={'NumWordsWritten': 25, 'Result': 6, 'OpSpecID': 3}
+<2016-06-28 17:15:56,670> [1;31mWISENT TIMEOUT[1;0m wisp died
+<2016-06-28 17:15:56,870> BAD OpSpecResult={'NumWordsWritten': 26, 'Result': 6, 'OpSpecID': 3}
+<2016-06-28 17:15:57,174> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2016-06-28 17:15:57,474> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2016-06-28 17:15:57,949> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2016-06-28 17:15:58,249> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2016-06-28 17:15:58,549> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2016-06-28 17:15:58,603> BAD OpSpecResult={'NumWordsWritten': 20, 'Result': 6, 'OpSpecID': 3}
+<2016-06-28 17:15:58,906> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2016-06-28 17:15:59,183> BAD OpSpecResult={'NumWordsWritten': 23, 'Result': 6, 'OpSpecID': 3}
+<2016-06-28 17:15:59,486> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2016-06-28 17:15:59,607> BAD OpSpecResult={'NumWordsWritten': 23, 'Result': 6, 'OpSpecID': 3}
+<2016-06-28 17:16:00,156> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2016-06-28 17:16:00,176> BAD OpSpecResult={'NumWordsWritten': 21, 'Result': 6, 'OpSpecID': 5}
+<2016-06-28 17:16:00,479> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2016-06-28 17:16:00,780> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2016-06-28 17:16:01,080> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2016-06-28 17:16:01,526> BAD OpSpecResult={'NumWordsWritten': 22, 'Result': 6, 'OpSpecID': 3}
+<2016-06-28 17:16:01,836> BAD OpSpecResult={'NumWordsWritten': 31, 'Result': 6, 'OpSpecID': 7}
+<2016-06-28 17:16:02,139> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2016-06-28 17:16:02,678> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2016-06-28 17:16:03,038> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2016-06-28 17:16:03,339> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2016-06-28 17:16:03,639> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2016-06-28 17:16:03,688> BAD OpSpecResult={'NumWordsWritten': 9, 'Result': 6, 'OpSpecID': 7}
+<2016-06-28 17:16:04,247> BAD OpSpecResult={'NumWordsWritten': 30, 'Result': 6, 'OpSpecID': 5}
+<2016-06-28 17:16:04,783> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2016-06-28 17:16:04,852> BAD OpSpecResult={'NumWordsWritten': 25, 'Result': 6, 'OpSpecID': 3}
+<2016-06-28 17:16:05,154> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2016-06-28 17:16:05,455> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2016-06-28 17:16:05,639> BAD OpSpecResult={'NumWordsWritten': 12, 'Result': 6, 'OpSpecID': 3}
+<2016-06-28 17:16:06,158> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2016-06-28 17:16:06,597> BAD OpSpecResult={'NumWordsWritten': 22, 'Result': 6, 'OpSpecID': 3}
+<2016-06-28 17:16:07,074> [1;31mWISENT TIMEOUT[1;0m wisp died
+<2016-06-28 17:16:07,721> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2016-06-28 17:16:08,022> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2016-06-28 17:16:08,175> 0303: wisent end of file reached.          --- Wisent time elapsed: 17.002 secs
+
+<2016-06-28 17:16:08,176> 0303: Wisp was in state: PROGRAMMING and is going to the next state --- Time elapsed: 18.637 secs
+<2016-06-28 17:16:08,176> 0303: Wisp is now in state: MEMCHECK
+<2016-06-28 17:16:08,570> 0303: memcheck finished
+<2016-06-28 17:16:08,570> 0303: 20 good and 0 bad memblocks
+<2016-06-28 17:16:08,571> 0303: Wisp was in state: MEMCHECK and is going to the next state --- Time elapsed: 19.032 secs
+<2016-06-28 17:16:08,571> 0303: Wisp is now in state: FINISH
+<2016-06-28 17:16:08,572> 0303: WrepWidget [WAITING 0.058, WAIT4SNIFFERS 0.616, PROGRAMMING 1.633, MEMCHECK 18.637, FINISH 19.032]
+<2016-06-28 17:16:08,573> 
+
+******************************* Next wisp (sniffer) *******************************
+
+<2016-06-28 17:16:08,573> 0248: Wisp was in state: SNIFFING and is going to the next state --- Time elapsed: 18.730 secs
+<2016-06-28 17:16:08,574> 0248: Wisp is now in state: STOPSNIFFING
+<2016-06-28 17:16:08,909> BAD OpSpecResult={'NumWordsWritten': 0, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 17:16:08,915> BAD OpSpecResult={'NumWordsWritten': 0, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 17:16:08,982> 0248: Wisp was in state: STOPSNIFFING and is going to the next state --- Time elapsed: 19.139 secs
+<2016-06-28 17:16:08,983> 0248: Wisp is now in state: MEMCHECK
+<2016-06-28 17:16:09,550> BAD OpSpecResult={'NumWordsWritten': 1, 'Result': 6, 'OpSpecID': 3}
+<2016-06-28 17:16:10,434> BAD OpSpecResult={'NumWordsWritten': 1, 'Result': 6, 'OpSpecID': 7}
+<2016-06-28 17:16:11,267> 0248: memcheck finished
+<2016-06-28 17:16:11,267> 0248: 59 good and 60 bad memblocks
+<2016-06-28 17:16:11,273> 0248: Wisp was in state: MEMCHECK and is going to the next state --- Time elapsed: 21.430 secs
+<2016-06-28 17:16:11,321> 0248: *****************************************
+<2016-06-28 17:16:11,322> 0248: * Wisp to program:                 0248 *
+<2016-06-28 17:16:11,323> 0248: * Words to send:       1120 in 17 lines *
+<2016-06-28 17:16:11,323> 0248: *****************************************
+<2016-06-28 17:16:11,323> 0248: * Reduced nr of words by memcheck: 1407 *
+<2016-06-28 17:16:11,323> 0248: *****************************************
+<2016-06-28 17:16:11,323> 0248: Wisp is now in state: PROGRAMMING
+<2016-06-28 17:16:11,357> 0248: First reprogramming messages send --- Wisent time elapsed: 0.004 secs
+<2016-06-28 17:16:11,657> [1;31mWISENT TIMEOUT[1;0m wisp died
+<2016-06-28 17:16:11,744> BAD OpSpecResult={'NumWordsWritten': 7, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 17:16:11,961> [1;31mWISENT TIMEOUT[1;0m wisp died
+<2016-06-28 17:16:12,264> [1;31mWISENT TIMEOUT[1;0m wisp died
+<2016-06-28 17:16:12,542> BAD OpSpecResult={'ReadDataWordCount': 0, 'ReadData': '', 'Result': 3, 'OpSpecID': 2}
+<2016-06-28 17:16:12,549> EPC did encode a good result
+<2016-06-28 17:16:12,723> BAD OpSpecResult={'ReadDataWordCount': 0, 'ReadData': '', 'Result': 3, 'OpSpecID': 8}
+<2016-06-28 17:16:13,026> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2016-06-28 17:16:13,201> BAD OpSpecResult={'NumWordsWritten': 5, 'Result': 6, 'OpSpecID': 3}
+<2016-06-28 17:16:13,451> BAD OpSpecResult={'NumWordsWritten': 8, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 17:16:13,600> [1;31mWISENT TIMEOUT[1;0m wisp died
+<2016-06-28 17:16:13,769> BAD OpSpecResult={'NumWordsWritten': 2, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 17:16:13,902> [1;31mWISENT TIMEOUT[1;0m wisp died
+<2016-06-28 17:16:14,044> BAD OpSpecResult={'NumWordsWritten': 2, 'Result': 6, 'OpSpecID': 5}
+<2016-06-28 17:16:14,347> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2016-06-28 17:16:14,533> BAD OpSpecResult={'NumWordsWritten': 4, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 17:16:14,670> [1;31mWISENT TIMEOUT[1;0m wisp died
+<2016-06-28 17:16:15,591> [1;31mWISENT TIMEOUT[1;0m wisp died
+<2016-06-28 17:16:15,679> BAD OpSpecResult={'NumWordsWritten': 4, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 17:16:15,895> [1;31mWISENT TIMEOUT[1;0m wisp died
+<2016-06-28 17:16:16,411> BAD OpSpecResult={'NumWordsWritten': 4, 'Result': 6, 'OpSpecID': 3}
+<2016-06-28 17:16:17,127> BAD OpSpecResult={'NumWordsWritten': 8, 'Result': 6, 'OpSpecID': 3}
+<2016-06-28 17:16:17,281> BAD OpSpecResult={'NumWordsWritten': 3, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 17:16:17,430> [1;31mWISENT TIMEOUT[1;0m wisp died
+<2016-06-28 17:16:18,071> BAD OpSpecResult={'NumWordsWritten': 17, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 17:16:18,292> [1;31mWISENT TIMEOUT[1;0m wisp died
+<2016-06-28 17:16:18,634> BAD OpSpecResult={'NumWordsWritten': 10, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 17:16:18,697> [1;31mWISENT TIMEOUT[1;0m wisp died
+<2016-06-28 17:16:18,792> BAD OpSpecResult={'NumWordsWritten': 3, 'Result': 6, 'OpSpecID': 3}
+<2016-06-28 17:16:18,933> BAD OpSpecResult={'NumWordsWritten': 3, 'Result': 6, 'OpSpecID': 7}
+<2016-06-28 17:16:19,099> BAD OpSpecResult={'NumWordsWritten': 2, 'Result': 6, 'OpSpecID': 3}
+<2016-06-28 17:16:19,210> BAD OpSpecResult={'NumWordsWritten': 9, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 17:16:19,403> [1;31mWISENT TIMEOUT[1;0m wisp died
+<2016-06-28 17:16:19,653> BAD OpSpecResult={'NumWordsWritten': 0, 'Result': 6, 'OpSpecID': 7}
+<2016-06-28 17:16:19,821> BAD OpSpecResult={'NumWordsWritten': 1, 'Result': 6, 'OpSpecID': 7}
+<2016-06-28 17:16:20,235> BAD OpSpecResult={'NumWordsWritten': 13, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 17:16:20,378> [1;31mWISENT TIMEOUT[1;0m wisp died
+<2016-06-28 17:16:20,474> BAD OpSpecResult={'NumWordsWritten': 2, 'Result': 6, 'OpSpecID': 5}
+<2016-06-28 17:16:20,941> BAD OpSpecResult={'NumWordsWritten': 7, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 17:16:21,104> [1;31mWISENT TIMEOUT[1;0m wisp died
+<2016-06-28 17:16:21,568> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2016-06-28 17:16:21,607> BAD OpSpecResult={'NumWordsWritten': 9, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 17:16:21,869> [1;31mWISENT TIMEOUT[1;0m wisp died
+<2016-06-28 17:16:21,972> BAD OpSpecResult={'NumWordsWritten': 3, 'Result': 6, 'OpSpecID': 5}
+<2016-06-28 17:16:22,274> [1;31mWISENT TIMEOUT[1;0m wisp died
+<2016-06-28 17:16:22,564> BAD OpSpecResult={'NumWordsWritten': 4, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 17:16:22,780> [1;31mWISENT TIMEOUT[1;0m wisp died
+<2016-06-28 17:16:23,242> BAD OpSpecResult={'NumWordsWritten': 2, 'Result': 6, 'OpSpecID': 5}
+<2016-06-28 17:16:23,530> BAD OpSpecResult={'NumWordsWritten': 11, 'Result': 6, 'OpSpecID': 3}
+<2016-06-28 17:16:23,658> BAD OpSpecResult={'NumWordsWritten': 7, 'Result': 6, 'OpSpecID': 5}
+<2016-06-28 17:16:23,929> BAD OpSpecResult={'NumWordsWritten': 24, 'Result': 6, 'OpSpecID': 5}
+<2016-06-28 17:16:24,080> BAD OpSpecResult={'NumWordsWritten': 2, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 17:16:24,233> [1;31mWISENT TIMEOUT[1;0m wisp died
+<2016-06-28 17:16:24,402> BAD OpSpecResult={'NumWordsWritten': 29, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 17:16:24,535> [1;31mWISENT TIMEOUT[1;0m wisp died
+<2016-06-28 17:16:24,748> BAD OpSpecResult={'NumWordsWritten': 3, 'Result': 6, 'OpSpecID': 3}
+<2016-06-28 17:16:24,996> BAD OpSpecResult={'NumWordsWritten': 5, 'Result': 6, 'OpSpecID': 3}
+<2016-06-28 17:16:25,300> [1;31mWISENT TIMEOUT[1;0m wisp died
+<2016-06-28 17:16:25,318> BAD OpSpecResult={'NumWordsWritten': 6, 'Result': 6, 'OpSpecID': 5}
+<2016-06-28 17:16:25,816> BAD OpSpecResult={'NumWordsWritten': 2, 'Result': 6, 'OpSpecID': 3}
+<2016-06-28 17:16:26,153> BAD OpSpecResult={'ReadDataWordCount': 0, 'ReadData': '', 'Result': 3, 'OpSpecID': 2}
+<2016-06-28 17:16:26,259> [1;31mWISENT TIMEOUT[1;0m wisp died
+<2016-06-28 17:16:26,476> BAD OpSpecResult={'NumWordsWritten': 2, 'Result': 6, 'OpSpecID': 7}
+<2016-06-28 17:16:26,672> BAD OpSpecResult={'NumWordsWritten': 3, 'Result': 6, 'OpSpecID': 5}
+<2016-06-28 17:16:26,974> [1;31mWISENT TIMEOUT[1;0m wisp died
+<2016-06-28 17:16:27,566> [1;31mWISENT TIMEOUT[1;0m wisp died
+<2016-06-28 17:16:27,938> BAD OpSpecResult={'ReadDataWordCount': 0, 'ReadData': '', 'Result': 1, 'OpSpecID': 4}
+<2016-06-28 17:16:28,002> EPC did encode a good result
+<2016-06-28 17:16:28,571> BAD OpSpecResult={'NumWordsWritten': 0, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 17:16:28,642> [1;31mWISENT TIMEOUT[1;0m wisp died
+<2016-06-28 17:16:28,838> BAD OpSpecResult={'NumWordsWritten': 5, 'Result': 6, 'OpSpecID': 3}
+<2016-06-28 17:16:29,152> BAD OpSpecResult={'ReadDataWordCount': 0, 'ReadData': '', 'Result': 3, 'OpSpecID': 4}
+<2016-06-28 17:16:29,434> BAD OpSpecResult={'NumWordsWritten': 7, 'Result': 6, 'OpSpecID': 3}
+<2016-06-28 17:16:29,695> BAD OpSpecResult={'NumWordsWritten': 7, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 17:16:29,739> [1;31mWISENT TIMEOUT[1;0m wisp died
+<2016-06-28 17:16:29,854> BAD OpSpecResult={'ReadDataWordCount': 0, 'ReadData': '', 'Result': 3, 'OpSpecID': 4}
+<2016-06-28 17:16:29,866> EPC did encode a good result
+<2016-06-28 17:16:30,168> [1;31mWISENT TIMEOUT[1;0m wisp died
+<2016-06-28 17:16:30,470> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2016-06-28 17:16:30,672> BAD OpSpecResult={'NumWordsWritten': 3, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 17:16:30,770> [1;31mWISENT TIMEOUT[1;0m wisp died
+<2016-06-28 17:16:31,390> [1;31mWISENT TIMEOUT[1;0m wisp died
+<2016-06-28 17:16:31,833> BAD OpSpecResult={'NumWordsWritten': 2, 'Result': 6, 'OpSpecID': 5}
+<2016-06-28 17:16:32,194> BAD OpSpecResult={'NumWordsWritten': 0, 'Result': 6, 'OpSpecID': 3}
+<2016-06-28 17:16:32,472> BAD OpSpecResult={'NumWordsWritten': 15, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 17:16:32,622> [1;31mWISENT TIMEOUT[1;0m wisp died
+<2016-06-28 17:16:32,745> BAD OpSpecResult={'NumWordsWritten': 5, 'Result': 6, 'OpSpecID': 5}
+<2016-06-28 17:16:32,864> BAD OpSpecResult={'NumWordsWritten': 11, 'Result': 6, 'OpSpecID': 3}
+<2016-06-28 17:16:33,442> 0248: wisent end of file reached.          --- Wisent time elapsed: 22.089 secs
+
+<2016-06-28 17:16:33,443> 0248: Wisp was in state: PROGRAMMING and is going to the next state --- Time elapsed: 43.600 secs
+<2016-06-28 17:16:33,443> 0248: Wisp is now in state: MEMCHECK
+<2016-06-28 17:16:33,762> BAD OpSpecResult={'NumWordsWritten': 1, 'Result': 6, 'OpSpecID': 3}
+<2016-06-28 17:16:33,843> BAD OpSpecResult={'ReadDataWordCount': 0, 'ReadData': '', 'Result': 3, 'OpSpecID': 4}
+<2016-06-28 17:16:33,937> BAD OpSpecResult={'NumWordsWritten': 1, 'Result': 6, 'OpSpecID': 5}
+<2016-06-28 17:16:34,585> 0248: memcheck finished
+<2016-06-28 17:16:34,585> 0248: 117 good and 0 bad memblocks
+<2016-06-28 17:16:34,586> 0248: Wisp was in state: MEMCHECK and is going to the next state --- Time elapsed: 44.742 secs
+<2016-06-28 17:16:34,586> 0248: Wisp is now in state: FINISH
+<2016-06-28 17:16:34,599> 0248: WrepWidget [WAITING 0.069, GOTOSNIF 0.310, SNIFFING 0.666, STOPSNIFFING 18.732, MEMCHECK 19.139, PROGRAMMING 21.480, MEMCHECK 43.600, FINISH 44.743]
+<2016-06-28 17:16:34,599> 
+
+******************************* Next wisp (sniffer) *******************************
+
+<2016-06-28 17:16:34,599> 0302: Wisp was in state: SNIFFING and is going to the next state --- Time elapsed: 44.611 secs
+<2016-06-28 17:16:34,599> 0302: Wisp is now in state: STOPSNIFFING
+<2016-06-28 17:16:34,746> 0302: Wisp was in state: STOPSNIFFING and is going to the next state --- Time elapsed: 44.757 secs
+<2016-06-28 17:16:34,746> 0302: Wisp is now in state: MEMCHECK
+<2016-06-28 17:16:35,223> 0302: memcheck finished
+<2016-06-28 17:16:35,223> 0302: 20 good and 0 bad memblocks
+<2016-06-28 17:16:35,224> 0302: Wisp was in state: MEMCHECK and is going to the next state --- Time elapsed: 45.236 secs
+<2016-06-28 17:16:35,225> 0302: Wisp is now in state: FINISH
+<2016-06-28 17:16:35,226> 0302: WrepWidget [WAITING 0.084, GOTOSNIF 0.168, SNIFFING 0.583, STOPSNIFFING 44.611, MEMCHECK 44.758, PROGRAMMING, MEMCHECK, FINISH 45.237]
+<2016-06-28 17:16:35,226> 
+
+******************************* Next wisp (sniffer) *******************************
+
+<2016-06-28 17:16:35,226> 0300: Wisp was in state: SNIFFING and is going to the next state --- Time elapsed: 45.553 secs
+<2016-06-28 17:16:35,226> 0300: Wisp is now in state: STOPSNIFFING
+<2016-06-28 17:16:35,394> BAD OpSpecResult={'NumWordsWritten': 0, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 17:16:35,400> BAD OpSpecResult={'NumWordsWritten': 0, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 17:16:35,405> BAD OpSpecResult={'NumWordsWritten': 0, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 17:16:35,443> BAD OpSpecResult={'NumWordsWritten': 0, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 17:16:35,655> 0300: Wisp was in state: STOPSNIFFING and is going to the next state --- Time elapsed: 45.982 secs
+<2016-06-28 17:16:35,656> 0300: Wisp is now in state: MEMCHECK
+<2016-06-28 17:16:35,731> BAD OpSpecResult={'NumWordsWritten': 0, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 17:16:36,030> BAD OpSpecResult={'NumWordsWritten': 0, 'Result': 6, 'OpSpecID': 1}
+<2016-06-28 17:16:36,302> 0300: memcheck finished
+<2016-06-28 17:16:36,302> 0300: 20 good and 0 bad memblocks
+<2016-06-28 17:16:36,303> 0300: Wisp was in state: MEMCHECK and is going to the next state --- Time elapsed: 46.630 secs
+<2016-06-28 17:16:36,303> 0300: Wisp is now in state: FINISH
+<2016-06-28 17:16:36,304> 0300: WrepWidget [WAITING 0.072, GOTOSNIF 0.484, SNIFFING 1.498, STOPSNIFFING 45.553, MEMCHECK 45.983, PROGRAMMING, MEMCHECK, FINISH 46.630]
+<2016-06-28 17:16:36,304> IOTXTreplace: 0303 0300 0248 0302: Wisp(s) is/are reprogrammed now
+<2016-06-28 17:16:50,070> stopping politely
+<2016-06-28 17:16:50,071> will disconnect when stopped
+<2016-06-28 17:16:50,071> Wisp Control finished: Shutting down, time in seconds : 842.652050972
+<2016-06-28 17:16:50,111> reader finished inventory
+<2016-06-28 17:16:50,113> disconnecting
+<2016-06-28 17:16:50,113> lost connection: Connection was closed cleanly.

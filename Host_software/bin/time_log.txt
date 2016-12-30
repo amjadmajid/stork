@@ -1,0 +1,763 @@
+2016-02-11 14:33:22,888 sllurp: INFO: log level: INFO
+2016-02-11 14:33:22,916 sllurp: INFO: selected recommended Tari of 7140 for WISP5
+2016-02-11 14:33:22,917 sllurp.llrp: INFO: connecting...
+2016-02-11 14:33:22,919 sllurp.llrp: INFO: will reset reader state on connect
+2016-02-11 14:33:22,920 sllurp.llrp: INFO: will start inventory on connect
+2016-02-11 14:33:22,920 sllurp.llrp: INFO: using antennas: [1]
+2016-02-11 14:33:22,920 sllurp.llrp: INFO: connected to ('192.168.10.103', 5084)
+2016-02-11 14:33:24,786 sllurp.llrp: INFO: requested modulation: WISP5
+2016-02-11 14:33:24,786 sllurp.llrp: INFO: using reader mode: {'C': 0, 'MaxTari': 7140, 'M': 2, 'PIE': 1500, 'StepTari': 0, 'R': 1, 'FLM': 0, 'MinTari': 7140, 'ModeIdentifier': 0, 'BDR': 640000, 'Mod': 0}
+2016-02-11 14:33:24,787 sllurp.llrp: INFO: stopping politely
+2016-02-11 14:33:24,795 sllurp.llrp: INFO: reader finished inventory
+2016-02-11 14:33:24,796 sllurp.llrp: INFO: starting inventory
+2016-02-11 14:33:25,024 sllurp.llrp_proto: INFO: BAD OpSpecResult={'NumWordsWritten': 1, 'Result': 6, 'OpSpecID': 2}
+2016-02-11 14:33:25,025 sllurp: INFO: send any BW failed, trying again8
+2016-02-11 14:33:25,125 sllurp.llrp_proto: INFO: BAD OpSpecResult={'NumWordsWritten': 0, 'Result': 6, 'OpSpecID': 4}
+2016-02-11 14:33:25,125 sllurp: INFO: send any BW failed, trying again8
+2016-02-11 14:33:25,235 sllurp.llrp_proto: INFO: BAD OpSpecResult={'NumWordsWritten': 0, 'Result': 6, 'OpSpecID': 3}
+2016-02-11 14:33:25,236 sllurp: INFO: send any BW failed, trying again8
+2016-02-11 14:33:25,435 sllurp.llrp_proto: INFO: BAD OpSpecResult={'NumWordsWritten': 0, 'Result': 6, 'OpSpecID': 5}
+2016-02-11 14:33:25,436 sllurp: INFO: send any BW failed, trying again8
+2016-02-11 14:33:25,534 sllurp.llrp_proto: INFO: BAD OpSpecResult={'NumWordsWritten': 0, 'Result': 6, 'OpSpecID': 4}
+2016-02-11 14:33:25,534 sllurp: INFO: send any BW failed, trying again8
+2016-02-11 14:33:25,636 sllurp.llrp_proto: INFO: BAD OpSpecResult={'NumWordsWritten': 0, 'Result': 6, 'OpSpecID': 2}
+2016-02-11 14:33:25,636 sllurp: INFO: send any BW failed, trying again8
+2016-02-11 14:33:25,637 sllurp: INFO: no tags seen
+2016-02-11 14:33:25,745 sllurp.llrp_proto: INFO: BAD OpSpecResult={'NumWordsWritten': 0, 'Result': 6, 'OpSpecID': 3}
+2016-02-11 14:33:25,746 sllurp: INFO: send any BW failed, trying again8
+2016-02-11 14:33:25,854 sllurp.llrp_proto: INFO: BAD OpSpecResult={'NumWordsWritten': 1, 'Result': 6, 'OpSpecID': 2}
+2016-02-11 14:33:25,855 sllurp: INFO: send any BW failed, trying again8
+2016-02-11 14:33:25,963 sllurp.llrp_proto: INFO: BAD OpSpecResult={'NumWordsWritten': 1, 'Result': 6, 'OpSpecID': 2}
+2016-02-11 14:33:25,964 sllurp: INFO: send any BW failed, trying again8
+2016-02-11 14:33:26,068 sllurp: INFO: COLLECTTIMERVALUES:tag 0 seen, index = 0273
+2016-02-11 14:33:26,163 sllurp: INFO: COLLECTTIMERVALUES:tag 0 seen, index = 0273
+2016-02-11 14:33:26,163 sllurp: INFO: Timers are : 2b002b682bd02c362c9d2d042d6b
+2016-02-11 14:33:26,163 sllurp: INFO: new ROUND
+2016-02-11 14:33:26,369 sllurp: INFO: COLLECTTIMERVALUES:tag 0 seen, index = 0273
+2016-02-11 14:33:26,464 sllurp: INFO: no tags seen
+2016-02-11 14:33:26,573 sllurp.llrp_proto: INFO: BAD OpSpecResult={'ReadDataWordCount': 0, 'ReadData': '', 'Result': 3, 'OpSpecID': 2}
+2016-02-11 14:33:26,573 sllurp: INFO: COLLECTTIMERVALUES:tag 0 seen, index = 0273
+2016-02-11 14:33:26,573 sllurp: INFO: Retry reading
+2016-02-11 14:33:26,575 sllurp: INFO: COLLECTTIMERVALUES:tag 0 seen, index = 0273
+2016-02-11 14:33:26,674 sllurp: INFO: COLLECTTIMERVALUES:tag 0 seen, index = 0273
+2016-02-11 14:33:26,674 sllurp: INFO: Timers are : 53f2545a54c15527558e55f5565b
+2016-02-11 14:33:26,674 sllurp: INFO: new ROUND
+2016-02-11 14:33:26,788 sllurp: INFO: COLLECTTIMERVALUES:tag 0 seen, index = 0273
+2016-02-11 14:33:26,886 sllurp: INFO: COLLECTTIMERVALUES:tag 0 seen, index = 0273
+2016-02-11 14:33:26,996 sllurp: INFO: no tags seen
+2016-02-11 14:33:27,103 sllurp: INFO: COLLECTTIMERVALUES:tag 0 seen, index = 0273
+2016-02-11 14:33:27,103 sllurp: INFO: Timers are : 93cd943f94a5950b957195d7963d
+2016-02-11 14:33:27,103 sllurp: INFO: new ROUND
+2016-02-11 14:33:27,209 sllurp: INFO: COLLECTTIMERVALUES:tag 0 seen, index = 0273
+2016-02-11 14:33:27,314 sllurp: INFO: COLLECTTIMERVALUES:tag 0 seen, index = 0273
+2016-02-11 14:33:27,314 sllurp: INFO: Timers are : d036d09dd103d169d1cfd235d29b
+2016-02-11 14:33:27,314 sllurp: INFO: new ROUND
+2016-02-11 14:33:27,531 sllurp.llrp_proto: INFO: BAD OpSpecResult={'NumWordsWritten': 1, 'Result': 6, 'OpSpecID': 2}
+2016-02-11 14:33:27,532 sllurp: INFO: send any BW failed, trying again8
+2016-02-11 14:33:27,638 sllurp.llrp_proto: INFO: BAD OpSpecResult={'NumWordsWritten': 1, 'Result': 6, 'OpSpecID': 8}
+2016-02-11 14:33:27,638 sllurp: INFO: sendBW failed, trying again
+2016-02-11 14:33:27,751 sllurp.llrp_proto: INFO: BAD OpSpecResult={'NumWordsWritten': 1, 'Result': 6, 'OpSpecID': 2}
+2016-02-11 14:33:27,752 sllurp: INFO: send any BW failed, trying again8
+2016-02-11 14:33:27,843 sllurp.llrp_proto: INFO: BAD OpSpecResult={'NumWordsWritten': 0, 'Result': 6, 'OpSpecID': 2}
+2016-02-11 14:33:27,843 sllurp: INFO: send any BW failed, trying again8
+2016-02-11 14:33:27,945 sllurp.llrp_proto: INFO: BAD OpSpecResult={'NumWordsWritten': 0, 'Result': 6, 'OpSpecID': 5}
+2016-02-11 14:33:27,945 sllurp: INFO: send any BW failed, trying again8
+2016-02-11 14:33:28,046 sllurp.llrp_proto: INFO: BAD OpSpecResult={'NumWordsWritten': 0, 'Result': 6, 'OpSpecID': 3}
+2016-02-11 14:33:28,046 sllurp: INFO: send any BW failed, trying again8
+2016-02-11 14:33:28,146 sllurp.llrp_proto: INFO: BAD OpSpecResult={'NumWordsWritten': 0, 'Result': 6, 'OpSpecID': 6}
+2016-02-11 14:33:28,146 sllurp: INFO: send any BW failed, trying again8
+2016-02-11 14:33:28,246 sllurp.llrp_proto: INFO: BAD OpSpecResult={'NumWordsWritten': 0, 'Result': 6, 'OpSpecID': 2}
+2016-02-11 14:33:28,247 sllurp: INFO: send any BW failed, trying again8
+2016-02-11 14:33:28,348 sllurp: INFO: COLLECTTIMERVALUES:tag 0 seen, index = 0273
+2016-02-11 14:33:28,443 sllurp: INFO: COLLECTTIMERVALUES:tag 0 seen, index = 0273
+2016-02-11 14:33:28,443 sllurp: INFO: Timers are : 76cd7734779b7801786778cc7932
+2016-02-11 14:33:28,443 sllurp: INFO: new ROUND
+2016-02-11 14:33:28,553 sllurp.llrp_proto: INFO: BAD OpSpecResult={'NumWordsWritten': 0, 'Result': 6, 'OpSpecID': 3}
+2016-02-11 14:33:28,554 sllurp: INFO: send any BW failed, trying again8
+2016-02-11 14:33:28,657 sllurp.llrp_proto: INFO: BAD OpSpecResult={'NumWordsWritten': 0, 'Result': 6, 'OpSpecID': 2}
+2016-02-11 14:33:28,657 sllurp: INFO: send any BW failed, trying again8
+2016-02-11 14:33:28,770 sllurp.llrp_proto: INFO: BAD OpSpecResult={'NumWordsWritten': 1, 'Result': 6, 'OpSpecID': 7}
+2016-02-11 14:33:28,770 sllurp: INFO: send any BW failed, trying again8
+2016-02-11 14:33:28,865 sllurp.llrp_proto: INFO: BAD OpSpecResult={'NumWordsWritten': 1, 'Result': 6, 'OpSpecID': 5}
+2016-02-11 14:33:28,865 sllurp: INFO: send any BW failed, trying again8
+2016-02-11 14:33:28,963 sllurp.llrp_proto: INFO: BAD OpSpecResult={'NumWordsWritten': 0, 'Result': 6, 'OpSpecID': 2}
+2016-02-11 14:33:28,963 sllurp: INFO: send any BW failed, trying again8
+2016-02-11 14:33:29,068 sllurp: INFO: COLLECTTIMERVALUES:tag 0 seen, index = 0273
+2016-02-11 14:33:29,164 sllurp: INFO: COLLECTTIMERVALUES:tag 0 seen, index = 0273
+2016-02-11 14:33:29,164 sllurp: INFO: Timers are : dea1df08df6fdfd5e03ce0a1e108
+2016-02-11 14:33:29,165 sllurp: INFO: new ROUND
+2016-02-11 14:33:29,385 sllurp.llrp_proto: INFO: BAD OpSpecResult={'NumWordsWritten': 0, 'Result': 6, 'OpSpecID': 2}
+2016-02-11 14:33:29,385 sllurp: INFO: send any BW failed, trying again8
+2016-02-11 14:33:29,497 sllurp.llrp_proto: INFO: BAD OpSpecResult={'NumWordsWritten': 1, 'Result': 6, 'OpSpecID': 3}
+2016-02-11 14:33:29,498 sllurp: INFO: send any BW failed, trying again8
+2016-02-11 14:33:29,597 sllurp.llrp_proto: INFO: BAD OpSpecResult={'NumWordsWritten': 1, 'Result': 6, 'OpSpecID': 6}
+2016-02-11 14:33:29,597 sllurp: INFO: send any BW failed, trying again8
+2016-02-11 14:33:29,813 sllurp: INFO: no tags seen
+2016-02-11 14:33:29,925 sllurp.llrp_proto: INFO: BAD OpSpecResult={'NumWordsWritten': 0, 'Result': 6, 'OpSpecID': 2}
+2016-02-11 14:33:29,926 sllurp: INFO: send any BW failed, trying again8
+2016-02-11 14:33:30,034 sllurp.llrp_proto: INFO: BAD OpSpecResult={'NumWordsWritten': 0, 'Result': 6, 'OpSpecID': 4}
+2016-02-11 14:33:30,034 sllurp: INFO: send any BW failed, trying again8
+2016-02-11 14:33:30,133 sllurp.llrp_proto: INFO: BAD OpSpecResult={'NumWordsWritten': 0, 'Result': 6, 'OpSpecID': 2}
+2016-02-11 14:33:30,133 sllurp: INFO: send any BW failed, trying again8
+2016-02-11 14:33:30,355 sllurp: INFO: COLLECTTIMERVALUES:tag 0 seen, index = 0273
+2016-02-11 14:33:30,444 sllurp: INFO: COLLECTTIMERVALUES:tag 0 seen, index = 0273
+2016-02-11 14:33:30,445 sllurp: INFO: Timers are : 948494ec955395b9961f968596ec
+2016-02-11 14:33:30,445 sllurp: INFO: new ROUND
+2016-02-11 14:33:30,556 sllurp.llrp_proto: INFO: BAD OpSpecResult={'NumWordsWritten': 0, 'Result': 6, 'OpSpecID': 8}
+2016-02-11 14:33:30,557 sllurp: INFO: sendBW failed, trying again
+2016-02-11 14:33:30,654 sllurp.llrp_proto: INFO: BAD OpSpecResult={'NumWordsWritten': 1, 'Result': 6, 'OpSpecID': 2}
+2016-02-11 14:33:30,654 sllurp: INFO: send any BW failed, trying again8
+2016-02-11 14:33:30,757 sllurp.llrp_proto: INFO: BAD OpSpecResult={'NumWordsWritten': 1, 'Result': 6, 'OpSpecID': 3}
+2016-02-11 14:33:30,757 sllurp: INFO: send any BW failed, trying again8
+2016-02-11 14:33:30,863 sllurp.llrp_proto: INFO: BAD OpSpecResult={'NumWordsWritten': 0, 'Result': 6, 'OpSpecID': 2}
+2016-02-11 14:33:30,863 sllurp: INFO: send any BW failed, trying again8
+2016-02-11 14:33:30,964 sllurp.llrp_proto: INFO: BAD OpSpecResult={'NumWordsWritten': 0, 'Result': 6, 'OpSpecID': 2}
+2016-02-11 14:33:30,965 sllurp: INFO: send any BW failed, trying again8
+2016-02-11 14:33:31,074 sllurp.llrp_proto: INFO: BAD OpSpecResult={'NumWordsWritten': 0, 'Result': 6, 'OpSpecID': 2}
+2016-02-11 14:33:31,074 sllurp: INFO: send any BW failed, trying again8
+2016-02-11 14:33:31,173 sllurp.llrp_proto: INFO: BAD OpSpecResult={'NumWordsWritten': 0, 'Result': 6, 'OpSpecID': 2}
+2016-02-11 14:33:31,174 sllurp: INFO: send any BW failed, trying again8
+2016-02-11 14:33:31,284 sllurp.llrp_proto: INFO: BAD OpSpecResult={'NumWordsWritten': 0, 'Result': 6, 'OpSpecID': 4}
+2016-02-11 14:33:31,284 sllurp: INFO: send any BW failed, trying again8
+2016-02-11 14:33:31,384 sllurp.llrp_proto: INFO: BAD OpSpecResult={'NumWordsWritten': 0, 'Result': 6, 'OpSpecID': 2}
+2016-02-11 14:33:31,384 sllurp: INFO: send any BW failed, trying again8
+2016-02-11 14:33:31,485 sllurp.llrp_proto: INFO: BAD OpSpecResult={'NumWordsWritten': 0, 'Result': 6, 'OpSpecID': 3}
+2016-02-11 14:33:31,485 sllurp: INFO: send any BW failed, trying again8
+2016-02-11 14:33:31,599 sllurp: INFO: COLLECTTIMERVALUES:tag 0 seen, index = 0273
+2016-02-11 14:33:31,693 sllurp: INFO: COLLECTTIMERVALUES:tag 0 seen, index = 0273
+2016-02-11 14:33:31,693 sllurp: INFO: Timers are : 4de04e474eac4f114f784fdd5043
+2016-02-11 14:33:31,694 sllurp: INFO: new ROUND
+2016-02-11 14:33:31,796 sllurp.llrp_proto: INFO: BAD OpSpecResult={'NumWordsWritten': 0, 'Result': 6, 'OpSpecID': 3}
+2016-02-11 14:33:31,796 sllurp: INFO: send any BW failed, trying again8
+2016-02-11 14:33:31,896 sllurp.llrp_proto: INFO: BAD OpSpecResult={'NumWordsWritten': 0, 'Result': 6, 'OpSpecID': 2}
+2016-02-11 14:33:31,896 sllurp: INFO: send any BW failed, trying again8
+2016-02-11 14:33:32,000 sllurp.llrp_proto: INFO: BAD OpSpecResult={'NumWordsWritten': 0, 'Result': 6, 'OpSpecID': 5}
+2016-02-11 14:33:32,000 sllurp: INFO: send any BW failed, trying again8
+2016-02-11 14:33:32,109 sllurp: INFO: COLLECTTIMERVALUES:tag 0 seen, index = 0273
+2016-02-11 14:33:32,205 sllurp: INFO: COLLECTTIMERVALUES:tag 0 seen, index = 0273
+2016-02-11 14:33:32,205 sllurp: INFO: Timers are : 989f9906996d99d29a389a9e9b05
+2016-02-11 14:33:32,205 sllurp: INFO: new ROUND
+2016-02-11 14:33:32,314 sllurp: INFO: COLLECTTIMERVALUES:tag 0 seen, index = 0273
+2016-02-11 14:33:32,403 sllurp: INFO: COLLECTTIMERVALUES:tag 0 seen, index = 0273
+2016-02-11 14:33:32,403 sllurp: INFO: Timers are : b66bb6d2b738b79db804b86ab8d1
+2016-02-11 14:33:32,404 sllurp: INFO: new ROUND
+2016-02-11 14:33:32,516 sllurp: INFO: COLLECTTIMERVALUES:tag 0 seen, index = 0273
+2016-02-11 14:33:32,613 sllurp: INFO: COLLECTTIMERVALUES:tag 0 seen, index = 0273
+2016-02-11 14:33:32,613 sllurp: INFO: Timers are : d344d3acd412d478d4dfd545d5ab
+2016-02-11 14:33:32,613 sllurp: INFO: new ROUND
+2016-02-11 14:33:32,718 sllurp: INFO: COLLECTTIMERVALUES:tag 0 seen, index = 0273
+2016-02-11 14:33:32,813 sllurp: INFO: COLLECTTIMERVALUES:tag 0 seen, index = 0273
+2016-02-11 14:33:32,813 sllurp: INFO: Timers are : f126f18df1f4f25af2c1f327f398
+2016-02-11 14:33:32,813 sllurp: INFO: new ROUND
+2016-02-11 14:33:32,918 sllurp.llrp_proto: INFO: BAD OpSpecResult={'NumWordsWritten': 0, 'Result': 6, 'OpSpecID': 6}
+2016-02-11 14:33:32,918 sllurp: INFO: send any BW failed, trying again8
+2016-02-11 14:33:33,029 sllurp: INFO: COLLECTTIMERVALUES:tag 0 seen, index = 0273
+2016-02-11 14:33:33,124 sllurp: INFO: COLLECTTIMERVALUES:tag 0 seen, index = 0273
+2016-02-11 14:33:33,125 sllurp: INFO: Timers are : 1d271d8f1df61e5c1ec31f291f91
+2016-02-11 14:33:33,125 sllurp: INFO: new ROUND
+2016-02-11 14:33:33,238 sllurp: INFO: COLLECTTIMERVALUES:tag 0 seen, index = 0273
+2016-02-11 14:33:33,333 sllurp: INFO: COLLECTTIMERVALUES:tag 0 seen, index = 0273
+2016-02-11 14:33:33,333 sllurp: INFO: Timers are : 3b363b9d3c043c693cd03d363d9c
+2016-02-11 14:33:33,334 sllurp: INFO: new ROUND
+2016-02-11 14:33:33,438 sllurp: INFO: COLLECTTIMERVALUES:tag 0 seen, index = 0273
+2016-02-11 14:33:33,533 sllurp: INFO: COLLECTTIMERVALUES:tag 0 seen, index = 0273
+2016-02-11 14:33:33,533 sllurp: INFO: Timers are : 598459ec5a525ab85b1f5b855bed
+2016-02-11 14:33:33,533 sllurp: INFO: new ROUND
+2016-02-11 14:33:33,649 sllurp: INFO: COLLECTTIMERVALUES:tag 0 seen, index = 0273
+2016-02-11 14:33:33,743 sllurp: INFO: COLLECTTIMERVALUES:tag 0 seen, index = 0273
+2016-02-11 14:33:33,743 sllurp: INFO: Timers are : 768976f0775677bd7823788978ef
+2016-02-11 14:33:33,744 sllurp: INFO: new ROUND
+2016-02-11 14:33:33,844 sllurp.llrp_proto: INFO: BAD OpSpecResult={'NumWordsWritten': 1, 'Result': 6, 'OpSpecID': 2}
+2016-02-11 14:33:33,844 sllurp: INFO: send any BW failed, trying again8
+2016-02-11 14:33:33,845 sllurp: INFO: no tags seen
+2016-02-11 14:33:33,954 sllurp.llrp_proto: INFO: BAD OpSpecResult={'NumWordsWritten': 0, 'Result': 6, 'OpSpecID': 3}
+2016-02-11 14:33:33,954 sllurp: INFO: send any BW failed, trying again8
+2016-02-11 14:33:34,059 sllurp: INFO: COLLECTTIMERVALUES:tag 0 seen, index = 0273
+2016-02-11 14:33:34,154 sllurp: INFO: COLLECTTIMERVALUES:tag 0 seen, index = 0273
+2016-02-11 14:33:34,154 sllurp: INFO: Timers are : b4e5b54cb5b3b619b67fb6e6b74c
+2016-02-11 14:33:34,154 sllurp: INFO: new ROUND
+2016-02-11 14:33:34,259 sllurp: INFO: COLLECTTIMERVALUES:tag 0 seen, index = 0273
+2016-02-11 14:33:34,355 sllurp: INFO: COLLECTTIMERVALUES:tag 0 seen, index = 0273
+2016-02-11 14:33:34,355 sllurp: INFO: Timers are : d142d1a9d20fd275d2dcd343d3a9
+2016-02-11 14:33:34,355 sllurp: INFO: new ROUND
+2016-02-11 14:33:34,469 sllurp: INFO: COLLECTTIMERVALUES:tag 0 seen, index = 0273
+2016-02-11 14:33:34,563 sllurp: INFO: COLLECTTIMERVALUES:tag 0 seen, index = 0273
+2016-02-11 14:33:34,564 sllurp: INFO: Timers are : ee03ee6aeed0ef36ef9cf002f069
+2016-02-11 14:33:34,564 sllurp: INFO: new ROUND
+2016-02-11 14:33:34,669 sllurp: INFO: COLLECTTIMERVALUES:tag 0 seen, index = 0273
+2016-02-11 14:33:34,765 sllurp.llrp_proto: INFO: BAD OpSpecResult={'ReadDataWordCount': 0, 'ReadData': '', 'Result': 3, 'OpSpecID': 2}
+2016-02-11 14:33:34,766 sllurp: INFO: COLLECTTIMERVALUES:tag 0 seen, index = 0273
+2016-02-11 14:33:34,766 sllurp: INFO: Retry reading
+2016-02-11 14:33:34,770 sllurp: INFO: COLLECTTIMERVALUES:tag 0 seen, index = 0273
+2016-02-11 14:33:34,876 sllurp: INFO: COLLECTTIMERVALUES:tag 0 seen, index = 0273
+2016-02-11 14:33:34,876 sllurp: INFO: Timers are : 0bda0c410ca70d0c0d730dd90e40
+2016-02-11 14:33:34,877 sllurp: INFO: new ROUND
+2016-02-11 14:33:34,975 sllurp.llrp_proto: INFO: BAD OpSpecResult={'NumWordsWritten': 0, 'Result': 6, 'OpSpecID': 3}
+2016-02-11 14:33:34,976 sllurp: INFO: send any BW failed, trying again8
+2016-02-11 14:33:35,085 sllurp.llrp_proto: INFO: BAD OpSpecResult={'NumWordsWritten': 1, 'Result': 6, 'OpSpecID': 5}
+2016-02-11 14:33:35,086 sllurp: INFO: send any BW failed, trying again8
+2016-02-11 14:33:35,190 sllurp: INFO: COLLECTTIMERVALUES:tag 0 seen, index = 0273
+2016-02-11 14:33:35,293 sllurp.llrp_proto: INFO: BAD OpSpecResult={'ReadDataWordCount': 0, 'ReadData': '', 'Result': 3, 'OpSpecID': 2}
+2016-02-11 14:33:35,294 sllurp: INFO: COLLECTTIMERVALUES:tag 0 seen, index = 0273
+2016-02-11 14:33:35,294 sllurp: INFO: Retry reading
+2016-02-11 14:33:35,297 sllurp: INFO: COLLECTTIMERVALUES:tag 0 seen, index = 0273
+2016-02-11 14:33:35,394 sllurp: INFO: COLLECTTIMERVALUES:tag 0 seen, index = 0273
+2016-02-11 14:33:35,394 sllurp: INFO: Timers are : 582058885900596559cc5a325a99
+2016-02-11 14:33:35,394 sllurp: INFO: new ROUND
+2016-02-11 14:33:35,493 sllurp.llrp_proto: INFO: BAD OpSpecResult={'NumWordsWritten': 0, 'Result': 6, 'OpSpecID': 2}
+2016-02-11 14:33:35,494 sllurp: INFO: send any BW failed, trying again8
+2016-02-11 14:33:35,594 sllurp.llrp_proto: INFO: BAD OpSpecResult={'NumWordsWritten': 1, 'Result': 6, 'OpSpecID': 2}
+2016-02-11 14:33:35,594 sllurp: INFO: send any BW failed, trying again8
+2016-02-11 14:33:35,695 sllurp.llrp_proto: INFO: BAD OpSpecResult={'NumWordsWritten': 0, 'Result': 6, 'OpSpecID': 2}
+2016-02-11 14:33:35,695 sllurp: INFO: send any BW failed, trying again8
+2016-02-11 14:33:35,809 sllurp: INFO: COLLECTTIMERVALUES:tag 0 seen, index = 0273
+2016-02-11 14:33:35,904 sllurp: INFO: COLLECTTIMERVALUES:tag 0 seen, index = 0273
+2016-02-11 14:33:35,904 sllurp: INFO: Timers are : b069b0d0b136b19cb203b269b2d0
+2016-02-11 14:33:35,904 sllurp: INFO: new ROUND
+2016-02-11 14:33:36,010 sllurp.llrp_proto: INFO: BAD OpSpecResult={'NumWordsWritten': 0, 'Result': 6, 'OpSpecID': 2}
+2016-02-11 14:33:36,010 sllurp: INFO: send any BW failed, trying again8
+2016-02-11 14:33:36,113 sllurp.llrp_proto: INFO: BAD OpSpecResult={'NumWordsWritten': 0, 'Result': 6, 'OpSpecID': 2}
+2016-02-11 14:33:36,114 sllurp: INFO: send any BW failed, trying again8
+2016-02-11 14:33:36,214 sllurp.llrp_proto: INFO: BAD OpSpecResult={'NumWordsWritten': 0, 'Result': 6, 'OpSpecID': 3}
+2016-02-11 14:33:36,214 sllurp: INFO: send any BW failed, trying again8
+2016-02-11 14:33:36,314 sllurp.llrp_proto: INFO: BAD OpSpecResult={'NumWordsWritten': 0, 'Result': 6, 'OpSpecID': 2}
+2016-02-11 14:33:36,314 sllurp: INFO: send any BW failed, trying again8
+2016-02-11 14:33:36,417 sllurp.llrp_proto: INFO: BAD OpSpecResult={'NumWordsWritten': 0, 'Result': 6, 'OpSpecID': 3}
+2016-02-11 14:33:36,417 sllurp: INFO: send any BW failed, trying again8
+2016-02-11 14:33:36,527 sllurp.llrp_proto: INFO: BAD OpSpecResult={'NumWordsWritten': 0, 'Result': 6, 'OpSpecID': 3}
+2016-02-11 14:33:36,527 sllurp: INFO: send any BW failed, trying again8
+2016-02-11 14:33:36,634 sllurp.llrp_proto: INFO: BAD OpSpecResult={'NumWordsWritten': 0, 'Result': 6, 'OpSpecID': 2}
+2016-02-11 14:33:36,635 sllurp: INFO: send any BW failed, trying again8
+2016-02-11 14:33:36,734 sllurp.llrp_proto: INFO: BAD OpSpecResult={'NumWordsWritten': 0, 'Result': 6, 'OpSpecID': 3}
+2016-02-11 14:33:36,735 sllurp: INFO: send any BW failed, trying again8
+2016-02-11 14:33:36,835 sllurp.llrp_proto: INFO: BAD OpSpecResult={'NumWordsWritten': 0, 'Result': 6, 'OpSpecID': 2}
+2016-02-11 14:33:36,835 sllurp: INFO: send any BW failed, trying again8
+2016-02-11 14:33:36,933 sllurp.llrp_proto: INFO: BAD OpSpecResult={'NumWordsWritten': 0, 'Result': 6, 'OpSpecID': 2}
+2016-02-11 14:33:36,934 sllurp: INFO: send any BW failed, trying again8
+2016-02-11 14:33:37,033 sllurp.llrp_proto: INFO: BAD OpSpecResult={'NumWordsWritten': 0, 'Result': 6, 'OpSpecID': 2}
+2016-02-11 14:33:37,034 sllurp: INFO: send any BW failed, trying again8
+2016-02-11 14:33:37,134 sllurp.llrp_proto: INFO: BAD OpSpecResult={'NumWordsWritten': 0, 'Result': 6, 'OpSpecID': 2}
+2016-02-11 14:33:37,135 sllurp: INFO: send any BW failed, trying again8
+2016-02-11 14:33:37,234 sllurp.llrp_proto: INFO: BAD OpSpecResult={'NumWordsWritten': 0, 'Result': 6, 'OpSpecID': 2}
+2016-02-11 14:33:37,234 sllurp: INFO: send any BW failed, trying again8
+2016-02-11 14:33:37,335 sllurp.llrp_proto: INFO: BAD OpSpecResult={'NumWordsWritten': 0, 'Result': 6, 'OpSpecID': 2}
+2016-02-11 14:33:37,335 sllurp: INFO: send any BW failed, trying again8
+2016-02-11 14:33:37,439 sllurp: INFO: COLLECTTIMERVALUES:tag 0 seen, index = 0273
+2016-02-11 14:33:37,544 sllurp: INFO: COLLECTTIMERVALUES:tag 0 seen, index = 0273
+2016-02-11 14:33:37,544 sllurp: INFO: Timers are : 9f279f8e9ff4a05aa0c1a127a18e
+2016-02-11 14:33:37,544 sllurp: INFO: new ROUND
+2016-02-11 14:33:37,649 sllurp: INFO: COLLECTTIMERVALUES:tag 0 seen, index = 0273
+2016-02-11 14:33:37,745 sllurp: INFO: COLLECTTIMERVALUES:tag 0 seen, index = 0273
+2016-02-11 14:33:37,746 sllurp: INFO: Timers are : bda3be09be70bed5bf3cbfa2c009
+2016-02-11 14:33:37,746 sllurp: INFO: new ROUND
+2016-02-11 14:33:37,851 sllurp: INFO: COLLECTTIMERVALUES:tag 0 seen, index = 0273
+2016-02-11 14:33:37,944 sllurp: INFO: COLLECTTIMERVALUES:tag 0 seen, index = 0273
+2016-02-11 14:33:37,945 sllurp: INFO: Timers are : dbf6dc5ddcc3dd29dd90ddf6de5e
+2016-02-11 14:33:37,945 sllurp: INFO: new ROUND
+2016-02-11 14:33:38,049 sllurp: INFO: COLLECTTIMERVALUES:tag 0 seen, index = 0273
+2016-02-11 14:33:38,143 sllurp: INFO: COLLECTTIMERVALUES:tag 0 seen, index = 0273
+2016-02-11 14:33:38,144 sllurp: INFO: Timers are : f851f8b8f920f986f9edfa54fabb
+2016-02-11 14:33:38,144 sllurp: INFO: new ROUND
+2016-02-11 14:33:38,252 sllurp: INFO: COLLECTTIMERVALUES:tag 0 seen, index = 0273
+2016-02-11 14:33:38,344 sllurp: INFO: COLLECTTIMERVALUES:tag 0 seen, index = 0273
+2016-02-11 14:33:38,345 sllurp: INFO: Timers are : 149514fb156115c7162e169416fc
+2016-02-11 14:33:38,345 sllurp: INFO: new ROUND
+2016-02-11 14:33:38,462 sllurp: INFO: COLLECTTIMERVALUES:tag 0 seen, index = 0273
+2016-02-11 14:33:38,554 sllurp: INFO: COLLECTTIMERVALUES:tag 0 seen, index = 0273
+2016-02-11 14:33:38,554 sllurp: INFO: Timers are : 325c32c3332a339033f7346034c7
+2016-02-11 14:33:38,554 sllurp: INFO: new ROUND
+2016-02-11 14:33:38,670 sllurp: INFO: COLLECTTIMERVALUES:tag 0 seen, index = 0273
+2016-02-11 14:33:38,759 sllurp: INFO: COLLECTTIMERVALUES:tag 0 seen, index = 0273
+2016-02-11 14:33:38,759 sllurp: INFO: Timers are : 515551bc5222528752ee535453bb
+2016-02-11 14:33:38,760 sllurp: INFO: new ROUND
+2016-02-11 14:33:38,859 sllurp: INFO: COLLECTTIMERVALUES:tag 0 seen, index = 0273
+2016-02-11 14:33:38,954 sllurp: INFO: COLLECTTIMERVALUES:tag 0 seen, index = 0273
+2016-02-11 14:33:38,954 sllurp: INFO: Timers are : 6e1a6e816ee86f4e6fb5701c7082
+2016-02-11 14:33:38,954 sllurp: INFO: new ROUND
+2016-02-11 14:33:39,059 sllurp: INFO: COLLECTTIMERVALUES:tag 0 seen, index = 0273
+2016-02-11 14:33:39,155 sllurp: INFO: COLLECTTIMERVALUES:tag 0 seen, index = 0273
+2016-02-11 14:33:39,155 sllurp: INFO: Timers are : 8a718ad78b3e8ba58c0c8c738cdb
+2016-02-11 14:33:39,155 sllurp: INFO: new ROUND
+2016-02-11 14:33:39,270 sllurp: INFO: COLLECTTIMERVALUES:tag 0 seen, index = 0273
+2016-02-11 14:33:39,355 sllurp: INFO: COLLECTTIMERVALUES:tag 0 seen, index = 0273
+2016-02-11 14:33:39,355 sllurp: INFO: Timers are : a7a4a80ba872a8d8a93fa9a5aa0c
+2016-02-11 14:33:39,356 sllurp: INFO: new ROUND
+2016-02-11 14:33:39,478 sllurp: INFO: COLLECTTIMERVALUES:tag 0 seen, index = 0273
+2016-02-11 14:33:39,565 sllurp: INFO: COLLECTTIMERVALUES:tag 0 seen, index = 0273
+2016-02-11 14:33:39,565 sllurp: INFO: Timers are : c6dac741c7a9c80ec880c8e6c94c
+2016-02-11 14:33:39,566 sllurp: INFO: new ROUND
+2016-02-11 14:33:39,679 sllurp: INFO: COLLECTTIMERVALUES:tag 0 seen, index = 0273
+2016-02-11 14:33:39,768 sllurp: INFO: COLLECTTIMERVALUES:tag 0 seen, index = 0273
+2016-02-11 14:33:39,768 sllurp: INFO: Timers are : e3a0e407e46ee4d4e53be5a1e608
+2016-02-11 14:33:39,769 sllurp: INFO: new ROUND
+2016-02-11 14:33:39,869 sllurp: INFO: COLLECTTIMERVALUES:tag 0 seen, index = 0273
+2016-02-11 14:33:39,967 sllurp: INFO: COLLECTTIMERVALUES:tag 0 seen, index = 0273
+2016-02-11 14:33:39,968 sllurp: INFO: Timers are : 014e01b5021c028202ea035103b7
+2016-02-11 14:33:39,968 sllurp: INFO: new ROUND
+2016-02-11 14:33:40,069 sllurp: INFO: COLLECTTIMERVALUES:tag 0 seen, index = 0273
+2016-02-11 14:33:40,166 sllurp: INFO: COLLECTTIMERVALUES:tag 0 seen, index = 0273
+2016-02-11 14:33:40,166 sllurp: INFO: Timers are : 1e041e6c1ed31f391fa12007206e
+2016-02-11 14:33:40,166 sllurp: INFO: new ROUND
+2016-02-11 14:33:40,280 sllurp: INFO: COLLECTTIMERVALUES:tag 0 seen, index = 0273
+2016-02-11 14:33:40,376 sllurp: INFO: COLLECTTIMERVALUES:tag 0 seen, index = 0273
+2016-02-11 14:33:40,376 sllurp: INFO: Timers are : 3ad93b423ba83c0f3c753cdb3d41
+2016-02-11 14:33:40,377 sllurp: INFO: new ROUND
+2016-02-11 14:33:40,479 sllurp: INFO: COLLECTTIMERVALUES:tag 0 seen, index = 0273
+2016-02-11 14:33:40,574 sllurp: INFO: COLLECTTIMERVALUES:tag 0 seen, index = 0273
+2016-02-11 14:33:40,574 sllurp: INFO: Timers are : 596a59db5a425aa85b0f5b755bdd
+2016-02-11 14:33:40,574 sllurp: INFO: new ROUND
+2016-02-11 14:33:40,679 sllurp: INFO: COLLECTTIMERVALUES:tag 0 seen, index = 0273
+2016-02-11 14:33:40,776 sllurp: INFO: COLLECTTIMERVALUES:tag 0 seen, index = 0273
+2016-02-11 14:33:40,776 sllurp: INFO: Timers are : 75e7764e76b5771b778377e97850
+2016-02-11 14:33:40,777 sllurp: INFO: new ROUND
+2016-02-11 14:33:40,886 sllurp: INFO: COLLECTTIMERVALUES:tag 0 seen, index = 0273
+2016-02-11 14:33:40,987 sllurp: INFO: COLLECTTIMERVALUES:tag 0 seen, index = 0273
+2016-02-11 14:33:40,987 sllurp: INFO: Timers are : 945694bd9524958a95f1965796be
+2016-02-11 14:33:40,987 sllurp: INFO: new ROUND
+2016-02-11 14:33:41,102 sllurp: INFO: COLLECTTIMERVALUES:tag 0 seen, index = 0273
+2016-02-11 14:33:41,204 sllurp: INFO: COLLECTTIMERVALUES:tag 0 seen, index = 0273
+2016-02-11 14:33:41,204 sllurp: INFO: Timers are : b2ceb335b39bb401b469b4cfb536
+2016-02-11 14:33:41,204 sllurp: INFO: new ROUND
+2016-02-11 14:33:41,310 sllurp: INFO: COLLECTTIMERVALUES:tag 0 seen, index = 0273
+2016-02-11 14:33:41,405 sllurp: INFO: COLLECTTIMERVALUES:tag 0 seen, index = 0273
+2016-02-11 14:33:41,405 sllurp: INFO: Timers are : d113d17ad1e1d247d2aed315d37c
+2016-02-11 14:33:41,405 sllurp: INFO: new ROUND
+2016-02-11 14:33:41,515 sllurp: INFO: COLLECTTIMERVALUES:tag 0 seen, index = 0273
+2016-02-11 14:33:41,604 sllurp: INFO: COLLECTTIMERVALUES:tag 0 seen, index = 0273
+2016-02-11 14:33:41,604 sllurp: INFO: Timers are : ee92eef9ef5fefc4f02cf093f0fa
+2016-02-11 14:33:41,604 sllurp: INFO: new ROUND
+2016-02-11 14:33:41,709 sllurp: INFO: COLLECTTIMERVALUES:tag 0 seen, index = 0273
+2016-02-11 14:33:41,804 sllurp: INFO: COLLECTTIMERVALUES:tag 0 seen, index = 0273
+2016-02-11 14:33:41,804 sllurp: INFO: Timers are : 0b820be90c4f0cb60d1d0d830deb
+2016-02-11 14:33:41,805 sllurp: INFO: new ROUND
+2016-02-11 14:33:41,918 sllurp: INFO: COLLECTTIMERVALUES:tag 0 seen, index = 0273
+2016-02-11 14:33:42,014 sllurp: INFO: COLLECTTIMERVALUES:tag 0 seen, index = 0273
+2016-02-11 14:33:42,015 sllurp: INFO: Timers are : 28a02907296d29d32a392a9f2b07
+2016-02-11 14:33:42,015 sllurp: INFO: new ROUND
+2016-02-11 14:33:42,130 sllurp: INFO: COLLECTTIMERVALUES:tag 0 seen, index = 0273
+2016-02-11 14:33:42,215 sllurp: INFO: COLLECTTIMERVALUES:tag 0 seen, index = 0273
+2016-02-11 14:33:42,215 sllurp: INFO: Timers are : 4700476747ce4834489a49004967
+2016-02-11 14:33:42,215 sllurp: INFO: new ROUND
+2016-02-11 14:33:42,331 sllurp: INFO: COLLECTTIMERVALUES:tag 0 seen, index = 0273
+2016-02-11 14:33:42,435 sllurp: INFO: COLLECTTIMERVALUES:tag 0 seen, index = 0273
+2016-02-11 14:33:42,435 sllurp: INFO: Timers are : 64986500656765cd6635669c6703
+2016-02-11 14:33:42,435 sllurp: INFO: new ROUND
+2016-02-11 14:33:42,539 sllurp: INFO: COLLECTTIMERVALUES:tag 0 seen, index = 0273
+2016-02-11 14:33:42,634 sllurp: INFO: COLLECTTIMERVALUES:tag 0 seen, index = 0273
+2016-02-11 14:33:42,634 sllurp: INFO: Timers are : 854485ab8611867686dd874387aa
+2016-02-11 14:33:42,634 sllurp: INFO: new ROUND
+2016-02-11 14:33:42,741 sllurp.llrp_proto: INFO: BAD OpSpecResult={'NumWordsWritten': 1, 'Result': 6, 'OpSpecID': 8}
+2016-02-11 14:33:42,741 sllurp: INFO: sendBW failed, trying again
+2016-02-11 14:33:42,841 sllurp: INFO: COLLECTTIMERVALUES:tag 0 seen, index = 0273
+2016-02-11 14:33:42,944 sllurp: INFO: COLLECTTIMERVALUES:tag 0 seen, index = 0273
+2016-02-11 14:33:42,944 sllurp: INFO: Timers are : b1f1b259b2bfb324b38bb3f1b458
+2016-02-11 14:33:42,944 sllurp: INFO: new ROUND
+2016-02-11 14:33:43,049 sllurp: INFO: COLLECTTIMERVALUES:tag 0 seen, index = 0273
+2016-02-11 14:33:43,144 sllurp: INFO: COLLECTTIMERVALUES:tag 0 seen, index = 0273
+2016-02-11 14:33:43,144 sllurp: INFO: Timers are : ce4aceb1cf17cf7dcfe5d04bd0b2
+2016-02-11 14:33:43,144 sllurp: INFO: new ROUND
+2016-02-11 14:33:43,249 sllurp: INFO: COLLECTTIMERVALUES:tag 0 seen, index = 0273
+2016-02-11 14:33:43,344 sllurp: INFO: COLLECTTIMERVALUES:tag 0 seen, index = 0273
+2016-02-11 14:33:43,344 sllurp: INFO: Timers are : eb69ebcfec36ec9ded04ed6aedd2
+2016-02-11 14:33:43,344 sllurp: INFO: new ROUND
+2016-02-11 14:33:43,449 sllurp: INFO: COLLECTTIMERVALUES:tag 0 seen, index = 0273
+2016-02-11 14:33:43,544 sllurp: INFO: COLLECTTIMERVALUES:tag 0 seen, index = 0273
+2016-02-11 14:33:43,544 sllurp: INFO: Timers are : 085a08c1092a099109f80a5d0ac3
+2016-02-11 14:33:43,544 sllurp: INFO: new ROUND
+2016-02-11 14:33:43,651 sllurp: INFO: COLLECTTIMERVALUES:tag 0 seen, index = 0273
+2016-02-11 14:33:43,756 sllurp: INFO: COLLECTTIMERVALUES:tag 0 seen, index = 0273
+2016-02-11 14:33:43,756 sllurp: INFO: Timers are : 258b25f2265826be2725278c27f4
+2016-02-11 14:33:43,756 sllurp: INFO: new ROUND
+2016-02-11 14:33:43,877 sllurp: INFO: COLLECTTIMERVALUES:tag 0 seen, index = 0273
+2016-02-11 14:33:43,976 sllurp: INFO: COLLECTTIMERVALUES:tag 0 seen, index = 0273
+2016-02-11 14:33:43,977 sllurp: INFO: Timers are : 460c467346da474047a7480d4874
+2016-02-11 14:33:43,977 sllurp: INFO: new ROUND
+2016-02-11 14:33:44,079 sllurp: INFO: COLLECTTIMERVALUES:tag 0 seen, index = 0273
+2016-02-11 14:33:44,174 sllurp: INFO: COLLECTTIMERVALUES:tag 0 seen, index = 0273
+2016-02-11 14:33:44,174 sllurp: INFO: Timers are : 65c5662c669366f9675f67c6682c
+2016-02-11 14:33:44,174 sllurp: INFO: new ROUND
+2016-02-11 14:33:44,281 sllurp: INFO: COLLECTTIMERVALUES:tag 0 seen, index = 0273
+2016-02-11 14:33:44,385 sllurp: INFO: COLLECTTIMERVALUES:tag 0 seen, index = 0273
+2016-02-11 14:33:44,386 sllurp: INFO: Timers are : 812f819581fb826182c8832e8395
+2016-02-11 14:33:44,386 sllurp: INFO: new ROUND
+2016-02-11 14:33:44,489 sllurp: INFO: COLLECTTIMERVALUES:tag 0 seen, index = 0273
+2016-02-11 14:33:44,585 sllurp: INFO: COLLECTTIMERVALUES:tag 0 seen, index = 0273
+2016-02-11 14:33:44,585 sllurp: INFO: Timers are : a043a0aaa111a177a1dda244a2ab
+2016-02-11 14:33:44,586 sllurp: INFO: new ROUND
+2016-02-11 14:33:44,699 sllurp: INFO: COLLECTTIMERVALUES:tag 0 seen, index = 0273
+2016-02-11 14:33:44,794 sllurp: INFO: COLLECTTIMERVALUES:tag 0 seen, index = 0273
+2016-02-11 14:33:44,795 sllurp: INFO: Timers are : bcecbd53bdbabe1fbe86beebbf52
+2016-02-11 14:33:44,795 sllurp: INFO: new ROUND
+2016-02-11 14:33:44,900 sllurp: INFO: COLLECTTIMERVALUES:tag 0 seen, index = 0273
+2016-02-11 14:33:44,994 sllurp: INFO: COLLECTTIMERVALUES:tag 0 seen, index = 0273
+2016-02-11 14:33:44,995 sllurp: INFO: Timers are : dcfedd65ddccde32de98defedf65
+2016-02-11 14:33:44,995 sllurp: INFO: new ROUND
+2016-02-11 14:33:45,100 sllurp: INFO: COLLECTTIMERVALUES:tag 0 seen, index = 0273
+2016-02-11 14:33:45,195 sllurp: INFO: COLLECTTIMERVALUES:tag 0 seen, index = 0273
+2016-02-11 14:33:45,195 sllurp: INFO: Timers are : f9b8fa1efa84faeafb51fbb7fc1e
+2016-02-11 14:33:45,196 sllurp: INFO: new ROUND
+2016-02-11 14:33:45,306 sllurp.llrp_proto: INFO: BAD OpSpecResult={'NumWordsWritten': 0, 'Result': 6, 'OpSpecID': 4}
+2016-02-11 14:33:45,306 sllurp: INFO: send any BW failed, trying again8
+2016-02-11 14:33:45,410 sllurp: INFO: COLLECTTIMERVALUES:tag 0 seen, index = 0273
+2016-02-11 14:33:45,506 sllurp: INFO: COLLECTTIMERVALUES:tag 0 seen, index = 0273
+2016-02-11 14:33:45,507 sllurp: INFO: Timers are : 25c02627268d26f3275a27c12828
+2016-02-11 14:33:45,507 sllurp: INFO: new ROUND
+2016-02-11 14:33:45,619 sllurp: INFO: COLLECTTIMERVALUES:tag 0 seen, index = 0273
+2016-02-11 14:33:45,714 sllurp: INFO: COLLECTTIMERVALUES:tag 0 seen, index = 0273
+2016-02-11 14:33:45,714 sllurp: INFO: Timers are : 43ee445544bb4522458a45f04657
+2016-02-11 14:33:45,715 sllurp: INFO: new ROUND
+2016-02-11 14:33:45,823 sllurp: INFO: COLLECTTIMERVALUES:tag 0 seen, index = 0273
+2016-02-11 14:33:45,915 sllurp: INFO: COLLECTTIMERVALUES:tag 0 seen, index = 0273
+2016-02-11 14:33:45,915 sllurp: INFO: Timers are : 62af6316637c63e2644864ae6515
+2016-02-11 14:33:45,915 sllurp: INFO: new ROUND
+2016-02-11 14:33:46,033 sllurp: INFO: COLLECTTIMERVALUES:tag 0 seen, index = 0273
+2016-02-11 14:33:46,115 sllurp: INFO: COLLECTTIMERVALUES:tag 0 seen, index = 0273
+2016-02-11 14:33:46,115 sllurp: INFO: Timers are : 7e737eda7f417fa7800d807380da
+2016-02-11 14:33:46,116 sllurp: INFO: new ROUND
+2016-02-11 14:33:46,220 sllurp: INFO: COLLECTTIMERVALUES:tag 0 seen, index = 0273
+2016-02-11 14:33:46,314 sllurp: INFO: COLLECTTIMERVALUES:tag 0 seen, index = 0273
+2016-02-11 14:33:46,314 sllurp: INFO: Timers are : 9b529bb99c209c859cec9d529db9
+2016-02-11 14:33:46,315 sllurp: INFO: new ROUND
+2016-02-11 14:33:46,420 sllurp: INFO: COLLECTTIMERVALUES:tag 0 seen, index = 0273
+2016-02-11 14:33:46,528 sllurp: INFO: COLLECTTIMERVALUES:tag 0 seen, index = 0273
+2016-02-11 14:33:46,528 sllurp: INFO: Timers are : b8dcb944b9acba12ba7abae0bb48
+2016-02-11 14:33:46,528 sllurp: INFO: new ROUND
+2016-02-11 14:33:46,640 sllurp: INFO: COLLECTTIMERVALUES:tag 0 seen, index = 0273
+2016-02-11 14:33:46,734 sllurp: INFO: COLLECTTIMERVALUES:tag 0 seen, index = 0273
+2016-02-11 14:33:46,734 sllurp: INFO: Timers are : d7ffd866d8ccd932d999d9ffda66
+2016-02-11 14:33:46,735 sllurp: INFO: new ROUND
+2016-02-11 14:33:46,840 sllurp: INFO: COLLECTTIMERVALUES:tag 0 seen, index = 0273
+2016-02-11 14:33:46,937 sllurp: INFO: COLLECTTIMERVALUES:tag 0 seen, index = 0273
+2016-02-11 14:33:46,938 sllurp: INFO: Timers are : f587f5eef654f6baf721f786f7ed
+2016-02-11 14:33:46,938 sllurp: INFO: new ROUND
+2016-02-11 14:33:47,050 sllurp: INFO: COLLECTTIMERVALUES:tag 0 seen, index = 0273
+2016-02-11 14:33:47,144 sllurp: INFO: COLLECTTIMERVALUES:tag 0 seen, index = 0273
+2016-02-11 14:33:47,144 sllurp: INFO: Timers are : 13f0145714be1523158915ef1655
+2016-02-11 14:33:47,144 sllurp: INFO: new ROUND
+2016-02-11 14:33:47,250 sllurp: INFO: COLLECTTIMERVALUES:tag 0 seen, index = 0273
+2016-02-11 14:33:47,345 sllurp: INFO: COLLECTTIMERVALUES:tag 0 seen, index = 0273
+2016-02-11 14:33:47,346 sllurp: INFO: Timers are : 30d13138319f3205326c32d1333a
+2016-02-11 14:33:47,346 sllurp: INFO: new ROUND
+2016-02-11 14:33:47,459 sllurp: INFO: COLLECTTIMERVALUES:tag 0 seen, index = 0273
+2016-02-11 14:33:47,554 sllurp.llrp_proto: INFO: BAD OpSpecResult={'ReadDataWordCount': 0, 'ReadData': '', 'Result': 3, 'OpSpecID': 2}
+2016-02-11 14:33:47,555 sllurp: INFO: COLLECTTIMERVALUES:tag 0 seen, index = 0273
+2016-02-11 14:33:47,555 sllurp: INFO: Retry reading
+2016-02-11 14:33:47,557 sllurp: INFO: COLLECTTIMERVALUES:tag 0 seen, index = 0273
+2016-02-11 14:33:47,654 sllurp: INFO: COLLECTTIMERVALUES:tag 0 seen, index = 0273
+2016-02-11 14:33:47,655 sllurp: INFO: Timers are : 4dc54e2c4e924ef84f5f4fc5502c
+2016-02-11 14:33:47,655 sllurp: INFO: new ROUND
+2016-02-11 14:33:47,774 sllurp: INFO: COLLECTTIMERVALUES:tag 0 seen, index = 0273
+2016-02-11 14:33:47,855 sllurp.llrp_proto: INFO: BAD OpSpecResult={'ReadDataWordCount': 0, 'ReadData': '', 'Result': 3, 'OpSpecID': 2}
+2016-02-11 14:33:47,855 sllurp: INFO: COLLECTTIMERVALUES:tag 0 seen, index = 0273
+2016-02-11 14:33:47,855 sllurp: INFO: Retry reading
+2016-02-11 14:33:47,858 sllurp: INFO: COLLECTTIMERVALUES:tag 0 seen, index = 0273
+2016-02-11 14:33:47,954 sllurp: INFO: COLLECTTIMERVALUES:tag 0 seen, index = 0273
+2016-02-11 14:33:47,955 sllurp: INFO: Timers are : 7b067b6e7bd47c3a7ca27d087d6f
+2016-02-11 14:33:47,955 sllurp: INFO: new ROUND
+2016-02-11 14:33:48,061 sllurp: INFO: COLLECTTIMERVALUES:tag 0 seen, index = 0273
+2016-02-11 14:33:48,164 sllurp: INFO: COLLECTTIMERVALUES:tag 0 seen, index = 0273
+2016-02-11 14:33:48,164 sllurp: INFO: Timers are : a6afa716a77ca7e2a848a8aea915
+2016-02-11 14:33:48,164 sllurp: INFO: new ROUND
+2016-02-11 14:33:48,278 sllurp: INFO: COLLECTTIMERVALUES:tag 0 seen, index = 0273
+2016-02-11 14:33:48,376 sllurp: INFO: COLLECTTIMERVALUES:tag 0 seen, index = 0273
+2016-02-11 14:33:48,376 sllurp: INFO: Timers are : c514c57bc5e1c648c6afc715c77c
+2016-02-11 14:33:48,376 sllurp: INFO: new ROUND
+2016-02-11 14:33:48,490 sllurp: INFO: COLLECTTIMERVALUES:tag 0 seen, index = 0273
+2016-02-11 14:33:48,585 sllurp: INFO: COLLECTTIMERVALUES:tag 0 seen, index = 0273
+2016-02-11 14:33:48,585 sllurp: INFO: Timers are : e3ede455e4c5e52ae591e5f7e65e
+2016-02-11 14:33:48,585 sllurp: INFO: new ROUND
+2016-02-11 14:33:48,691 sllurp: INFO: COLLECTTIMERVALUES:tag 0 seen, index = 0273
+2016-02-11 14:33:48,784 sllurp: INFO: COLLECTTIMERVALUES:tag 0 seen, index = 0273
+2016-02-11 14:33:48,784 sllurp: INFO: Timers are : 024402aa0311037703dd044304aa
+2016-02-11 14:33:48,785 sllurp: INFO: new ROUND
+2016-02-11 14:33:48,889 sllurp: INFO: COLLECTTIMERVALUES:tag 0 seen, index = 0273
+2016-02-11 14:33:48,985 sllurp: INFO: COLLECTTIMERVALUES:tag 0 seen, index = 0273
+2016-02-11 14:33:48,986 sllurp: INFO: Timers are : 1f531fba2021208720ee215521bc
+2016-02-11 14:33:48,986 sllurp: INFO: new ROUND
+2016-02-11 14:33:49,090 sllurp: INFO: COLLECTTIMERVALUES:tag 0 seen, index = 0273
+2016-02-11 14:33:49,195 sllurp: INFO: COLLECTTIMERVALUES:tag 0 seen, index = 0273
+2016-02-11 14:33:49,195 sllurp: INFO: Timers are : 3d943dfb3e613ec83f2e3f943ffa
+2016-02-11 14:33:49,195 sllurp: INFO: new ROUND
+2016-02-11 14:33:49,301 sllurp: INFO: COLLECTTIMERVALUES:tag 0 seen, index = 0273
+2016-02-11 14:33:49,395 sllurp: INFO: COLLECTTIMERVALUES:tag 0 seen, index = 0273
+2016-02-11 14:33:49,395 sllurp: INFO: Timers are : 5ad95b405ba75c0d5c825ce85d50
+2016-02-11 14:33:49,395 sllurp: INFO: new ROUND
+2016-02-11 14:33:49,502 sllurp: INFO: COLLECTTIMERVALUES:tag 0 seen, index = 0273
+2016-02-11 14:33:49,594 sllurp: INFO: COLLECTTIMERVALUES:tag 0 seen, index = 0273
+2016-02-11 14:33:49,595 sllurp: INFO: Timers are : 78fa796279c87a2d7a9f7b057b6c
+2016-02-11 14:33:49,595 sllurp: INFO: new ROUND
+2016-02-11 14:33:49,710 sllurp: INFO: COLLECTTIMERVALUES:tag 0 seen, index = 0273
+2016-02-11 14:33:49,796 sllurp: INFO: COLLECTTIMERVALUES:tag 0 seen, index = 0273
+2016-02-11 14:33:49,797 sllurp: INFO: Timers are : 97ea985198b6991c998499eb9a52
+2016-02-11 14:33:49,797 sllurp: INFO: new ROUND
+2016-02-11 14:33:49,901 sllurp: INFO: COLLECTTIMERVALUES:tag 0 seen, index = 0273
+2016-02-11 14:33:50,005 sllurp: INFO: COLLECTTIMERVALUES:tag 0 seen, index = 0273
+2016-02-11 14:33:50,005 sllurp: INFO: Timers are : b36ab3d1b438b49eb504b56ab5d0
+2016-02-11 14:33:50,005 sllurp: INFO: new ROUND
+2016-02-11 14:33:50,117 sllurp.llrp_proto: INFO: BAD OpSpecResult={'NumWordsWritten': 0, 'Result': 6, 'OpSpecID': 4}
+2016-02-11 14:33:50,117 sllurp: INFO: send any BW failed, trying again8
+2016-02-11 14:33:50,231 sllurp: INFO: COLLECTTIMERVALUES:tag 0 seen, index = 0273
+2016-02-11 14:33:50,326 sllurp: INFO: COLLECTTIMERVALUES:tag 0 seen, index = 0273
+2016-02-11 14:33:50,326 sllurp: INFO: Timers are : e133e19ae200e266e2cce332e39a
+2016-02-11 14:33:50,326 sllurp: INFO: new ROUND
+2016-02-11 14:33:50,436 sllurp.llrp_proto: INFO: BAD OpSpecResult={'NumWordsWritten': 1, 'Result': 6, 'OpSpecID': 3}
+2016-02-11 14:33:50,437 sllurp: INFO: send any BW failed, trying again8
+2016-02-11 14:33:50,550 sllurp: INFO: COLLECTTIMERVALUES:tag 0 seen, index = 0273
+2016-02-11 14:33:50,648 sllurp: INFO: COLLECTTIMERVALUES:tag 0 seen, index = 0273
+2016-02-11 14:33:50,648 sllurp: INFO: Timers are : 0f7d0fe3104a10b01116117c11e3
+2016-02-11 14:33:50,649 sllurp: INFO: new ROUND
+2016-02-11 14:33:50,752 sllurp: INFO: COLLECTTIMERVALUES:tag 0 seen, index = 0273
+2016-02-11 14:33:50,846 sllurp: INFO: COLLECTTIMERVALUES:tag 0 seen, index = 0273
+2016-02-11 14:33:50,846 sllurp: INFO: Timers are : 2f922ffa306030c6312d319431fa
+2016-02-11 14:33:50,846 sllurp: INFO: new ROUND
+2016-02-11 14:33:50,946 sllurp.llrp_proto: INFO: BAD OpSpecResult={'NumWordsWritten': 0, 'Result': 6, 'OpSpecID': 4}
+2016-02-11 14:33:50,946 sllurp: INFO: send any BW failed, trying again8
+2016-02-11 14:33:51,057 sllurp.llrp_proto: INFO: BAD OpSpecResult={'NumWordsWritten': 0, 'Result': 6, 'OpSpecID': 4}
+2016-02-11 14:33:51,057 sllurp: INFO: send any BW failed, trying again8
+2016-02-11 14:33:51,167 sllurp.llrp_proto: INFO: BAD OpSpecResult={'NumWordsWritten': 1, 'Result': 6, 'OpSpecID': 6}
+2016-02-11 14:33:51,168 sllurp: INFO: send any BW failed, trying again8
+2016-02-11 14:33:51,266 sllurp.llrp_proto: INFO: BAD OpSpecResult={'NumWordsWritten': 0, 'Result': 6, 'OpSpecID': 3}
+2016-02-11 14:33:51,267 sllurp: INFO: send any BW failed, trying again8
+2016-02-11 14:33:51,377 sllurp.llrp_proto: INFO: BAD OpSpecResult={'NumWordsWritten': 0, 'Result': 6, 'OpSpecID': 2}
+2016-02-11 14:33:51,378 sllurp: INFO: send any BW failed, trying again8
+2016-02-11 14:33:51,478 sllurp.llrp_proto: INFO: BAD OpSpecResult={'NumWordsWritten': 0, 'Result': 6, 'OpSpecID': 4}
+2016-02-11 14:33:51,479 sllurp: INFO: send any BW failed, trying again8
+2016-02-11 14:33:51,591 sllurp: INFO: COLLECTTIMERVALUES:tag 0 seen, index = 0273
+2016-02-11 14:33:51,684 sllurp: INFO: COLLECTTIMERVALUES:tag 0 seen, index = 0273
+2016-02-11 14:33:51,685 sllurp: INFO: Timers are : a76da7d5a83ba8cda933a999aa00
+2016-02-11 14:33:51,685 sllurp: INFO: new ROUND
+2016-02-11 14:33:51,785 sllurp.llrp_proto: INFO: BAD OpSpecResult={'NumWordsWritten': 1, 'Result': 6, 'OpSpecID': 3}
+2016-02-11 14:33:51,786 sllurp: INFO: send any BW failed, trying again8
+2016-02-11 14:33:51,896 sllurp.llrp_proto: INFO: BAD OpSpecResult={'NumWordsWritten': 0, 'Result': 6, 'OpSpecID': 2}
+2016-02-11 14:33:51,897 sllurp: INFO: send any BW failed, trying again8
+2016-02-11 14:33:52,007 sllurp.llrp_proto: INFO: BAD OpSpecResult={'NumWordsWritten': 0, 'Result': 6, 'OpSpecID': 2}
+2016-02-11 14:33:52,007 sllurp: INFO: send any BW failed, trying again8
+2016-02-11 14:33:52,105 sllurp.llrp_proto: INFO: BAD OpSpecResult={'NumWordsWritten': 0, 'Result': 6, 'OpSpecID': 2}
+2016-02-11 14:33:52,105 sllurp: INFO: send any BW failed, trying again8
+2016-02-11 14:33:52,211 sllurp: INFO: COLLECTTIMERVALUES:tag 0 seen, index = 0273
+2016-02-11 14:33:52,316 sllurp: INFO: COLLECTTIMERVALUES:tag 0 seen, index = 0273
+2016-02-11 14:33:52,317 sllurp: INFO: Timers are : 029002f7035f03c5042c049104ff
+2016-02-11 14:33:52,317 sllurp: INFO: new ROUND
+2016-02-11 14:33:52,424 sllurp: INFO: no tags seen
+2016-02-11 14:33:52,525 sllurp: INFO: no tags seen
+2016-02-11 14:33:52,636 sllurp: INFO: no tags seen
+2016-02-11 14:33:52,747 sllurp: INFO: no tags seen
+2016-02-11 14:33:52,854 sllurp: INFO: no tags seen
+2016-02-11 14:33:52,956 sllurp: INFO: no tags seen
+2016-02-11 14:33:53,066 sllurp: INFO: no tags seen
+2016-02-11 14:33:53,173 sllurp: INFO: no tags seen
+2016-02-11 14:33:53,275 sllurp: INFO: no tags seen
+2016-02-11 14:33:53,386 sllurp: INFO: no tags seen
+2016-02-11 14:33:53,497 sllurp: INFO: no tags seen
+2016-02-11 14:33:53,603 sllurp: INFO: no tags seen
+2016-02-11 14:33:53,715 sllurp: INFO: no tags seen
+2016-02-11 14:33:53,826 sllurp: INFO: no tags seen
+2016-02-11 14:33:53,938 sllurp: INFO: no tags seen
+2016-02-11 14:33:54,047 sllurp: INFO: no tags seen
+2016-02-11 14:33:54,155 sllurp: INFO: no tags seen
+2016-02-11 14:33:54,266 sllurp.llrp_proto: INFO: BAD OpSpecResult={'NumWordsWritten': 0, 'Result': 6, 'OpSpecID': 2}
+2016-02-11 14:33:54,267 sllurp: INFO: send any BW failed, trying again8
+2016-02-11 14:33:54,269 sllurp: INFO: no tags seen
+2016-02-11 14:33:54,371 sllurp: INFO: COLLECTTIMERVALUES:tag 0 seen, index = 0273
+2016-02-11 14:33:54,465 sllurp: INFO: COLLECTTIMERVALUES:tag 0 seen, index = 0273
+2016-02-11 14:33:54,465 sllurp: INFO: Timers are : 0000000000000000000000000000
+2016-02-11 14:33:54,465 sllurp: INFO: new ROUND
+2016-02-11 14:33:54,571 sllurp: INFO: COLLECTTIMERVALUES:tag 0 seen, index = 0273
+2016-02-11 14:33:54,676 sllurp: INFO: COLLECTTIMERVALUES:tag 0 seen, index = 0273
+2016-02-11 14:33:54,676 sllurp: INFO: Timers are : 0000000000000000000000000000
+2016-02-11 14:33:54,677 sllurp: INFO: new ROUND
+2016-02-11 14:33:54,790 sllurp: INFO: COLLECTTIMERVALUES:tag 0 seen, index = 0273
+2016-02-11 14:33:54,886 sllurp: INFO: COLLECTTIMERVALUES:tag 0 seen, index = 0273
+2016-02-11 14:33:54,886 sllurp: INFO: Timers are : 13d7144014b2151a158215eb1653
+2016-02-11 14:33:54,886 sllurp: INFO: new ROUND
+2016-02-11 14:33:54,990 sllurp: INFO: COLLECTTIMERVALUES:tag 0 seen, index = 0273
+2016-02-11 14:33:55,087 sllurp: INFO: COLLECTTIMERVALUES:tag 0 seen, index = 0273
+2016-02-11 14:33:55,087 sllurp: INFO: Timers are : 31b33226328e32f5335f33c73430
+2016-02-11 14:33:55,087 sllurp: INFO: new ROUND
+2016-02-11 14:33:55,201 sllurp: INFO: COLLECTTIMERVALUES:tag 0 seen, index = 0273
+2016-02-11 14:33:55,295 sllurp: INFO: COLLECTTIMERVALUES:tag 0 seen, index = 0273
+2016-02-11 14:33:55,295 sllurp: INFO: Timers are : 4f3c4faf5017507e50e7514f51b7
+2016-02-11 14:33:55,295 sllurp: INFO: new ROUND
+2016-02-11 14:33:55,405 sllurp: INFO: COLLECTTIMERVALUES:tag 0 seen, index = 0273
+2016-02-11 14:33:55,495 sllurp: INFO: COLLECTTIMERVALUES:tag 0 seen, index = 0273
+2016-02-11 14:33:55,495 sllurp: INFO: Timers are : 6de46e4f6eb76f1e6f886ff07058
+2016-02-11 14:33:55,495 sllurp: INFO: new ROUND
+2016-02-11 14:33:55,600 sllurp: INFO: COLLECTTIMERVALUES:tag 0 seen, index = 0273
+2016-02-11 14:33:55,696 sllurp: INFO: COLLECTTIMERVALUES:tag 0 seen, index = 0273
+2016-02-11 14:33:55,696 sllurp: INFO: Timers are : 8bdf8c478caf8d168d7e8de78e4f
+2016-02-11 14:33:55,697 sllurp: INFO: new ROUND
+2016-02-11 14:33:55,801 sllurp: INFO: COLLECTTIMERVALUES:tag 0 seen, index = 0273
+2016-02-11 14:33:55,895 sllurp: INFO: COLLECTTIMERVALUES:tag 0 seen, index = 0273
+2016-02-11 14:33:55,895 sllurp: INFO: Timers are : a9ecaa54aabcab23ab8babf2ac5b
+2016-02-11 14:33:55,896 sllurp: INFO: new ROUND
+2016-02-11 14:33:56,001 sllurp: INFO: COLLECTTIMERVALUES:tag 0 seen, index = 0273
+2016-02-11 14:33:56,099 sllurp: INFO: COLLECTTIMERVALUES:tag 0 seen, index = 0273
+2016-02-11 14:33:56,099 sllurp: INFO: Timers are : c6afc718c780c7e8c850c8b7c920
+2016-02-11 14:33:56,100 sllurp: INFO: new ROUND
+2016-02-11 14:33:56,200 sllurp: INFO: COLLECTTIMERVALUES:tag 0 seen, index = 0273
+2016-02-11 14:33:56,296 sllurp: INFO: COLLECTTIMERVALUES:tag 0 seen, index = 0273
+2016-02-11 14:33:56,296 sllurp: INFO: Timers are : e617e67fe6e7e74ee7b6e81ee88a
+2016-02-11 14:33:56,297 sllurp: INFO: new ROUND
+2016-02-11 14:33:56,410 sllurp: INFO: COLLECTTIMERVALUES:tag 0 seen, index = 0273
+2016-02-11 14:33:56,505 sllurp: INFO: COLLECTTIMERVALUES:tag 0 seen, index = 0273
+2016-02-11 14:33:56,506 sllurp: INFO: Timers are : 01c7022f029702fe036603ce043a
+2016-02-11 14:33:56,506 sllurp: INFO: new ROUND
+2016-02-11 14:33:56,611 sllurp: INFO: COLLECTTIMERVALUES:tag 0 seen, index = 0273
+2016-02-11 14:33:56,705 sllurp: INFO: COLLECTTIMERVALUES:tag 0 seen, index = 0273
+2016-02-11 14:33:56,705 sllurp: INFO: Timers are : 20be2126218d21f5225d22c5232d
+2016-02-11 14:33:56,705 sllurp: INFO: new ROUND
+2016-02-11 14:33:56,810 sllurp: INFO: COLLECTTIMERVALUES:tag 0 seen, index = 0273
+2016-02-11 14:33:56,905 sllurp: INFO: COLLECTTIMERVALUES:tag 0 seen, index = 0273
+2016-02-11 14:33:56,905 sllurp: INFO: Timers are : 3cff3d673dce3e363e9e3f053f6e
+2016-02-11 14:33:56,906 sllurp: INFO: new ROUND
+2016-02-11 14:33:57,016 sllurp: INFO: COLLECTTIMERVALUES:tag 0 seen, index = 0273
+2016-02-11 14:33:57,115 sllurp: INFO: COLLECTTIMERVALUES:tag 0 seen, index = 0273
+2016-02-11 14:33:57,115 sllurp: INFO: Timers are : 5c4c5cb55d1c5d835dec5e535ec7
+2016-02-11 14:33:57,115 sllurp: INFO: new ROUND
+2016-02-11 14:33:57,220 sllurp: INFO: COLLECTTIMERVALUES:tag 0 seen, index = 0273
+2016-02-11 14:33:57,329 sllurp: INFO: COLLECTTIMERVALUES:tag 0 seen, index = 0273
+2016-02-11 14:33:57,329 sllurp: INFO: Timers are : 7a7e7ae67b4d7bb47c1c7c847cec
+2016-02-11 14:33:57,329 sllurp: INFO: new ROUND
+2016-02-11 14:33:57,441 sllurp: INFO: COLLECTTIMERVALUES:tag 0 seen, index = 0273
+2016-02-11 14:33:57,535 sllurp: INFO: COLLECTTIMERVALUES:tag 0 seen, index = 0273
+2016-02-11 14:33:57,535 sllurp: INFO: Timers are : 99f59a5c9ac49b2b9b939bfb9c67
+2016-02-11 14:33:57,535 sllurp: INFO: new ROUND
+2016-02-11 14:33:57,650 sllurp: INFO: COLLECTTIMERVALUES:tag 0 seen, index = 0273
+2016-02-11 14:33:57,736 sllurp: INFO: COLLECTTIMERVALUES:tag 0 seen, index = 0273
+2016-02-11 14:33:57,736 sllurp: INFO: Timers are : b817b880b8e9b950b9b8ba20ba88
+2016-02-11 14:33:57,736 sllurp: INFO: new ROUND
+2016-02-11 14:33:57,841 sllurp: INFO: COLLECTTIMERVALUES:tag 0 seen, index = 0273
+2016-02-11 14:33:57,935 sllurp: INFO: COLLECTTIMERVALUES:tag 0 seen, index = 0273
+2016-02-11 14:33:57,936 sllurp: INFO: Timers are : d673d6dbd743d7aad812d879d8f2
+2016-02-11 14:33:57,936 sllurp: INFO: new ROUND
+2016-02-11 14:33:58,041 sllurp: INFO: COLLECTTIMERVALUES:tag 0 seen, index = 0273
+2016-02-11 14:33:58,135 sllurp: INFO: COLLECTTIMERVALUES:tag 0 seen, index = 0273
+2016-02-11 14:33:58,135 sllurp: INFO: Timers are : f3b7f41ff486f4eef557f5bef627
+2016-02-11 14:33:58,135 sllurp: INFO: new ROUND
+2016-02-11 14:33:58,251 sllurp: INFO: COLLECTTIMERVALUES:tag 0 seen, index = 0273
+2016-02-11 14:33:58,346 sllurp: INFO: COLLECTTIMERVALUES:tag 0 seen, index = 0273
+2016-02-11 14:33:58,346 sllurp: INFO: Timers are : 107a10e3114b11b2121a128212ea
+2016-02-11 14:33:58,347 sllurp: INFO: new ROUND
+2016-02-11 14:33:58,460 sllurp: INFO: COLLECTTIMERVALUES:tag 0 seen, index = 0273
+2016-02-11 14:33:58,556 sllurp: INFO: COLLECTTIMERVALUES:tag 0 seen, index = 0273
+2016-02-11 14:33:58,557 sllurp: INFO: Timers are : 2fbf3027308f30f6315e31c6322e
+2016-02-11 14:33:58,557 sllurp: INFO: new ROUND
+2016-02-11 14:33:58,671 sllurp: INFO: COLLECTTIMERVALUES:tag 0 seen, index = 0273
+2016-02-11 14:33:58,777 sllurp: INFO: COLLECTTIMERVALUES:tag 0 seen, index = 0273
+2016-02-11 14:33:58,777 sllurp: INFO: Timers are : 4e5b4ec44f2c4f934ffb506350cc
+2016-02-11 14:33:58,778 sllurp: INFO: new ROUND
+2016-02-11 14:33:58,888 sllurp: INFO: COLLECTTIMERVALUES:tag 0 seen, index = 0273
+2016-02-11 14:33:58,987 sllurp: INFO: COLLECTTIMERVALUES:tag 0 seen, index = 0273
+2016-02-11 14:33:58,987 sllurp: INFO: Timers are : 7018708170e8715071b872207288
+2016-02-11 14:33:58,987 sllurp: INFO: new ROUND
+2016-02-11 14:33:59,102 sllurp: INFO: COLLECTTIMERVALUES:tag 0 seen, index = 0273
+2016-02-11 14:33:59,205 sllurp: INFO: COLLECTTIMERVALUES:tag 0 seen, index = 0273
+2016-02-11 14:33:59,206 sllurp: INFO: Timers are : 8e188e808ee78f4e8fb7901f9087
+2016-02-11 14:33:59,206 sllurp: INFO: new ROUND
+2016-02-11 14:33:59,310 sllurp: INFO: COLLECTTIMERVALUES:tag 0 seen, index = 0273
+2016-02-11 14:33:59,406 sllurp: INFO: COLLECTTIMERVALUES:tag 0 seen, index = 0273
+2016-02-11 14:33:59,407 sllurp: INFO: Timers are : ae6daed6af3dafa4b00db075b0e2
+2016-02-11 14:33:59,407 sllurp: INFO: new ROUND
+2016-02-11 14:33:59,529 sllurp: INFO: COLLECTTIMERVALUES:tag 0 seen, index = 0273
+2016-02-11 14:33:59,615 sllurp: INFO: COLLECTTIMERVALUES:tag 0 seen, index = 0273
+2016-02-11 14:33:59,615 sllurp: INFO: Timers are : ccefcd58cdc1ce28ce90cef9cf64
+2016-02-11 14:33:59,616 sllurp: INFO: new ROUND
+2016-02-11 14:33:59,720 sllurp: INFO: COLLECTTIMERVALUES:tag 0 seen, index = 0273
+2016-02-11 14:33:59,819 sllurp: INFO: COLLECTTIMERVALUES:tag 0 seen, index = 0273
+2016-02-11 14:33:59,820 sllurp: INFO: Timers are : eafaeb64ebccec33ec9ced03ed6f
+2016-02-11 14:33:59,820 sllurp: INFO: new ROUND
+2016-02-11 14:33:59,932 sllurp: INFO: COLLECTTIMERVALUES:tag 0 seen, index = 0273
+2016-02-11 14:34:00,036 sllurp: INFO: COLLECTTIMERVALUES:tag 0 seen, index = 0273
+2016-02-11 14:34:00,036 sllurp: INFO: Timers are : 09ed0a570abf0b260b8f0bf70c5f
+2016-02-11 14:34:00,037 sllurp: INFO: new ROUND
+2016-02-11 14:34:00,143 sllurp: INFO: COLLECTTIMERVALUES:tag 0 seen, index = 0273
+2016-02-11 14:34:00,235 sllurp: INFO: COLLECTTIMERVALUES:tag 0 seen, index = 0273
+2016-02-11 14:34:00,235 sllurp: INFO: Timers are : 28c4292d299429fb2a642acc2b39
+2016-02-11 14:34:00,235 sllurp: INFO: new ROUND
+2016-02-11 14:34:00,341 sllurp: INFO: COLLECTTIMERVALUES:tag 0 seen, index = 0273
+2016-02-11 14:34:00,435 sllurp: INFO: COLLECTTIMERVALUES:tag 0 seen, index = 0273
+2016-02-11 14:34:00,435 sllurp: INFO: Timers are : 460d467646de474547ae4816487e
+2016-02-11 14:34:00,436 sllurp: INFO: new ROUND
+2016-02-11 14:34:00,543 sllurp: INFO: COLLECTTIMERVALUES:tag 0 seen, index = 0273
+2016-02-11 14:34:00,635 sllurp: INFO: COLLECTTIMERVALUES:tag 0 seen, index = 0273
+2016-02-11 14:34:00,635 sllurp: INFO: Timers are : 630d637763df644664ae6517657f
+2016-02-11 14:34:00,636 sllurp: INFO: new ROUND
+2016-02-11 14:34:00,741 sllurp: INFO: COLLECTTIMERVALUES:tag 0 seen, index = 0273
+2016-02-11 14:34:00,835 sllurp: INFO: COLLECTTIMERVALUES:tag 0 seen, index = 0273
+2016-02-11 14:34:00,835 sllurp: INFO: Timers are : 817b81e3824a82b2831b838383ec
+2016-02-11 14:34:00,836 sllurp: INFO: new ROUND
+2016-02-11 14:34:00,950 sllurp: INFO: COLLECTTIMERVALUES:tag 0 seen, index = 0273
+2016-02-11 14:34:01,045 sllurp: INFO: COLLECTTIMERVALUES:tag 0 seen, index = 0273
+2016-02-11 14:34:01,045 sllurp: INFO: Timers are : 9ebf9f289f8f9ff7a060a0c8a134
+2016-02-11 14:34:01,046 sllurp: INFO: new ROUND
+2016-02-11 14:34:01,155 sllurp: INFO: COLLECTTIMERVALUES:tag 0 seen, index = 0273
+2016-02-11 14:34:01,247 sllurp: INFO: COLLECTTIMERVALUES:tag 0 seen, index = 0273
+2016-02-11 14:34:01,247 sllurp: INFO: Timers are : bd58bdc1be29be90bef8bf61bfcd
+2016-02-11 14:34:01,247 sllurp: INFO: new ROUND
+2016-02-11 14:34:01,362 sllurp: INFO: COLLECTTIMERVALUES:tag 0 seen, index = 0273
+2016-02-11 14:34:01,465 sllurp: INFO: COLLECTTIMERVALUES:tag 0 seen, index = 0273
+2016-02-11 14:34:01,465 sllurp: INFO: Timers are : 0000000000000000000000000000
+2016-02-11 14:34:01,466 sllurp: INFO: new ROUND
+2016-02-11 14:34:01,571 sllurp: INFO: COLLECTTIMERVALUES:tag 0 seen, index = 0273
+2016-02-11 14:34:01,665 sllurp: INFO: COLLECTTIMERVALUES:tag 0 seen, index = 0273
+2016-02-11 14:34:01,665 sllurp: INFO: Timers are : 0e3a0ea30f0a0f720fdb104310ab
+2016-02-11 14:34:01,666 sllurp: INFO: new ROUND
+2016-02-11 14:34:01,777 sllurp: INFO: COLLECTTIMERVALUES:tag 0 seen, index = 0273
+2016-02-11 14:34:01,875 sllurp: INFO: COLLECTTIMERVALUES:tag 0 seen, index = 0273
+2016-02-11 14:34:01,875 sllurp: INFO: Timers are : 2b142b7d2be42c4b2cb42d1c2d84
+2016-02-11 14:34:01,876 sllurp: INFO: new ROUND
+2016-02-11 14:34:01,983 sllurp: INFO: COLLECTTIMERVALUES:tag 0 seen, index = 0273
+2016-02-11 14:34:02,075 sllurp: INFO: COLLECTTIMERVALUES:tag 0 seen, index = 0273
+2016-02-11 14:34:02,076 sllurp: INFO: Timers are : 49e84a514ab94b204b894c0d4c76
+2016-02-11 14:34:02,076 sllurp: INFO: new ROUND
+2016-02-11 14:34:02,181 sllurp: INFO: COLLECTTIMERVALUES:tag 0 seen, index = 0273
+2016-02-11 14:34:02,280 sllurp: INFO: COLLECTTIMERVALUES:tag 0 seen, index = 0273
+2016-02-11 14:34:02,281 sllurp: INFO: Timers are : 676a67d4683c68a3690b698969f2
+2016-02-11 14:34:02,281 sllurp: INFO: new ROUND
+2016-02-11 14:34:02,381 sllurp: INFO: COLLECTTIMERVALUES:tag 0 seen, index = 0273
+2016-02-11 14:34:02,477 sllurp: INFO: COLLECTTIMERVALUES:tag 0 seen, index = 0273
+2016-02-11 14:34:02,477 sllurp: INFO: Timers are : 86c1872b879287f9886288ca8931
+2016-02-11 14:34:02,477 sllurp: INFO: new ROUND
+2016-02-11 14:34:02,591 sllurp: INFO: COLLECTTIMERVALUES:tag 0 seen, index = 0273
+2016-02-11 14:34:02,697 sllurp: INFO: COLLECTTIMERVALUES:tag 0 seen, index = 0273
+2016-02-11 14:34:02,697 sllurp: INFO: Timers are : a292a2fba363a3cba433a4a5a50d
+2016-02-11 14:34:02,697 sllurp: INFO: new ROUND
+2016-02-11 14:34:02,811 sllurp: INFO: COLLECTTIMERVALUES:tag 0 seen, index = 0273
+2016-02-11 14:34:02,906 sllurp: INFO: COLLECTTIMERVALUES:tag 0 seen, index = 0273
+2016-02-11 14:34:02,906 sllurp: INFO: Timers are : c304c36dc3d6c43dc4a6c50ec576
+2016-02-11 14:34:02,906 sllurp: INFO: new ROUND
+2016-02-11 14:34:03,012 sllurp: INFO: COLLECTTIMERVALUES:tag 0 seen, index = 0273
+2016-02-11 14:34:03,105 sllurp: INFO: COLLECTTIMERVALUES:tag 0 seen, index = 0273
+2016-02-11 14:34:03,106 sllurp: INFO: Timers are : e41ae483e4ebe553e5bce625e68e
+2016-02-11 14:34:03,106 sllurp: INFO: new ROUND
+2016-02-11 14:34:03,211 sllurp: INFO: COLLECTTIMERVALUES:tag 0 seen, index = 0273
+2016-02-11 14:34:03,306 sllurp: INFO: COLLECTTIMERVALUES:tag 0 seen, index = 0273
+2016-02-11 14:34:03,306 sllurp: INFO: Timers are : ff63ffcc0034009b0103016b01d3
+2016-02-11 14:34:03,306 sllurp: INFO: new ROUND
+2016-02-11 14:34:03,413 sllurp: INFO: COLLECTTIMERVALUES:tag 0 seen, index = 0273
+2016-02-11 14:34:03,505 sllurp: INFO: COLLECTTIMERVALUES:tag 0 seen, index = 0273
+2016-02-11 14:34:03,506 sllurp: INFO: Timers are : 1eb31f1b1f831fea205220b92121
+2016-02-11 14:34:03,506 sllurp: INFO: new ROUND
+2016-02-11 14:34:03,622 sllurp: INFO: COLLECTTIMERVALUES:tag 0 seen, index = 0273
+2016-02-11 14:34:03,731 sllurp: INFO: COLLECTTIMERVALUES:tag 0 seen, index = 0273
+2016-02-11 14:34:03,731 sllurp: INFO: Timers are : 3d233d8b3df33e5a3ec33f2b3f93
+2016-02-11 14:34:03,732 sllurp: INFO: new ROUND
+2016-02-11 14:34:03,844 sllurp: INFO: COLLECTTIMERVALUES:tag 0 seen, index = 0273
+2016-02-11 14:34:03,950 sllurp.llrp_proto: INFO: BAD OpSpecResult={'ReadDataWordCount': 0, 'ReadData': '', 'Result': 3, 'OpSpecID': 2}
+2016-02-11 14:34:03,950 sllurp: INFO: COLLECTTIMERVALUES:tag 0 seen, index = 0273
+2016-02-11 14:34:03,951 sllurp: INFO: Retry reading
+2016-02-11 14:34:03,953 sllurp: INFO: no tags seen
+2016-02-11 14:34:04,056 sllurp: INFO: no tags seen
+2016-02-11 14:34:04,167 sllurp: INFO: no tags seen
+2016-02-11 14:34:04,274 sllurp: INFO: no tags seen
+2016-02-11 14:34:04,377 sllurp: INFO: no tags seen
+2016-02-11 14:34:04,485 sllurp: INFO: no tags seen
+2016-02-11 14:34:04,586 sllurp: INFO: no tags seen
+2016-02-11 14:34:04,697 sllurp: INFO: no tags seen
+2016-02-11 14:34:04,740 sllurp.llrp: INFO: stopping politely
+2016-02-11 14:34:04,740 sllurp.llrp: INFO: will disconnect when stopped
+2016-02-11 14:34:04,754 sllurp: INFO: no tags seen
+2016-02-11 14:34:04,760 sllurp.llrp: INFO: reader finished inventory
+2016-02-11 14:34:04,760 sllurp.llrp: INFO: lost connection: Connection to the other side was lost in a non-clean fashion: Connection lost.
+2016-02-11 14:34:04,764 sllurp: INFO: total # of tags seen: 9336
+2016-02-11 14:34:07,677 sllurp.llrp: INFO: disconnecting

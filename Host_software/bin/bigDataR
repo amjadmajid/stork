@@ -1,0 +1,8 @@
+#!/bin/sh
+
+# default Python interpreter is 'python' from your $PATH; set the $PYTHON
+# environment variable to override it
+: ${PYTHON:=python}
+export PYTHONPATH="$(dirname $0)/..:$PYTHONPATH"
+cd ..
+exec "$PYTHON" -m sllurp.bigDataStork -n 100 -f RANDOM -l bigDatalog.txt -s 2 ${1+"$@"} -M WISP5 192.168.10.103

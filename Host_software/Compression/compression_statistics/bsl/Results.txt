@@ -1,0 +1,6 @@
+Original text file bsl.hex
+Removing the addressing and the checksum bits
+The uncompressed hex file is dump.hex. Its size is 14139 bytes
+The compressed hex file is CompressedFile.hex. Its size is 12606 bytes
+The compression ratio is ((14139 - 12606) / 14139) * 100 = 10.8 %
+

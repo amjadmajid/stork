@@ -1,0 +1,9 @@
+#!/bin/sh
+
+# default Python interpreter is 'python' from your $PATH; set the $PYTHON
+# environment variable to override it
+: ${PYTHON:=python}
+export PYTHONPATH="$(dirname $0)/..:$PYTHONPATH"
+cd ..
+
+exec "$PYTHON" -m sllurp.inventory -n 100 -l inventorylog.txt -s 2 -P 32 ${1+"$@"} -M WISP5 192.168.10.103
