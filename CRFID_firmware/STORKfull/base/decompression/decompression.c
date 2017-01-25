@@ -1,11 +1,11 @@
 /*
-  Wisp side deconding algorithm
+  Wisp side decoding algorithm
   @author: Amjad Yousef Majid
 */
 
 #include "decompression.h"
 #include "codeTable.h"
-#include "msp430fr5969.h";
+#include "msp430fr5969.h"
 /*
  * TODO Wisent must first unlock the decompression function
  * which will lock itself at the end of data decompressoin
@@ -48,8 +48,6 @@ unsigned int xr =0;
 unsigned int xw =0;
 
 void decompression(){
-	P3DIR |= BIT4;
-	P3OUT |= BIT4;
 	(*call_counter)++;
 	if(*init_flag == 0xff) //TODO this should be enabled
 	{
@@ -77,7 +75,7 @@ void decompression(){
 			UFCx++;
 
 			if(UFCx > UFCy){
-				(UFCy++);
+				UFCy++;
 				checkAndMove();
 				UFCx=0;
 				xr=0;
@@ -198,7 +196,6 @@ void loadByte(void)
 unsigned char decode()
 {
 	unsigned char i;
-
 	for(i=0; i <= 16; i++){
 		// If there is an exact match between the new byte and a code, output a symbol
 		// the extra needed zeros (to form a byte) is added to the MSBs therefore shifting is not required
@@ -222,10 +219,8 @@ unsigned char decode()
 }
 
 void resetting(){
-	P3OUT &= ~BIT4;
 	*init_flag = 0xff ; // Unlock the initiailize function
-
-	*( unsigned char *) 0x1950 = 0xAD ;
+	DECOMPRESSION_DISABLE;
 	//*call_counter = 0X00;
 	//	*func_time = TA0R;
 }
@@ -235,6 +230,7 @@ void resetting(){
 //{
 //	(*int_num)++;
 //}
+
 
 
 

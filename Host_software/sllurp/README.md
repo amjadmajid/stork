@@ -1,3 +1,7 @@
+#  Copyright (c) 2016,                                                                              #
+# Author(s): Henko Aantjes,                                                                         #                 
+# Date: 28/07/2016                                                                                  #
+
 # most important files:
 inventory.py --- check which wisps are in the view of the antenna
 WControl.py --- main control script to do almost everything you dream of (concerning wisp communication)

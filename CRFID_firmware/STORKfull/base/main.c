@@ -1,3 +1,7 @@
+/* Author: Henko Aantjes,            
+ * Date: 28/07/2016
+*/
+
 #include "wisp-base.h"
 
 //#define BSL_VIRTUAL_ID   0x1900

@@ -1,8 +1,8 @@
-
 /** @file		main.c
  * 	@brief		bootloadable minimalistic example
  *
- * 	@author		--
+ * 	@author		Henko Aantjes,            
+ *			Date: 28/07/2016
  */
 
 #include "wisp-base.h"

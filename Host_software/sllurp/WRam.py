@@ -1,4 +1,6 @@
-#  Copyright (c) 2016, [blinded for review]                                                         #
+#  Copyright (c) 2016,                                                                              #
+# Author(s): Henko Aantjes,                                                                         #                 
+# Date: 28/07/2016                                                                                  #
 #  All rights reserved.                                                                             #
 #                                                                                                   #
 # Redistribution and use in source and binary forms, with or without                                #

@@ -1,10 +1,9 @@
 
 /** @file		main.c
- * 	@brief		Run this routine once for each new WISP. Generates and stores
- * 				a table of random values to use in quickly producing RN16, and
- * 				also generates a unique ID for each WISP.
+ * 	@brief		Send and Run this routine with the Stork boatloader
  *
- * 	@author		Aaron Parks, Justin Reina, Sensor Systems Lab, University of Washington
+ * 	@author		Henko Aantjes,            
+ * 	@Date: 		28/07/2016
  */
 
 #include "wisp-base.h"

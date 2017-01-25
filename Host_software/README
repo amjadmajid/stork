@@ -1,4 +1,6 @@
 ## Stork
+# Author(s): Henko Aantjes, henko.aantjes@gmail.com, Amjad Y. Majid
+# Date: 28/07/2016
 
 bin/ contains the executables, navigate in your terminal to this folder and execute the scripts, see also the readme of this folder
 ihex/ contains the ccs files that wisent uses to program a wisp wireless

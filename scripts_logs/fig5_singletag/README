@@ -1,2 +1,6 @@
+#  Copyright (c) 2016,                                                                              #
+# Author(s): Henko Aantjes,                                                                         #                 
+# Date: 28/07/2016                                                                                  #
+
 run fig5a_singletag.m    in matlab to get left  side
 run fig5b_storkwisent.m  in matlab to get right side

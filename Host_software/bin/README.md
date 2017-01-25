@@ -1,3 +1,7 @@
+#  Copyright (c) 2016,                                                                              #
+# Author(s): Henko Aantjes,                                                                         #                 
+# Date: 28/07/2016                                                                                  #
+
 run the files: ./filename
 
 names tell you which python they execute, see readme in sllurp for more info

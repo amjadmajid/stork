@@ -1,3 +1,7 @@
+#  Copyright (c) 2016,                                                                              #
+# Author(s): Henko Aantjes,                                                                         #                 
+# Date: 28/07/2016                                                                                  #
+
 run fig4a_speedlimits.m in matlab to get fig 4a
 run fig4b_memcheck.m in matlab to get fig 4b
 the python file is to generate the numbers of the beginning of the matlab 4a file

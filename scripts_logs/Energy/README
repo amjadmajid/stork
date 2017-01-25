@@ -1,1 +1,5 @@
+#  Copyright (c) 2016,                                                                              #
+# Author(s): Henko Aantjes,                                                                         #                 
+# Date: 28/07/2016                                                                                  #
+
 run read_decompress.m and read_send.m in matlab

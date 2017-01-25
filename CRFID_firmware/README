@@ -1,2 +1,6 @@
+#  Copyright (c) 2016,                                                                              #
+# Author(s): Henko Aantjes, henko.aantjes@gmail.com                                                 #                 
+# Date: 28/07/2016                                                                                  #
+
 STORKbasis/ > the full speed basis Stork, excluding eavesdropping/decompression, simpler to start with.
 STORKfull/  > the full speed Stork, including eavesdropping and (de)compression

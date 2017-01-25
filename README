@@ -1,3 +1,9 @@
+This folder is an attachement of the Paper "Fast Downstream to Many (Computational) RFIDs" for INFOCOM 2017, 
+by the authors: Henko Aantjes∗, Amjad Y. Majid∗, Przemysław Pawełczak∗, Jethro Tan∗, Aaron Parks† and Joshua R. Smith† 
+∗TU Delft, Mekelweg 4, 2628 CD Delft, NL; henko.aantjes@gmail.com, {a.y.majid, p.pawelczak, j.e.t.tan}@tudelft.nl 
+†University of Washington, Seattle, WA 98195-2350, USA; anparks@uw.edu, jrs@cs.uw.edu
+Final paper creation date: 20/01/2017
+
 CRFID_firmware/ > the firmware for the WISP5 (both 5.0 and 5.1)
 Host_software/  > the software for your pc, python based, executables are for Linux, but you could convert them to windows
 Paper_figures/  > sourcecode, mainly matlab, to generate the figures from the paper
@@ -13,9 +19,9 @@ Steps to reproduce the experiments:
 	- router, to connect straightforward the reader with laptop (optional, to make your life easy)
 
 2) program WISPs with the boatloader program:
-	- open CCS6 workspace 'CRFID_firmware/STORKxxxx' (xxx = 'basis' for sequential/opportunistic programming 
+	- open CCS6 workspace 'CRFID_firmware/STORKxxx' (xxx = 'basis' for sequential/opportunistic programming 
 	  and no compression, else xxx = 'full')
-	- load 'CRFID_firmware/STORKxxxx/base' into WISPs
+	- load 'CRFID_firmware/STORKxxx/base' into WISPs
 
 3) play around with the WISP Control environment:
 	- navigate to the folder 'Host_software/bin' in a terminal
@@ -44,6 +50,6 @@ Steps to reproduce the experiments:
 5) let matlab make the figures:
 	- open in matlab the file "Paper_figures/figXXX/figXXX.m"
 	- set the name of the logfile(s) in the file to your log files
-	- run the file
+	- run the script
 
 
