@@ -1,5 +1,5 @@
 /*
-  Wisp side decoding algorithm
+  Wisp side decompression algorithm
   @author: Amjad Yousef Majid
 */
 

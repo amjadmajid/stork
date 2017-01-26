@@ -2,7 +2,7 @@
  * codeTable.h
  *
  *  Created on: Apr 22, 2016
- *      Author: amjad
+ *      Author: Amjad Yousef Majid
  */
 
 #ifndef DECOMPRESSION_CODETABLE_H_

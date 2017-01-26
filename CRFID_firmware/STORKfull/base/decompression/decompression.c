@@ -1,5 +1,5 @@
 /*
-  Wisp side decoding algorithm
+  Wisp side decompression algorithm
   @author: Amjad Yousef Majid
 */
 
@@ -7,7 +7,7 @@
 #include "codeTable.h"
 #include "msp430fr5969.h"
 /*
- * TODO Wisent must first unlock the decompression function
+ * TODO Stork must first unlock the decompression function
  * which will lock itself at the end of data decompressoin
 */
 
