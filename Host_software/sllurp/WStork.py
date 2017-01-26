@@ -1,5 +1,5 @@
 #  Copyright (c) 2016,                                                                              #
-# Author(s): Henko Aantjes,                                                                         #                 
+# Author(s): Henko Aantjes, adapted from the original Wisent algorithm of Jethro Y. Tan             #                 
 # Date: 28/07/2016                                                                                  #
 #  All rights reserved.                                                                             #
 #                                                                                                   #
