@@ -1,5 +1,6 @@
 #  Copyright (c) 2016,                                                                              #
-# Author(s): Henko Aantjes,                                                                         #                 
+# Author(s): Henko Aantjes,                                                                         #      
+# Stork is based upon WiSent, which was created by Jethro Y. Tan                                    #
 # Date: 28/07/2016                                                                                  #
 
 import all the project folders from this folder into Code Composer Studio
