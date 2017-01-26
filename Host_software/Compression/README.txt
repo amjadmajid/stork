@@ -14,4 +14,6 @@ the python folder called "rm_intel_format_newlines.py" to remove the addresses
 and other intel-format related hex digits. The script will produce a dump.hex 
 file in the dataFiles folder. 
 
-In case of compressing an intel formatted firmware, the user must manually transfer the the first line of the original hex file and the last lines for the interrupts. These lines   are transferred uncompressed. 
+In case of compressing an intel formatted firmware, the user must manually 
+transfer the the first line of the original hex file and the last lines for 
+the interrupts. These lines   are transferred uncompressed. 

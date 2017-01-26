@@ -1,4 +1,7 @@
-#  Copyright (c) 2016, [blinded for review]                                                         #
+
+#  Copyright (c) 2016,                                                                              #
+#  Author: Amjad Yousef Majid                                                                       #
+#  Date: 16/06/2016                                                                                 #
 #  All rights reserved.                                                                             #
 #                                                                                                   #
 # Redistribution and use in source and binary forms, with or without                                #
@@ -22,6 +25,7 @@
 # ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT                        #
 # (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS                     #
 # SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.                                      #
+
 
 """The output of this file will be appended to intelFormat.hex file
 the DATA (:address 00 data checksum) part of the an output line consists of: 

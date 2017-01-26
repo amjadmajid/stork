@@ -1,5 +1,7 @@
 /*
-#  Copyright (c) 2016, [blinded for review]                                                         #
+#  Copyright (c) 2016,                                                                              #
+#  Author: Amjad Yousef Majid                                                                       #
+#  Date: 16/06/2016                                                                                 #
 #  All rights reserved.                                                                             #
 #                                                                                                   #
 # Redistribution and use in source and binary forms, with or without                                #
@@ -24,7 +26,6 @@
 # (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS                     #
 # SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.                                      #
 */
-
 #include "huffmanAlgo.h"
  
 void cBinaryFile( FILE * hex , FILE * chex)
